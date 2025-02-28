@@ -1,0 +1,25 @@
+{
+    "name": "Lori Hatfield",
+    "age": 23,
+    "address": {
+        "street": "Barbara Common",
+        "city": "Davisbury",
+        "state": "Louisiana",
+        "zip": "97895"
+    },
+    "contact": {
+        "phone": "738.669.7910x3864",
+        "servicePhone": "800593810"
+    },
+    "birthday": "2002-09-09",
+    "ip": "189.192.226.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Month speak once structure boy. So place important. Yes join half dog none.\nSize teacher eat guess local improve. Prevent care its soldier.\nLine sure particularly near kitchen glass begin.",
+        "bio": "Congress care parent hard himself soon. Within class charge. Phone number light sort."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
