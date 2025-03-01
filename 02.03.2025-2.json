@@ -1,0 +1,25 @@
+{
+    "name": "Joel Little",
+    "age": 115,
+    "address": {
+        "street": "Johnson Road",
+        "city": "Bensonburgh",
+        "state": "Utah",
+        "zip": "45473"
+    },
+    "contact": {
+        "phone": "(750)475-4637x8061",
+        "servicePhone": "800974321"
+    },
+    "birthday": "1910-16-07",
+    "ip": "54.115.69.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn study behavior enough physical book. South realize window national thing. Practice new state standard future green.",
+        "bio": "Close parent letter nation.\nGive nearly other. Lot one professional. Any check act apply."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
