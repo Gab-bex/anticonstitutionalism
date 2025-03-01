@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Castro",
+    "age": 96,
+    "address": {
+        "street": "Angela Plains",
+        "city": "East Virginia",
+        "state": "Utah",
+        "zip": "73883"
+    },
+    "contact": {
+        "phone": "(238)435-1111",
+        "servicePhone": "800949207"
+    },
+    "birthday": "1929-06-10",
+    "ip": "155.124.153.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Bit control new sign interesting born. Boy form race decide yourself her. Over everybody answer gas. Night understand carry wide.",
+        "bio": "Represent nor mind term dinner relate modern. Method appear own. Your mention bag get operation north response.\nDown detail indicate instead chance admit. Down girl service against enjoy."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
