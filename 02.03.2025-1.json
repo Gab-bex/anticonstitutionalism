@@ -1,0 +1,25 @@
+{
+    "name": "Caitlin Peterson",
+    "age": 31,
+    "address": {
+        "street": "Ball Union",
+        "city": "Port Cindy",
+        "state": "New Hampshire",
+        "zip": "50594"
+    },
+    "contact": {
+        "phone": "241.940.7240x788",
+        "servicePhone": "800141574"
+    },
+    "birthday": "1994-19-01",
+    "ip": "98.117.190.78",
+    "foo": "bar",
+    "profile": {
+        "about": "May main month. Pull investment that think under wrong.\nMiddle at yeah allow. Since one war site.\nMedia near politics only.",
+        "bio": "Indeed form manager painting fire. Cold catch dark.\nAll site would provide add. Population box religious memory fall. Begin doctor friend sign anyone."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
