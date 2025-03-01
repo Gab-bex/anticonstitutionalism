@@ -1,0 +1,25 @@
+{
+    "name": "Alejandro Williams",
+    "age": 110,
+    "address": {
+        "street": "Brewer Mills",
+        "city": "Port Richard",
+        "state": "Idaho",
+        "zip": "92242"
+    },
+    "contact": {
+        "phone": "845.303.3495x822",
+        "servicePhone": "800283224"
+    },
+    "birthday": "1915-17-04",
+    "ip": "30.151.137.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Player pay able force star. Seek hour south lawyer marriage.\nCulture have management serve. Itself cover edge stand.\nReveal already under environmental the ready.",
+        "bio": "Left floor already return dark design one institution. Make camera yes data.\nGrow machine woman moment late sense less. Tend identify fire large sort."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
