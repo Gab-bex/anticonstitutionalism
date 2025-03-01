@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Thomas",
+    "age": 59,
+    "address": {
+        "street": "Kathleen Trafficway",
+        "city": "West Christopher",
+        "state": "Minnesota",
+        "zip": "57971"
+    },
+    "contact": {
+        "phone": "815-782-4530x83469",
+        "servicePhone": "800582072"
+    },
+    "birthday": "1966-08-01",
+    "ip": "139.96.216.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise newspaper away available attack behavior take letter. Lay type radio every number where admit save. Sister score even actually enough.",
+        "bio": "Soon role view although add animal include. Style produce build operation someone trial life. Loss situation special wide."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
