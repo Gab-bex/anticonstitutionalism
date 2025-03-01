@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Walker",
+    "age": 30,
+    "address": {
+        "street": "Howard Station",
+        "city": "Robertshire",
+        "state": "Nebraska",
+        "zip": "81327"
+    },
+    "contact": {
+        "phone": "764.309.5367",
+        "servicePhone": "800599152"
+    },
+    "birthday": "1995-30-05",
+    "ip": "216.227.79.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Family will in defense turn whom set. Table street you religious ground. Door bit could.\nLand west smile off scene about suggest. Case success seem information team gas teacher.",
+        "bio": "Management we first be sing friend. How within mention bag bill big reduce. Imagine media common shoulder step.\nGovernment tend glass keep street material day. Really have computer test rock blue."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
