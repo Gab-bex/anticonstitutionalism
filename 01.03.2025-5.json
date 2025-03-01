@@ -1,0 +1,25 @@
+{
+    "name": "Michael Larson",
+    "age": 105,
+    "address": {
+        "street": "Teresa Springs",
+        "city": "Pattersonmouth",
+        "state": "Vermont",
+        "zip": "30174"
+    },
+    "contact": {
+        "phone": "2997485921",
+        "servicePhone": "800027199"
+    },
+    "birthday": "1920-10-11",
+    "ip": "62.100.1.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Price fly reflect whatever scene green. Own impact return high.\nTeacher gun four check. On part those allow rest give stock important. Half would use.",
+        "bio": "Vote trip some large tough the charge. Without party form.\nEffort out sound everyone room campaign. Form draw population finally education they chair. Window reach baby near."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
