@@ -1,0 +1,25 @@
+{
+    "name": "William Parker",
+    "age": 41,
+    "address": {
+        "street": "Valdez Plains",
+        "city": "West Andrechester",
+        "state": "Michigan",
+        "zip": "66457"
+    },
+    "contact": {
+        "phone": "001-828-543-9007x726",
+        "servicePhone": "800634021"
+    },
+    "birthday": "1984-10-03",
+    "ip": "56.28.194.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Away wrong rise project high religious police. Six yes them front imagine.\nVarious security someone. Choice son who represent decision line. Eye yard method officer.",
+        "bio": "Property order treat management care. Late support everything expert history list will woman. Size can push finally food choice participant."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
