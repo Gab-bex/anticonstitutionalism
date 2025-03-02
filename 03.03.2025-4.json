@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Douglas Valdez DDS",
+    "age": 71,
+    "address": {
+        "street": "Hall Street",
+        "city": "Wongberg",
+        "state": "Delaware",
+        "zip": "59468"
+    },
+    "contact": {
+        "phone": "724-280-8863x0500",
+        "servicePhone": "800748674"
+    },
+    "birthday": "1954-29-11",
+    "ip": "65.61.138.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Community seem word sense.\nMost plan enough strong. Poor such special scene notice very.\nProve various establish since professor. Religious probably young feeling really.",
+        "bio": "Left improve environmental media enough. Manager play culture still become win can. Push most tell from act our rest respond."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
