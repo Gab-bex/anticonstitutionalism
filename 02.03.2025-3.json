@@ -1,0 +1,25 @@
+{
+    "name": "Suzanne Evans MD",
+    "age": 92,
+    "address": {
+        "street": "Edwards Port",
+        "city": "North Pamelafurt",
+        "state": "South Dakota",
+        "zip": "45629"
+    },
+    "contact": {
+        "phone": "411.980.9282",
+        "servicePhone": "800509298"
+    },
+    "birthday": "1933-02-11",
+    "ip": "181.55.22.76",
+    "foo": "bar",
+    "profile": {
+        "about": "Ever condition approach machine church issue wear. Central government police mother benefit customer. Allow first pay size detail be picture before.",
+        "bio": "Activity plant past. May democratic ago list.\nTable consumer defense sister else individual. Particularly recognize agreement capital large bad. Strategy purpose lawyer memory week similar."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
