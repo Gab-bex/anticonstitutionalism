@@ -1,0 +1,25 @@
+{
+    "name": "Earl Mccormick",
+    "age": 77,
+    "address": {
+        "street": "Miller Villages",
+        "city": "Lambport",
+        "state": "South Dakota",
+        "zip": "70859"
+    },
+    "contact": {
+        "phone": "001-697-591-7049",
+        "servicePhone": "800185142"
+    },
+    "birthday": "1948-15-06",
+    "ip": "135.160.120.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement these read tough pay. Suggest grow fish. Particularly risk home policy little look see herself. Future nothing American hit age school security.",
+        "bio": "Interesting wonder factor writer. Land author fish form. Early according spring. Moment friend crime blood ok book."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
