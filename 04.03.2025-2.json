@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hurley",
+    "age": 100,
+    "address": {
+        "street": "Gregory Ridge",
+        "city": "Port Bryanhaven",
+        "state": "Maryland",
+        "zip": "99481"
+    },
+    "contact": {
+        "phone": "559-619-3267x306",
+        "servicePhone": "800936066"
+    },
+    "birthday": "1925-16-06",
+    "ip": "96.75.199.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Son level agency miss war from down. Cup case provide clearly prevent benefit station with. Scientist perform him person meet himself respond talk.",
+        "bio": "Doctor sister remember attack fall involve fine through. Believe reality mother relationship perform decide serve difference."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
