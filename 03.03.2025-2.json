@@ -1,0 +1,25 @@
+{
+    "name": "Joanna Edwards",
+    "age": 28,
+    "address": {
+        "street": "West Rapid",
+        "city": "West Melissa",
+        "state": "Georgia",
+        "zip": "57310"
+    },
+    "contact": {
+        "phone": "(835)611-5130x28975",
+        "servicePhone": "800351162"
+    },
+    "birthday": "1997-19-03",
+    "ip": "193.84.120.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Letter professional cut above line pretty water size. Boy top media where happy.\nEnough force letter least face daughter school. Personal throughout question me teach.",
+        "bio": "Six owner tree them fall car. Listen any customer mouth kind.\nPresent Mrs send without population. Thought back save president technology. Positive identify popular occur create."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
