@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Ruiz",
+    "age": 38,
+    "address": {
+        "street": "Tapia Curve",
+        "city": "Markburgh",
+        "state": "Tennessee",
+        "zip": "24518"
+    },
+    "contact": {
+        "phone": "001-784-967-3575",
+        "servicePhone": "800398786"
+    },
+    "birthday": "1987-08-02",
+    "ip": "20.44.61.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Your industry at.\nCultural court agreement realize. Put television interest thousand central owner enter property. Least baby often visit throw cell.",
+        "bio": "Table claim word rather option. Trip compare support entire. Statement event kid and range figure week.\nFind there Mr. Above there once affect say. Hard enter soon."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
