@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Frazier",
+    "age": 9,
+    "address": {
+        "street": "Tiffany Roads",
+        "city": "Christophertown",
+        "state": "North Dakota",
+        "zip": "68660"
+    },
+    "contact": {
+        "phone": "(589)240-1211",
+        "servicePhone": "800359037"
+    },
+    "birthday": "2016-16-06",
+    "ip": "36.138.47.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular much small probably. Represent wall what talk stock. Television child once decade.",
+        "bio": "Long yeah all. Story station cultural indicate. Grow two save organization.\nNorth whether factor. Mr four through employee but. Quite bring think last."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
