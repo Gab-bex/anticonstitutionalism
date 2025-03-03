@@ -1,0 +1,25 @@
+{
+    "name": "Kim Campbell",
+    "age": 112,
+    "address": {
+        "street": "Nelson Club",
+        "city": "Dominguezside",
+        "state": "Iowa",
+        "zip": "15490"
+    },
+    "contact": {
+        "phone": "+1-695-404-8933x22807",
+        "servicePhone": "800737582"
+    },
+    "birthday": "1913-04-10",
+    "ip": "172.154.11.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Box add beyond song.\nGeneral child leader collection go trouble. Shoulder best history interest that fly majority.",
+        "bio": "Bad today specific rate small about. Member chance rock head model new. Expert many figure bank."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
