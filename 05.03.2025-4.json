@@ -1,0 +1,25 @@
+{
+    "name": "Frank Johnson",
+    "age": 68,
+    "address": {
+        "street": "Chavez Mission",
+        "city": "West Nicholeberg",
+        "state": "Texas",
+        "zip": "86705"
+    },
+    "contact": {
+        "phone": "+1-325-202-4765x3978",
+        "servicePhone": "800834598"
+    },
+    "birthday": "1957-08-09",
+    "ip": "169.148.10.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Little others say. This reduce nearly second learn. Particularly travel environment view recognize yourself age.",
+        "bio": "Military sign party reason actually. Air morning nor. In phone enjoy year concern.\nGlass day establish population. Company four him student music woman box."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
