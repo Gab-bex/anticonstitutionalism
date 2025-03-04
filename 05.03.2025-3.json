@@ -1,0 +1,25 @@
+{
+    "name": "Angela Watson",
+    "age": 0,
+    "address": {
+        "street": "Turner Wells",
+        "city": "Lake Shawntown",
+        "state": "Alaska",
+        "zip": "35269"
+    },
+    "contact": {
+        "phone": "378-959-4492",
+        "servicePhone": "800239801"
+    },
+    "birthday": "2025-12-01",
+    "ip": "2.98.124.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Each first system open. Government floor land property able.\nMemory statement prevent apply mean. Experience act serve growth which imagine.",
+        "bio": "Check pressure this save experience arm trial. Investment movie apply glass. Foreign responsibility police wall.\nRace job skill child me stay check we. Them cut scientist every much first."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
