@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Alexander",
+    "age": 115,
+    "address": {
+        "street": "Chad Junctions",
+        "city": "New Veronica",
+        "state": "California",
+        "zip": "60117"
+    },
+    "contact": {
+        "phone": "001-418-591-9830x5645",
+        "servicePhone": "800941682"
+    },
+    "birthday": "1910-08-05",
+    "ip": "153.151.23.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Interesting party see back. Defense so week range everyone large amount middle. Big either character force.",
+        "bio": "Pull born nation whom various visit history collection. Trade information safe call. Social truth perhaps on trouble describe trouble."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
