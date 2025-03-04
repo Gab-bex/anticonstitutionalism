@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Stewart",
+    "age": 36,
+    "address": {
+        "street": "Lisa Mission",
+        "city": "Sandrachester",
+        "state": "Wisconsin",
+        "zip": "25419"
+    },
+    "contact": {
+        "phone": "686-302-8707",
+        "servicePhone": "800613939"
+    },
+    "birthday": "1989-30-01",
+    "ip": "161.15.160.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Large pattern consider eye wrong standard. While worker phone memory teach listen. Into generation important.\nBoy act example bank dream property. Customer clearly notice office growth.",
+        "bio": "Move defense season get. Improve by price book require go. Wrong guy responsibility power.\nPartner house sign security career wind. Gun trial run military. Board region product could drug they."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
