@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Osborne",
+    "age": 12,
+    "address": {
+        "street": "Christopher Fort",
+        "city": "Jessicaport",
+        "state": "Oklahoma",
+        "zip": "70428"
+    },
+    "contact": {
+        "phone": "668-587-7688x142",
+        "servicePhone": "800946475"
+    },
+    "birthday": "2013-06-04",
+    "ip": "195.241.168.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad whose society organization up four. Hope glass color boy see.\nSave assume indicate consider full skin sound. Affect exist child another less think operation. Build hard step development.",
+        "bio": "Sometimes even art over behavior report act. Five free together. Defense difficult information drop."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
