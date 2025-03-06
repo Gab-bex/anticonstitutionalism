@@ -1,0 +1,25 @@
+{
+    "name": "Mr. John Jordan",
+    "age": 104,
+    "address": {
+        "street": "Alejandra Stravenue",
+        "city": "Port Heatherton",
+        "state": "Maine",
+        "zip": "74907"
+    },
+    "contact": {
+        "phone": "941-902-8765x50338",
+        "servicePhone": "800260512"
+    },
+    "birthday": "1921-04-05",
+    "ip": "176.238.161.54",
+    "foo": "bar",
+    "profile": {
+        "about": "Top outside system environment participant. Certain really despite color think. Positive industry always doctor move.",
+        "bio": "Head difficult wrong compare develop election. Sense them check. Boy walk measure any.\nLetter doctor quickly they affect similar. Firm particularly room discuss indeed."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
