@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Perez",
+    "age": 72,
+    "address": {
+        "street": "Wesley Walk",
+        "city": "New David",
+        "state": "North Dakota",
+        "zip": "46368"
+    },
+    "contact": {
+        "phone": "215-532-2358",
+        "servicePhone": "800409703"
+    },
+    "birthday": "1953-09-09",
+    "ip": "40.178.187.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Try produce medical some friend.\nCouple certainly art PM care. Exactly us news relationship million. Economy me agency thing finally crime local.",
+        "bio": "Wide can will. From environmental social those can strong age feeling.\nPartner former traditional material chance fly than. Management modern blue continue add happen put."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
