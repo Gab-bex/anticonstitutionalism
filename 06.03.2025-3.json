@@ -1,0 +1,25 @@
+{
+    "name": "Richard Bowen",
+    "age": 92,
+    "address": {
+        "street": "Bush Bridge",
+        "city": "Jamesside",
+        "state": "Virginia",
+        "zip": "00782"
+    },
+    "contact": {
+        "phone": "562-402-7305x71043",
+        "servicePhone": "800361190"
+    },
+    "birthday": "1933-21-10",
+    "ip": "152.50.220.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Performance almost report watch show. Success Democrat activity back easy single. Be once force his.",
+        "bio": "Agree so town break actually. Coach enter foot various. Them toward activity fear protect.\nAlready choice think they him cultural own but. Law detail huge heart."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
