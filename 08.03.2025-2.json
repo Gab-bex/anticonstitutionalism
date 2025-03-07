@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Andrea Abbott",
+    "age": 74,
+    "address": {
+        "street": "Christian Court",
+        "city": "East Natashaland",
+        "state": "Texas",
+        "zip": "96558"
+    },
+    "contact": {
+        "phone": "001-372-871-0328x75835",
+        "servicePhone": "800767192"
+    },
+    "birthday": "1951-10-07",
+    "ip": "79.117.198.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Force because no hundred. Show economy inside never care right. Clear truth head left protect.\nBlack effect worry would.",
+        "bio": "Race southern bed huge few charge modern. Begin foot baby with visit include require everyone. Role whole teacher life worry perhaps.\nAs enter customer agent face ask. Everything lead try item."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
