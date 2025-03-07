@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Gibbs",
+    "age": 80,
+    "address": {
+        "street": "Simon Circles",
+        "city": "Jenkinsburgh",
+        "state": "Idaho",
+        "zip": "14564"
+    },
+    "contact": {
+        "phone": "+1-794-540-8613x333",
+        "servicePhone": "800919054"
+    },
+    "birthday": "1945-10-02",
+    "ip": "93.16.243.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Participant ago painting. Agree show summer much Congress certainly employee.\nLocal least find production four cut none. Over how entire various his.",
+        "bio": "North relate same.\nRed fact prevent country anyone decide. Movement collection sing save ground fast attack. Remain large event with blue foot. Tend step attention risk voice myself serve."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
