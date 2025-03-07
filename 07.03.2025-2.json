@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Shaffer",
+    "age": 26,
+    "address": {
+        "street": "Davis Route",
+        "city": "West Tina",
+        "state": "Minnesota",
+        "zip": "60918"
+    },
+    "contact": {
+        "phone": "(890)491-9905x022",
+        "servicePhone": "800300389"
+    },
+    "birthday": "1999-04-01",
+    "ip": "83.187.20.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Apply pass represent agreement over. Partner our law why because foreign floor. Red there media guess.\nResult week be case mission number. The difference step during. Mrs win father responsibility.",
+        "bio": "Subject sister line amount. East accept account technology social. Main interview election rest western us end."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
