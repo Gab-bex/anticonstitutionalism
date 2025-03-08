@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Alisha Reynolds",
+    "age": 31,
+    "address": {
+        "street": "Hickman Fort",
+        "city": "Kevinview",
+        "state": "Kansas",
+        "zip": "32057"
+    },
+    "contact": {
+        "phone": "721.942.6564",
+        "servicePhone": "800110834"
+    },
+    "birthday": "1994-20-07",
+    "ip": "55.55.45.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip effort always remember down. Choice free current fact. Recognize job reach us southern again type.\nMight goal western future less. Medical instead special yes interesting floor.",
+        "bio": "Out interest pressure line appear. Front condition himself rock compare. Identify test alone land answer gas language."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
