@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Wang",
+    "age": 69,
+    "address": {
+        "street": "Morgan Creek",
+        "city": "North Deborahville",
+        "state": "Wyoming",
+        "zip": "40144"
+    },
+    "contact": {
+        "phone": "001-453-259-0448x6954",
+        "servicePhone": "800475072"
+    },
+    "birthday": "1956-20-03",
+    "ip": "194.242.217.24",
+    "foo": "bar",
+    "profile": {
+        "about": "List people myself physical election. From study southern politics each everything media.\nIdentify nor recently economic. Dog agent firm card staff sound experience lose.",
+        "bio": "Reason international so study. Analysis apply on people debate page include return. Weight cover thing."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
