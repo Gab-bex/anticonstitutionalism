@@ -1,0 +1,25 @@
+{
+    "name": "Robert Stewart",
+    "age": 101,
+    "address": {
+        "street": "Kaylee Roads",
+        "city": "Christinefurt",
+        "state": "Hawaii",
+        "zip": "65890"
+    },
+    "contact": {
+        "phone": "(830)992-3750",
+        "servicePhone": "800426598"
+    },
+    "birthday": "1924-12-01",
+    "ip": "114.57.94.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Or we work moment. Site standard firm even professional resource difficult. Claim information per something.\nTo level apply within fast skill why. Than economic change customer everyone.",
+        "bio": "Them various word sport senior several computer. Yourself could open budget west in. My campaign my music.\nItself step perform technology hospital recent Mr card. Table task phone idea skin many."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
