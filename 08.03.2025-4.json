@@ -1,0 +1,25 @@
+{
+    "name": "Gabrielle Jones",
+    "age": 19,
+    "address": {
+        "street": "John Parks",
+        "city": "Robertbury",
+        "state": "Washington",
+        "zip": "93350"
+    },
+    "contact": {
+        "phone": "662.689.4911",
+        "servicePhone": "800060711"
+    },
+    "birthday": "2006-04-01",
+    "ip": "126.241.238.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Much try prepare establish court. Themselves year interview might peace soldier line.\nCell soon movement maybe fine study. Create worker growth she ok so.\nImprove skin Democrat mean.",
+        "bio": "Indeed start so share threat.\nStage decade effect practice difficult knowledge. Society range student compare customer charge."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
