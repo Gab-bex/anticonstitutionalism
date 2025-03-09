@@ -1,0 +1,25 @@
+{
+    "name": "Madison Ochoa",
+    "age": 10,
+    "address": {
+        "street": "Cynthia Islands",
+        "city": "Port Jennifer",
+        "state": "Louisiana",
+        "zip": "17922"
+    },
+    "contact": {
+        "phone": "+1-213-414-2943x99892",
+        "servicePhone": "800781351"
+    },
+    "birthday": "2015-18-01",
+    "ip": "210.52.230.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Others much success huge carry save. Tv paper after degree dream. Recognize certain grow community strong.",
+        "bio": "Story summer series reach pay research lot. Unit few plant take bill step. Certainly happy call actually cup plant. Mind sound increase cold deal."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
