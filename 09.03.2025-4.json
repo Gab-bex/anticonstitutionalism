@@ -1,0 +1,25 @@
+{
+    "name": "Brian Castillo",
+    "age": 64,
+    "address": {
+        "street": "Julie Square",
+        "city": "Buckshire",
+        "state": "New Jersey",
+        "zip": "87379"
+    },
+    "contact": {
+        "phone": "(606)434-2063x80178",
+        "servicePhone": "800503658"
+    },
+    "birthday": "1961-18-06",
+    "ip": "123.23.128.55",
+    "foo": "bar",
+    "profile": {
+        "about": "Animal central over factor indeed risk others. Certain though Mr poor. Thing ever keep wait.",
+        "bio": "Scene night white mean. State they painting discover national then. Contain consider second experience power Mrs body. Others race even appear recent."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
