@@ -1,0 +1,25 @@
+{
+    "name": "Robert Phelps",
+    "age": 81,
+    "address": {
+        "street": "Little Loaf",
+        "city": "Youngburgh",
+        "state": "Washington",
+        "zip": "01407"
+    },
+    "contact": {
+        "phone": "001-456-795-3945x5547",
+        "servicePhone": "800225883"
+    },
+    "birthday": "1944-30-12",
+    "ip": "68.74.11.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Certain room its easy course live drive worry. These return visit whom stage as.\nCouple return especially full political or visit where. Mrs anyone again lot. Reach seat see.",
+        "bio": "Upon fly phone fall.\nStation carry tax keep just customer. Seat entire bring hard answer."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
