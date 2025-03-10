@@ -1,0 +1,25 @@
+{
+    "name": "Dale Horton",
+    "age": 52,
+    "address": {
+        "street": "Justin Fields",
+        "city": "Moorebury",
+        "state": "Arizona",
+        "zip": "35493"
+    },
+    "contact": {
+        "phone": "+1-794-626-3631x3828",
+        "servicePhone": "800449260"
+    },
+    "birthday": "1973-10-03",
+    "ip": "60.10.192.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Nice interest team however. Bring attorney goal yet campaign. Democratic learn move affect politics.",
+        "bio": "Coach another training firm laugh. Give piece present movement policy true few treatment. Ready find Democrat hotel. Cut material hundred push value claim place."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
