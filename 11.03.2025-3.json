@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Wade",
+    "age": 19,
+    "address": {
+        "street": "Watkins Islands",
+        "city": "Hernandezhaven",
+        "state": "New Mexico",
+        "zip": "92240"
+    },
+    "contact": {
+        "phone": "884.415.4898",
+        "servicePhone": "800520513"
+    },
+    "birthday": "2006-12-12",
+    "ip": "206.64.185.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Add wonder moment price than beyond. Present what more. Discussion thousand coach read vote exist line.\nSubject late study time Democrat. Drug learn bar another adult difference painting.",
+        "bio": "Contain fish son early create party. Plan partner friend lawyer. Wind offer tax popular quite drop.\nWorld get our. Heavy ready myself. Attack her major much pick."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
