@@ -1,0 +1,25 @@
+{
+    "name": "Anna Lindsey",
+    "age": 115,
+    "address": {
+        "street": "Mcguire Crossing",
+        "city": "Pearsonland",
+        "state": "West Virginia",
+        "zip": "70997"
+    },
+    "contact": {
+        "phone": "(888)344-6649x487",
+        "servicePhone": "800150958"
+    },
+    "birthday": "1910-11-07",
+    "ip": "40.41.244.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Green stay stand sing turn window. Behavior listen quite none remember system night page.\nThousand so nor woman board name now discover. Call style music.",
+        "bio": "Way lot outside factor those. Ask purpose wait maybe skill especially.\nDiscover miss herself or wife chair Democrat. Page follow city when loss me life. Minute kid born with situation what."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
