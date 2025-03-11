@@ -1,0 +1,25 @@
+{
+    "name": "Philip Martin",
+    "age": 103,
+    "address": {
+        "street": "Lee Bypass",
+        "city": "Langside",
+        "state": "New Mexico",
+        "zip": "77890"
+    },
+    "contact": {
+        "phone": "(757)585-7877",
+        "servicePhone": "800593146"
+    },
+    "birthday": "1922-29-11",
+    "ip": "28.193.50.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Voice attorney issue every method. Land each memory hand kitchen toward reason our. Part pass husband address open seat.",
+        "bio": "Citizen young Congress garden not. Car subject hair place above until need. Green improve form job notice."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
