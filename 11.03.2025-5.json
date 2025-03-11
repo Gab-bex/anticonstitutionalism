@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Perkins",
+    "age": 86,
+    "address": {
+        "street": "Beck Island",
+        "city": "Jenniferton",
+        "state": "Montana",
+        "zip": "58326"
+    },
+    "contact": {
+        "phone": "(232)635-2996x82640",
+        "servicePhone": "800985496"
+    },
+    "birthday": "1939-02-06",
+    "ip": "166.68.186.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual memory after card drive black reveal. Those any away local heart.",
+        "bio": "Up TV early seat through structure stuff. Want whether in statement truth. Concern another specific produce improve stop should."
+    },
+    "currency": [
+        "XDR",
+        "Special drawing rights"
+    ]
+}
