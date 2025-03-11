@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Greer",
+    "age": 53,
+    "address": {
+        "street": "Trujillo Island",
+        "city": "North Jamesland",
+        "state": "Massachusetts",
+        "zip": "27467"
+    },
+    "contact": {
+        "phone": "668-921-3909",
+        "servicePhone": "800373264"
+    },
+    "birthday": "1972-31-07",
+    "ip": "146.74.172.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Road structure member maintain network expect raise article. Community pressure sort trade. Water throw could if call.",
+        "bio": "Civil south include meet official. Practice recent family enter street pattern bar.\nScience next food door. Mind scientist recently structure unit."
+    },
+    "currency": [
+        "ZWD",
+        "Zimbabwean dollar"
+    ]
+}
