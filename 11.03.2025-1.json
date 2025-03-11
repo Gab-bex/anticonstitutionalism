@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Calhoun",
+    "age": 36,
+    "address": {
+        "street": "Shaw Lock",
+        "city": "South Cynthiamouth",
+        "state": "Arizona",
+        "zip": "26994"
+    },
+    "contact": {
+        "phone": "(462)736-2768",
+        "servicePhone": "800215977"
+    },
+    "birthday": "1989-18-08",
+    "ip": "80.214.230.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Seem financial special effort read edge. Life everyone peace beat Congress participant defense. Animal fire beyond professional hundred nation carry reach.",
+        "bio": "Crime require hospital then vote instead big. Anything attorney anyone magazine rise. Writer across detail loss plant their. A lay great sing social if tonight."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
