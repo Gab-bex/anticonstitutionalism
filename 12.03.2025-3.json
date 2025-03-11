@@ -1,0 +1,25 @@
+{
+    "name": "Rodney Lozano",
+    "age": 83,
+    "address": {
+        "street": "Tina Ranch",
+        "city": "New Ryanchester",
+        "state": "Nebraska",
+        "zip": "11994"
+    },
+    "contact": {
+        "phone": "692.798.4065x5472",
+        "servicePhone": "800712462"
+    },
+    "birthday": "1942-10-09",
+    "ip": "135.0.52.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong country stop happen hundred happen herself learn. Project seem management. For share prevent item life anyone today yet. Would final worry study film.",
+        "bio": "Size Congress summer happy pick. Pattern around ten continue receive report information think. Yes character process garden."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
