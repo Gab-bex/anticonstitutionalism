@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Martinez",
+    "age": 33,
+    "address": {
+        "street": "Jacob Burg",
+        "city": "North Samuelville",
+        "state": "New Mexico",
+        "zip": "64934"
+    },
+    "contact": {
+        "phone": "+1-705-260-8565",
+        "servicePhone": "800722276"
+    },
+    "birthday": "1992-05-04",
+    "ip": "197.133.221.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Because decide star late life. Evidence establish sign bill soon cultural.\nPlan response human notice. Truth religious yourself up.",
+        "bio": "Senior even many window camera bring idea. Effect kitchen now quickly. Drop approach idea billion coach eat section. Foreign run brother authority represent product drop benefit."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
