@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Flores",
+    "age": 106,
+    "address": {
+        "street": "Robert Via",
+        "city": "Meyersburgh",
+        "state": "Utah",
+        "zip": "33086"
+    },
+    "contact": {
+        "phone": "(361)883-5460x1757",
+        "servicePhone": "800527805"
+    },
+    "birthday": "1919-26-12",
+    "ip": "180.123.51.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Follow agency occur above. White sound fund call fast. The spend quality stuff.\nResource him court marriage kind region first.",
+        "bio": "Size table win either page its wonder tough. Create effect out perhaps onto agreement watch. Remember himself election over not. View board last need."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
