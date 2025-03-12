@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Bennett",
+    "age": 52,
+    "address": {
+        "street": "Schmidt Garden",
+        "city": "Port Scott",
+        "state": "New Hampshire",
+        "zip": "97051"
+    },
+    "contact": {
+        "phone": "(318)511-7691x06044",
+        "servicePhone": "800999949"
+    },
+    "birthday": "1973-18-06",
+    "ip": "108.206.112.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach read east memory smile. End question give law.\nBetter deep goal ever. Strong animal opportunity because.\nProperty admit hard event. Reason chance heart consumer rate.",
+        "bio": "Activity member size offer such order. Recently doctor it be. Hospital specific raise college house.\nDesign oil us exist. Research prepare special reflect although service kitchen bed."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
