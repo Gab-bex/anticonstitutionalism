@@ -1,0 +1,25 @@
+{
+    "name": "Megan Kirby",
+    "age": 24,
+    "address": {
+        "street": "Taylor Mews",
+        "city": "Nicolemouth",
+        "state": "Utah",
+        "zip": "00722"
+    },
+    "contact": {
+        "phone": "241.967.7553x5466",
+        "servicePhone": "800826967"
+    },
+    "birthday": "2001-22-01",
+    "ip": "173.150.226.135",
+    "foo": "bar",
+    "profile": {
+        "about": "Body remember as. Purpose himself north.",
+        "bio": "Join approach step young and spend against. Ten trouble the. Page agreement send down.\nSit position room night. Choice agent record."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
