@@ -1,0 +1,25 @@
+{
+    "name": "Eric Franklin",
+    "age": 76,
+    "address": {
+        "street": "Justin Wall",
+        "city": "Newtonbury",
+        "state": "Idaho",
+        "zip": "29495"
+    },
+    "contact": {
+        "phone": "209-961-9999",
+        "servicePhone": "800356938"
+    },
+    "birthday": "1949-20-04",
+    "ip": "92.26.220.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Book five meeting author knowledge apply. Success Republican something give left reason generation.",
+        "bio": "Get address trip environment game business enough. Indicate teacher those particularly fall pay but. Stand present language win place but marriage animal."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
