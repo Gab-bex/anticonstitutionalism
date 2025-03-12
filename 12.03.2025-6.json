@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Farrell",
+    "age": 71,
+    "address": {
+        "street": "Murray Tunnel",
+        "city": "East Tyler",
+        "state": "Wyoming",
+        "zip": "35123"
+    },
+    "contact": {
+        "phone": "741.788.2729x88817",
+        "servicePhone": "800187770"
+    },
+    "birthday": "1954-25-02",
+    "ip": "111.46.126.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Two build development watch shake bad.\nConcern have meet start create radio example. Read table Mrs.",
+        "bio": "Lawyer street still space stand during personal. Child Republican structure project arm mean sort.\nRegion little manage degree. Race mean stock. Than seem become forward tend."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
