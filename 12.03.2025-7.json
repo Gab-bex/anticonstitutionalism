@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Ayers",
+    "age": 42,
+    "address": {
+        "street": "Joyce Road",
+        "city": "Amyview",
+        "state": "Colorado",
+        "zip": "27280"
+    },
+    "contact": {
+        "phone": "+1-256-418-2638x3600",
+        "servicePhone": "800125412"
+    },
+    "birthday": "1983-17-06",
+    "ip": "61.90.11.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Unit computer lose its child. Establish fire own. Interest happen executive line.",
+        "bio": "Middle minute hospital court work oil together. Nothing style behind election. Capital live present pass effect."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
