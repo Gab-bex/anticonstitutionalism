@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Peterson",
+    "age": 13,
+    "address": {
+        "street": "Nelson Overpass",
+        "city": "Espinozaberg",
+        "state": "Alabama",
+        "zip": "35687"
+    },
+    "contact": {
+        "phone": "+1-310-759-9305x78567",
+        "servicePhone": "800922980"
+    },
+    "birthday": "2012-08-06",
+    "ip": "133.198.243.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Across relate bed leader soon garden statement. Voice current north long even sign call rule.\nHim try treat hotel difficult company. Forward he stage because.",
+        "bio": "Information allow consumer around other official share turn. We senior white nearly hear. There enough sell move tax scientist."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
