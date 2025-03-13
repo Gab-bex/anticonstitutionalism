@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Moore",
+    "age": 38,
+    "address": {
+        "street": "Spencer Centers",
+        "city": "Ebonytown",
+        "state": "North Carolina",
+        "zip": "25141"
+    },
+    "contact": {
+        "phone": "735-745-0610x26200",
+        "servicePhone": "800292821"
+    },
+    "birthday": "1987-22-04",
+    "ip": "19.207.52.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Much consumer us. Resource store boy Republican community walk. Task under board picture.\nBetween most college one not him fine another.",
+        "bio": "Ok hospital history open music as home. Others remember smile situation get nor determine decide.\nItself training analysis five agreement. Into source detail environment agree culture."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
