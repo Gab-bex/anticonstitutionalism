@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Bean",
+    "age": 37,
+    "address": {
+        "street": "Collins Harbors",
+        "city": "Martinbury",
+        "state": "Delaware",
+        "zip": "33584"
+    },
+    "contact": {
+        "phone": "946.417.2277x5072",
+        "servicePhone": "800739343"
+    },
+    "birthday": "1988-06-02",
+    "ip": "19.75.63.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Team few level in sure right church. Win go anything work together. Pressure strategy address woman chance special.",
+        "bio": "Job house seven far total road. Southern matter purpose represent environment official.\nDo college raise. Author despite ask he. Call beyond role early life always method."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
