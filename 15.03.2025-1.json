@@ -1,0 +1,25 @@
+{
+    "name": "David Henry",
+    "age": 18,
+    "address": {
+        "street": "Timothy Mount",
+        "city": "Elliottchester",
+        "state": "Virginia",
+        "zip": "91385"
+    },
+    "contact": {
+        "phone": "208.766.8156x456",
+        "servicePhone": "800144040"
+    },
+    "birthday": "2007-17-03",
+    "ip": "13.187.232.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Because from wide budget. Size picture life paper. Wind ahead article I visit. Fly painting office everything somebody less.",
+        "bio": "Morning such maintain public. Threat education analysis of drive. Hotel century method team.\nExpect close summer son. Wonder computer sort child front feeling."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
