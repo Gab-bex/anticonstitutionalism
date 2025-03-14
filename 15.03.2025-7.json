@@ -1,0 +1,25 @@
+{
+    "name": "Paul Williams",
+    "age": 53,
+    "address": {
+        "street": "Holly Loop",
+        "city": "North Tammy",
+        "state": "Montana",
+        "zip": "96457"
+    },
+    "contact": {
+        "phone": "3282646064",
+        "servicePhone": "800247188"
+    },
+    "birthday": "1972-23-08",
+    "ip": "179.0.154.227",
+    "foo": "bar",
+    "profile": {
+        "about": "Good become trouble per. Everyone note feel professional.\nSuggest power really international almost.",
+        "bio": "Standard concern politics suffer fine. Street bar discuss operation none order put company. Send eat thank visit wonder long avoid."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
