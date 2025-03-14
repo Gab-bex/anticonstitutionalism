@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Solis Jr.",
+    "age": 35,
+    "address": {
+        "street": "Sharon Land",
+        "city": "Markbury",
+        "state": "Kentucky",
+        "zip": "69092"
+    },
+    "contact": {
+        "phone": "250-592-6233",
+        "servicePhone": "800803233"
+    },
+    "birthday": "1990-28-09",
+    "ip": "178.196.113.57",
+    "foo": "bar",
+    "profile": {
+        "about": "News lawyer seven strategy wall coach. Bring control office find physical live. Ever person front million.",
+        "bio": "Certainly court significant institution leave sell benefit rise. Century role political admit. List employee structure bank allow.\nMrs five less nice rule do. Face under national grow account."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
