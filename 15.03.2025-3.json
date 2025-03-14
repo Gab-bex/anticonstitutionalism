@@ -1,0 +1,25 @@
+{
+    "name": "Jared Powell",
+    "age": 68,
+    "address": {
+        "street": "Estrada Springs",
+        "city": "East Matthewview",
+        "state": "Massachusetts",
+        "zip": "05782"
+    },
+    "contact": {
+        "phone": "+1-242-657-2934x11386",
+        "servicePhone": "800164528"
+    },
+    "birthday": "1957-13-05",
+    "ip": "107.145.250.193",
+    "foo": "bar",
+    "profile": {
+        "about": "What father job people whom party hit. Weight newspaper open alone we doctor.\nNo eight such director lay news. Experience organization life chance wrong conference story.",
+        "bio": "Cultural star allow subject smile inside. Seat doctor hope fine special night bed.\nProduction learn half. Energy trip even important. Off beyond else."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
