@@ -1,0 +1,25 @@
+{
+    "name": "Christina Peterson",
+    "age": 29,
+    "address": {
+        "street": "West Burgs",
+        "city": "New Robert",
+        "state": "Illinois",
+        "zip": "79395"
+    },
+    "contact": {
+        "phone": "811-976-0213",
+        "servicePhone": "800666612"
+    },
+    "birthday": "1996-20-05",
+    "ip": "156.1.126.228",
+    "foo": "bar",
+    "profile": {
+        "about": "News a attack develop address agency. Prepare notice who return deep. Interest foreign you job upon.\nResearch public wrong deal author feeling law growth. Development crime thing nation.",
+        "bio": "Still control thank always. Firm attention join car summer water.\nEffort education clearly majority lot several. Certainly instead away. Far process across wonder."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
