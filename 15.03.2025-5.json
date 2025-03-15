@@ -1,0 +1,25 @@
+{
+    "name": "Theresa Barnes DDS",
+    "age": 103,
+    "address": {
+        "street": "Blankenship Points",
+        "city": "West Thomasmouth",
+        "state": "California",
+        "zip": "62164"
+    },
+    "contact": {
+        "phone": "+1-772-934-6680x37716",
+        "servicePhone": "800450798"
+    },
+    "birthday": "1922-01-01",
+    "ip": "84.187.63.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Board successful probably home people. Explain economic meeting five personal.\nMuch control religious speech common very bit. Give describe learn.",
+        "bio": "Happy degree main week too three. Everything training skin page. Exactly weight none forward machine."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
