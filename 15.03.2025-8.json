@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Jeffrey Lee",
+    "age": 69,
+    "address": {
+        "street": "Nicole Shoals",
+        "city": "Donaldhaven",
+        "state": "Delaware",
+        "zip": "80699"
+    },
+    "contact": {
+        "phone": "+1-807-474-8061x39238",
+        "servicePhone": "800758971"
+    },
+    "birthday": "1956-30-01",
+    "ip": "20.1.166.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Stage president forget prepare social. Action down voice indeed alone seem kitchen. Focus population authority field age. About mother wife walk Republican citizen religious.",
+        "bio": "Foot perhaps without behind act production town friend. Hope better often property assume girl. Mrs individual purpose too.\nIn per population poor sea. Hard support now use."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
