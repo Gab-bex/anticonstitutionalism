@@ -1,0 +1,25 @@
+{
+    "name": "Michael Cowan",
+    "age": 16,
+    "address": {
+        "street": "Sanders Ports",
+        "city": "Lake Aaronmouth",
+        "state": "Kansas",
+        "zip": "96683"
+    },
+    "contact": {
+        "phone": "(941)494-7669x795",
+        "servicePhone": "800613020"
+    },
+    "birthday": "2009-21-02",
+    "ip": "124.131.95.52",
+    "foo": "bar",
+    "profile": {
+        "about": "Author kind late. Like world through little after.\nPoor accept what professor. Sure to its college. Painting special perhaps cause visit.",
+        "bio": "Guy data method there toward fish together. Worker science against write.\nReduce reveal alone late reduce challenge. Mother along above community would lawyer hand."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
