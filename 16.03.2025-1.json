@@ -1,0 +1,25 @@
+{
+    "name": "Jason Riley",
+    "age": 101,
+    "address": {
+        "street": "Dustin Passage",
+        "city": "New Amy",
+        "state": "Massachusetts",
+        "zip": "35429"
+    },
+    "contact": {
+        "phone": "655-630-3070x400",
+        "servicePhone": "800214135"
+    },
+    "birthday": "1924-02-07",
+    "ip": "148.216.7.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Next read attorney concern political. Seven sense over meeting high everyone challenge process. Light shoulder let. Growth chance cause stand.",
+        "bio": "Opportunity game return book well evidence. Process class again garden claim view. Voice mean nothing important. According control these quickly sing after bring newspaper."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
