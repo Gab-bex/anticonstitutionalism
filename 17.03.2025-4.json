@@ -1,0 +1,25 @@
+{
+    "name": "Kelsey Baker",
+    "age": 81,
+    "address": {
+        "street": "Burns Inlet",
+        "city": "Bergermouth",
+        "state": "Delaware",
+        "zip": "25567"
+    },
+    "contact": {
+        "phone": "879.842.4402x4262",
+        "servicePhone": "800210160"
+    },
+    "birthday": "1944-02-04",
+    "ip": "219.226.120.111",
+    "foo": "bar",
+    "profile": {
+        "about": "They position cost laugh ahead friend. Hair social take camera could.\nCar base method enough pick current rate. Should will remember our view age look.",
+        "bio": "Raise never outside. Plan including region form specific spend maybe.\nParty arrive center remember. Fight bar about training history produce. Serious woman necessary president laugh cut."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
