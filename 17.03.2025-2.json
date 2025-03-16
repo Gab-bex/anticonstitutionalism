@@ -1,0 +1,25 @@
+{
+    "name": "James Cochran",
+    "age": 95,
+    "address": {
+        "street": "Danny Club",
+        "city": "New Nicholemouth",
+        "state": "Illinois",
+        "zip": "77034"
+    },
+    "contact": {
+        "phone": "(241)312-9944x428",
+        "servicePhone": "800160619"
+    },
+    "birthday": "1930-21-12",
+    "ip": "181.154.126.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Yeah too sort camera organization. Manager fund scene evidence animal list. With score skill race face into decade.\nStory concern describe season. Mr particularly three piece.",
+        "bio": "Top option religious series nearly. Majority south sense huge.\nBehind evening line owner speak dinner. Thousand animal stage capital director significant goal away."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
