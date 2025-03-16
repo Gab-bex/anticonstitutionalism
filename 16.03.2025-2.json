@@ -1,0 +1,25 @@
+{
+    "name": "Christina Smith",
+    "age": 42,
+    "address": {
+        "street": "Summers Glens",
+        "city": "Port Haleyburgh",
+        "state": "Utah",
+        "zip": "35357"
+    },
+    "contact": {
+        "phone": "+1-292-883-7557",
+        "servicePhone": "800228531"
+    },
+    "birthday": "1983-05-02",
+    "ip": "37.53.137.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Appear improve number organization mention. Yourself at office look sort history.\nTheory class church employee. Meet beat adult career red those true north. Ten fly suggest friend vote.",
+        "bio": "Population wind recognize career. Campaign audience simple method up these.\nLarge blue free box. Rather seven church nation offer."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
