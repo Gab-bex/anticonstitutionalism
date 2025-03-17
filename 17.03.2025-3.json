@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Brown",
+    "age": 24,
+    "address": {
+        "street": "Mcintyre Glens",
+        "city": "East Christopher",
+        "state": "Nebraska",
+        "zip": "81973"
+    },
+    "contact": {
+        "phone": "875.512.1634",
+        "servicePhone": "800857460"
+    },
+    "birthday": "2001-05-02",
+    "ip": "212.146.26.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss none section. Him have where just. Writer fly staff pass treat. Low like course similar image member.\nGirl we effort back citizen there garden. Wear authority not.",
+        "bio": "Born if us arrive help.\nBefore design south push her may. Student weight between become shake hospital culture. Win new find modern not standard force.\nLeast kind despite charge."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
