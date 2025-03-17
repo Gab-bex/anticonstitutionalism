@@ -1,0 +1,25 @@
+{
+    "name": "Emily Bailey",
+    "age": 110,
+    "address": {
+        "street": "Washington Camp",
+        "city": "East Julie",
+        "state": "Wyoming",
+        "zip": "58007"
+    },
+    "contact": {
+        "phone": "975.294.3218x897",
+        "servicePhone": "800336685"
+    },
+    "birthday": "1915-22-10",
+    "ip": "60.208.167.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Free record time make response line type. Never help back wear follow police set. Time often father road news this.",
+        "bio": "Sell alone than affect heavy break experience. Whom everything know but question moment executive each."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
