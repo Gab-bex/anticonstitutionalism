@@ -1,0 +1,25 @@
+{
+    "name": "Cassandra Roberts",
+    "age": 101,
+    "address": {
+        "street": "Raymond Plains",
+        "city": "Carsonfurt",
+        "state": "North Dakota",
+        "zip": "52351"
+    },
+    "contact": {
+        "phone": "7978576449",
+        "servicePhone": "800954514"
+    },
+    "birthday": "1924-04-07",
+    "ip": "200.32.66.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Sister these news. Attention focus mention data house dream yard.\nOil kitchen drop rule.\nMovement later before per interview age. East fill it step. Blue drug wide miss point.",
+        "bio": "During third phone after minute. Huge article economy close. Item serve technology form help main."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
