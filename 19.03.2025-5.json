@@ -1,0 +1,25 @@
+{
+    "name": "Hailey Chambers",
+    "age": 53,
+    "address": {
+        "street": "Timothy Village",
+        "city": "Ericaland",
+        "state": "Massachusetts",
+        "zip": "73865"
+    },
+    "contact": {
+        "phone": "+1-913-314-6743x4054",
+        "servicePhone": "800728367"
+    },
+    "birthday": "1972-29-06",
+    "ip": "100.34.185.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Near standard nation along until. South whatever series create daughter. Relationship computer or story between authority painting.",
+        "bio": "By factor community democratic present. Check class trial.\nPull fight skill edge lead. Water structure season try front."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
