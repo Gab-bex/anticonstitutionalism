@@ -1,0 +1,25 @@
+{
+    "name": "Darren Waters",
+    "age": 5,
+    "address": {
+        "street": "Bell Ways",
+        "city": "Lake Sherryfort",
+        "state": "Iowa",
+        "zip": "23150"
+    },
+    "contact": {
+        "phone": "713.427.2473",
+        "servicePhone": "800899589"
+    },
+    "birthday": "2020-31-08",
+    "ip": "62.158.26.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Language type medical front spend left traditional. Administration rather artist attention best only. Form guess half commercial from human fact.",
+        "bio": "Perhaps increase wife traditional. Financial how language can air place happen. Gun red minute act food.\nWrite catch involve rest.\nStill just onto meet need. Executive onto get administration."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
