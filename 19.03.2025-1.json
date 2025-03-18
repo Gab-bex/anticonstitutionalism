@@ -1,0 +1,25 @@
+{
+    "name": "Scott Davis",
+    "age": 35,
+    "address": {
+        "street": "Miller Terrace",
+        "city": "West Michael",
+        "state": "Utah",
+        "zip": "53913"
+    },
+    "contact": {
+        "phone": "603-968-2092",
+        "servicePhone": "800914715"
+    },
+    "birthday": "1990-26-01",
+    "ip": "182.97.171.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Season try parent lot student. Amount focus indicate center possible.\nSon blood successful thank parent case. Face film child candidate for. Relate sport hair according eye thank positive.",
+        "bio": "Beat coach much specific. Late seek other bill home defense while. Behind friend think forget eye you action animal. Series beat voice.\nTrial total road role bar throughout."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
