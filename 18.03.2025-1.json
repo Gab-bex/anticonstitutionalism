@@ -1,0 +1,25 @@
+{
+    "name": "Beth Davenport",
+    "age": 42,
+    "address": {
+        "street": "Shelly Row",
+        "city": "Kyliechester",
+        "state": "Oklahoma",
+        "zip": "28676"
+    },
+    "contact": {
+        "phone": "340-750-8843",
+        "servicePhone": "800319044"
+    },
+    "birthday": "1983-13-05",
+    "ip": "61.112.56.53",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss purpose fine nothing bit summer. Local white manager politics decide.\nThrow day really drive subject talk. Save wall wear shoulder kid then five.",
+        "bio": "Respond describe another reality executive. Interview arm later see policy letter go. Reveal others middle away order deep those let.\nAround their under recent simple. Already still woman writer."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
