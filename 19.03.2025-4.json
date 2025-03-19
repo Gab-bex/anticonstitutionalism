@@ -1,0 +1,25 @@
+{
+    "name": "Emily Lopez",
+    "age": 102,
+    "address": {
+        "street": "Gonzales Views",
+        "city": "Riddlemouth",
+        "state": "Iowa",
+        "zip": "75482"
+    },
+    "contact": {
+        "phone": "235.348.1850",
+        "servicePhone": "800764275"
+    },
+    "birthday": "1923-20-04",
+    "ip": "89.18.74.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Office carry source organization big. Conference thousand age population develop ahead thing. Opportunity turn per outside behavior store strategy catch.",
+        "bio": "May teach mention security. Require next difficult office action all reduce.\nTake glass after nice. Establish old article very necessary wife relate. Career heavy source my direction by bad."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
