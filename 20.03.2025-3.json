@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Matthews",
+    "age": 102,
+    "address": {
+        "street": "Ann Throughway",
+        "city": "Margaretshire",
+        "state": "Oklahoma",
+        "zip": "99664"
+    },
+    "contact": {
+        "phone": "542-998-3769",
+        "servicePhone": "800635014"
+    },
+    "birthday": "1923-06-11",
+    "ip": "41.6.83.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Source wide claim. Account blood final bring apply simple. Bar management thing.\nAgency certainly third. Point final gas perform condition long tough Mr.",
+        "bio": "Morning top against ahead report team person. Partner husband here matter friend. Everything system end project.\nEight unit whole water word.\nKnowledge fill campaign."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
