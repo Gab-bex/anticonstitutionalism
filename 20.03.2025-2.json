@@ -1,0 +1,25 @@
+{
+    "name": "Helen Meyer",
+    "age": 4,
+    "address": {
+        "street": "Garcia Mills",
+        "city": "New Jeremyland",
+        "state": "Mississippi",
+        "zip": "17703"
+    },
+    "contact": {
+        "phone": "248-290-4622x206",
+        "servicePhone": "800174160"
+    },
+    "birthday": "2021-11-12",
+    "ip": "59.63.39.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Past fire discuss mother. Child country throw almost analysis even. Side onto section check ask act.",
+        "bio": "Tree court plan name coach simple leg forget. Spend loss little force clear consumer. Institution people perform.\nAdd usually white certainly. Four score send large gas."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
