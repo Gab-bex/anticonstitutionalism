@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Evans",
+    "age": 65,
+    "address": {
+        "street": "Brooks Springs",
+        "city": "Margaretbury",
+        "state": "Idaho",
+        "zip": "18123"
+    },
+    "contact": {
+        "phone": "+1-441-672-6410x7798",
+        "servicePhone": "800866947"
+    },
+    "birthday": "1960-26-04",
+    "ip": "208.125.250.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Second actually put address eight democratic traditional house. Serious raise instead police approach allow. Financial same either recognize call. Everybody real analysis economy computer body.",
+        "bio": "Entire month eye instead according whose threat. Environmental lot another just. Effort food he fact technology enter white.\nAround late population buy position summer lose."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
