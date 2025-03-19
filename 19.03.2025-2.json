@@ -1,0 +1,25 @@
+{
+    "name": "John Dixon",
+    "age": 86,
+    "address": {
+        "street": "Kimberly Parkway",
+        "city": "Lake Cynthia",
+        "state": "Minnesota",
+        "zip": "54909"
+    },
+    "contact": {
+        "phone": "+1-474-664-1892",
+        "servicePhone": "800164183"
+    },
+    "birthday": "1939-11-11",
+    "ip": "82.200.219.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything ball movie author. Campaign break nothing money president. Develop perform thousand research and according.\nGreen no owner security public. Room necessary be material. Per how off now.",
+        "bio": "Bit article dog raise get born. Finish book full many performance child.\nRead yeah avoid friend mouth. Little you travel room order reality."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
