@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Perez",
+    "age": 104,
+    "address": {
+        "street": "Amy Highway",
+        "city": "Amyfurt",
+        "state": "Maryland",
+        "zip": "72265"
+    },
+    "contact": {
+        "phone": "+1-263-709-1345x6483",
+        "servicePhone": "800291741"
+    },
+    "birthday": "1921-09-12",
+    "ip": "96.187.219.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Lay culture force outside.\nBeat suddenly memory understand. Type be town open purpose move. Five manage raise they. Page stuff quality Republican manager trouble rule.",
+        "bio": "Thought chair admit political across. Recent some debate. Bar car improve show.\nView win these. Account its lot save same them write. Real risk poor project age energy."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
