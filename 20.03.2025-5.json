@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Berry",
+    "age": 71,
+    "address": {
+        "street": "Moore Terrace",
+        "city": "Julieburgh",
+        "state": "Indiana",
+        "zip": "39278"
+    },
+    "contact": {
+        "phone": "6748773652",
+        "servicePhone": "800963471"
+    },
+    "birthday": "1954-08-08",
+    "ip": "90.91.80.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Party throw really high rich effort. Up month member performance share husband head.\nSecurity itself cell garden. Bring front meet bag care seat.",
+        "bio": "Will relate senior might. Mouth late budget audience difficult budget fear especially. It interesting let."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
