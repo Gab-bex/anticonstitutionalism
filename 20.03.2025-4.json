@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Chan DVM",
+    "age": 114,
+    "address": {
+        "street": "West Forge",
+        "city": "South Michellehaven",
+        "state": "Oklahoma",
+        "zip": "13991"
+    },
+    "contact": {
+        "phone": "4507381320",
+        "servicePhone": "800112130"
+    },
+    "birthday": "1911-23-08",
+    "ip": "201.128.214.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Group nor still story yard. Small easy investment lot.\nAcross participant Mrs. Trial drive lead positive protect. Moment season probably instead.\nOwner sit meeting. View explain develop force.",
+        "bio": "Interesting son us guess myself draw laugh. Early more too east ready certainly.\nAway health almost live book apply. Energy manager behind leg in."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
