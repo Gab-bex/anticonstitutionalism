@@ -1,0 +1,25 @@
+{
+    "name": "William Bryant",
+    "age": 28,
+    "address": {
+        "street": "Alicia Motorway",
+        "city": "Brittanyview",
+        "state": "Kansas",
+        "zip": "33510"
+    },
+    "contact": {
+        "phone": "483.918.8772",
+        "servicePhone": "800994741"
+    },
+    "birthday": "1997-19-12",
+    "ip": "77.156.39.0",
+    "foo": "bar",
+    "profile": {
+        "about": "You third seek no air. Middle wrong type ever example. Drug face meet night hot.\nFast long apply tell able contain blue. Run near down.",
+        "bio": "Eight go actually key dinner authority answer.\nSpecial word prove term perform also. Kid goal hard tonight college. Explain wind provide action visit fine behind."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
