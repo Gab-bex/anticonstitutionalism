@@ -1,0 +1,25 @@
+{
+    "name": "Sara Dominguez",
+    "age": 67,
+    "address": {
+        "street": "Christopher Groves",
+        "city": "West Nicoleland",
+        "state": "Florida",
+        "zip": "36394"
+    },
+    "contact": {
+        "phone": "245-333-4013",
+        "servicePhone": "800574677"
+    },
+    "birthday": "1958-12-08",
+    "ip": "89.211.94.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Low dream ask scientist citizen word her.\nLong authority town face share. Pretty dinner player generation.",
+        "bio": "Protect yet require.\nMatter last recent some yes whether station. Goal nothing week magazine apply middle design. Conference entire guy consumer shoulder leader."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
