@@ -1,0 +1,25 @@
+{
+    "name": "David Jones",
+    "age": 3,
+    "address": {
+        "street": "Blair Park",
+        "city": "North Julia",
+        "state": "New Mexico",
+        "zip": "46553"
+    },
+    "contact": {
+        "phone": "670-228-9376x4205",
+        "servicePhone": "800695394"
+    },
+    "birthday": "2022-01-09",
+    "ip": "72.32.164.97",
+    "foo": "bar",
+    "profile": {
+        "about": "These describe less class pass certain job. Note feeling service focus firm especially senior she.\nNational feeling approach market try. Yard term property coach measure.",
+        "bio": "Fill listen involve blue citizen kind. House guess above accept window other remain. Recognize deal none time understand and.\nOne lot season town accept ahead in court."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
