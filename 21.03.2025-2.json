@@ -1,0 +1,25 @@
+{
+    "name": "Christina Harris",
+    "age": 39,
+    "address": {
+        "street": "Lucas Parks",
+        "city": "Bradshawstad",
+        "state": "Louisiana",
+        "zip": "35756"
+    },
+    "contact": {
+        "phone": "(585)278-0977",
+        "servicePhone": "800520794"
+    },
+    "birthday": "1986-02-10",
+    "ip": "209.157.100.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize whatever eight strategy Mrs play available art. Program friend easy rate approach hour. Significant resource party discussion international.",
+        "bio": "Main certainly may case president if. Involve customer few generation director stuff give. Happen which professional kid.\nPoint report hit high. Remain create sort suffer."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
