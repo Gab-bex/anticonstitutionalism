@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Rogers",
+    "age": 24,
+    "address": {
+        "street": "Charlotte Forks",
+        "city": "North Peter",
+        "state": "Washington",
+        "zip": "27086"
+    },
+    "contact": {
+        "phone": "(750)518-8553x61073",
+        "servicePhone": "800531577"
+    },
+    "birthday": "2001-23-01",
+    "ip": "71.224.163.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge important state single could item. Edge treat compare value yeah. Available against store control enter.\nWish major more. High sure above behind true town support picture.",
+        "bio": "Media term economy together clear something lawyer. Television my customer join. Imagine teach start choice vote certain represent."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
