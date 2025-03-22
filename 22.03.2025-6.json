@@ -1,0 +1,25 @@
+{
+    "name": "Andre Patel",
+    "age": 83,
+    "address": {
+        "street": "Rebecca Circle",
+        "city": "Danielburgh",
+        "state": "Michigan",
+        "zip": "75626"
+    },
+    "contact": {
+        "phone": "556.994.4585x17318",
+        "servicePhone": "800948992"
+    },
+    "birthday": "1942-03-07",
+    "ip": "199.165.102.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss north across into. This newspaper people hundred information. Start however while entire control outside similar.",
+        "bio": "Animal finally along. Owner hot learn same research believe throughout key.\nServe dog the success by possible place maybe. Executive range responsibility call boy industry back."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
