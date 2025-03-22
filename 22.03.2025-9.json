@@ -1,0 +1,25 @@
+{
+    "name": "Brian Austin",
+    "age": 49,
+    "address": {
+        "street": "James Trafficway",
+        "city": "North Michaelberg",
+        "state": "Kansas",
+        "zip": "06502"
+    },
+    "contact": {
+        "phone": "+1-263-904-4045x661",
+        "servicePhone": "800972422"
+    },
+    "birthday": "1976-29-01",
+    "ip": "122.136.176.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Important half community feel. Often include while campaign TV. Serve them former Mrs where property.\nSection ball develop five. Agency whom husband table security last girl.",
+        "bio": "Could send low wait doctor discuss including. Produce case prepare treat full new man.\nProvide film different me. Fund information network buy his beat instead truth. Today himself town although."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
