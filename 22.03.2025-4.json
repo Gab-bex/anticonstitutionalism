@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Bailey",
+    "age": 106,
+    "address": {
+        "street": "Samuel Cliffs",
+        "city": "North Valeriefurt",
+        "state": "Nevada",
+        "zip": "76157"
+    },
+    "contact": {
+        "phone": "234-546-8373x46654",
+        "servicePhone": "800495516"
+    },
+    "birthday": "1919-19-04",
+    "ip": "153.219.70.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Class unit high age debate. Some serve interview throughout. Nor able meeting share skill group.",
+        "bio": "So as assume figure manage. Point find while stock address present onto peace.\nAnother shoulder land walk upon. Role until approach second vote contain mind. Free they last receive."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
