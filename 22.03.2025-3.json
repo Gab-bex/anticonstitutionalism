@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Park",
+    "age": 50,
+    "address": {
+        "street": "Patrick Ranch",
+        "city": "East Kyle",
+        "state": "Florida",
+        "zip": "70225"
+    },
+    "contact": {
+        "phone": "451-429-8699",
+        "servicePhone": "800291775"
+    },
+    "birthday": "1975-05-03",
+    "ip": "130.227.68.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind number executive any find. My know country call situation happy.\nAll national town. Leader international arrive official yeah machine. Be always find fear.",
+        "bio": "Open dog store. New sense happy happy old.\nSimply TV use determine within nearly stop. Team nothing hard happy. Training interesting job learn around. General boy both world not box fast away."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
