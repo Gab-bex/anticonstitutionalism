@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Smith",
+    "age": 21,
+    "address": {
+        "street": "Donna Inlet",
+        "city": "Mullenborough",
+        "state": "Pennsylvania",
+        "zip": "23273"
+    },
+    "contact": {
+        "phone": "605-297-4163",
+        "servicePhone": "800680661"
+    },
+    "birthday": "2004-25-11",
+    "ip": "75.195.146.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Center carry keep assume tend include. Position rock possible young.\nArticle candidate professional travel. Red society almost girl. American service TV cell certainly.",
+        "bio": "Share science street its dark writer. Position local just charge administration agent hundred girl. Hundred year various.\nDetermine age news grow."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
