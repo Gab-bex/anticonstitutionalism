@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Smith",
+    "age": 109,
+    "address": {
+        "street": "Allison Spring",
+        "city": "Ericmouth",
+        "state": "Idaho",
+        "zip": "40126"
+    },
+    "contact": {
+        "phone": "961-905-2759x477",
+        "servicePhone": "800569952"
+    },
+    "birthday": "1916-28-01",
+    "ip": "142.157.47.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Man able hotel follow. Author book difficult cup. If hand paper price artist not race either. Until part whether work art discover under.",
+        "bio": "Four need something character. Institution particularly woman doctor order.\nCurrent together Democrat sometimes anything. Happy raise current against gas public common."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
