@@ -1,0 +1,25 @@
+{
+    "name": "Mary Smith",
+    "age": 27,
+    "address": {
+        "street": "Reese Creek",
+        "city": "Aliciabury",
+        "state": "South Dakota",
+        "zip": "07080"
+    },
+    "contact": {
+        "phone": "310-555-4372x532",
+        "servicePhone": "800090690"
+    },
+    "birthday": "1998-23-10",
+    "ip": "82.63.102.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Movie indicate gas either amount home option. Protect somebody police health direction certain. Marriage central church.\nHigh much lead time and could those. Seek million popular.",
+        "bio": "Determine a I task imagine. Several better low lay cultural. Partner force green hot.\nBaby cultural activity bill key one. Student help small. Into boy meeting finish investment difference."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
