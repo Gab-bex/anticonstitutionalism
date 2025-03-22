@@ -1,0 +1,25 @@
+{
+    "name": "William Miller",
+    "age": 34,
+    "address": {
+        "street": "Richard Ranch",
+        "city": "North Shawn",
+        "state": "West Virginia",
+        "zip": "30347"
+    },
+    "contact": {
+        "phone": "(993)981-9429",
+        "servicePhone": "800407145"
+    },
+    "birthday": "1991-27-08",
+    "ip": "133.171.212.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection specific respond forward cost. Together model home bank person tonight suddenly mean. Surface sometimes herself teach.",
+        "bio": "Later key strategy natural item news nor. Expert matter education democratic.\nSkin difficult technology former future structure. Account hour local hit. Teach pattern prove blue."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
