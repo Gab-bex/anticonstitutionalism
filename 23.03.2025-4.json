@@ -1,0 +1,25 @@
+{
+    "name": "Erik Robinson",
+    "age": 115,
+    "address": {
+        "street": "Ashley Locks",
+        "city": "Perezhaven",
+        "state": "Kansas",
+        "zip": "11940"
+    },
+    "contact": {
+        "phone": "+1-333-852-5229x021",
+        "servicePhone": "800840225"
+    },
+    "birthday": "1910-03-06",
+    "ip": "88.58.146.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest political like do full charge almost factor. Heavy collection parent figure final cup forward. Although star use smile level.",
+        "bio": "Agree various film involve. Man ahead wear lose standard.\nAbility teach position interest point near share. South clear sport reach station single court health."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
