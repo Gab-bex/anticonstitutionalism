@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Romero",
+    "age": 79,
+    "address": {
+        "street": "Deborah Spur",
+        "city": "South Staceyland",
+        "state": "Vermont",
+        "zip": "13273"
+    },
+    "contact": {
+        "phone": "471-395-1043x5280",
+        "servicePhone": "800277384"
+    },
+    "birthday": "1946-09-06",
+    "ip": "140.164.79.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Enjoy figure quite training. These hit class system physical continue.\nNecessary difficult open though cost season. Indicate organization well cold man well tough.",
+        "bio": "Buy want we dream themselves usually. Then cold its sister. Especially station detail thus project.\nBusiness future energy buy note. Air build itself nothing. Whole of game least girl fact."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
