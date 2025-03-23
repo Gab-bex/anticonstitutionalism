@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline House",
+    "age": 15,
+    "address": {
+        "street": "George Expressway",
+        "city": "Lake Jennifer",
+        "state": "Washington",
+        "zip": "02954"
+    },
+    "contact": {
+        "phone": "876-549-8117x394",
+        "servicePhone": "800853000"
+    },
+    "birthday": "2010-09-04",
+    "ip": "49.206.152.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Best medical now agent strategy just agent economic. Can region way attorney later. Teach reflect less camera.",
+        "bio": "Agent put move. Society challenge true moment. In camera instead small attack language."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
