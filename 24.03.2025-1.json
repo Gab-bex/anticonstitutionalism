@@ -1,0 +1,25 @@
+{
+    "name": "Laurie Watson",
+    "age": 49,
+    "address": {
+        "street": "Alyssa Run",
+        "city": "Port Edward",
+        "state": "Indiana",
+        "zip": "97716"
+    },
+    "contact": {
+        "phone": "001-477-877-4979",
+        "servicePhone": "800044656"
+    },
+    "birthday": "1976-24-03",
+    "ip": "186.84.225.244",
+    "foo": "bar",
+    "profile": {
+        "about": "World notice training fund memory. Religious response health forget relationship. Simply out social agency one apply back open.",
+        "bio": "Tv challenge bag guy. Door play management action follow. Strategy discover range continue sometimes quality writer.\nNo billion son may imagine in. Most over production health."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
