@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Garcia",
+    "age": 58,
+    "address": {
+        "street": "Anna Greens",
+        "city": "Carpenterland",
+        "state": "Nebraska",
+        "zip": "51769"
+    },
+    "contact": {
+        "phone": "602.804.6308",
+        "servicePhone": "800440403"
+    },
+    "birthday": "1967-22-03",
+    "ip": "28.129.30.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Indicate agent risk.\nAlmost paper responsibility it modern picture similar indicate. Either your that crime chair set financial office. Beautiful response agreement rock very his represent.",
+        "bio": "Best someone break court. Or this throughout remember finish pattern manage.\nNorth prove school new citizen then always. Different present concern leg cover."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
