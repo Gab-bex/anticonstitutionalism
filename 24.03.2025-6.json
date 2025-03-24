@@ -1,0 +1,25 @@
+{
+    "name": "Eric Riddle",
+    "age": 58,
+    "address": {
+        "street": "Emily Circles",
+        "city": "East Toni",
+        "state": "Indiana",
+        "zip": "44234"
+    },
+    "contact": {
+        "phone": "950-423-1934x1310",
+        "servicePhone": "800556675"
+    },
+    "birthday": "1967-11-06",
+    "ip": "32.250.116.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural guy environment tough. Politics direction week.\nMy kitchen moment. Over another example pressure.\nNumber represent apply tell. News beautiful company know budget.",
+        "bio": "Already social not. Sense artist work what lot hot. Water use trial north situation state federal. Grow mouth participant pull whole."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
