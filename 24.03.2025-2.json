@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Fox",
+    "age": 6,
+    "address": {
+        "street": "Contreras Burg",
+        "city": "Toniside",
+        "state": "Iowa",
+        "zip": "65098"
+    },
+    "contact": {
+        "phone": "(357)767-3032x521",
+        "servicePhone": "800316585"
+    },
+    "birthday": "2019-26-11",
+    "ip": "220.155.136.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Thing language past involve low rock institution grow. Nor worker police experience learn professional.\nExist couple standard. Statement according public.",
+        "bio": "Give itself American amount bank. Land run current movie foot.\nSell word national low in. Imagine account member tree."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
