@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth King",
+    "age": 55,
+    "address": {
+        "street": "Thornton Park",
+        "city": "South Williamberg",
+        "state": "North Dakota",
+        "zip": "87220"
+    },
+    "contact": {
+        "phone": "(916)539-5869",
+        "servicePhone": "800897137"
+    },
+    "birthday": "1970-20-04",
+    "ip": "187.70.63.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Teach leader miss. Effort visit affect. Source understand food everything grow area evidence total.\nWord which question travel night certain imagine. Hear purpose shoulder argue truth also arrive.",
+        "bio": "Success without others quickly society subject why. Anything manage Congress significant same purpose against. Above seat wish enter purpose enter."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
