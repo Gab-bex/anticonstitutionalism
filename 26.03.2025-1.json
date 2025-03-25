@@ -1,0 +1,25 @@
+{
+    "name": "Rita Robbins",
+    "age": 24,
+    "address": {
+        "street": "Julia Harbors",
+        "city": "West Kelly",
+        "state": "Virginia",
+        "zip": "79784"
+    },
+    "contact": {
+        "phone": "332-514-9792x3220",
+        "servicePhone": "800342637"
+    },
+    "birthday": "2001-20-01",
+    "ip": "88.80.114.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive if role employee in. Boy prevent real dark east.",
+        "bio": "Let trial face develop baby let site. Property enter smile expert election. Beautiful indicate task travel say.\nRemain measure left ever maintain. Approach surface body key scientist."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
