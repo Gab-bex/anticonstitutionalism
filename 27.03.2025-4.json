@@ -1,0 +1,25 @@
+{
+    "name": "Tina Owens",
+    "age": 15,
+    "address": {
+        "street": "Julie Pines",
+        "city": "Port Natashastad",
+        "state": "Louisiana",
+        "zip": "11668"
+    },
+    "contact": {
+        "phone": "001-497-466-2814x0751",
+        "servicePhone": "800489684"
+    },
+    "birthday": "2010-16-08",
+    "ip": "72.248.153.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult down home find. Team just quickly consider minute expert stock.\nKitchen a east. Understand simple quality paper will write.",
+        "bio": "Once value nothing better father politics agree. Letter Mrs play bed step this. Sport relationship strategy source point show threat."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
