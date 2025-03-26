@@ -1,0 +1,25 @@
+{
+    "name": "Karina Shannon",
+    "age": 7,
+    "address": {
+        "street": "Cline Corner",
+        "city": "Willieview",
+        "state": "New Jersey",
+        "zip": "60624"
+    },
+    "contact": {
+        "phone": "666-876-7840x19538",
+        "servicePhone": "800637960"
+    },
+    "birthday": "2018-28-12",
+    "ip": "132.7.181.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Page recent tend ever although. Never meeting free central detail marriage.\nBoard thought modern car step ask Democrat. Term item adult daughter tell her.",
+        "bio": "Former second environmental for movie lawyer growth clear. Consumer reveal physical simple technology rate teacher. Away without work."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
