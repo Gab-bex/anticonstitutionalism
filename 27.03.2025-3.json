@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Rojas",
+    "age": 82,
+    "address": {
+        "street": "Jason Way",
+        "city": "Hunttown",
+        "state": "South Carolina",
+        "zip": "67800"
+    },
+    "contact": {
+        "phone": "601-776-4122x29769",
+        "servicePhone": "800455243"
+    },
+    "birthday": "1943-31-01",
+    "ip": "150.49.106.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Bring opportunity town effort religious policy set value. Exactly tonight safe last especially wife. Above phone executive explain yet forward car future.",
+        "bio": "Southern here skin outside single maintain would.\nFall then although practice. Store discuss particular though reflect scientist.\nFloor provide land long help. Trial son wonder."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
