@@ -1,0 +1,25 @@
+{
+    "name": "Barry Smith",
+    "age": 94,
+    "address": {
+        "street": "Marco Divide",
+        "city": "Maryport",
+        "state": "Colorado",
+        "zip": "58500"
+    },
+    "contact": {
+        "phone": "734-568-5800x179",
+        "servicePhone": "800358106"
+    },
+    "birthday": "1931-24-12",
+    "ip": "156.209.117.32",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning until week trip. Today next save cell. Two society bring game audience himself later.\nTalk likely hit draw. Might special sound industry not travel. Language many employee beautiful first.",
+        "bio": "Reality wall enough about. Follow site owner bring. Heart create another name join begin long. Star several stuff better."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
