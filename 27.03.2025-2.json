@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Schaefer",
+    "age": 6,
+    "address": {
+        "street": "James Fields",
+        "city": "Port Richardton",
+        "state": "North Carolina",
+        "zip": "97741"
+    },
+    "contact": {
+        "phone": "+1-313-919-2629",
+        "servicePhone": "800281233"
+    },
+    "birthday": "2019-21-07",
+    "ip": "191.191.72.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Manager eat pretty institution. Movement heart reflect development against question back land. Unit force way end.",
+        "bio": "Network child condition what fish. Control capital dinner employee teacher.\nRecent professor fish always shake seat into. Outside believe PM art benefit."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
