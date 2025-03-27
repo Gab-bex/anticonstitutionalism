@@ -1,0 +1,25 @@
+{
+    "name": "Nichole Wyatt",
+    "age": 58,
+    "address": {
+        "street": "April Wells",
+        "city": "Wesleybury",
+        "state": "Georgia",
+        "zip": "24299"
+    },
+    "contact": {
+        "phone": "954-353-5967x247",
+        "servicePhone": "800529498"
+    },
+    "birthday": "1967-14-10",
+    "ip": "134.84.58.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Brother small day more. Ball measure window amount. Hold spend military.\nNews type yard no officer speak. Compare author off like can. Listen relationship exactly need voice.",
+        "bio": "Thing per several. Assume yourself these actually the expect.\nPower sense not north some open participant. Local law care daughter however."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
