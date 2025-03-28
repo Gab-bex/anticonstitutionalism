@@ -1,0 +1,25 @@
+{
+    "name": "Robert Schneider",
+    "age": 111,
+    "address": {
+        "street": "Zuniga Underpass",
+        "city": "Rayville",
+        "state": "Illinois",
+        "zip": "70143"
+    },
+    "contact": {
+        "phone": "001-901-607-5336",
+        "servicePhone": "800222519"
+    },
+    "birthday": "1914-22-06",
+    "ip": "106.101.31.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Plan fine day sit. Turn health simple dog sort her. Effect our property turn cause.\nDo become become society. Build stay foreign way black meeting.",
+        "bio": "Relationship feeling bar section authority manage. Rule social news watch. Fine forget hundred rock candidate.\nContinue care per admit material money sell."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
