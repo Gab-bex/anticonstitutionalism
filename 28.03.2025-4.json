@@ -1,0 +1,25 @@
+{
+    "name": "John George",
+    "age": 79,
+    "address": {
+        "street": "Huff Common",
+        "city": "North Stephanie",
+        "state": "Louisiana",
+        "zip": "04560"
+    },
+    "contact": {
+        "phone": "+1-869-964-1780x138",
+        "servicePhone": "800828540"
+    },
+    "birthday": "1946-10-09",
+    "ip": "93.147.70.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Wife finally yet enjoy again anyone. Up deal fund he interview. Fund watch medical.",
+        "bio": "Tough woman gas southern year total.\nSecond seat recognize goal market. Car hard fall example party term each.\nWar imagine sort necessary quickly scene upon."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
