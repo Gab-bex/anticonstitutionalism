@@ -1,0 +1,25 @@
+{
+    "name": "Susan Moore",
+    "age": 72,
+    "address": {
+        "street": "Hart Wall",
+        "city": "Wallsside",
+        "state": "Kentucky",
+        "zip": "80547"
+    },
+    "contact": {
+        "phone": "(863)947-4252",
+        "servicePhone": "800416827"
+    },
+    "birthday": "1953-19-07",
+    "ip": "104.173.116.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Clearly reason seat executive north present. Course ago able door nearly.\nStay chair very red police. Big yet international even.",
+        "bio": "Turn kid couple.\nGlass coach woman teacher side half. Remain guess concern community face least rise. Hot away enter rule professor.\nSort wear be smile number."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
