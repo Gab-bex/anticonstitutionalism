@@ -1,0 +1,25 @@
+{
+    "name": "Eric Sanchez",
+    "age": 46,
+    "address": {
+        "street": "Garcia Flats",
+        "city": "Smithberg",
+        "state": "West Virginia",
+        "zip": "25678"
+    },
+    "contact": {
+        "phone": "001-400-583-8645x64992",
+        "servicePhone": "800935978"
+    },
+    "birthday": "1979-16-09",
+    "ip": "197.223.237.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Far draw develop read administration manage. Avoid among deep during name which. Quite bit conference gun. Still surface security through three six kind.",
+        "bio": "Cause level father affect first. Him put floor item. Serious foreign one they.\nFill drop true point.\nBest spring start happy. Sit ground conference rise another. Animal whom finally daughter."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
