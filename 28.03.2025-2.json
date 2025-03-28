@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Dyer",
+    "age": 30,
+    "address": {
+        "street": "Kim Stravenue",
+        "city": "Raymondfort",
+        "state": "Colorado",
+        "zip": "18110"
+    },
+    "contact": {
+        "phone": "(450)564-8255",
+        "servicePhone": "800859422"
+    },
+    "birthday": "1995-30-10",
+    "ip": "182.241.128.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Item PM describe draw issue break defense. Pressure bar type turn whether.\nHerself cup meet write purpose church sometimes late. Forget tax well. Also window garden provide wife.",
+        "bio": "Week value hotel property idea blood. Feel least writer whether add left notice painting.\nSound population feeling through similar Mr."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
