@@ -1,0 +1,25 @@
+{
+    "name": "Robert Martin",
+    "age": 0,
+    "address": {
+        "street": "Brady Manor",
+        "city": "East Jennifer",
+        "state": "Idaho",
+        "zip": "50273"
+    },
+    "contact": {
+        "phone": "+1-491-880-7515",
+        "servicePhone": "800281769"
+    },
+    "birthday": "2025-05-02",
+    "ip": "1.137.94.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Service goal security to without. Matter not among inside political talk.\nFind occur treatment attack. Mouth American fear decision buy team. Writer its task lose none partner.",
+        "bio": "Drive office today alone according wrong I challenge. Product than catch product language now close. Only west anything late. Big may hotel experience."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
