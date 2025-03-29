@@ -1,0 +1,25 @@
+{
+    "name": "Christine Gardner",
+    "age": 108,
+    "address": {
+        "street": "Richard Lock",
+        "city": "South Tony",
+        "state": "Washington",
+        "zip": "56203"
+    },
+    "contact": {
+        "phone": "(438)948-2446x32527",
+        "servicePhone": "800908001"
+    },
+    "birthday": "1917-30-04",
+    "ip": "148.95.61.137",
+    "foo": "bar",
+    "profile": {
+        "about": "If drive idea summer. Bank order operation second really. Right police trouble history politics according.",
+        "bio": "In national meeting bag. Church enter way medical.\nPartner or hear chance training. Under expect ok walk wide operation authority quickly. Note compare range kind commercial simply."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
