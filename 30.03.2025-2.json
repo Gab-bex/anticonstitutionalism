@@ -1,0 +1,25 @@
+{
+    "name": "Henry Long",
+    "age": 43,
+    "address": {
+        "street": "Joshua Knoll",
+        "city": "New Victoriahaven",
+        "state": "Hawaii",
+        "zip": "54848"
+    },
+    "contact": {
+        "phone": "496.555.1195",
+        "servicePhone": "800181480"
+    },
+    "birthday": "1982-02-10",
+    "ip": "18.196.51.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Assume throughout his full.\nClose article election price coach enjoy someone. Street finish morning movie. Two prove land best again human agree.",
+        "bio": "Space successful development report artist. Grow myself last official air.\nSong nice lead design particular table seek. Gas near picture response foreign project. Hold bit marriage cup."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
