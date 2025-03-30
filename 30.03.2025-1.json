@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Lee",
+    "age": 85,
+    "address": {
+        "street": "Mendoza Valley",
+        "city": "New Amandastad",
+        "state": "Colorado",
+        "zip": "40326"
+    },
+    "contact": {
+        "phone": "(816)556-4198",
+        "servicePhone": "800000635"
+    },
+    "birthday": "1940-02-05",
+    "ip": "195.27.196.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Note rather station side listen action myself. Would including draw determine.\nPartner road them heart. Discussion responsibility reason economy see number owner. Under full yes short phone leave.",
+        "bio": "Under interest energy face.\nAge social until himself stop research fire. Cup not subject picture choose gun. Social education get give speak bill daughter."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
