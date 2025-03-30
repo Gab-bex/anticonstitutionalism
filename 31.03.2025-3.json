@@ -1,0 +1,25 @@
+{
+    "name": "David Cox",
+    "age": 58,
+    "address": {
+        "street": "Clark Isle",
+        "city": "Lifurt",
+        "state": "Ohio",
+        "zip": "85969"
+    },
+    "contact": {
+        "phone": "(384)524-3263x4694",
+        "servicePhone": "800353270"
+    },
+    "birthday": "1967-08-05",
+    "ip": "101.26.4.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Reflect like management result federal figure measure. Century family quite consumer total clear. Day what quite item compare finally training.",
+        "bio": "Soldier center plant several father American. Amount would door seek party again."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
