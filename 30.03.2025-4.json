@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Colon",
+    "age": 8,
+    "address": {
+        "street": "Anderson Roads",
+        "city": "Port Nicholasmouth",
+        "state": "Missouri",
+        "zip": "04050"
+    },
+    "contact": {
+        "phone": "001-817-755-7817x691",
+        "servicePhone": "800572093"
+    },
+    "birthday": "2017-10-12",
+    "ip": "191.161.7.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Never blue size morning. Entire whatever rule. Benefit under argue professional.\nWhose same health artist. Stage direction marriage.",
+        "bio": "Explain writer because suffer. Perhaps argue ground. Stay local smile manager position physical."
+    },
+    "currency": [
+        "TJS",
+        "Tajikistani somoni"
+    ]
+}
