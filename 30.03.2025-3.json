@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Mason",
+    "age": 32,
+    "address": {
+        "street": "Brooke Lock",
+        "city": "Karenhaven",
+        "state": "Colorado",
+        "zip": "08960"
+    },
+    "contact": {
+        "phone": "+1-214-745-3013x91398",
+        "servicePhone": "800813912"
+    },
+    "birthday": "1993-16-11",
+    "ip": "149.115.35.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat strategy wish. Head let well teach resource.\nSchool group clearly red step. Require sound lawyer fine close measure economy.",
+        "bio": "Significant light force PM team out positive. So else hair yard team pass Mr difference."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
