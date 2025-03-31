@@ -1,0 +1,25 @@
+{
+    "name": "Laura Dean",
+    "age": 102,
+    "address": {
+        "street": "Neal Fords",
+        "city": "Lake Stevenshire",
+        "state": "Maine",
+        "zip": "92827"
+    },
+    "contact": {
+        "phone": "+1-847-967-7444x59691",
+        "servicePhone": "800108630"
+    },
+    "birthday": "1923-03-05",
+    "ip": "46.47.58.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Fear note part laugh model development series. Can make member prepare pay newspaper rise development. Social black need push pass him listen director.",
+        "bio": "Forget up eye control executive. Easy fight building human example. Present general best cultural trade involve pick require. Go run fire begin body."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
