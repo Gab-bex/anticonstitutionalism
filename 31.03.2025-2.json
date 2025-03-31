@@ -1,0 +1,25 @@
+{
+    "name": "Susan Robertson",
+    "age": 43,
+    "address": {
+        "street": "Bryan Islands",
+        "city": "New Michaelton",
+        "state": "South Carolina",
+        "zip": "18493"
+    },
+    "contact": {
+        "phone": "(449)529-7526x46719",
+        "servicePhone": "800566627"
+    },
+    "birthday": "1982-22-11",
+    "ip": "114.33.156.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind various increase beautiful remain two technology about. Fire name suffer local instead she.\nWind return society. Energy air member fill. Air today shoulder.",
+        "bio": "Point gun lawyer data. Part sport food opportunity news.\nSpeech provide ground old rise near her economic.\nSpecial apply although bill operation more professional. Process computer per effort."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
