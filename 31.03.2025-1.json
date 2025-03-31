@@ -1,0 +1,25 @@
+{
+    "name": "Vincent Pace",
+    "age": 17,
+    "address": {
+        "street": "Pierce Mission",
+        "city": "Wrightshire",
+        "state": "Illinois",
+        "zip": "77560"
+    },
+    "contact": {
+        "phone": "(786)200-4962",
+        "servicePhone": "800063462"
+    },
+    "birthday": "2008-20-03",
+    "ip": "49.38.122.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency suggest activity worry. Then four box class. Public newspaper many professor enjoy.\nLot technology about name event rate. First animal Congress.",
+        "bio": "Test continue while affect together ten everyone. Summer much audience view poor. Recognize statement science us process effort treatment."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
