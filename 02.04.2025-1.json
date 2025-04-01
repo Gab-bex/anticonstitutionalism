@@ -1,0 +1,25 @@
+{
+    "name": "Tammie King",
+    "age": 42,
+    "address": {
+        "street": "Kevin Fields",
+        "city": "West Robertchester",
+        "state": "Massachusetts",
+        "zip": "38779"
+    },
+    "contact": {
+        "phone": "(716)543-9682x79254",
+        "servicePhone": "800940479"
+    },
+    "birthday": "1983-10-08",
+    "ip": "78.23.196.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Job tend suggest. Rich American law serious different.\nMorning long poor. Town onto low four. Former summer go wind.\nRange account black report drop form. End blood system around military offer.",
+        "bio": "Media water opportunity miss.\nAny large pull address maintain ok. Career may drug shoulder. Scientist return want air tough challenge."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
