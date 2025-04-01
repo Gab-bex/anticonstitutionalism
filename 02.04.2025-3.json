@@ -1,0 +1,25 @@
+{
+    "name": "Debra Baxter",
+    "age": 52,
+    "address": {
+        "street": "Trevor Brook",
+        "city": "South Sherryshire",
+        "state": "North Carolina",
+        "zip": "67311"
+    },
+    "contact": {
+        "phone": "(841)988-1381",
+        "servicePhone": "800070295"
+    },
+    "birthday": "1973-12-07",
+    "ip": "130.7.176.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Time plant notice movie any room. Common same firm professional sure.\nMaintain policy put term. Myself reveal leg.\nRecord industry believe explain help. Finish color carry finish couple billion.",
+        "bio": "Reach chair former though actually listen. Project happen tax agency including particularly leg."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
