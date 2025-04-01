@@ -1,0 +1,25 @@
+{
+    "name": "Marcus Hendricks",
+    "age": 108,
+    "address": {
+        "street": "Collins Square",
+        "city": "North Marcus",
+        "state": "Arizona",
+        "zip": "44204"
+    },
+    "contact": {
+        "phone": "853-560-4047",
+        "servicePhone": "800164223"
+    },
+    "birthday": "1917-14-04",
+    "ip": "112.5.41.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Red scene authority find record. Rather child response stop program way improve. Mrs yeah local land eight court trip.",
+        "bio": "Even ever take nature. Word information pull buy.\nEmployee notice heavy tree threat term short. Keep community bar practice argue instead speak something."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
