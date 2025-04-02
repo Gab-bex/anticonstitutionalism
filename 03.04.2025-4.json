@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Wells",
+    "age": 107,
+    "address": {
+        "street": "Berg Parkways",
+        "city": "Mcintyreport",
+        "state": "Connecticut",
+        "zip": "10579"
+    },
+    "contact": {
+        "phone": "001-434-515-7980x5383",
+        "servicePhone": "800581929"
+    },
+    "birthday": "1918-19-12",
+    "ip": "142.20.99.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Herself scientist most or health manager. Skin form address difference.\nGlass laugh think public here recent enough. Collection simply such school focus six same. State rest skin business.",
+        "bio": "Art who and full worker. Compare pressure why address but gas education. No true wide bag environment them turn."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
