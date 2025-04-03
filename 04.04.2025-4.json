@@ -1,0 +1,25 @@
+{
+    "name": "Jared Singh",
+    "age": 56,
+    "address": {
+        "street": "Ortiz Valley",
+        "city": "East Paulborough",
+        "state": "Alabama",
+        "zip": "32749"
+    },
+    "contact": {
+        "phone": "9467522083",
+        "servicePhone": "800313910"
+    },
+    "birthday": "1969-06-11",
+    "ip": "85.167.184.90",
+    "foo": "bar",
+    "profile": {
+        "about": "Important close within picture force arrive. Small nice themselves image. Among nothing from scientist southern phone.\nWear center develop. Player travel media once out.",
+        "bio": "Cover instead place arm child detail. Forward address pick coach sea candidate wear. Food skill opportunity."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
