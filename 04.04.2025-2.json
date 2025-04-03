@@ -1,0 +1,25 @@
+{
+    "name": "Christina White",
+    "age": 12,
+    "address": {
+        "street": "Bell Lakes",
+        "city": "New Christopher",
+        "state": "Rhode Island",
+        "zip": "81267"
+    },
+    "contact": {
+        "phone": "+1-797-667-2935x77254",
+        "servicePhone": "800427347"
+    },
+    "birthday": "2013-11-01",
+    "ip": "177.190.49.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Fly data modern serious. Off according campaign about box two section.\nSomeone his simple treatment. Allow least thousand fast get often nor.\nWest part under television visit knowledge.",
+        "bio": "Movie last as still believe notice. Purpose example build home tough do perhaps.\nResearch population chair feel remember raise sport travel. List risk upon line common arrive meeting. One of tend."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
