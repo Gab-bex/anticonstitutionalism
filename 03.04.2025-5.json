@@ -1,0 +1,25 @@
+{
+    "name": "Joel Bentley",
+    "age": 49,
+    "address": {
+        "street": "Bradshaw Light",
+        "city": "Guerrerochester",
+        "state": "Texas",
+        "zip": "90165"
+    },
+    "contact": {
+        "phone": "399.473.5782x4743",
+        "servicePhone": "800476200"
+    },
+    "birthday": "1976-15-08",
+    "ip": "52.187.140.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Trouble seek include town person message someone contain. Reveal treatment agreement agency another television training.",
+        "bio": "Leave identify audience. Environmental place final mean. Film its affect especially do accept."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
