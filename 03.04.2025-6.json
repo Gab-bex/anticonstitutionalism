@@ -1,0 +1,25 @@
+{
+    "name": "Lynn Jones",
+    "age": 112,
+    "address": {
+        "street": "Smith Ports",
+        "city": "Stephenstad",
+        "state": "Wisconsin",
+        "zip": "06674"
+    },
+    "contact": {
+        "phone": "747.800.9510x89392",
+        "servicePhone": "800178438"
+    },
+    "birthday": "1913-18-10",
+    "ip": "48.148.40.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Let next social month house. Not decide current do step affect. System doctor name.\nHappy however letter common partner Republican coach material. Member what weight could.",
+        "bio": "This discussion keep institution data skill huge once. Company concern decade far wish middle. Ten them service."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
