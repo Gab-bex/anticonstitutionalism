@@ -1,0 +1,25 @@
+{
+    "name": "David Gibbs",
+    "age": 98,
+    "address": {
+        "street": "Zachary Ford",
+        "city": "Elliottfurt",
+        "state": "Maine",
+        "zip": "21145"
+    },
+    "contact": {
+        "phone": "280.875.3532x645",
+        "servicePhone": "800305054"
+    },
+    "birthday": "1927-28-06",
+    "ip": "38.220.92.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Food local rock happy dream feeling lead.\nEither set media really discussion newspaper. Tree talk property pay in writer.",
+        "bio": "Need party thousand follow which.\nCommercial relate government treat song claim. Until entire add street."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
