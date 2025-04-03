@@ -1,0 +1,25 @@
+{
+    "name": "Scott York",
+    "age": 57,
+    "address": {
+        "street": "Reese Unions",
+        "city": "Robinchester",
+        "state": "Georgia",
+        "zip": "84880"
+    },
+    "contact": {
+        "phone": "(385)275-5696",
+        "servicePhone": "800346738"
+    },
+    "birthday": "1968-28-02",
+    "ip": "31.166.203.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Across popular nature on. Which as loss special weight require.\nIts treatment offer actually boy industry against. Court share could ball lawyer fill.",
+        "bio": "Language oil property six minute. Soon true former area above discover. Defense magazine product little opportunity find."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
