@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Alvarez",
+    "age": 101,
+    "address": {
+        "street": "Stout Union",
+        "city": "Jacobchester",
+        "state": "South Carolina",
+        "zip": "28415"
+    },
+    "contact": {
+        "phone": "001-336-368-9481x21443",
+        "servicePhone": "800109947"
+    },
+    "birthday": "1924-21-01",
+    "ip": "76.123.14.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Smile generation focus either end to eat. Everything management arm board spring father so always. Health model those fire. Small media prevent letter.",
+        "bio": "Tonight particular western class. Left might possible tonight person few. Realize total break especially.\nPrice return common seek president toward."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
