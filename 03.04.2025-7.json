@@ -1,0 +1,25 @@
+{
+    "name": "Anita Phillips",
+    "age": 1,
+    "address": {
+        "street": "Davis Ports",
+        "city": "West Thomas",
+        "state": "Idaho",
+        "zip": "48617"
+    },
+    "contact": {
+        "phone": "+1-797-903-3577x079",
+        "servicePhone": "800376900"
+    },
+    "birthday": "2024-03-10",
+    "ip": "37.55.76.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Dog stop home land let increase force. Address prove continue know decide hand site. Never recently structure none side.",
+        "bio": "Evening interesting idea campaign. Rest often relationship crime of town single."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
