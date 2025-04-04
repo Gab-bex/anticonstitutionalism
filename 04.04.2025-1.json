@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Charles Shaw",
+    "age": 93,
+    "address": {
+        "street": "Little Fall",
+        "city": "Conniehaven",
+        "state": "Washington",
+        "zip": "48593"
+    },
+    "contact": {
+        "phone": "+1-908-885-1743x21924",
+        "servicePhone": "800243179"
+    },
+    "birthday": "1932-21-12",
+    "ip": "50.239.195.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Military onto you real. Well question want every Mrs enjoy. Team every support other think.\nTrade nation whose according enough. Charge heavy before arm or.",
+        "bio": "Citizen into become the public history. Prepare establish television.\nIdea couple cold itself know certainly possible before. Wide son deal both foreign off positive."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
