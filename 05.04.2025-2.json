@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Moore",
+    "age": 64,
+    "address": {
+        "street": "Lindsey Common",
+        "city": "Lake Natasha",
+        "state": "Virginia",
+        "zip": "09865"
+    },
+    "contact": {
+        "phone": "513-427-4536",
+        "servicePhone": "800604841"
+    },
+    "birthday": "1961-21-08",
+    "ip": "113.141.26.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Cold use agreement skin. Little administration use picture.\nTogether month red politics process pull make. Them special those you approach raise.",
+        "bio": "Believe your among past support actually camera. Team cup provide quality coach.\nLater base history fill free believe now."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
