@@ -1,0 +1,25 @@
+{
+    "name": "Stacey Martin",
+    "age": 94,
+    "address": {
+        "street": "Ronald Ports",
+        "city": "New Heathermouth",
+        "state": "New Jersey",
+        "zip": "07727"
+    },
+    "contact": {
+        "phone": "(220)511-9720x936",
+        "servicePhone": "800517689"
+    },
+    "birthday": "1931-21-12",
+    "ip": "55.250.106.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Move visit full tell case. Southern word page wind what.",
+        "bio": "Light indicate new lose boy firm tend first. Upon professional whatever best several.\nArt bad particular. Sure yard grow even foot sound.\nHotel fast beat trip. Under really according PM."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
