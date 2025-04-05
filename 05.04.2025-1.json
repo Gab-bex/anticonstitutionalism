@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Wilcox",
+    "age": 44,
+    "address": {
+        "street": "Adams Manors",
+        "city": "East James",
+        "state": "Pennsylvania",
+        "zip": "67430"
+    },
+    "contact": {
+        "phone": "(853)907-5648x82805",
+        "servicePhone": "800143453"
+    },
+    "birthday": "1981-01-10",
+    "ip": "109.7.203.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Similar about drop service eight over social. Education recognize information adult consumer analysis. Time full approach pattern strategy.\nSkill drive discuss soldier recently church.",
+        "bio": "Add office not his may no animal. Garden catch trade sure hand. Question lay address."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
