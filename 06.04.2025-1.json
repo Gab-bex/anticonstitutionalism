@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Jackson",
+    "age": 89,
+    "address": {
+        "street": "Green Extension",
+        "city": "New Jorge",
+        "state": "Wyoming",
+        "zip": "74205"
+    },
+    "contact": {
+        "phone": "9539439872",
+        "servicePhone": "800921860"
+    },
+    "birthday": "1936-23-12",
+    "ip": "140.77.182.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Page lose age. Floor simple audience life life part discuss voice. Let matter remain pull thing itself.",
+        "bio": "Animal public particular Mr. Throw argue successful interview run address.\nLearn company stop story onto. Successful structure company ok beautiful indeed spring. But heavy career thus."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
