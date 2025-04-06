@@ -1,0 +1,25 @@
+{
+    "name": "Mary Bowers",
+    "age": 35,
+    "address": {
+        "street": "Brett Terrace",
+        "city": "South Christinahaven",
+        "state": "Oregon",
+        "zip": "95208"
+    },
+    "contact": {
+        "phone": "+1-809-498-3574x25747",
+        "servicePhone": "800968664"
+    },
+    "birthday": "1990-22-03",
+    "ip": "157.1.132.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Several deal may today town shoulder. News floor each sit respond.\nType course at second generation black nor. Attorney behind blue when attorney show center six.",
+        "bio": "Seven use size risk. Economy interesting I city sign describe notice."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
