@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Washington",
+    "age": 64,
+    "address": {
+        "street": "Reyes Fords",
+        "city": "Port Robertport",
+        "state": "New Mexico",
+        "zip": "87615"
+    },
+    "contact": {
+        "phone": "419-972-8475x88087",
+        "servicePhone": "800063442"
+    },
+    "birthday": "1961-02-06",
+    "ip": "69.61.18.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy strategy he resource respond. It turn conference ever another color media although. Seat our bed style page.",
+        "bio": "Fire especially again beyond now. Budget hospital stuff name. Arm majority but participant wrong.\nLevel year state open break. Election author camera game where."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
