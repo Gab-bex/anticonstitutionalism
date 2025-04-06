@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Marshall",
+    "age": 11,
+    "address": {
+        "street": "Davis Hills",
+        "city": "Dianashire",
+        "state": "Indiana",
+        "zip": "39618"
+    },
+    "contact": {
+        "phone": "871-562-7576x717",
+        "servicePhone": "800792572"
+    },
+    "birthday": "2014-30-04",
+    "ip": "178.39.218.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Language away speak. Three everything consider end. Leave yourself letter society both world.\nOpen must remember data. North my hair seem important professional explain.",
+        "bio": "Woman cost include team. War soldier no area market increase.\nBudget visit early society soldier know who. Hit recent paper myself future true operation."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
