@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Mcgee",
+    "age": 115,
+    "address": {
+        "street": "Gloria Lane",
+        "city": "Port Kathrynborough",
+        "state": "Pennsylvania",
+        "zip": "38774"
+    },
+    "contact": {
+        "phone": "001-777-969-6008x41207",
+        "servicePhone": "800402290"
+    },
+    "birthday": "1910-24-12",
+    "ip": "87.78.214.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Position page fight almost check herself tough scientist. Myself food child catch speak likely party.",
+        "bio": "Generation others American nearly. Hospital suggest even fine into actually energy.\nBig until financial sign magazine evening today."
+    },
+    "currency": [
+        "SDG",
+        "Sudanese pound"
+    ]
+}
