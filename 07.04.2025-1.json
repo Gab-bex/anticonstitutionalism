@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Brown",
+    "age": 97,
+    "address": {
+        "street": "Krueger Light",
+        "city": "Priscillaside",
+        "state": "Oregon",
+        "zip": "14126"
+    },
+    "contact": {
+        "phone": "(779)205-8789",
+        "servicePhone": "800487347"
+    },
+    "birthday": "1928-31-10",
+    "ip": "39.151.241.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Hold turn pick inside visit. Probably less certainly back throughout admit.",
+        "bio": "Pick next per back away manage morning.\nWhich before pretty just evening affect food. Lead relate bank color hospital character."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
