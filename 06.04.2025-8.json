@@ -1,0 +1,25 @@
+{
+    "name": "James Johnson DVM",
+    "age": 29,
+    "address": {
+        "street": "Williams Inlet",
+        "city": "South Kayla",
+        "state": "South Dakota",
+        "zip": "16485"
+    },
+    "contact": {
+        "phone": "(353)889-0636x37940",
+        "servicePhone": "800843308"
+    },
+    "birthday": "1996-31-07",
+    "ip": "170.201.62.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Federal agreement allow woman southern professor likely establish. Continue however particular race. Social subject benefit goal take.",
+        "bio": "Order response television within. Here note none season candidate. Yeah care others long soldier wall."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
