@@ -1,0 +1,25 @@
+{
+    "name": "Steven Golden",
+    "age": 109,
+    "address": {
+        "street": "Peterson Radial",
+        "city": "Veronicastad",
+        "state": "Kansas",
+        "zip": "96857"
+    },
+    "contact": {
+        "phone": "+1-382-267-9384x923",
+        "servicePhone": "800612649"
+    },
+    "birthday": "1916-20-09",
+    "ip": "27.200.221.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Long during history couple respond not if structure. Month from mention show mother author.\nJoin environment growth early. Fill month these change.",
+        "bio": "Most young almost pick author wear worker. Civil consumer simple head available feeling. Head must teacher play."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
