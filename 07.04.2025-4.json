@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Christopher Williamson",
+    "age": 51,
+    "address": {
+        "street": "Ray Plaza",
+        "city": "Tinaview",
+        "state": "North Dakota",
+        "zip": "12902"
+    },
+    "contact": {
+        "phone": "001-979-995-9431x878",
+        "servicePhone": "800155846"
+    },
+    "birthday": "1974-30-05",
+    "ip": "10.115.184.190",
+    "foo": "bar",
+    "profile": {
+        "about": "Ten forget television huge form. Message article message three our try.\nMission behind trade heavy you. Mother enjoy Congress style.",
+        "bio": "Focus tree choose trade two white interest. Race full prove hotel. At increase teach herself claim have remain word. School business card capital have responsibility list."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
