@@ -1,0 +1,25 @@
+{
+    "name": "Darin Guzman",
+    "age": 32,
+    "address": {
+        "street": "Bennett Mill",
+        "city": "New Jodifort",
+        "state": "Missouri",
+        "zip": "51829"
+    },
+    "contact": {
+        "phone": "417-618-3525x4838",
+        "servicePhone": "800483364"
+    },
+    "birthday": "1993-22-12",
+    "ip": "13.155.134.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice federal wonder ask research. Specific language woman trouble stock just light. Environmental single cold maybe sing look.",
+        "bio": "Serious page accept red sometimes choose growth statement. Ago group explain marriage. Four participant method modern."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
