@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Miles",
+    "age": 73,
+    "address": {
+        "street": "Jamie Burgs",
+        "city": "North Loriport",
+        "state": "Iowa",
+        "zip": "47864"
+    },
+    "contact": {
+        "phone": "001-601-754-3601x08106",
+        "servicePhone": "800241030"
+    },
+    "birthday": "1952-13-07",
+    "ip": "76.21.4.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Area lay high big similar meeting computer.\nBeat voice it truth capital. Feeling put movement his policy cultural bad. Thousand than stay where center have.",
+        "bio": "White today always add create. Provide role consumer. General especially half yourself represent.\nLong would consider to training challenge see win."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
