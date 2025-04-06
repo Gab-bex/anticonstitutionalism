@@ -1,0 +1,25 @@
+{
+    "name": "Isaiah Fischer",
+    "age": 87,
+    "address": {
+        "street": "Smith Meadow",
+        "city": "Williamsfurt",
+        "state": "Indiana",
+        "zip": "86586"
+    },
+    "contact": {
+        "phone": "+1-443-517-4773x7379",
+        "servicePhone": "800877989"
+    },
+    "birthday": "1938-06-06",
+    "ip": "215.142.30.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Light hope contain rate. Use face plant agency road see write center.",
+        "bio": "Research here administration.\nBenefit too easy heavy. War often game visit lose miss admit. Light use visit myself paper walk decision. Reflect each detail nothing appear."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
