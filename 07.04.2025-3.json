@@ -1,0 +1,25 @@
+{
+    "name": "Megan Bush",
+    "age": 74,
+    "address": {
+        "street": "Sarah Orchard",
+        "city": "Port Valerieburgh",
+        "state": "Kentucky",
+        "zip": "94592"
+    },
+    "contact": {
+        "phone": "244-725-0731x574",
+        "servicePhone": "800649143"
+    },
+    "birthday": "1951-01-12",
+    "ip": "158.55.104.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish find officer. Central true rest happy spring especially.\nToward sister seven continue. Certainly participant price show election.\nLay issue itself nice religious final.",
+        "bio": "Boy gun partner still wonder respond garden look. In message hair center professor decide least along. Chance event maybe up."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
