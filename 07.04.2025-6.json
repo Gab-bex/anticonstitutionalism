@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Steele",
+    "age": 79,
+    "address": {
+        "street": "Daniel Trafficway",
+        "city": "Hurleyview",
+        "state": "South Dakota",
+        "zip": "61495"
+    },
+    "contact": {
+        "phone": "+1-318-376-0009x25836",
+        "servicePhone": "800166319"
+    },
+    "birthday": "1946-18-01",
+    "ip": "149.228.176.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Why PM why. Result certain direction word. Lead concern single sister tell.",
+        "bio": "Reach over start else.\nStock action side trip impact. Reach into five their. Foreign picture pull explain I development certainly."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
