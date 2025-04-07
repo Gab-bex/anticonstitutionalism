@@ -1,0 +1,25 @@
+{
+    "name": "Sandra Williams",
+    "age": 80,
+    "address": {
+        "street": "Richard Cove",
+        "city": "Maloneland",
+        "state": "Virginia",
+        "zip": "07699"
+    },
+    "contact": {
+        "phone": "+1-646-775-1231x41671",
+        "servicePhone": "800248869"
+    },
+    "birthday": "1945-17-03",
+    "ip": "47.2.187.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase measure others local. Relate style scene beautiful first ok drug everything. Establish certainly resource matter different next if.",
+        "bio": "Market young travel management hand. Travel effort middle act why decade. There among cost guy piece."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
