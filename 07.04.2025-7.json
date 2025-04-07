@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Smith",
+    "age": 61,
+    "address": {
+        "street": "Conner Crossing",
+        "city": "Jeremiahville",
+        "state": "North Dakota",
+        "zip": "68529"
+    },
+    "contact": {
+        "phone": "+1-953-720-4102x48132",
+        "servicePhone": "800954142"
+    },
+    "birthday": "1964-03-04",
+    "ip": "13.47.52.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Stock book believe anything him mouth. Green beyond from both ability night physical. Manager most camera car value defense.\nNorth kid dinner goal design. Off society low oil society.",
+        "bio": "Right history subject senior clear. Spend sell couple thus authority store camera."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
