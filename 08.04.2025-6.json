@@ -1,0 +1,25 @@
+{
+    "name": "Brian Perry",
+    "age": 32,
+    "address": {
+        "street": "Nolan Plain",
+        "city": "Romanshire",
+        "state": "New York",
+        "zip": "11310"
+    },
+    "contact": {
+        "phone": "+1-549-234-3229",
+        "servicePhone": "800261920"
+    },
+    "birthday": "1993-22-06",
+    "ip": "83.109.151.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Test floor example wonder total room. Able crime deal industry avoid top.\nBest pass friend up paper wide.\nMember indeed site ground collection.",
+        "bio": "Always exist staff nearly check government.\nAuthority since wide newspaper glass. Right reason risk nice trouble meet. Case then exactly blood then rule beautiful."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
