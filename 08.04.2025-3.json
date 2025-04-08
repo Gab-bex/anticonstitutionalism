@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Chase",
+    "age": 27,
+    "address": {
+        "street": "Sandra Mall",
+        "city": "Johntown",
+        "state": "Tennessee",
+        "zip": "56402"
+    },
+    "contact": {
+        "phone": "(679)504-0011",
+        "servicePhone": "800048773"
+    },
+    "birthday": "1998-15-07",
+    "ip": "10.221.63.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder state activity seem include success.\nInto ball news similar ability thus build.",
+        "bio": "Late offer look almost executive officer. Major too against five answer."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
