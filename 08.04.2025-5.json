@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Church",
+    "age": 104,
+    "address": {
+        "street": "Joseph Spur",
+        "city": "North Josephmouth",
+        "state": "North Dakota",
+        "zip": "55228"
+    },
+    "contact": {
+        "phone": "001-905-503-7953x34668",
+        "servicePhone": "800599647"
+    },
+    "birthday": "1921-12-08",
+    "ip": "23.107.66.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake young strategy military their form. Low step that bag remember identify. Present such movement everybody believe six once why.",
+        "bio": "Table young dream food may.\nHe set individual your author represent. Loss western open check hand must. Such weight soon little senior mother real."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
