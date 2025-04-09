@@ -1,0 +1,25 @@
+{
+    "name": "Christine Stone",
+    "age": 25,
+    "address": {
+        "street": "Snyder Pass",
+        "city": "Fernandoburgh",
+        "state": "Texas",
+        "zip": "36007"
+    },
+    "contact": {
+        "phone": "946-607-5330x09803",
+        "servicePhone": "800747155"
+    },
+    "birthday": "2000-19-03",
+    "ip": "212.41.72.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial on skin road. Feel what apply agreement him threat. Glass medical material small suggest gas animal.",
+        "bio": "Respond light here everything daughter policy whole. Soon large cold school vote. Future black process from. Tax right group those."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
