@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Stein",
+    "age": 103,
+    "address": {
+        "street": "Wheeler Centers",
+        "city": "South Troy",
+        "state": "New Mexico",
+        "zip": "49462"
+    },
+    "contact": {
+        "phone": "391.771.3361x72232",
+        "servicePhone": "800727272"
+    },
+    "birthday": "1922-16-09",
+    "ip": "60.54.230.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Music oil try throw. He region rich consider report cold understand. Medical Congress computer once.\nLeave product land traditional the budget window. Maintain because anyone measure.",
+        "bio": "Ball key keep year. Kitchen tonight live from start long. Positive develop knowledge election dinner drug.\nOffer on national language."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
