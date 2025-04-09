@@ -1,0 +1,25 @@
+{
+    "name": "Natalie Flowers",
+    "age": 87,
+    "address": {
+        "street": "Paul Camp",
+        "city": "Martinezport",
+        "state": "Texas",
+        "zip": "03788"
+    },
+    "contact": {
+        "phone": "+1-956-543-9765x69553",
+        "servicePhone": "800765981"
+    },
+    "birthday": "1938-03-02",
+    "ip": "31.204.255.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Loss bit anyone hot thousand. Create but old wonder thus next time.\nRecord enough interest its. Pass whose treatment it write. Improve itself election agreement million American.",
+        "bio": "Serve off never no theory project wife. Nature rise collection. Against put program great us."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
