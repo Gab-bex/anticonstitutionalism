@@ -1,0 +1,25 @@
+{
+    "name": "Kelli Burke",
+    "age": 30,
+    "address": {
+        "street": "Fisher Keys",
+        "city": "West Amanda",
+        "state": "Washington",
+        "zip": "23169"
+    },
+    "contact": {
+        "phone": "+1-428-319-3472x80446",
+        "servicePhone": "800065582"
+    },
+    "birthday": "1995-06-11",
+    "ip": "192.48.11.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Big age degree edge mission popular article. Enough again mother week feeling option. By less grow gun family administration.",
+        "bio": "Send democratic fund player beyond safe. Production each large yard. Pay road final reveal them."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
