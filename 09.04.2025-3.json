@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Hamilton",
+    "age": 55,
+    "address": {
+        "street": "Rivera Mount",
+        "city": "South Leeborough",
+        "state": "South Carolina",
+        "zip": "85931"
+    },
+    "contact": {
+        "phone": "651.826.0925",
+        "servicePhone": "800614524"
+    },
+    "birthday": "1970-11-10",
+    "ip": "167.84.181.152",
+    "foo": "bar",
+    "profile": {
+        "about": "At center yet everything choice author hot. Give consider newspaper discussion. Spend game always political perhaps tree military.\nThis goal piece eight three. Daughter left chance drug.",
+        "bio": "Ok ask tend ground grow. Join easy sort order however professor pick between.\nTask vote sure throughout. Member argue education include third report."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
