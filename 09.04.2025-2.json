@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Hendricks",
+    "age": 53,
+    "address": {
+        "street": "Leah Brook",
+        "city": "Kentbury",
+        "state": "South Carolina",
+        "zip": "91314"
+    },
+    "contact": {
+        "phone": "(522)935-2396x98612",
+        "servicePhone": "800314571"
+    },
+    "birthday": "1972-31-01",
+    "ip": "160.162.246.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Of over heavy subject nearly concern avoid.\nTop campaign book result language image as. Pm minute source major job pay visit.",
+        "bio": "Reach read describe control. Sometimes guy short media wait attorney. Guy street government challenge."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
