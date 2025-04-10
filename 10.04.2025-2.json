@@ -1,0 +1,25 @@
+{
+    "name": "Shawn Abbott",
+    "age": 39,
+    "address": {
+        "street": "Montgomery Orchard",
+        "city": "Jenniferfurt",
+        "state": "Wyoming",
+        "zip": "63875"
+    },
+    "contact": {
+        "phone": "339-620-0079",
+        "servicePhone": "800404118"
+    },
+    "birthday": "1986-15-08",
+    "ip": "41.194.110.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Fast pick sense evening. Respond common commercial building small real cause really.",
+        "bio": "Job billion night network able remain language technology. Group model party. Relate develop cultural wrong east action. Person third budget indeed begin rise."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
