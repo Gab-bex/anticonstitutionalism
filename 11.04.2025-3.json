@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Flores",
+    "age": 71,
+    "address": {
+        "street": "Gibbs Path",
+        "city": "East Paulland",
+        "state": "North Carolina",
+        "zip": "33804"
+    },
+    "contact": {
+        "phone": "001-224-201-3844",
+        "servicePhone": "800223560"
+    },
+    "birthday": "1954-14-06",
+    "ip": "104.128.56.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Argue stop democratic make plant. Task company doctor analysis yard.\nSummer despite off building. Environment eight forward shake collection growth. Heart because floor discuss collection ahead as.",
+        "bio": "Trial player upon ten service three. Research fact appear recognize enter size.\nWind federal professional its public grow resource themselves. Government soon happen authority benefit."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
