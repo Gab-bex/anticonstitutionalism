@@ -1,0 +1,25 @@
+{
+    "name": "John Ballard",
+    "age": 26,
+    "address": {
+        "street": "Maldonado Track",
+        "city": "Jenkinsview",
+        "state": "Georgia",
+        "zip": "02612"
+    },
+    "contact": {
+        "phone": "299-848-5166x29314",
+        "servicePhone": "800127636"
+    },
+    "birthday": "1999-27-09",
+    "ip": "8.123.131.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Statement cold player discussion material local. Finally kid unit thing.\nParticipant specific training family pretty hotel data. Hard personal yet measure throw.",
+        "bio": "Commercial sound head girl. Race chance land enough arrive. Service behavior development.\nFight for evening on political run war. Else know author art well most particularly."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
