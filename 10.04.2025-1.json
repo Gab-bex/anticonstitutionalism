@@ -1,0 +1,25 @@
+{
+    "name": "Edward Hill",
+    "age": 99,
+    "address": {
+        "street": "Madden Rest",
+        "city": "North Vickie",
+        "state": "Tennessee",
+        "zip": "68970"
+    },
+    "contact": {
+        "phone": "+1-636-363-4763x607",
+        "servicePhone": "800135579"
+    },
+    "birthday": "1926-22-02",
+    "ip": "121.179.156.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist hard return black. Civil whole song writer.\nEconomic thought new.\nEast citizen similar understand wait data compare. Some type or ever herself. Yet nature special general would.",
+        "bio": "So indeed since strong. Interview everyone bad religious kind.\nWord lawyer identify game. Half several visit religious. Heart claim detail century peace do it."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
