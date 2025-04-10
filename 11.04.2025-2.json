@@ -1,0 +1,25 @@
+{
+    "name": "Melanie Jones",
+    "age": 35,
+    "address": {
+        "street": "Munoz Court",
+        "city": "East Jasmine",
+        "state": "Louisiana",
+        "zip": "16404"
+    },
+    "contact": {
+        "phone": "752-861-5127x528",
+        "servicePhone": "800016208"
+    },
+    "birthday": "1990-25-05",
+    "ip": "48.156.219.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer improve when out relate. How list when build large close floor.\nCulture step top perhaps care respond. Will dog happen operation view.\nSoldier glass bed section. Start six tax watch hour less.",
+        "bio": "Face room assume hand first wide once. Stand product threat land behavior consider there. Stay kind hand. Outside federal feeling could early fund.\nLife radio involve happy when."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
