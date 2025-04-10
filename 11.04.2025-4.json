@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Torres",
+    "age": 65,
+    "address": {
+        "street": "Jennifer Island",
+        "city": "New Helenmouth",
+        "state": "Nebraska",
+        "zip": "18053"
+    },
+    "contact": {
+        "phone": "+1-896-703-6974x6887",
+        "servicePhone": "800411061"
+    },
+    "birthday": "1960-14-02",
+    "ip": "68.95.59.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Security four stay administration arm fact success. Benefit heavy some whatever power head him. Economy blood line artist hot.\nPurpose dark late eye include. Blue get data PM.",
+        "bio": "Rise move myself education rest rate.\nDo idea help. Anyone fine recognize billion manager population. Defense area offer."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
