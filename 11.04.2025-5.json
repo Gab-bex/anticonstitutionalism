@@ -1,0 +1,25 @@
+{
+    "name": "Richard Terrell",
+    "age": 90,
+    "address": {
+        "street": "Ronnie Stravenue",
+        "city": "Port Justin",
+        "state": "Michigan",
+        "zip": "93022"
+    },
+    "contact": {
+        "phone": "(687)228-3169",
+        "servicePhone": "800408932"
+    },
+    "birthday": "1935-22-06",
+    "ip": "140.87.202.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Popular law suffer reflect anything. Government service term money. Involve but bill listen.",
+        "bio": "Treatment page thing guess long pretty method. Pattern technology discuss. Easy total treat might sell.\nStudy think parent computer price occur good. A present room east. Research area bag during."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
