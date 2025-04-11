@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Terry",
+    "age": 23,
+    "address": {
+        "street": "Jackson Spurs",
+        "city": "Port Michaelshire",
+        "state": "Alabama",
+        "zip": "10867"
+    },
+    "contact": {
+        "phone": "(434)447-8150x634",
+        "servicePhone": "800904964"
+    },
+    "birthday": "2002-11-09",
+    "ip": "54.31.205.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Call worker our suffer interview class. Sit onto east.\nBest situation send site product treat game produce.",
+        "bio": "Usually guess ten film miss reveal. Save teach environmental. Low than thank TV measure though same. Southern magazine remember small about on tree."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
