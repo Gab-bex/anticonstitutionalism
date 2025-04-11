@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Peters",
+    "age": 98,
+    "address": {
+        "street": "Ralph Ranch",
+        "city": "East Carl",
+        "state": "Maryland",
+        "zip": "50010"
+    },
+    "contact": {
+        "phone": "(562)664-6161",
+        "servicePhone": "800023661"
+    },
+    "birthday": "1927-09-02",
+    "ip": "146.96.255.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Fish season near choose radio stage. Weight apply knowledge news quickly set leave. Maybe total quality administration you.",
+        "bio": "Charge expect step similar evening stop wait. Should effort site amount law. Party itself example hold federal fund."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
