@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Evans",
+    "age": 54,
+    "address": {
+        "street": "Janet Field",
+        "city": "Terrichester",
+        "state": "New Jersey",
+        "zip": "84975"
+    },
+    "contact": {
+        "phone": "(294)795-4433",
+        "servicePhone": "800034922"
+    },
+    "birthday": "1971-31-08",
+    "ip": "115.207.230.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Buy sure free data manage dream candidate. Inside might country challenge message bill recognize. Cup tonight old little. Chance check them story use.",
+        "bio": "Concern personal billion something.\nAction year tough feel question. Ready read vote least quality character keep score. Special eat entire arm seek daughter I."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
