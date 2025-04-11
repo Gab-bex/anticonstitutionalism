@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Davidson",
+    "age": 110,
+    "address": {
+        "street": "Andrews Station",
+        "city": "West Brandy",
+        "state": "Missouri",
+        "zip": "21613"
+    },
+    "contact": {
+        "phone": "+1-654-327-1519x3718",
+        "servicePhone": "800944659"
+    },
+    "birthday": "1915-10-02",
+    "ip": "154.1.47.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull be anything street action land show. Interview computer condition still. Just suffer technology man foot.",
+        "bio": "Name degree push clear. Question small music base main.\nSerious ground just produce. Push public choose man prove sound."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
