@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Rojas",
+    "age": 9,
+    "address": {
+        "street": "Carr Summit",
+        "city": "South Robert",
+        "state": "Massachusetts",
+        "zip": "96768"
+    },
+    "contact": {
+        "phone": "001-826-479-9448x1026",
+        "servicePhone": "800953512"
+    },
+    "birthday": "2016-17-09",
+    "ip": "79.214.40.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth station yes take while away continue station. Trial serve without thank make line.",
+        "bio": "Among society of reduce growth whom. Should radio box father special history. Particularly finish idea suggest contain."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
