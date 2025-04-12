@@ -1,0 +1,25 @@
+{
+    "name": "Stephen Olsen",
+    "age": 111,
+    "address": {
+        "street": "Blake Island",
+        "city": "South Charleston",
+        "state": "Wyoming",
+        "zip": "27047"
+    },
+    "contact": {
+        "phone": "+1-879-976-4546",
+        "servicePhone": "800324579"
+    },
+    "birthday": "1914-16-02",
+    "ip": "148.92.75.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Professor edge keep speak yourself result. Front support something. Thus me them I decade pick. Door approach include fall too such soon.",
+        "bio": "Others present investment like movement enter. Relate brother sign opportunity another."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
