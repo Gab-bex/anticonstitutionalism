@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Reid",
+    "age": 108,
+    "address": {
+        "street": "Dominguez Dam",
+        "city": "North Susanton",
+        "state": "Florida",
+        "zip": "67536"
+    },
+    "contact": {
+        "phone": "8269445694",
+        "servicePhone": "800129521"
+    },
+    "birthday": "1917-10-05",
+    "ip": "154.222.98.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial author expert give.\nSecond senior whole partner all choice go anyone. Movie price fly town.",
+        "bio": "So prove cup wait provide. Top guy specific defense.\nBehind soldier main us. Move drug capital beyond strong wear. Thought campaign trade keep really."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
