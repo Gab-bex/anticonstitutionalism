@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lopez",
+    "age": 76,
+    "address": {
+        "street": "Gonzales Centers",
+        "city": "Mayhaven",
+        "state": "Kansas",
+        "zip": "13520"
+    },
+    "contact": {
+        "phone": "(856)974-3145",
+        "servicePhone": "800951791"
+    },
+    "birthday": "1949-26-11",
+    "ip": "38.168.34.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Building sell their choose. Wait nice wide detail.",
+        "bio": "Yard recent bank. Moment line against where. What stop leader specific trouble perform.\nAbout western down institution open from character."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
