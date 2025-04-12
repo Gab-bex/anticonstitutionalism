@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Hood",
+    "age": 52,
+    "address": {
+        "street": "Emily Extension",
+        "city": "Curryhaven",
+        "state": "Nevada",
+        "zip": "12474"
+    },
+    "contact": {
+        "phone": "001-523-910-9935x191",
+        "servicePhone": "800414242"
+    },
+    "birthday": "1973-16-07",
+    "ip": "187.68.135.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Wish professor show win candidate region difficult. Popular no president together compare protect quality. Develop woman suggest left business financial anything.",
+        "bio": "Picture understand blue success.\nToward front well total agree yet general. Most beyond the address kind war however.\nBegin citizen focus put up. Enough street ahead training."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
