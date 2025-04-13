@@ -1,0 +1,25 @@
+{
+    "name": "Tamara Turner",
+    "age": 115,
+    "address": {
+        "street": "Thomas Hollow",
+        "city": "Gillespieside",
+        "state": "Ohio",
+        "zip": "74041"
+    },
+    "contact": {
+        "phone": "287-683-1217",
+        "servicePhone": "800260751"
+    },
+    "birthday": "1910-26-06",
+    "ip": "24.197.222.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Toward field space policy crime discussion. Similar born stop whose ago. Mean majority bad fly write school.",
+        "bio": "Interview eight structure realize final.\nAir major painting mean five business interview. Door impact stay remain new fact wrong."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
