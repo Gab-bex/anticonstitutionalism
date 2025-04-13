@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Bennett",
+    "age": 107,
+    "address": {
+        "street": "Michelle Wells",
+        "city": "Maryton",
+        "state": "Rhode Island",
+        "zip": "57673"
+    },
+    "contact": {
+        "phone": "(621)721-5276",
+        "servicePhone": "800308563"
+    },
+    "birthday": "1918-26-02",
+    "ip": "167.189.124.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Recently it firm fall agency feel. Determine game million north.\nDesign property case. Personal bit chance doctor seat anyone because civil.",
+        "bio": "Purpose dark mission government up security. Follow happen own. The control oil eat."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
