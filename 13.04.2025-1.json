@@ -1,0 +1,25 @@
+{
+    "name": "Courtney Ortiz",
+    "age": 7,
+    "address": {
+        "street": "Miranda Knolls",
+        "city": "Blakeland",
+        "state": "Texas",
+        "zip": "40955"
+    },
+    "contact": {
+        "phone": "(530)357-4989x3118",
+        "servicePhone": "800816427"
+    },
+    "birthday": "2018-18-08",
+    "ip": "9.86.235.83",
+    "foo": "bar",
+    "profile": {
+        "about": "She all design focus. Cost beat behavior. Memory individual number scene new reality data.\nReality kind reach hour. Sing when American cut study. Practice than important high culture reflect give.",
+        "bio": "Able sign finally though appear boy. Find identify market happy tax. Official school wait explain."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
