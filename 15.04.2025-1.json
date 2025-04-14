@@ -1,0 +1,25 @@
+{
+    "name": "Leslie White",
+    "age": 43,
+    "address": {
+        "street": "Weaver Radial",
+        "city": "West Ricardo",
+        "state": "Kentucky",
+        "zip": "91819"
+    },
+    "contact": {
+        "phone": "677.458.8726",
+        "servicePhone": "800329780"
+    },
+    "birthday": "1982-29-05",
+    "ip": "213.13.84.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite capital nearly pretty pick suddenly. Eight our strategy reveal source others.\nYet everybody million education card model. News father billion lot meet. Reason born positive on new.",
+        "bio": "Person involve enough.\nGas decide on whose computer. Arrive contain simple boy then so."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
