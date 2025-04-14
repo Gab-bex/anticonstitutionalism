@@ -1,0 +1,25 @@
+{
+    "name": "Rhonda Kline",
+    "age": 67,
+    "address": {
+        "street": "Davis Island",
+        "city": "Bryanburgh",
+        "state": "Texas",
+        "zip": "25750"
+    },
+    "contact": {
+        "phone": "+1-275-515-4282x27036",
+        "servicePhone": "800279076"
+    },
+    "birthday": "1958-01-01",
+    "ip": "108.246.238.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Could alone last very floor seek key especially. Bed beautiful simple draw. Line speak pattern dog leader.",
+        "bio": "Everyone news carry including. Plan letter meet defense. Learn push one church seem food."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
