@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Miller",
+    "age": 19,
+    "address": {
+        "street": "Alexander Knoll",
+        "city": "Kirkstad",
+        "state": "South Carolina",
+        "zip": "86796"
+    },
+    "contact": {
+        "phone": "207.427.5825x5146",
+        "servicePhone": "800749244"
+    },
+    "birthday": "2006-22-05",
+    "ip": "132.197.233.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Across power power between physical different. Center almost board middle southern. Bad impact sometimes high identify visit adult.\nAny fill practice loss PM important too.\nJob special can take.",
+        "bio": "Can upon training world. Whole international yet animal clear economic partner. Type be hour us. According network local become police."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
