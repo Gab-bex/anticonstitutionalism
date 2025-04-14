@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Green",
+    "age": 78,
+    "address": {
+        "street": "Moore Ramp",
+        "city": "Craneberg",
+        "state": "South Carolina",
+        "zip": "59296"
+    },
+    "contact": {
+        "phone": "296-461-0690",
+        "servicePhone": "800593642"
+    },
+    "birthday": "1947-18-11",
+    "ip": "34.69.187.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation design position standard real month. Language degree car drug. Nothing for perform administration article arm.",
+        "bio": "Paper alone rise people commercial entire include. Effort get weight time every beautiful grow. Money just product society black option white candidate."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
