@@ -1,0 +1,25 @@
+{
+    "name": "Amber Dunn",
+    "age": 5,
+    "address": {
+        "street": "Smith Roads",
+        "city": "West Katherineland",
+        "state": "Louisiana",
+        "zip": "91255"
+    },
+    "contact": {
+        "phone": "5557473900",
+        "servicePhone": "800869101"
+    },
+    "birthday": "2020-18-10",
+    "ip": "66.230.66.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Share success social air throw research. Prevent method office soon sing seem your.",
+        "bio": "Guess administration other attorney feeling scientist little. Building player instead alone."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
