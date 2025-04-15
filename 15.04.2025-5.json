@@ -1,0 +1,25 @@
+{
+    "name": "William Monroe",
+    "age": 53,
+    "address": {
+        "street": "Murray Hills",
+        "city": "South Williambury",
+        "state": "Alabama",
+        "zip": "35689"
+    },
+    "contact": {
+        "phone": "213-775-4311",
+        "servicePhone": "800664482"
+    },
+    "birthday": "1972-05-10",
+    "ip": "217.228.13.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Choice face order specific culture. Together plan list collection blood letter public. Today yard whatever develop employee near dream.",
+        "bio": "Return character over stand again political. Recognize painting cost him for tree.\nSea central glass nothing prove later someone focus. Believe word minute camera add idea. Word star difficult film."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
