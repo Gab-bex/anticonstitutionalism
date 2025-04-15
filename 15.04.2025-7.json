@@ -1,0 +1,25 @@
+{
+    "name": "Miss Donna Cunningham MD",
+    "age": 116,
+    "address": {
+        "street": "Salinas Ville",
+        "city": "West Johnny",
+        "state": "Virginia",
+        "zip": "13865"
+    },
+    "contact": {
+        "phone": "+1-712-878-0999x17435",
+        "servicePhone": "800248003"
+    },
+    "birthday": "1909-16-11",
+    "ip": "177.77.222.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Party step stock. Hold either radio away seem air.\nMain science heavy moment little left. Against choose where hard. Space various light recently suffer program executive.",
+        "bio": "Soon research foreign. Happy call address establish yourself down soon sort.\nMay key I every more. Scene beyond all kind can law million. Discover side raise situation key consider."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
