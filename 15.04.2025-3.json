@@ -1,0 +1,25 @@
+{
+    "name": "Jon Bass",
+    "age": 102,
+    "address": {
+        "street": "Melissa Forks",
+        "city": "Cartermouth",
+        "state": "Washington",
+        "zip": "43236"
+    },
+    "contact": {
+        "phone": "(336)249-2284x9913",
+        "servicePhone": "800412534"
+    },
+    "birthday": "1923-27-03",
+    "ip": "11.216.158.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Exactly network camera speech. Present by peace skill news management.",
+        "bio": "World expert likely process room.\nStop once sing moment despite plant better stop. Remember option the.\nBuild thank growth hit suffer. Though number program education more."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
