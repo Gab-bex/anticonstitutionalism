@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Gomez",
+    "age": 85,
+    "address": {
+        "street": "Sydney Trafficway",
+        "city": "New Kimberlyburgh",
+        "state": "Pennsylvania",
+        "zip": "61431"
+    },
+    "contact": {
+        "phone": "001-852-301-5204",
+        "servicePhone": "800140399"
+    },
+    "birthday": "1940-17-02",
+    "ip": "191.188.183.62",
+    "foo": "bar",
+    "profile": {
+        "about": "State really couple store four around. Resource direction side reduce. Break then particular.\nHe sound once job tree. Would less later them less. When full west successful money mission.",
+        "bio": "Approach evening relationship all age scientist. Laugh candidate effect.\nRegion moment rather personal newspaper hit. Really skin indicate chair."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
