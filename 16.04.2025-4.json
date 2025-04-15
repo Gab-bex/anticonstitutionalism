@@ -1,0 +1,25 @@
+{
+    "name": "Paul Hart",
+    "age": 50,
+    "address": {
+        "street": "Robert Port",
+        "city": "New Jason",
+        "state": "Nebraska",
+        "zip": "76720"
+    },
+    "contact": {
+        "phone": "838.767.4306x85381",
+        "servicePhone": "800242784"
+    },
+    "birthday": "1975-14-04",
+    "ip": "146.16.159.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost maybe air material include from at. Control pretty move face war be them just. Morning issue country send rate leave up music.",
+        "bio": "Once figure free good section able already. Easy question part take find star news.\nSuch child mention girl purpose church system. Goal activity entire American major."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
