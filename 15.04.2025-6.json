@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Swanson",
+    "age": 102,
+    "address": {
+        "street": "Michelle Lakes",
+        "city": "New Sarah",
+        "state": "New Mexico",
+        "zip": "90097"
+    },
+    "contact": {
+        "phone": "+1-459-610-9262x62668",
+        "servicePhone": "800399326"
+    },
+    "birthday": "1923-26-01",
+    "ip": "190.251.214.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Space bar strong themselves short after. Deal order individual expect. None between especially.",
+        "bio": "Third art his occur. Else control century. Themselves democratic Republican huge artist.\nMagazine school page draw. Certain wait inside seven card Republican idea hear."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
