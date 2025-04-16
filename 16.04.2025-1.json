@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Gonzalez",
+    "age": 22,
+    "address": {
+        "street": "Brian Key",
+        "city": "South Krystal",
+        "state": "South Carolina",
+        "zip": "40287"
+    },
+    "contact": {
+        "phone": "876-309-6460",
+        "servicePhone": "800077863"
+    },
+    "birthday": "2003-01-03",
+    "ip": "102.4.204.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Field thought contain public close. Surface court argue why. Trip popular against.\nThat even some trip. Whole kitchen sport late matter. Enough loss wall production Democrat take least.",
+        "bio": "News same glass word ground. Today well no issue.\nUsually shake mind soon build. Fly heart very economy future itself attention season.\nMr past analysis his require. Can great big staff rise alone."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
