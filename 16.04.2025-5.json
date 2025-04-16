@@ -1,0 +1,25 @@
+{
+    "name": "Janet Gomez",
+    "age": 91,
+    "address": {
+        "street": "Maria Ville",
+        "city": "West Ashleybury",
+        "state": "North Dakota",
+        "zip": "39341"
+    },
+    "contact": {
+        "phone": "472.500.9742",
+        "servicePhone": "800214101"
+    },
+    "birthday": "1934-23-05",
+    "ip": "171.248.211.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure man bag friend collection property next house. Current expert item history wife blue grow. Election senior draw water future rather dark.",
+        "bio": "Kitchen campaign standard design. Case east simply reflect much product.\nValue shoulder husband follow above financial. Southern teacher adult price myself factor nation."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
