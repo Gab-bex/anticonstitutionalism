@@ -1,0 +1,25 @@
+{
+    "name": "Angela Haynes",
+    "age": 77,
+    "address": {
+        "street": "Taylor Forks",
+        "city": "Petersenbury",
+        "state": "New York",
+        "zip": "18594"
+    },
+    "contact": {
+        "phone": "001-453-894-9611",
+        "servicePhone": "800739147"
+    },
+    "birthday": "1948-03-08",
+    "ip": "36.27.95.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Show throughout college serious billion have.\nAdult begin memory despite hard three pattern. Near economic move stage year. Five young strategy.",
+        "bio": "Continue ever rule mean staff. Bank dark information.\nPick deal over happen career. Need always condition. Weight middle skin least enter meeting."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
