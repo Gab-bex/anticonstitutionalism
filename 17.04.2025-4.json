@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Henson",
+    "age": 9,
+    "address": {
+        "street": "Rosario Common",
+        "city": "Port Davidberg",
+        "state": "Arizona",
+        "zip": "92279"
+    },
+    "contact": {
+        "phone": "2358614266",
+        "servicePhone": "800144139"
+    },
+    "birthday": "2016-07-11",
+    "ip": "139.104.159.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital cause condition their. With hour mission life smile discuss. Respond program pay change police number concern.",
+        "bio": "Result author lawyer election. Drive consumer politics identify step response. Book marriage dream section remain capital."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
