@@ -1,0 +1,25 @@
+{
+    "name": "Brian Taylor",
+    "age": 81,
+    "address": {
+        "street": "Cassidy Spur",
+        "city": "Lake Cody",
+        "state": "California",
+        "zip": "68563"
+    },
+    "contact": {
+        "phone": "+1-658-878-8658x3895",
+        "servicePhone": "800113031"
+    },
+    "birthday": "1944-02-05",
+    "ip": "206.110.95.10",
+    "foo": "bar",
+    "profile": {
+        "about": "Whom cell leave trip first model. Address rock huge hit.\nAdd difference build hundred. Final mission through night organization beat. Customer catch hit important teacher a student.",
+        "bio": "Create recognize note your. Between heavy too better our these.\nWorker magazine room teacher other receive. Trip measure box interesting first."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
