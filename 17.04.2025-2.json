@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Thomas",
+    "age": 98,
+    "address": {
+        "street": "Stephens Groves",
+        "city": "Meganstad",
+        "state": "Arizona",
+        "zip": "98033"
+    },
+    "contact": {
+        "phone": "677-988-4037",
+        "servicePhone": "800907960"
+    },
+    "birthday": "1927-03-01",
+    "ip": "2.20.172.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget late however manage political dinner born save. Write hear wall amount or citizen program.",
+        "bio": "Wide agency instead even knowledge natural little. Would consider feel wait dog owner watch stop."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
