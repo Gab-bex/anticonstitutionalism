@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Sims",
+    "age": 48,
+    "address": {
+        "street": "Rush Junctions",
+        "city": "Gonzalezside",
+        "state": "Michigan",
+        "zip": "29071"
+    },
+    "contact": {
+        "phone": "+1-290-366-4636x42813",
+        "servicePhone": "800572206"
+    },
+    "birthday": "1977-21-05",
+    "ip": "39.228.156.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Especially meet deep fight hair. Argue risk bag right situation seek. Stay personal kitchen people standard difference.",
+        "bio": "Especially player born behind. Card artist remain quality line just.\nCompany buy crime degree. Form family media available around son everyone white."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
