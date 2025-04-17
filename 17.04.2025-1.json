@@ -1,0 +1,25 @@
+{
+    "name": "Janet Serrano",
+    "age": 49,
+    "address": {
+        "street": "Barton Valley",
+        "city": "South Jeanne",
+        "state": "Minnesota",
+        "zip": "85868"
+    },
+    "contact": {
+        "phone": "001-652-315-1760x0125",
+        "servicePhone": "800025021"
+    },
+    "birthday": "1976-03-07",
+    "ip": "47.209.79.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Door grow group a. Pick pay evidence base authority each officer. Year relate conference physical west live attack.\nBlack work out decide main beat event.",
+        "bio": "Race country whole doctor seek foot. Operation art role notice what. Tv someone project sort.\nThey leader right should listen. Offer become civil. Religious for treatment value policy."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
