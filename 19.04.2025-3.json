@@ -1,0 +1,25 @@
+{
+    "name": "Casey Russell",
+    "age": 99,
+    "address": {
+        "street": "Olsen Knolls",
+        "city": "West Melindaview",
+        "state": "Washington",
+        "zip": "17340"
+    },
+    "contact": {
+        "phone": "001-606-881-4971x0239",
+        "servicePhone": "800615396"
+    },
+    "birthday": "1926-30-01",
+    "ip": "27.12.75.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Attention leg fish think professional. Sometimes now current between coach evening. Station test relate have modern minute consumer in. Sort chair father color military choice save.",
+        "bio": "Woman us than for. Alone term data however center themselves.\nAnswer leg ball wonder.\nMember some course draw skill. Yet drop similar director. System quality with have analysis."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
