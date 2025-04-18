@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Craig",
+    "age": 20,
+    "address": {
+        "street": "Troy Hill",
+        "city": "Troymouth",
+        "state": "Minnesota",
+        "zip": "34318"
+    },
+    "contact": {
+        "phone": "+1-355-568-4013x680",
+        "servicePhone": "800939088"
+    },
+    "birthday": "2005-14-05",
+    "ip": "164.59.202.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Drug road line chance toward religious job. Method shoulder usually hand resource hold.\nNext food lose easy magazine Congress. Research hair will himself experience girl consider role.",
+        "bio": "Top actually far old. Avoid stuff physical in two organization. He training career investment bit have. Success agreement successful appear."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
