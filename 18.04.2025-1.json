@@ -1,0 +1,25 @@
+{
+    "name": "Colton Short",
+    "age": 26,
+    "address": {
+        "street": "Jones Fort",
+        "city": "Trevinoport",
+        "state": "New Jersey",
+        "zip": "62638"
+    },
+    "contact": {
+        "phone": "+1-916-937-1137",
+        "servicePhone": "800291547"
+    },
+    "birthday": "1999-16-05",
+    "ip": "67.173.160.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Guess story story staff. Though into officer after read direction nor.\nCandidate late dinner goal floor hour. Improve before right speech goal.",
+        "bio": "Even for teacher picture factor few. Again family pattern professor miss.\nOften behavior drug debate big. Father ask tonight wish tree. Different language majority even apply wait."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
