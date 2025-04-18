@@ -1,0 +1,25 @@
+{
+    "name": "Melinda Turner",
+    "age": 56,
+    "address": {
+        "street": "Scott View",
+        "city": "Nicoleside",
+        "state": "Montana",
+        "zip": "47594"
+    },
+    "contact": {
+        "phone": "455.968.2212x90727",
+        "servicePhone": "800703445"
+    },
+    "birthday": "1969-06-03",
+    "ip": "125.243.97.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Never both sign power. Form believe maybe. Traditional middle agreement discuss forward. Government manage artist.",
+        "bio": "I season eye court compare interest citizen. Foreign yourself thank structure."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
