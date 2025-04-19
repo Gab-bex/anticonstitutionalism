@@ -1,0 +1,25 @@
+{
+    "name": "Michael Glover",
+    "age": 110,
+    "address": {
+        "street": "White Knolls",
+        "city": "Williamsberg",
+        "state": "Michigan",
+        "zip": "59651"
+    },
+    "contact": {
+        "phone": "260.867.3256",
+        "servicePhone": "800914031"
+    },
+    "birthday": "1915-01-06",
+    "ip": "76.12.44.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Remain our someone film design miss already realize. Accept behind out involve behavior.",
+        "bio": "Great piece attorney forget because community challenge.\nThe keep board outside man culture total large. Picture allow community view. Office growth again avoid."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
