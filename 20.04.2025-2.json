@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Johnson",
+    "age": 69,
+    "address": {
+        "street": "Miller Loaf",
+        "city": "Russoburgh",
+        "state": "Mississippi",
+        "zip": "38134"
+    },
+    "contact": {
+        "phone": "220-984-8032x0823",
+        "servicePhone": "800170593"
+    },
+    "birthday": "1956-29-03",
+    "ip": "67.106.225.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Different whatever college than. Manager candidate feeling view suggest with piece.\nTrouble source weight material. Identify identify dinner management visit man model.",
+        "bio": "Defense themselves property full hear seem customer. Reduce every begin past. Pull resource ability under like evidence foot."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
