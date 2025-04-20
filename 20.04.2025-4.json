@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Sampson",
+    "age": 90,
+    "address": {
+        "street": "Kathleen Squares",
+        "city": "New Ashley",
+        "state": "Utah",
+        "zip": "63563"
+    },
+    "contact": {
+        "phone": "+1-550-492-0329",
+        "servicePhone": "800819632"
+    },
+    "birthday": "1935-02-04",
+    "ip": "215.114.118.18",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner share able while job. Carry eight cold suggest. Example will hear he us.\nSomething necessary friend social billion minute story. Develop win from.",
+        "bio": "Simply statement skill pretty ahead professor yet ok. Military imagine cover candidate.\nFeeling point enough popular class from. Late husband why effect professor tree us. Big possible wish remain."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
