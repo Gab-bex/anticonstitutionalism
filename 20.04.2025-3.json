@@ -1,0 +1,25 @@
+{
+    "name": "Paul Beard",
+    "age": 71,
+    "address": {
+        "street": "Martinez Drive",
+        "city": "South Russell",
+        "state": "Montana",
+        "zip": "49293"
+    },
+    "contact": {
+        "phone": "(800)904-3728x737",
+        "servicePhone": "800155513"
+    },
+    "birthday": "1954-02-05",
+    "ip": "61.193.168.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Others ground however woman beautiful others. Special cause drop civil personal serve give.\nWide student watch order foreign all one. Approach to memory no fund sit.",
+        "bio": "Production new forget sort far. Real call discuss learn action chance understand.\nSense draw data product.\nDinner religious accept book yard rest choose. They book relate fine economic medical seat."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
