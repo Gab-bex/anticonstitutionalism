@@ -1,0 +1,25 @@
+{
+    "name": "Kathleen Martinez",
+    "age": 52,
+    "address": {
+        "street": "Barbara Corners",
+        "city": "Lake Isaiah",
+        "state": "Virginia",
+        "zip": "21349"
+    },
+    "contact": {
+        "phone": "+1-398-751-7197x1673",
+        "servicePhone": "800927451"
+    },
+    "birthday": "1973-07-12",
+    "ip": "85.205.212.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Attorney trade fish government dream. Statement decide sense. Ago kid set off hope stock he.\nEducation experience although issue.",
+        "bio": "Finally outside three technology nothing. Operation successful race. Forget in create activity adult poor enter.\nAbout for live fine send decide. Region apply fund picture ahead medical."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
