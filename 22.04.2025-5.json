@@ -1,0 +1,25 @@
+{
+    "name": "Tina Hawkins",
+    "age": 74,
+    "address": {
+        "street": "Zamora Springs",
+        "city": "New Timothyburgh",
+        "state": "Missouri",
+        "zip": "62248"
+    },
+    "contact": {
+        "phone": "(938)454-3223x1721",
+        "servicePhone": "800348952"
+    },
+    "birthday": "1951-22-04",
+    "ip": "152.211.28.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime line employee spring color. Fire series Congress book effort. We information fight structure practice food.\nGet expert grow. Whom full report final world.",
+        "bio": "Building just born even color. Author market hundred actually step. Know drop property treatment despite.\nFar institution budget leave wonder. Theory fight market carry amount defense democratic."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
