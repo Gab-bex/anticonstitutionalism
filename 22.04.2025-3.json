@@ -1,0 +1,25 @@
+{
+    "name": "Dakota Lopez",
+    "age": 25,
+    "address": {
+        "street": "Brent Rapids",
+        "city": "Olsonstad",
+        "state": "Michigan",
+        "zip": "77462"
+    },
+    "contact": {
+        "phone": "9419470620",
+        "servicePhone": "800521808"
+    },
+    "birthday": "2000-26-05",
+    "ip": "204.247.130.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Other rich modern land. Take painting personal fight yourself sometimes law. Score prevent matter movement guy. Laugh would certainly behavior boy.\nEven organization want write.",
+        "bio": "Remember such modern indicate away region person. Show success need exactly between."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
