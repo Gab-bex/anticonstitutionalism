@@ -1,0 +1,25 @@
+{
+    "name": "Michael Gonzalez",
+    "age": 83,
+    "address": {
+        "street": "Boyer Skyway",
+        "city": "Nathanfort",
+        "state": "Arkansas",
+        "zip": "96886"
+    },
+    "contact": {
+        "phone": "930-957-4367x059",
+        "servicePhone": "800719750"
+    },
+    "birthday": "1942-06-06",
+    "ip": "180.10.4.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Require some phone case along medical. Large guy case thus. Prevent though single summer technology.",
+        "bio": "Buy west trouble behind any. Heavy summer likely tree.\nBook school usually then recently speech though. Peace Democrat two method later when to actually."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
