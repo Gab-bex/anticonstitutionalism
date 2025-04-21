@@ -1,0 +1,25 @@
+{
+    "name": "Casey Jones",
+    "age": 20,
+    "address": {
+        "street": "Miranda Extension",
+        "city": "Burnettport",
+        "state": "California",
+        "zip": "31331"
+    },
+    "contact": {
+        "phone": "752.285.2966x040",
+        "servicePhone": "800350694"
+    },
+    "birthday": "2005-10-09",
+    "ip": "35.122.94.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Hot body resource sit have.\nFollow community force remember glass. Spend tend tax possible admit.\nMilitary your writer ever after seven. Late deep interview.",
+        "bio": "Whose least research condition everyone fact kid through. Walk friend threat drug modern run best whether. She place today garden cost rule."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
