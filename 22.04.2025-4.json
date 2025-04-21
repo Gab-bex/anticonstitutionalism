@@ -1,0 +1,25 @@
+{
+    "name": "Christine Banks",
+    "age": 114,
+    "address": {
+        "street": "Brewer Village",
+        "city": "Christyfort",
+        "state": "Hawaii",
+        "zip": "59787"
+    },
+    "contact": {
+        "phone": "(522)722-6984",
+        "servicePhone": "800120762"
+    },
+    "birthday": "1911-02-08",
+    "ip": "106.109.52.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Page ever across of drop foreign impact. Morning so also line I that face. Mind inside method away edge same.\nSeason fill program. Indeed about certain federal loss. Everything hard always ahead.",
+        "bio": "Alone show mean director.\nNearly season food fight mind room treat. Whom add account half. Me live per nothing continue include concern also."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
