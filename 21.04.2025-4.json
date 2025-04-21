@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Jones",
+    "age": 100,
+    "address": {
+        "street": "Cole Fork",
+        "city": "West Dylanhaven",
+        "state": "California",
+        "zip": "66131"
+    },
+    "contact": {
+        "phone": "(411)821-2574",
+        "servicePhone": "800212828"
+    },
+    "birthday": "1925-28-09",
+    "ip": "9.142.136.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental better southern majority Democrat station poor. Message PM miss improve mouth. Question have either long any enter serve speak.",
+        "bio": "Card paper matter foreign large kid gas standard. Personal will often hour sea."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
