@@ -1,0 +1,25 @@
+{
+    "name": "Katherine Marshall",
+    "age": 102,
+    "address": {
+        "street": "Butler Fall",
+        "city": "Padillachester",
+        "state": "West Virginia",
+        "zip": "34405"
+    },
+    "contact": {
+        "phone": "(913)978-8479",
+        "servicePhone": "800580873"
+    },
+    "birthday": "1923-14-01",
+    "ip": "69.32.209.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Station bag particular. Standard strategy already candidate. Him me evening a deep her side. Last story of section against stock visit.",
+        "bio": "Expert little true difficult.\nOf once person current police pretty.\nPut boy power single dog. Subject tend me approach pass. Fight none key father. City pressure article woman."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
