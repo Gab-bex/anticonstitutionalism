@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Logan",
+    "age": 50,
+    "address": {
+        "street": "Sullivan Plains",
+        "city": "North Mark",
+        "state": "Nevada",
+        "zip": "69744"
+    },
+    "contact": {
+        "phone": "909-914-1335",
+        "servicePhone": "800517736"
+    },
+    "birthday": "1975-10-04",
+    "ip": "129.81.232.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Land president positive use. Pressure more north interview. Example state radio writer though.\nSpecial our unit wind whether bring then. Dinner wonder hotel describe crime.",
+        "bio": "Rock end itself out soldier important soon. Speak change participant recent such these.\nSay involve discuss mention save million. Mind military person value."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
