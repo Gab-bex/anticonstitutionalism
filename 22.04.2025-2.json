@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Rodriguez",
+    "age": 59,
+    "address": {
+        "street": "Lloyd Coves",
+        "city": "Taylorborough",
+        "state": "Arizona",
+        "zip": "26278"
+    },
+    "contact": {
+        "phone": "+1-487-265-8198x1101",
+        "servicePhone": "800666799"
+    },
+    "birthday": "1966-18-07",
+    "ip": "115.20.118.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Quite few explain during finally cultural. Shake time item mention happen one. Drug medical onto she true.\nWork perhaps she party bit. Keep here agency eye.",
+        "bio": "Though attack government sister look even find save. Window reach arrive pretty at. Likely man growth morning office down.\nAct peace sport either present.\nCapital trade treatment case push."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
