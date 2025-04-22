@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Branch",
+    "age": 93,
+    "address": {
+        "street": "Rivas Corners",
+        "city": "South Nathan",
+        "state": "Alabama",
+        "zip": "57283"
+    },
+    "contact": {
+        "phone": "001-565-267-5955x031",
+        "servicePhone": "800650138"
+    },
+    "birthday": "1932-05-03",
+    "ip": "39.19.234.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave senior central traditional vote if evening. Meeting offer have why sound cause through. Teacher rule few. Security fire him base.\nMusic cold lay. System Mrs full only senior traditional.",
+        "bio": "Necessary moment with shake benefit.\nCentral best something continue radio interview ball. Family between heavy. Try man sure collection management somebody."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
