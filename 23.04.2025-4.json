@@ -1,0 +1,25 @@
+{
+    "name": "Cathy Rodriguez",
+    "age": 47,
+    "address": {
+        "street": "Amy Views",
+        "city": "West Annette",
+        "state": "Alabama",
+        "zip": "64113"
+    },
+    "contact": {
+        "phone": "(745)476-6796",
+        "servicePhone": "800581867"
+    },
+    "birthday": "1978-16-04",
+    "ip": "120.170.202.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr recent indicate cut model real stage exist. Deep week senior learn me town half sell. Tonight whatever certainly ok.\nFuture represent rest life possible. Name talk church end close.",
+        "bio": "Three morning high. Last environment let number. Others message model identify character follow set."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
