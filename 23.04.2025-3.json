@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Miller",
+    "age": 81,
+    "address": {
+        "street": "John Canyon",
+        "city": "New Markmouth",
+        "state": "Massachusetts",
+        "zip": "59114"
+    },
+    "contact": {
+        "phone": "317.564.9401x86176",
+        "servicePhone": "800353787"
+    },
+    "birthday": "1944-02-02",
+    "ip": "42.57.112.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference customer piece discuss whose game develop. Within determine window wear. Role thought two ten throw unit.\nWhile ten example gas by. Window real heavy whether simply strategy behavior.",
+        "bio": "Writer article word friend type. Help very bad bar suddenly.\nHerself party group grow professional front. Age affect not right clear across speech. Card protect fly war training however."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
