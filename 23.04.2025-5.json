@@ -1,0 +1,25 @@
+{
+    "name": "Janet Dean",
+    "age": 8,
+    "address": {
+        "street": "Moore Trail",
+        "city": "New Sherryton",
+        "state": "New York",
+        "zip": "97581"
+    },
+    "contact": {
+        "phone": "204.461.4334x8089",
+        "servicePhone": "800783869"
+    },
+    "birthday": "2017-23-05",
+    "ip": "57.240.131.77",
+    "foo": "bar",
+    "profile": {
+        "about": "City factor heart around case leader lead. Agreement career ten great daughter. Worry partner environment. Else money majority east name.\nOffice painting per follow partner social.",
+        "bio": "Group series game score. Off would outside everything every time.\nSpeech easy campaign already tell. Only able seat capital nor country would."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
