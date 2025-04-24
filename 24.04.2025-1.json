@@ -1,0 +1,25 @@
+{
+    "name": "Cindy Romero",
+    "age": 82,
+    "address": {
+        "street": "Angela Summit",
+        "city": "Timothyton",
+        "state": "Wisconsin",
+        "zip": "21249"
+    },
+    "contact": {
+        "phone": "001-343-983-5778x730",
+        "servicePhone": "800930188"
+    },
+    "birthday": "1943-11-04",
+    "ip": "81.163.226.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Management pattern Democrat law nation long man.\nYour whose ago half raise break. Outside ready film positive.\nLeader election real we. Artist moment analysis have serve study.",
+        "bio": "Baby serious increase talk religious state score. Subject thus will ago radio decision. Economy card maybe just.\nTheory sit general personal. Inside police camera. Goal authority worry threat."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
