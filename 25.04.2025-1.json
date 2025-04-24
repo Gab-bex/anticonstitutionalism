@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Lyons",
+    "age": 40,
+    "address": {
+        "street": "Stephen Flats",
+        "city": "Rodriguezburgh",
+        "state": "Mississippi",
+        "zip": "85184"
+    },
+    "contact": {
+        "phone": "519.859.2571x04773",
+        "servicePhone": "800287652"
+    },
+    "birthday": "1985-08-12",
+    "ip": "136.45.111.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Week suffer last. Financial necessary economy pattern.\nParticularly magazine dog voice ago care. Low want society soon tend office.",
+        "bio": "Church people exist form message the long side. Themselves pressure at theory. State cost benefit bad argue ground."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
