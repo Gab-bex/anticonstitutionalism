@@ -1,0 +1,25 @@
+{
+    "name": "Cory Whitney",
+    "age": 61,
+    "address": {
+        "street": "Garcia Forge",
+        "city": "Port Brenda",
+        "state": "Kansas",
+        "zip": "53413"
+    },
+    "contact": {
+        "phone": "(456)915-9359x1438",
+        "servicePhone": "800390345"
+    },
+    "birthday": "1964-21-09",
+    "ip": "6.222.142.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact quickly tree ready change hard. Responsibility we official national. Develop information turn bring next poor outside. Occur program tell many specific strong may than.",
+        "bio": "Perhaps raise hope better difference might. Still back modern source eye. Political when right."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
