@@ -1,0 +1,25 @@
+{
+    "name": "Mary Watts",
+    "age": 80,
+    "address": {
+        "street": "Davis Camp",
+        "city": "Adkinston",
+        "state": "Connecticut",
+        "zip": "45555"
+    },
+    "contact": {
+        "phone": "6993276848",
+        "servicePhone": "800344995"
+    },
+    "birthday": "1945-01-03",
+    "ip": "91.242.87.130",
+    "foo": "bar",
+    "profile": {
+        "about": "American read democratic. Standard discover method.\nAbove art opportunity free contain sound put. Sister someone article.",
+        "bio": "Teacher young office wife worker control their official. School we fast option rule despite need wall."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
