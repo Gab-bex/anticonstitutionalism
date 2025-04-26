@@ -1,0 +1,25 @@
+{
+    "name": "Debra Zavala",
+    "age": 79,
+    "address": {
+        "street": "Reed Stravenue",
+        "city": "Zhangville",
+        "state": "Delaware",
+        "zip": "20388"
+    },
+    "contact": {
+        "phone": "673.417.8640x31905",
+        "servicePhone": "800677176"
+    },
+    "birthday": "1946-28-11",
+    "ip": "178.145.217.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Play nor single staff grow kind executive. Popular notice show miss time. Beautiful occur focus defense.\nHear class person feeling throughout. Few official might.",
+        "bio": "Skin clear again enter ten. Win certainly eye forward quality plan. Like weight model.\nChair need blue body. Continue speech head employee. Why maybe reach military."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
