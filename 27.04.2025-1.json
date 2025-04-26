@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Thompson",
+    "age": 60,
+    "address": {
+        "street": "Ruben Village",
+        "city": "Thompsonburgh",
+        "state": "Utah",
+        "zip": "58718"
+    },
+    "contact": {
+        "phone": "938.441.6288",
+        "servicePhone": "800064432"
+    },
+    "birthday": "1965-03-06",
+    "ip": "41.143.152.219",
+    "foo": "bar",
+    "profile": {
+        "about": "To fear I brother television which. Perform will finally clear successful throughout.",
+        "bio": "Program test score. Ever listen expect agree magazine various. Brother but drug day entire share me practice.\nAmerican collection general note. Artist choice natural main worker."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
