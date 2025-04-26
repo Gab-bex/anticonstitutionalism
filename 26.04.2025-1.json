@@ -1,0 +1,25 @@
+{
+    "name": "John Houston",
+    "age": 112,
+    "address": {
+        "street": "Perkins Greens",
+        "city": "South Kimberly",
+        "state": "Delaware",
+        "zip": "01870"
+    },
+    "contact": {
+        "phone": "256.709.9868",
+        "servicePhone": "800201955"
+    },
+    "birthday": "1913-23-08",
+    "ip": "210.181.30.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss vote dog. Follow player energy radio so military.\nQuite rest have face room lot hit. Success certain might point mother although structure nothing. Than apply but investment scene energy.",
+        "bio": "Decision up six threat tell. Day administration compare deal laugh seat.\nCongress relationship however account bar.\nHot defense almost consider."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
