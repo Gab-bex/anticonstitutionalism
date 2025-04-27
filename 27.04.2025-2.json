@@ -1,0 +1,25 @@
+{
+    "name": "Phillip Adkins",
+    "age": 103,
+    "address": {
+        "street": "Wyatt Fall",
+        "city": "Jonesberg",
+        "state": "Alaska",
+        "zip": "05829"
+    },
+    "contact": {
+        "phone": "863-409-4627x81105",
+        "servicePhone": "800990384"
+    },
+    "birthday": "1922-31-12",
+    "ip": "62.172.192.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Pull ahead because sing. Example little free.\nBed allow memory avoid. Claim financial but nor.\nBe fish physical tonight dark up trip attention.",
+        "bio": "Oil skin lose continue old.\nLose rule year often. Particular long dark always court during Mr. Compare myself you."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
