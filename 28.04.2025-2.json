@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Porter",
+    "age": 83,
+    "address": {
+        "street": "Ramirez Valley",
+        "city": "Crossburgh",
+        "state": "Montana",
+        "zip": "12219"
+    },
+    "contact": {
+        "phone": "(204)567-9201",
+        "servicePhone": "800874793"
+    },
+    "birthday": "1942-01-12",
+    "ip": "133.165.137.60",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern enjoy two page interest near soldier. Difficult real social quite.\nBetween anyone Republican himself person. My decision left south write project.",
+        "bio": "Especially within then none beyond. Debate industry some none word wish son.\nCamera teacher final top school town. And real read family amount others far. Simply way sense blood."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
