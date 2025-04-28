@@ -1,0 +1,25 @@
+{
+    "name": "Ricky Pineda",
+    "age": 12,
+    "address": {
+        "street": "Donald Crest",
+        "city": "Sanfordborough",
+        "state": "Arizona",
+        "zip": "82399"
+    },
+    "contact": {
+        "phone": "(226)904-3273x62014",
+        "servicePhone": "800963000"
+    },
+    "birthday": "2013-10-04",
+    "ip": "21.7.101.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Within worry head industry door too. Suddenly describe administration necessary improve. Sister plant inside deep follow suffer old.",
+        "bio": "Treatment home radio stand throw most citizen. Weight alone no surface scene class. Talk position federal number even three."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
