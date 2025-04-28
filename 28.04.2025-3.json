@@ -1,0 +1,25 @@
+{
+    "name": "Paul Miller",
+    "age": 79,
+    "address": {
+        "street": "Miller Vista",
+        "city": "West Wyatt",
+        "state": "Pennsylvania",
+        "zip": "72966"
+    },
+    "contact": {
+        "phone": "239-591-7416",
+        "servicePhone": "800784017"
+    },
+    "birthday": "1946-18-08",
+    "ip": "192.110.225.215",
+    "foo": "bar",
+    "profile": {
+        "about": "Blood present her Congress leg. Player drop wind whatever Democrat compare. Investment international officer rock should. Practice our product.\nVarious several way present gas story.",
+        "bio": "For whom arm arm church central degree ten. Law artist suggest generation phone maybe. Shake low coach team.\nSummer federal property dark discuss investment. Walk full group want floor."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
