@@ -1,0 +1,25 @@
+{
+    "name": "Jeremy Daniel",
+    "age": 11,
+    "address": {
+        "street": "Morris Ports",
+        "city": "South Cynthia",
+        "state": "Idaho",
+        "zip": "54327"
+    },
+    "contact": {
+        "phone": "415-652-3587x870",
+        "servicePhone": "800702705"
+    },
+    "birthday": "2014-25-03",
+    "ip": "7.222.207.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Involve mean no to piece win blood. Reach quite program natural read. Owner view base challenge participant wife challenge.\nField reality also society among book. Easy whose follow trouble wonder.",
+        "bio": "Big it purpose third network. Investment end stuff both real team low.\nCustomer think low best memory. Bank hand while shake weight economy."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
