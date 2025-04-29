@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Thomas",
+    "age": 42,
+    "address": {
+        "street": "Michael Rest",
+        "city": "West Michaelside",
+        "state": "Missouri",
+        "zip": "24709"
+    },
+    "contact": {
+        "phone": "(356)283-2150x8352",
+        "servicePhone": "800222260"
+    },
+    "birthday": "1983-24-01",
+    "ip": "40.39.67.152",
+    "foo": "bar",
+    "profile": {
+        "about": "Over walk term deep. Subject beautiful choice wall kind either mind. Science despite point as prevent increase.",
+        "bio": "Method policy eight cold many live. Both exist student him. Cell baby book use page yeah measure media."
+    },
+    "currency": [
+        "DOP",
+        "Dominican peso"
+    ]
+}
