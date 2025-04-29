@@ -1,0 +1,25 @@
+{
+    "name": "Brooke Gibson",
+    "age": 89,
+    "address": {
+        "street": "Young Lodge",
+        "city": "Danieltown",
+        "state": "Wisconsin",
+        "zip": "70294"
+    },
+    "contact": {
+        "phone": "001-391-350-6398x04813",
+        "servicePhone": "800622664"
+    },
+    "birthday": "1936-24-08",
+    "ip": "81.130.109.20",
+    "foo": "bar",
+    "profile": {
+        "about": "Degree popular describe decision. Out want investment president. Interesting vote rest.\nThrow claim better note number. Gun film away party.",
+        "bio": "Individual do smile develop. Head decision allow magazine. Study participant choice onto course. Expect value when easy nor."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
