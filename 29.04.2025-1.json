@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Green",
+    "age": 46,
+    "address": {
+        "street": "Wright Shoals",
+        "city": "North Sarah",
+        "state": "Kansas",
+        "zip": "61141"
+    },
+    "contact": {
+        "phone": "7734559029",
+        "servicePhone": "800052772"
+    },
+    "birthday": "1979-13-02",
+    "ip": "85.76.249.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Identify sign interesting middle piece subject mouth manager. Rather tend black share. Off almost available run easy. Staff prove recognize commercial pay decade can.",
+        "bio": "Out push audience leader. Believe discover bill join decade black past. Song nature again make once. Wonder nation end carry member."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
