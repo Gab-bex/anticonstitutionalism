@@ -1,0 +1,25 @@
+{
+    "name": "Robert Turner",
+    "age": 105,
+    "address": {
+        "street": "Hunt Parkway",
+        "city": "Robertfurt",
+        "state": "West Virginia",
+        "zip": "69243"
+    },
+    "contact": {
+        "phone": "621-417-7697",
+        "servicePhone": "800591330"
+    },
+    "birthday": "1920-11-12",
+    "ip": "73.204.64.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Medical provide remember long. Present before face executive clearly reduce whom. Clear factor investment what this. Wonder white many performance.",
+        "bio": "Stop herself prepare international get cut political. Many own within near want. Lead both up try fear information.\nBetter phone occur tonight five letter suddenly through."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
