@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Barajas",
+    "age": 39,
+    "address": {
+        "street": "Jimmy Corner",
+        "city": "Port Kevinton",
+        "state": "New Hampshire",
+        "zip": "53369"
+    },
+    "contact": {
+        "phone": "602-214-0090x790",
+        "servicePhone": "800744071"
+    },
+    "birthday": "1986-21-11",
+    "ip": "88.39.158.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Raise the evening chance send whose.\nHerself culture alone road marriage become serve. Sure six dark car dog pretty.\nPull various check avoid country. Mission which heart debate real his say arm.",
+        "bio": "According subject record identify front high majority. Item sense east effort theory.\nSea agreement parent Republican choose sport animal. Arm country rich we pressure remember."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
