@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Diaz",
+    "age": 30,
+    "address": {
+        "street": "Douglas Grove",
+        "city": "North Brandon",
+        "state": "Arizona",
+        "zip": "36655"
+    },
+    "contact": {
+        "phone": "354-568-5295x636",
+        "servicePhone": "800421958"
+    },
+    "birthday": "1995-16-11",
+    "ip": "174.48.152.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Adult eye total unit wife. Down help strong trouble company.\nJoin main economy my. Board job however newspaper. Power learn view piece fill possible here myself.",
+        "bio": "Response church employee tax word. Sit end through.\nAgo take baby its project."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
