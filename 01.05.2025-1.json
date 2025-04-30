@@ -1,0 +1,25 @@
+{
+    "name": "Robert York",
+    "age": 86,
+    "address": {
+        "street": "Bond Roads",
+        "city": "West Michaelmouth",
+        "state": "Mississippi",
+        "zip": "15677"
+    },
+    "contact": {
+        "phone": "229.889.5546",
+        "servicePhone": "800292019"
+    },
+    "birthday": "1939-25-09",
+    "ip": "106.92.229.182",
+    "foo": "bar",
+    "profile": {
+        "about": "Cultural hotel play room own over. Human career loss instead man standard song.\nSkin car ago however argue seven.",
+        "bio": "Test voice such leader.\nOperation poor trouble lawyer nearly they. Share hear smile watch reveal stay own. Key artist charge."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
