@@ -1,0 +1,25 @@
+{
+    "name": "Caroline Walker",
+    "age": 50,
+    "address": {
+        "street": "David Divide",
+        "city": "South Debbiemouth",
+        "state": "Connecticut",
+        "zip": "11687"
+    },
+    "contact": {
+        "phone": "001-773-280-4018x329",
+        "servicePhone": "800759161"
+    },
+    "birthday": "1975-30-12",
+    "ip": "70.21.7.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Address page hour write right rich. Interview research wide member power fine. Only guy music team despite. Never inside alone show.\nMedical discover church successful assume. Good choose past same.",
+        "bio": "Home town charge leader sound explain else. Bank arrive half side task detail. Threat tough or other item. Something cold rate issue late."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
