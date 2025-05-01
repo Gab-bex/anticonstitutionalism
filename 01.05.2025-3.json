@@ -1,0 +1,25 @@
+{
+    "name": "Michael Pollard",
+    "age": 35,
+    "address": {
+        "street": "Ashley Villages",
+        "city": "Lake Adrianatown",
+        "state": "North Carolina",
+        "zip": "78793"
+    },
+    "contact": {
+        "phone": "868-568-9122x313",
+        "servicePhone": "800199315"
+    },
+    "birthday": "1990-19-04",
+    "ip": "119.37.243.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Treat old enough visit.\nSure after myself war scene pattern. Price practice understand individual any.\nHard message program.",
+        "bio": "Impact school push third play give. Let drive enough your suffer.\nReligious able yourself exist draw forward. Language society process media."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
