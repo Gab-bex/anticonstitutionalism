@@ -1,0 +1,25 @@
+{
+    "name": "John Burnett",
+    "age": 64,
+    "address": {
+        "street": "Jerry Trace",
+        "city": "Perkinsburgh",
+        "state": "Wisconsin",
+        "zip": "43065"
+    },
+    "contact": {
+        "phone": "4369657164",
+        "servicePhone": "800351718"
+    },
+    "birthday": "1961-15-07",
+    "ip": "3.140.247.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Air foreign with whether. Those door fast rather bad area tree. Administration would second.",
+        "bio": "Mean home ten his even ask that minute. Little significant real plan market animal. Age stuff audience machine hundred."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
