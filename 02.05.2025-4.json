@@ -1,0 +1,25 @@
+{
+    "name": "Robert Hull",
+    "age": 27,
+    "address": {
+        "street": "Sheila Drive",
+        "city": "South Brandon",
+        "state": "Delaware",
+        "zip": "06965"
+    },
+    "contact": {
+        "phone": "672.507.9179",
+        "servicePhone": "800238900"
+    },
+    "birthday": "1998-07-01",
+    "ip": "139.241.245.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Live page leave south contain learn even. State seek there know cultural wonder.\nUnder the standard people PM. Word condition stock accept not.",
+        "bio": "Summer assume there individual while two. Nation pay parent get realize car woman.\nBillion trip think in community lot audience. Even hot vote wind. Pick cold fast Mr training writer positive."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
