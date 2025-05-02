@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Butler",
+    "age": 105,
+    "address": {
+        "street": "Carlson Parks",
+        "city": "North Julie",
+        "state": "New Mexico",
+        "zip": "06051"
+    },
+    "contact": {
+        "phone": "+1-520-747-9665x4863",
+        "servicePhone": "800402763"
+    },
+    "birthday": "1920-03-07",
+    "ip": "67.154.47.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Same deep wonder yet store thought focus. Response wish his pick happy animal. Meet series piece raise thought. Service out base possible themselves thus range.",
+        "bio": "Religious machine leave whom. Attention two outside itself. Cost present son plan city. Four reality bring mouth same four collection."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
