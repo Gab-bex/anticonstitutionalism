@@ -1,0 +1,25 @@
+{
+    "name": "Madeline Moore",
+    "age": 81,
+    "address": {
+        "street": "Lindsey Prairie",
+        "city": "West Shawn",
+        "state": "Arkansas",
+        "zip": "71249"
+    },
+    "contact": {
+        "phone": "001-708-284-0109x83094",
+        "servicePhone": "800385236"
+    },
+    "birthday": "1944-31-01",
+    "ip": "75.11.166.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Action bad light threat miss. Would build agreement ball.\nElection always cost. Carry instead policy feel discuss music.\nPopulation thing force quickly player. Everyone ask lose human.",
+        "bio": "Stand father herself only series difference theory. Somebody yeah majority friend control upon. Number past other artist grow teacher development."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
