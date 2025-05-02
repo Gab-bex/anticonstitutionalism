@@ -1,0 +1,25 @@
+{
+    "name": "Jenna Gibson",
+    "age": 112,
+    "address": {
+        "street": "Jennifer Via",
+        "city": "Burchbury",
+        "state": "Virginia",
+        "zip": "01333"
+    },
+    "contact": {
+        "phone": "+1-448-405-9643",
+        "servicePhone": "800909395"
+    },
+    "birthday": "1913-25-06",
+    "ip": "186.91.75.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Writer machine analysis tonight late single drop sometimes.\nComputer effort hair remember bit speech assume prepare. Do name believe choose because question. Pick of PM nice huge themselves exist.",
+        "bio": "All part subject west rock. Story away seek house far resource. Community how total where natural smile.\nThank life but buy benefit green. Hear unit week should our minute."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
