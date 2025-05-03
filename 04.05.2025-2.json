@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Perkins",
+    "age": 115,
+    "address": {
+        "street": "Nicole Expressway",
+        "city": "New Jessica",
+        "state": "Rhode Island",
+        "zip": "97612"
+    },
+    "contact": {
+        "phone": "2616178617",
+        "servicePhone": "800982549"
+    },
+    "birthday": "1910-22-03",
+    "ip": "77.249.111.99",
+    "foo": "bar",
+    "profile": {
+        "about": "View ahead practice difference ever. Teach consumer task level place before. Experience almost teacher cut race reduce. Exist relationship rich allow use country want.",
+        "bio": "Ability money so able for three. Small issue pay yeah economy. Able gun born popular glass.\nLarge today can vote. Government space adult in."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
