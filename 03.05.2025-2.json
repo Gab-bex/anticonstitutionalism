@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Scott",
+    "age": 104,
+    "address": {
+        "street": "Estrada Parks",
+        "city": "East Ricky",
+        "state": "Rhode Island",
+        "zip": "73643"
+    },
+    "contact": {
+        "phone": "(317)684-6368x1160",
+        "servicePhone": "800441248"
+    },
+    "birthday": "1921-09-06",
+    "ip": "36.214.120.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss goal forget environment guess join. High in authority ever room.\nSee growth doctor. Consumer professional simple education tend.",
+        "bio": "Window about than. International the activity interesting. Own hand later.\nSeries lawyer out response. Your pass order various international order. So administration south late him peace nor."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
