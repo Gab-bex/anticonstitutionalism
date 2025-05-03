@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Rogers",
+    "age": 59,
+    "address": {
+        "street": "Cuevas Ville",
+        "city": "Nathanmouth",
+        "state": "Maryland",
+        "zip": "65743"
+    },
+    "contact": {
+        "phone": "598.581.0454x797",
+        "servicePhone": "800146650"
+    },
+    "birthday": "1966-07-02",
+    "ip": "143.216.58.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Most power station through administration over. Toward not organization question professional treatment college do.",
+        "bio": "Performance mouth six summer. Back Mrs official really. Reflect consider as point.\nDecision accept mouth. Play result race security son."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
