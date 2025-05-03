@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Snyder",
+    "age": 34,
+    "address": {
+        "street": "Rogers Manor",
+        "city": "South Kurt",
+        "state": "Montana",
+        "zip": "22866"
+    },
+    "contact": {
+        "phone": "(755)546-3119",
+        "servicePhone": "800096349"
+    },
+    "birthday": "1991-19-04",
+    "ip": "37.205.16.59",
+    "foo": "bar",
+    "profile": {
+        "about": "Level sure many similar adult. First pay performance per interesting conference.",
+        "bio": "Themselves nice on network parent instead as.\nWord worry couple discover threat democratic heavy. Certainly create late how us after carry."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
