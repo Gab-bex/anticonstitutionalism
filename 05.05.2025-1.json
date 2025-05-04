@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Allen",
+    "age": 14,
+    "address": {
+        "street": "Robinson Radial",
+        "city": "Catherineport",
+        "state": "South Carolina",
+        "zip": "36382"
+    },
+    "contact": {
+        "phone": "654.767.0183x201",
+        "servicePhone": "800064019"
+    },
+    "birthday": "2011-12-09",
+    "ip": "134.172.183.192",
+    "foo": "bar",
+    "profile": {
+        "about": "During early talk both skin. Food position despite side if seek. Management develop moment.\nIssue will onto certain hold administration most.",
+        "bio": "Week keep story according. Now until research image investment. Out walk management wife.\nIts letter respond create want debate six. Law few else public store manager."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
