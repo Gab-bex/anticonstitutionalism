@@ -1,0 +1,25 @@
+{
+    "name": "Dr. Angela Jordan",
+    "age": 114,
+    "address": {
+        "street": "Holly Orchard",
+        "city": "Whiteside",
+        "state": "Hawaii",
+        "zip": "20239"
+    },
+    "contact": {
+        "phone": "504.978.1366",
+        "servicePhone": "800021140"
+    },
+    "birthday": "1911-04-04",
+    "ip": "170.63.128.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Board sit project artist evidence some. Point current her apply officer these. Believe red science.\nPage member method of character this card. Society crime thus main bank car brother.",
+        "bio": "We consumer whole once response side. Job perhaps seven water. Program manage hit message chair agent."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
