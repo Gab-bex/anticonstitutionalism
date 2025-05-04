@@ -1,0 +1,25 @@
+{
+    "name": "Mary Hall",
+    "age": 52,
+    "address": {
+        "street": "Robin Street",
+        "city": "East Ashley",
+        "state": "Alaska",
+        "zip": "54592"
+    },
+    "contact": {
+        "phone": "001-472-279-7737",
+        "servicePhone": "800910412"
+    },
+    "birthday": "1973-27-01",
+    "ip": "57.90.194.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Group action read run significant big high. Each next meeting. Son together city real.",
+        "bio": "Information sister once matter describe. Probably play usually certainly social.\nForce learn over certain. Civil research thus record century project. Business window impact same figure room able."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
