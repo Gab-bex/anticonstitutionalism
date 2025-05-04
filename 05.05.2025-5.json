@@ -1,0 +1,25 @@
+{
+    "name": "Michael Lambert",
+    "age": 10,
+    "address": {
+        "street": "Anderson Station",
+        "city": "Burkeburgh",
+        "state": "New Jersey",
+        "zip": "84398"
+    },
+    "contact": {
+        "phone": "423.270.2147",
+        "servicePhone": "800878903"
+    },
+    "birthday": "2015-22-02",
+    "ip": "84.183.121.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Its develop law grow suffer when oil item. Artist away for almost dog weight include rather.\nInternational middle two second. Practice pass knowledge where time difficult Mrs.",
+        "bio": "Scene reveal still quality live without. Order someone term fear agent.\nShe pretty must close month kid however. Manager bad ok hand national including."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
