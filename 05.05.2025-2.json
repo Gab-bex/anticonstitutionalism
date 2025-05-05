@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Adams",
+    "age": 33,
+    "address": {
+        "street": "Brandon Flat",
+        "city": "Rodrigueztown",
+        "state": "Wyoming",
+        "zip": "83430"
+    },
+    "contact": {
+        "phone": "(392)742-0854x3155",
+        "servicePhone": "800625699"
+    },
+    "birthday": "1992-27-08",
+    "ip": "110.86.213.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern political name option who reduce must little. Cover help firm federal. Goal sell produce strategy. Experience these rather without.",
+        "bio": "Around item deep me whole method professor. Agreement during citizen.\nGreen market writer machine. School onto page nearly. Dream leg action enter nor while above research."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
