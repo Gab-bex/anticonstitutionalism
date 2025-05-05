@@ -1,0 +1,25 @@
+{
+    "name": "Leslie Larson",
+    "age": 84,
+    "address": {
+        "street": "Cynthia Hill",
+        "city": "Port Alfred",
+        "state": "Hawaii",
+        "zip": "40199"
+    },
+    "contact": {
+        "phone": "+1-767-772-5950x93921",
+        "servicePhone": "800001638"
+    },
+    "birthday": "1941-04-01",
+    "ip": "16.24.101.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement together certain scene. Eat head response laugh player why front. Yourself part thus person summer nothing.",
+        "bio": "Pick thing visit interest market. Present coach life main staff manager become. Long blood miss give both indicate tree include."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
