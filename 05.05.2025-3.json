@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Smith",
+    "age": 112,
+    "address": {
+        "street": "James Walk",
+        "city": "West Christinabury",
+        "state": "South Dakota",
+        "zip": "03418"
+    },
+    "contact": {
+        "phone": "001-536-650-0509",
+        "servicePhone": "800848998"
+    },
+    "birthday": "1913-18-01",
+    "ip": "63.86.6.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Your need kid figure debate foot. Economic American all two interesting. Recent sometimes big development whatever behind.\nRule hand none music.",
+        "bio": "Home level treat term rich house find. Know between above consider son theory.\nEvening expect rather clear ball democratic. Natural suggest within research dinner business cup."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
