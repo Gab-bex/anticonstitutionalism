@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Hatfield",
+    "age": 19,
+    "address": {
+        "street": "Finley Trail",
+        "city": "Douglastown",
+        "state": "Iowa",
+        "zip": "37717"
+    },
+    "contact": {
+        "phone": "498-809-2245x3752",
+        "servicePhone": "800601604"
+    },
+    "birthday": "2006-23-10",
+    "ip": "199.245.102.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Meet prove apply as on. Outside explain city begin name everybody table energy.",
+        "bio": "Institution enjoy entire certain own with. Management politics laugh.\nPut establish beat money involve author. Visit not there lose. Simple decide nothing room. Student lead charge wait probably."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
