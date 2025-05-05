@@ -1,0 +1,25 @@
+{
+    "name": "David Holland",
+    "age": 47,
+    "address": {
+        "street": "Knight Circles",
+        "city": "Port Alexandra",
+        "state": "Iowa",
+        "zip": "87135"
+    },
+    "contact": {
+        "phone": "334-660-5437x3793",
+        "servicePhone": "800104380"
+    },
+    "birthday": "1978-20-08",
+    "ip": "49.209.14.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect line story rock. Suggest simple new especially all. You method like accept.\nInstead among once quality similar certainly officer result. Others car return movement others too ability.",
+        "bio": "Federal vote national eye century it. Hand nature shoulder decide responsibility sense begin. Black food mind feel relationship. Decade arm learn significant fact."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
