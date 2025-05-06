@@ -1,0 +1,25 @@
+{
+    "name": "Tony Campbell",
+    "age": 72,
+    "address": {
+        "street": "Williamson Road",
+        "city": "Reneetown",
+        "state": "New Hampshire",
+        "zip": "91107"
+    },
+    "contact": {
+        "phone": "7389157778",
+        "servicePhone": "800608524"
+    },
+    "birthday": "1953-01-04",
+    "ip": "4.157.78.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Star price less trial teacher. Sense capital trial break challenge some. Hold respond hear son brother better.",
+        "bio": "Media best term test. Best glass take risk sort future. Young catch more threat place baby."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
