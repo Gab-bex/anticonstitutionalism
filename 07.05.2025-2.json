@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Black",
+    "age": 61,
+    "address": {
+        "street": "Gutierrez Shores",
+        "city": "Griffithfort",
+        "state": "Rhode Island",
+        "zip": "75959"
+    },
+    "contact": {
+        "phone": "(268)511-6268",
+        "servicePhone": "800804941"
+    },
+    "birthday": "1964-20-02",
+    "ip": "118.30.234.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Bank start half daughter. Perhaps response down deep ability.\nMore consumer these the force news. Fly different question treat ok politics whose.",
+        "bio": "Send dog finally himself power policy. Wear force why admit foreign entire. Traditional employee everything ask alone."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
