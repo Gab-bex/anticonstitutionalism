@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Burke",
+    "age": 100,
+    "address": {
+        "street": "Mcdonald Parks",
+        "city": "Lake Charlesville",
+        "state": "Florida",
+        "zip": "41329"
+    },
+    "contact": {
+        "phone": "550-805-6316",
+        "servicePhone": "800801651"
+    },
+    "birthday": "1925-11-11",
+    "ip": "148.148.200.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably election piece plan past research last. Interesting fund drive blood detail maybe.\nFederal sort fly there part piece. Culture help class good.",
+        "bio": "System heart tonight myself civil often worry.\nAdult base crime possible paper. After together position finally structure forget. Mother ability game director. Easy want each do religious avoid."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
