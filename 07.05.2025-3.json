@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Nelson",
+    "age": 71,
+    "address": {
+        "street": "Rhodes Prairie",
+        "city": "Lake Kimberlyside",
+        "state": "Pennsylvania",
+        "zip": "40415"
+    },
+    "contact": {
+        "phone": "503-761-4736",
+        "servicePhone": "800934710"
+    },
+    "birthday": "1954-09-06",
+    "ip": "107.90.80.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Southern issue author individual in human top. Stop any always eye.\nMaterial hit nothing region. Draw market question them respond land.",
+        "bio": "Thing law cut. Feeling shake price occur be while pay.\nGun relate pick century. Night pressure realize necessary high response until without."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
