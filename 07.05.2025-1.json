@@ -1,0 +1,25 @@
+{
+    "name": "Casey Marshall",
+    "age": 93,
+    "address": {
+        "street": "Bell Junction",
+        "city": "South Elizabeth",
+        "state": "Oregon",
+        "zip": "42651"
+    },
+    "contact": {
+        "phone": "001-899-908-0396",
+        "servicePhone": "800126100"
+    },
+    "birthday": "1932-30-09",
+    "ip": "168.254.29.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Media state ready choose rule charge region. Kind break discuss seem. Exactly region heavy ever.",
+        "bio": "Current manage father million performance. Right focus everyone reflect group. Still face color speech rate source second."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
