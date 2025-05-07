@@ -1,0 +1,25 @@
+{
+    "name": "Charles Green PhD",
+    "age": 15,
+    "address": {
+        "street": "French Manors",
+        "city": "North Madelineville",
+        "state": "West Virginia",
+        "zip": "81980"
+    },
+    "contact": {
+        "phone": "522-466-8838x04020",
+        "servicePhone": "800835948"
+    },
+    "birthday": "2010-08-04",
+    "ip": "135.96.219.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Person wind person experience. Good soon write notice agency still.\nSome her chair record professor writer. Modern explain increase event far whose choice.",
+        "bio": "Reality trial table American per traditional region wrong. Simple standard attention land least little forward easy."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
