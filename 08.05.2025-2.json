@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Williams",
+    "age": 45,
+    "address": {
+        "street": "James Course",
+        "city": "New Sylviabury",
+        "state": "Kentucky",
+        "zip": "42301"
+    },
+    "contact": {
+        "phone": "(606)753-3889x086",
+        "servicePhone": "800283869"
+    },
+    "birthday": "1980-02-10",
+    "ip": "25.171.218.175",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe else idea themselves. Inside audience law half guy.\nShare Mrs including three. Give throughout than green water huge.",
+        "bio": "Foot like several show author film. Difficult camera music sign. Program against share ok huge. Look say save ground environment inside office.\nAble few idea firm no certainly radio."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
