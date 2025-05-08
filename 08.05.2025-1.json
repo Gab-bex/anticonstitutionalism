@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Vargas",
+    "age": 115,
+    "address": {
+        "street": "Erica Stream",
+        "city": "Stacymouth",
+        "state": "Utah",
+        "zip": "37332"
+    },
+    "contact": {
+        "phone": "001-497-730-6928x559",
+        "servicePhone": "800757697"
+    },
+    "birthday": "1910-18-08",
+    "ip": "53.195.14.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Father store rate ask unit. Magazine nice man. Admit always left significant president discussion. Dinner phone myself for senior.\nOld parent rich around he painting.",
+        "bio": "Left drug future him lose. Show read authority wall serve necessary.\nProfessor reveal brother civil. Represent lay sport event quickly.\nManage near how send. Sound company southern minute people."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
