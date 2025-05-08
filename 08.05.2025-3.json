@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Rice",
+    "age": 27,
+    "address": {
+        "street": "Davis Burg",
+        "city": "Lake Alicia",
+        "state": "Mississippi",
+        "zip": "82120"
+    },
+    "contact": {
+        "phone": "8355404855",
+        "servicePhone": "800518488"
+    },
+    "birthday": "1998-07-05",
+    "ip": "159.246.197.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Serious model customer garden station activity. Sense culture contain third interest. Close development dinner story nor main mother.",
+        "bio": "Recognize occur reveal discuss senior understand fly. State investment yes kitchen project. Event science everyone know."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
