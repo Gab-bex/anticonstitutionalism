@@ -1,0 +1,25 @@
+{
+    "name": "John Beard",
+    "age": 40,
+    "address": {
+        "street": "Chad Spur",
+        "city": "Benjaminfurt",
+        "state": "Oklahoma",
+        "zip": "98197"
+    },
+    "contact": {
+        "phone": "+1-964-457-1038x4884",
+        "servicePhone": "800442343"
+    },
+    "birthday": "1985-09-01",
+    "ip": "50.208.144.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Rock happy indeed might end receive town. Standard popular wide mouth.\nCustomer agree will huge else country week. It culture enough base bank receive forward.",
+        "bio": "Compare pay buy explain process control. Ground work well car.\nEnjoy house act serious. Whatever focus agency staff bar mention Democrat.\nDuring conference nor part."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
