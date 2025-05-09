@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Johnson",
+    "age": 26,
+    "address": {
+        "street": "Victoria Manor",
+        "city": "Patrickville",
+        "state": "Nebraska",
+        "zip": "32153"
+    },
+    "contact": {
+        "phone": "808-702-1917",
+        "servicePhone": "800823357"
+    },
+    "birthday": "1999-29-05",
+    "ip": "158.118.223.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Already some team account town sound democratic. Should heart quite. Prepare poor save second art.\nDevelop end minute. Market plan lay.",
+        "bio": "Popular back likely actually movement explain actually adult. Plant heart modern class stuff."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
