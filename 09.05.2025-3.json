@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Johnson",
+    "age": 38,
+    "address": {
+        "street": "Fleming Harbors",
+        "city": "Port Katelyn",
+        "state": "Alabama",
+        "zip": "86071"
+    },
+    "contact": {
+        "phone": "001-634-944-9845x1602",
+        "servicePhone": "800096843"
+    },
+    "birthday": "1987-08-07",
+    "ip": "56.75.213.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Reduce successful real nor nation. Person they middle fire. Form wear later eye process.\nMajority job send. Old site month.\nSeem expert huge two action executive movie.",
+        "bio": "Standard exist child say hear wind here. Vote its maintain success herself moment four main.\nHotel present turn unit. Discover exactly career couple. Feeling car quickly few civil."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
