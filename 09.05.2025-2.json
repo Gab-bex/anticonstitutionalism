@@ -1,0 +1,25 @@
+{
+    "name": "Allison Wade",
+    "age": 45,
+    "address": {
+        "street": "Susan Terrace",
+        "city": "Port Alexandrahaven",
+        "state": "Georgia",
+        "zip": "03981"
+    },
+    "contact": {
+        "phone": "736.213.8685",
+        "servicePhone": "800362385"
+    },
+    "birthday": "1980-07-01",
+    "ip": "218.116.212.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Box draw people center gas radio between. Study kid although else.\nThank worry red writer ahead across bank. Challenge ago south collection fish near community unit. A somebody market.",
+        "bio": "Both new from. Method senior fly hot. Reality level scientist book often ever who fight.\nEasy resource agency left. Prepare the collection make second. Partner personal use night source often."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
