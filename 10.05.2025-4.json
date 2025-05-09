@@ -1,0 +1,25 @@
+{
+    "name": "Erica Crosby",
+    "age": 29,
+    "address": {
+        "street": "Casey Mountain",
+        "city": "Lake Paulburgh",
+        "state": "Virginia",
+        "zip": "15182"
+    },
+    "contact": {
+        "phone": "001-719-881-9795x01752",
+        "servicePhone": "800053033"
+    },
+    "birthday": "1996-08-06",
+    "ip": "202.239.241.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Decide almost significant. Ten true yes when word. Trial yeah close television perhaps action outside.",
+        "bio": "Expert growth attention peace ok religious call same. Culture past few guess. Cell official foot real speak amount."
+    },
+    "currency": [
+        "MWK",
+        "Malawian kwacha"
+    ]
+}
