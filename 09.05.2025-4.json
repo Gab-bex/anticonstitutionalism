@@ -1,0 +1,25 @@
+{
+    "name": "Jose Baker",
+    "age": 59,
+    "address": {
+        "street": "Jessica Views",
+        "city": "East Jeffreybury",
+        "state": "New Hampshire",
+        "zip": "19521"
+    },
+    "contact": {
+        "phone": "373.550.8811",
+        "servicePhone": "800914726"
+    },
+    "birthday": "1966-24-04",
+    "ip": "201.169.51.142",
+    "foo": "bar",
+    "profile": {
+        "about": "Thousand trip call have image daughter. Art participant manage economy. Understand focus prepare green senior.",
+        "bio": "Leader amount appear quite financial available on. Public data position top.\nThree specific idea both. Door off article. Staff there management actually."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
