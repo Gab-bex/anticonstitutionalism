@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Christopher Lucero",
+    "age": 93,
+    "address": {
+        "street": "Smith Park",
+        "city": "Johnsonland",
+        "state": "Louisiana",
+        "zip": "76498"
+    },
+    "contact": {
+        "phone": "9366099907",
+        "servicePhone": "800561447"
+    },
+    "birthday": "1932-18-04",
+    "ip": "189.15.125.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Detail anyone generation. Strong lay later star.\nOpen detail himself mind car. Per executive after place executive state. Weight large better test analysis. Attack short attention consumer detail.",
+        "bio": "Official agency stuff amount fact. Federal word area tonight high do. Country must despite herself reality authority. Ok size out night agent view."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
