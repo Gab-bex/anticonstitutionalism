@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Davis",
+    "age": 106,
+    "address": {
+        "street": "Clarke Locks",
+        "city": "Jacksonbury",
+        "state": "Idaho",
+        "zip": "59781"
+    },
+    "contact": {
+        "phone": "910-655-0819",
+        "servicePhone": "800665385"
+    },
+    "birthday": "1919-27-09",
+    "ip": "220.198.8.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Next see trip rich by suggest win. Act century tree south.\nWalk evening compare since forget score fear put. Citizen film just goal. Recent security sort child fine morning close.",
+        "bio": "Sister add thank community. Surface stay six treat generation. New into owner usually.\nMain agreement lose allow top quality.\nAudience or speak general."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
