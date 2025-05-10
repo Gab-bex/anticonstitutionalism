@@ -1,0 +1,25 @@
+{
+    "name": "Cody Perry",
+    "age": 84,
+    "address": {
+        "street": "Matthew Extension",
+        "city": "Port Nancy",
+        "state": "West Virginia",
+        "zip": "14748"
+    },
+    "contact": {
+        "phone": "001-583-544-0065",
+        "servicePhone": "800577331"
+    },
+    "birthday": "1941-31-12",
+    "ip": "88.186.201.117",
+    "foo": "bar",
+    "profile": {
+        "about": "Audience personal analysis body personal simple. Trouble modern surface participant against government. Person bit yourself interview.",
+        "bio": "Thought others walk foot. Significant himself reduce across true bring interview sell.\nOption sit prepare within kitchen. Travel reveal require still."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
