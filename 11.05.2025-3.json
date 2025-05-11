@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Boone",
+    "age": 85,
+    "address": {
+        "street": "Carney Corners",
+        "city": "North Justin",
+        "state": "Ohio",
+        "zip": "52055"
+    },
+    "contact": {
+        "phone": "(377)901-4297",
+        "servicePhone": "800482607"
+    },
+    "birthday": "1940-08-05",
+    "ip": "139.228.194.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Three accept than thought. If eight site business keep teacher peace.\nCharge score past. Question north involve difference push heavy.",
+        "bio": "Able economic cold question yet partner early. Near finish effect discuss.\nMother share popular visit least. Author various shoulder beautiful. Heart central born should by buy."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
