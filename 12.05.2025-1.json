@@ -1,0 +1,25 @@
+{
+    "name": "Wanda Sutton",
+    "age": 90,
+    "address": {
+        "street": "Mcmillan Harbors",
+        "city": "South Christopher",
+        "state": "New Mexico",
+        "zip": "24430"
+    },
+    "contact": {
+        "phone": "001-615-618-7717",
+        "servicePhone": "800677027"
+    },
+    "birthday": "1935-11-04",
+    "ip": "176.150.138.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Join assume wait treat where thing financial. Voice discover pass consider during public through. Teacher Congress song maybe fact series yeah street.",
+        "bio": "Wide again represent thus rule father. Teacher probably budget remember small tend several."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
