@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Conway",
+    "age": 82,
+    "address": {
+        "street": "Fletcher Cove",
+        "city": "New Elaineton",
+        "state": "Pennsylvania",
+        "zip": "40344"
+    },
+    "contact": {
+        "phone": "(789)483-7263x92893",
+        "servicePhone": "800608046"
+    },
+    "birthday": "1943-29-10",
+    "ip": "70.173.127.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Stand contain church perhaps. Girl cut include me recent. Level billion interest understand book spring.\nEverybody article data family physical respond. Serious also agency moment.",
+        "bio": "Decade history response modern mission religious. Professor series leader buy general. Present over also describe buy subject television."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
