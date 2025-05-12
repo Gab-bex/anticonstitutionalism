@@ -1,0 +1,25 @@
+{
+    "name": "Abigail Kline",
+    "age": 98,
+    "address": {
+        "street": "Scott Ramp",
+        "city": "Lake Angela",
+        "state": "Hawaii",
+        "zip": "15424"
+    },
+    "contact": {
+        "phone": "(997)383-0139",
+        "servicePhone": "800984166"
+    },
+    "birthday": "1927-08-02",
+    "ip": "182.113.172.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Least determine general indicate mother art. Focus capital several want rock include.\nBeat relationship then prove everyone. That sure husband other reveal. Radio find tell in open card.",
+        "bio": "Represent nature from turn. Wish against probably response air church.\nBuild show process during others model. Court recent reason check purpose recently.\nCareer crime occur like."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
