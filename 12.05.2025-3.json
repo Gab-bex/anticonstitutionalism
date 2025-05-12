@@ -1,0 +1,25 @@
+{
+    "name": "Brittney Byrd",
+    "age": 99,
+    "address": {
+        "street": "Fuller Cliff",
+        "city": "West Courtney",
+        "state": "Michigan",
+        "zip": "37175"
+    },
+    "contact": {
+        "phone": "771.369.1800",
+        "servicePhone": "800249577"
+    },
+    "birthday": "1926-11-10",
+    "ip": "202.128.126.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Television focus whatever lot. Should report see economic expect agency. Member what send thought list accept test.\nNotice industry hair. Know talk south by.",
+        "bio": "Expert stand minute. Week ground energy.\nI team see good trip. Almost bar brother standard. Including free so before relate."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
