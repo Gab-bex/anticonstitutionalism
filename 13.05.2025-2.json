@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Potter",
+    "age": 49,
+    "address": {
+        "street": "Frank Station",
+        "city": "Hamiltonchester",
+        "state": "Minnesota",
+        "zip": "87605"
+    },
+    "contact": {
+        "phone": "+1-324-401-4308x864",
+        "servicePhone": "800562441"
+    },
+    "birthday": "1976-11-10",
+    "ip": "95.4.249.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Body student some best. Apply down when media for it build. Outside success action summer.\nAudience water water true morning health. Sort discussion inside song product. Happen friend this.",
+        "bio": "Foreign girl debate team away the on. Alone yard measure idea lose. Natural rest strong painting.\nWhat there beat anyone summer. Technology quality concern my. Rate policy fire across."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
