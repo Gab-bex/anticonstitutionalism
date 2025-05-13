@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Byrd",
+    "age": 83,
+    "address": {
+        "street": "Garcia Trail",
+        "city": "East Alisonport",
+        "state": "Delaware",
+        "zip": "13067"
+    },
+    "contact": {
+        "phone": "218.510.1822x7413",
+        "servicePhone": "800521501"
+    },
+    "birthday": "1942-18-04",
+    "ip": "51.241.123.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Try tonight mind. Billion wait or store process form sign cup.",
+        "bio": "Common rich speak. Customer anyone these heart minute cost. International summer theory church.\nShe natural despite she. Upon television management leg street try from."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
