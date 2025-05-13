@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Baker",
+    "age": 75,
+    "address": {
+        "street": "Jonathan Garden",
+        "city": "Smithberg",
+        "state": "Hawaii",
+        "zip": "45091"
+    },
+    "contact": {
+        "phone": "4915979309",
+        "servicePhone": "800851723"
+    },
+    "birthday": "1950-29-05",
+    "ip": "79.144.100.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Receive evening everything although or wonder course. Movie pay west school help.\nEither program to beautiful certainly class.\nHair heavy act within budget. Assume join fly key face serve range rock.",
+        "bio": "No far make. Daughter or economy draw morning piece.\nDiscuss occur close player. Turn around knowledge fact size whom. Air affect then through many."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
