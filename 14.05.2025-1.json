@@ -1,0 +1,25 @@
+{
+    "name": "Richard Johnson",
+    "age": 10,
+    "address": {
+        "street": "Powers Gardens",
+        "city": "South Darrylside",
+        "state": "Colorado",
+        "zip": "91717"
+    },
+    "contact": {
+        "phone": "595.568.5170",
+        "servicePhone": "800709396"
+    },
+    "birthday": "2015-06-06",
+    "ip": "84.210.29.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Country per development become back treatment. Us get dream sea.\nProfessor girl time game. Southern worker foreign a open student everything.",
+        "bio": "Person subject almost movie party truth crime. Ready doctor offer interesting century consider.\nAddress according whom available."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
