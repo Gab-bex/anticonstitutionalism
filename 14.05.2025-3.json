@@ -1,0 +1,25 @@
+{
+    "name": "Kylie Wright",
+    "age": 63,
+    "address": {
+        "street": "James Shoal",
+        "city": "Marshallborough",
+        "state": "Kentucky",
+        "zip": "62888"
+    },
+    "contact": {
+        "phone": "6065425726",
+        "servicePhone": "800237747"
+    },
+    "birthday": "1962-19-12",
+    "ip": "214.162.10.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Strong worker stuff avoid establish owner. Morning market statement. Leave they goal subject more get.",
+        "bio": "Ago produce you because claim head policy. Yet provide design protect blood important. Director impact admit admit water.\nMany song threat strong play data travel. Within line budget seat."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
