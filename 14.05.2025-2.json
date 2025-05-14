@@ -1,0 +1,25 @@
+{
+    "name": "Paul Gill",
+    "age": 44,
+    "address": {
+        "street": "Ryan Common",
+        "city": "Smithmouth",
+        "state": "Louisiana",
+        "zip": "06924"
+    },
+    "contact": {
+        "phone": "938-608-5834",
+        "servicePhone": "800453694"
+    },
+    "birthday": "1981-06-05",
+    "ip": "201.207.169.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Ground write wish door. Play ball stop business throw system government. Weight across no institution.",
+        "bio": "Ball TV eat hair might before. Example become like forget heart usually someone.\nCommon future reduce few. Others away from bed. Tough lose great. Owner order medical third left appear."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
