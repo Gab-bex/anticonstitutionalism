@@ -1,0 +1,25 @@
+{
+    "name": "David Kennedy",
+    "age": 103,
+    "address": {
+        "street": "Jose Point",
+        "city": "East Bradleyhaven",
+        "state": "South Dakota",
+        "zip": "87393"
+    },
+    "contact": {
+        "phone": "747.498.9404",
+        "servicePhone": "800311753"
+    },
+    "birthday": "1922-07-02",
+    "ip": "42.154.119.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Agency behind environment add. Measure man who of mission nearly year. Green head seven focus plant effort.",
+        "bio": "Personal character box create rule save project. Region wind air. Other country national cause even anyone.\nIncluding society detail mouth billion. Suggest build man morning threat."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
