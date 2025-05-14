@@ -1,0 +1,25 @@
+{
+    "name": "Steven Valdez",
+    "age": 47,
+    "address": {
+        "street": "Taylor Ridge",
+        "city": "Jeffreyborough",
+        "state": "Alabama",
+        "zip": "54429"
+    },
+    "contact": {
+        "phone": "830.252.7472x9300",
+        "servicePhone": "800507077"
+    },
+    "birthday": "1978-18-10",
+    "ip": "180.125.138.47",
+    "foo": "bar",
+    "profile": {
+        "about": "Street close issue direction note perhaps amount late. Deep tonight cultural rather thousand. Practice idea team return road.",
+        "bio": "Instead child store necessary. Far decision smile smile table. Argue trip kid something prepare.\nProfessional example really age trial. Article statement direction so person trouble."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
