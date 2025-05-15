@@ -1,0 +1,25 @@
+{
+    "name": "Andrea Lawson DDS",
+    "age": 93,
+    "address": {
+        "street": "Lopez Falls",
+        "city": "Brittneystad",
+        "state": "Georgia",
+        "zip": "60988"
+    },
+    "contact": {
+        "phone": "849-247-0162",
+        "servicePhone": "800046537"
+    },
+    "birthday": "1932-04-11",
+    "ip": "161.230.7.145",
+    "foo": "bar",
+    "profile": {
+        "about": "We purpose room final fly participant. Level approach environment impact opportunity. Behavior natural interesting last color party model.",
+        "bio": "Should think second issue. Effort visit school lawyer mind someone stuff response.\nGround step fact child me about.\nHealth real star them course. Artist choice base loss."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
