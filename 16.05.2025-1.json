@@ -1,0 +1,25 @@
+{
+    "name": "Leroy Buckley",
+    "age": 95,
+    "address": {
+        "street": "Brady Corners",
+        "city": "Jamesbury",
+        "state": "Iowa",
+        "zip": "94153"
+    },
+    "contact": {
+        "phone": "(958)674-1614x75247",
+        "servicePhone": "800844077"
+    },
+    "birthday": "1930-14-05",
+    "ip": "151.122.12.151",
+    "foo": "bar",
+    "profile": {
+        "about": "Early may statement structure grow set check. Have wish house worker company. Claim imagine understand have write.\nGreen service hair their. Mother that themselves hand want although.",
+        "bio": "Skill plan street better. Quality treatment including car agree. However occur itself because defense and.\nRich some book organization notice party. Charge across life soldier."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
