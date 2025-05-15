@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Torres",
+    "age": 24,
+    "address": {
+        "street": "Raymond Pine",
+        "city": "Manuelshire",
+        "state": "Oregon",
+        "zip": "23859"
+    },
+    "contact": {
+        "phone": "001-581-238-1539x928",
+        "servicePhone": "800676022"
+    },
+    "birthday": "2001-14-09",
+    "ip": "70.232.255.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Forget high minute entire. Land task old local out development answer part.\nLarge ability security become win amount catch production. Head many case few month.",
+        "bio": "Admit prevent center heavy really region. Action water region big. Mouth fall exactly teacher decide air theory.\nYoung such material simply. North into mention."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
