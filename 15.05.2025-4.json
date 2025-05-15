@@ -1,0 +1,25 @@
+{
+    "name": "William Richardson",
+    "age": 78,
+    "address": {
+        "street": "Bradley Extensions",
+        "city": "Rebeccachester",
+        "state": "Alaska",
+        "zip": "86861"
+    },
+    "contact": {
+        "phone": "870.613.6214x909",
+        "servicePhone": "800580324"
+    },
+    "birthday": "1947-05-02",
+    "ip": "139.107.115.139",
+    "foo": "bar",
+    "profile": {
+        "about": "National cup south return worker air. Hit speech change doctor ok usually action. Relationship instead nature my black expert.\nMarket fall husband his the image. Cold tonight price white.",
+        "bio": "With end Republican yeah smile. Arm here more decide during performance also.\nRate pass growth goal about capital. Free leg wear page because peace class quite."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
