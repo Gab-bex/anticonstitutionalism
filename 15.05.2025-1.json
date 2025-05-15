@@ -1,0 +1,25 @@
+{
+    "name": "James Thomas",
+    "age": 113,
+    "address": {
+        "street": "Chambers Freeway",
+        "city": "North Mary",
+        "state": "Nevada",
+        "zip": "30732"
+    },
+    "contact": {
+        "phone": "001-674-902-9179x504",
+        "servicePhone": "800800619"
+    },
+    "birthday": "1912-19-10",
+    "ip": "7.180.141.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Own establish Democrat word smile agree. Move politics single reduce school change.\nExist power course nothing method. Early among when institution.",
+        "bio": "Work candidate operation boy energy ok. Chance hold risk memory himself early natural we. Traditional election list.\nOut laugh middle responsibility the. Decision no answer service."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
