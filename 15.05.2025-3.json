@@ -1,0 +1,25 @@
+{
+    "name": "April Cohen",
+    "age": 50,
+    "address": {
+        "street": "Zachary Harbor",
+        "city": "Pollardborough",
+        "state": "Delaware",
+        "zip": "75028"
+    },
+    "contact": {
+        "phone": "900-613-8292",
+        "servicePhone": "800571522"
+    },
+    "birthday": "1975-05-02",
+    "ip": "32.64.28.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Walk approach per huge bag factor computer. Operation those back unit result large hand. Country rise sort.\nIn across doctor than keep a even. Apply employee bar protect provide personal.",
+        "bio": "Produce heavy future while their. Inside staff federal scientist last research soldier. Human treatment able.\nSee either get. Whom race ability."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
