@@ -1,0 +1,25 @@
+{
+    "name": "Gary Willis",
+    "age": 88,
+    "address": {
+        "street": "Angela Vista",
+        "city": "Kariburgh",
+        "state": "New Jersey",
+        "zip": "38997"
+    },
+    "contact": {
+        "phone": "001-626-837-4788x9721",
+        "servicePhone": "800486334"
+    },
+    "birthday": "1937-10-01",
+    "ip": "38.102.53.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Almost stop suddenly debate since. Face stop modern. According support explain that.\nInstead she summer car control while public.",
+        "bio": "True father never ball history individual. Into ten still.\nGreen water action idea difficult usually later mission. Organization our under. Society protect deep now thousand trip give."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
