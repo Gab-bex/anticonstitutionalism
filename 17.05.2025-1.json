@@ -1,0 +1,25 @@
+{
+    "name": "William Keith",
+    "age": 16,
+    "address": {
+        "street": "Tammy Cliff",
+        "city": "New Brandonshire",
+        "state": "Oklahoma",
+        "zip": "95325"
+    },
+    "contact": {
+        "phone": "+1-934-724-8141x74959",
+        "servicePhone": "800223898"
+    },
+    "birthday": "2009-26-06",
+    "ip": "11.199.236.96",
+    "foo": "bar",
+    "profile": {
+        "about": "Body attention them eight. Mr financial half theory.\nChild true whom instead represent. Thank human case same wind wide.",
+        "bio": "Program front yeah party or hair lot. Sell final eat almost board help. Ground entire bit reduce raise rich fine."
+    },
+    "currency": [
+        "LAK",
+        "Lao kip"
+    ]
+}
