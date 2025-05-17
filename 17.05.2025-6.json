@@ -1,0 +1,25 @@
+{
+    "name": "Adrian Ruiz",
+    "age": 40,
+    "address": {
+        "street": "Richard Extensions",
+        "city": "Gibsonview",
+        "state": "Oregon",
+        "zip": "61213"
+    },
+    "contact": {
+        "phone": "(989)670-2266x94963",
+        "servicePhone": "800411109"
+    },
+    "birthday": "1985-18-11",
+    "ip": "182.149.236.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Reach us toward meeting street imagine or factor. Bill question fear. Room kitchen ahead somebody few hold.",
+        "bio": "Stage responsibility star. Son clear activity determine perform. Arrive later high meeting.\nForget huge ask much school. Stay Republican beautiful world back another."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
