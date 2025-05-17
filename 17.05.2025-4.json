@@ -1,0 +1,25 @@
+{
+    "name": "Robert Frederick",
+    "age": 44,
+    "address": {
+        "street": "Flores Freeway",
+        "city": "Stephenport",
+        "state": "New Mexico",
+        "zip": "32901"
+    },
+    "contact": {
+        "phone": "001-519-677-4775x048",
+        "servicePhone": "800971711"
+    },
+    "birthday": "1981-16-07",
+    "ip": "52.47.92.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Write sport back political entire cause. Question cup south operation economic. Grow look at until your investment again. Administration edge same least.",
+        "bio": "Thank four condition involve school of often. Low woman spring four chance remember. Yet rest rate should team former."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
