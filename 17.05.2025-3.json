@@ -1,0 +1,25 @@
+{
+    "name": "Barbara Martin",
+    "age": 108,
+    "address": {
+        "street": "Jacobs Rapids",
+        "city": "Taylorview",
+        "state": "North Carolina",
+        "zip": "44711"
+    },
+    "contact": {
+        "phone": "+1-735-706-2352",
+        "servicePhone": "800175362"
+    },
+    "birthday": "1917-16-08",
+    "ip": "200.92.147.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Modern career must picture. Military factor for ball especially member scene. Free western thousand debate leader.\nStreet them matter beautiful there. Go ask red. Enough care without employee.",
+        "bio": "Again per lot official sign know speech. Rich deal Mrs effort service argue. Reality season course."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
