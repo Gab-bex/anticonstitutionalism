@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Gutierrez",
+    "age": 8,
+    "address": {
+        "street": "Green Prairie",
+        "city": "East Todd",
+        "state": "Illinois",
+        "zip": "24527"
+    },
+    "contact": {
+        "phone": "211-504-2051x68456",
+        "servicePhone": "800792970"
+    },
+    "birthday": "2017-01-01",
+    "ip": "63.17.210.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Increase truth table even throw. Pattern morning image room city wide. Back your beautiful beautiful point argue.\nLeast manager it property why half. Leave teach raise.",
+        "bio": "Let final finish prevent alone visit paper. Agency party white interesting popular."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
