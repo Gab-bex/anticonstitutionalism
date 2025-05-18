@@ -1,0 +1,25 @@
+{
+    "name": "Dawn Hernandez",
+    "age": 49,
+    "address": {
+        "street": "Byrd Falls",
+        "city": "North John",
+        "state": "Idaho",
+        "zip": "65153"
+    },
+    "contact": {
+        "phone": "8177077819",
+        "servicePhone": "800233240"
+    },
+    "birthday": "1976-15-05",
+    "ip": "91.181.13.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain real page ahead. Public building tonight entire though minute message item.\nGood actually mother spend.\nEach cell let. Share hold husband bit truth.",
+        "bio": "Piece perform difference lay green boy. Message only investment report. President to for.\nYeah test when country room appear. Nice design more Mrs fund compare."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
