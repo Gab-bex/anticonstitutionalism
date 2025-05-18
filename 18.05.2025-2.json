@@ -1,0 +1,25 @@
+{
+    "name": "Erin Campbell",
+    "age": 21,
+    "address": {
+        "street": "Robin Roads",
+        "city": "Isabelland",
+        "state": "Montana",
+        "zip": "01297"
+    },
+    "contact": {
+        "phone": "(392)408-1554",
+        "servicePhone": "800611836"
+    },
+    "birthday": "2004-24-12",
+    "ip": "189.91.125.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Drop of federal often find create rise.\nIndicate today teacher truth find. Enter stay hair bag senior hand media worry.\nFood yourself but tax shake box fact. It home watch I both style.",
+        "bio": "Thousand help college oil. Tax add foreign color.\nFace all ask million teach. Us grow second civil ten attention.\nLast everybody from put reveal. Because reveal myself own let enjoy senior."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
