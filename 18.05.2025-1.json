@@ -1,0 +1,25 @@
+{
+    "name": "Reginald Mendoza",
+    "age": 66,
+    "address": {
+        "street": "Murphy Forge",
+        "city": "Port Evanburgh",
+        "state": "Nevada",
+        "zip": "32753"
+    },
+    "contact": {
+        "phone": "895.714.5712",
+        "servicePhone": "800257021"
+    },
+    "birthday": "1959-28-07",
+    "ip": "81.76.184.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy available investment require type power. Product arm try care alone need. Good heavy drive.\nMedical born discussion consumer participant tree. International heavy truth.",
+        "bio": "Somebody style someone kind expect run. Son hair lose peace old smile interview look.\nThemselves different movement health accept. Story simple national require. Its such service ok tend."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
