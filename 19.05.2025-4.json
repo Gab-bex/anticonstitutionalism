@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Lambert",
+    "age": 101,
+    "address": {
+        "street": "Sharon Rapid",
+        "city": "Willisstad",
+        "state": "Michigan",
+        "zip": "70258"
+    },
+    "contact": {
+        "phone": "(988)956-0138",
+        "servicePhone": "800604757"
+    },
+    "birthday": "1924-13-07",
+    "ip": "48.128.54.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Half upon reach. Young hear apply house appear late also. Well medical fight player often.\nCharacter leave require us. Much board form try order. Thus buy organization.",
+        "bio": "Nice whether example exactly thousand he finally.\nPeace tell administration outside training discussion become around. These teacher material part art special."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
