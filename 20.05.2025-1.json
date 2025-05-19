@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Moore",
+    "age": 71,
+    "address": {
+        "street": "Pace Gardens",
+        "city": "East Emmamouth",
+        "state": "Alaska",
+        "zip": "39394"
+    },
+    "contact": {
+        "phone": "544.771.6555x99274",
+        "servicePhone": "800861833"
+    },
+    "birthday": "1954-22-04",
+    "ip": "102.4.5.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Color street offer relationship project.\nHimself federal treatment eight everybody financial seven. Mouth environmental environmental bed.\nBit matter owner eat civil.",
+        "bio": "Address maybe explain her material. Must actually professional difficult apply how daughter see."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
