@@ -1,0 +1,25 @@
+{
+    "name": "Megan Dorsey",
+    "age": 79,
+    "address": {
+        "street": "Hernandez Walk",
+        "city": "South Hannah",
+        "state": "Florida",
+        "zip": "82078"
+    },
+    "contact": {
+        "phone": "+1-885-604-9380x894",
+        "servicePhone": "800179850"
+    },
+    "birthday": "1946-11-08",
+    "ip": "34.159.215.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Security technology bring. Quality information economic team direction.\nPresent wife scientist price responsibility. Production executive east but. Light later book around may.",
+        "bio": "Side someone expect account just in expert. Son hot process source nor economy few. Conference power item value thousand huge."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
