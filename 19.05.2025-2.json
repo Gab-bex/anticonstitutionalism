@@ -1,0 +1,25 @@
+{
+    "name": "Jose Jones",
+    "age": 99,
+    "address": {
+        "street": "Anderson Station",
+        "city": "New Stacey",
+        "state": "Idaho",
+        "zip": "69325"
+    },
+    "contact": {
+        "phone": "973-657-8459x5477",
+        "servicePhone": "800032074"
+    },
+    "birthday": "1926-08-08",
+    "ip": "67.148.122.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Result some turn member treatment experience majority teach. Tend never member push pressure. Machine cost point you fast.",
+        "bio": "Seven game be political personal fund partner. Stuff participant vote fire.\nDegree language describe themselves people thought. Court catch Mrs nearly purpose than."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
