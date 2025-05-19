@@ -1,0 +1,25 @@
+{
+    "name": "Julian Armstrong",
+    "age": 47,
+    "address": {
+        "street": "Odonnell Point",
+        "city": "Hayesfort",
+        "state": "Washington",
+        "zip": "72911"
+    },
+    "contact": {
+        "phone": "3062099013",
+        "servicePhone": "800075206"
+    },
+    "birthday": "1978-13-12",
+    "ip": "139.99.114.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy effect trip scene own trouble. Spring understand leg imagine surface hope team. Thought low despite interest lot.\nValue stage image of local country. Wonder watch official.",
+        "bio": "Physical always three safe. Size ready care decision smile others whatever. Onto national power building our. Move meet sit material away again area."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
