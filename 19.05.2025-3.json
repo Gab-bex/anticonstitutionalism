@@ -1,0 +1,25 @@
+{
+    "name": "Tara Johnson",
+    "age": 29,
+    "address": {
+        "street": "Danielle Springs",
+        "city": "South Lauriefurt",
+        "state": "Delaware",
+        "zip": "45510"
+    },
+    "contact": {
+        "phone": "(963)323-0530x1635",
+        "servicePhone": "800101677"
+    },
+    "birthday": "1996-21-04",
+    "ip": "156.188.23.187",
+    "foo": "bar",
+    "profile": {
+        "about": "According focus wall scientist why discussion card. Laugh condition no set adult. Produce figure instead street drug wide inside.",
+        "bio": "Sing dog must husband central five.\nTrial standard show amount senior easy. Section half brother store easy measure. Live international actually yourself."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
