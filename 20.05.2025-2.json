@@ -1,0 +1,25 @@
+{
+    "name": "David Blake",
+    "age": 78,
+    "address": {
+        "street": "Amanda Plains",
+        "city": "New Lauraside",
+        "state": "Texas",
+        "zip": "26631"
+    },
+    "contact": {
+        "phone": "973-547-9179",
+        "servicePhone": "800081913"
+    },
+    "birthday": "1947-02-03",
+    "ip": "27.204.149.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Season over media sister new. Than seven stock start. Phone fall think name recent.\nGame idea or mention agent. Face open whatever challenge. You inside foreign.",
+        "bio": "Across day finish writer. Miss note sing watch art inside three. Than cultural everybody will garden matter. Goal add significant arrive health kind."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
