@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Freeman",
+    "age": 13,
+    "address": {
+        "street": "Reed Harbor",
+        "city": "New Charles",
+        "state": "Wyoming",
+        "zip": "81447"
+    },
+    "contact": {
+        "phone": "832.291.2104",
+        "servicePhone": "800697514"
+    },
+    "birthday": "2012-25-10",
+    "ip": "166.33.232.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Such free near nature worker size ready. Research here news let nothing main of behind. Remain PM theory entire mention top finish.",
+        "bio": "Beyond water son card happen similar main. Suddenly far money allow success seem.\nSomething cost factor ball stuff. South recent personal whole. Act example through enter so this."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
