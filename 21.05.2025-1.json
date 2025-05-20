@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Coffey",
+    "age": 24,
+    "address": {
+        "street": "Valdez Streets",
+        "city": "Murphyport",
+        "state": "Massachusetts",
+        "zip": "37924"
+    },
+    "contact": {
+        "phone": "(328)209-5393x656",
+        "servicePhone": "800379766"
+    },
+    "birthday": "2001-28-12",
+    "ip": "140.245.153.244",
+    "foo": "bar",
+    "profile": {
+        "about": "Lead official several accept behind. Big next learn animal subject population soon. Marriage others than lay people call indeed.",
+        "bio": "Alone tend decision simple. Image attention appear spring enjoy brother. Future throw participant suffer rest."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
