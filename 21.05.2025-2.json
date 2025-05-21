@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Cobb",
+    "age": 101,
+    "address": {
+        "street": "Elizabeth Pass",
+        "city": "Salasshire",
+        "state": "Rhode Island",
+        "zip": "44292"
+    },
+    "contact": {
+        "phone": "(279)983-8768",
+        "servicePhone": "800059847"
+    },
+    "birthday": "1924-10-12",
+    "ip": "211.210.117.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Hot team teach part across. Law east inside range.\nSingle hit fast mention. Film hospital woman listen. Common century write.",
+        "bio": "Growth meeting analysis door local traditional green. Early room paper trouble eye.\nThis upon guy add. Value option whatever effort describe film allow."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
