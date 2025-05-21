@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Mills",
+    "age": 62,
+    "address": {
+        "street": "Julie Walks",
+        "city": "West John",
+        "state": "Idaho",
+        "zip": "50215"
+    },
+    "contact": {
+        "phone": "(769)456-0728x7807",
+        "servicePhone": "800647370"
+    },
+    "birthday": "1963-17-09",
+    "ip": "2.25.157.2",
+    "foo": "bar",
+    "profile": {
+        "about": "Late inside bill event recent class talk. Decide social example station. Case benefit place live small senior discover.\nTotal would certainly rise. Difficult little visit.",
+        "bio": "Rest energy treat serious. Exactly good meeting recent area. Make agent into.\nSense past happy talk audience whether because. End staff ask fund half."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
