@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Diaz",
+    "age": 46,
+    "address": {
+        "street": "Katherine Mountains",
+        "city": "New Elizabeth",
+        "state": "Florida",
+        "zip": "39804"
+    },
+    "contact": {
+        "phone": "+1-870-600-2719x2502",
+        "servicePhone": "800394715"
+    },
+    "birthday": "1979-19-06",
+    "ip": "213.202.224.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Media sign day follow. Simple real religious career positive call economic you. Help my central find call.\nOwn carry green institution according view baby. Might finally TV specific.",
+        "bio": "Society view hope experience arrive. Trouble fall wish low.\nIt fire laugh article clear. Attention floor population political subject. Consider walk reach coach walk."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
