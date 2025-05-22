@@ -1,0 +1,25 @@
+{
+    "name": "Gene Perez",
+    "age": 65,
+    "address": {
+        "street": "Dana Forge",
+        "city": "Jonesmouth",
+        "state": "Illinois",
+        "zip": "19487"
+    },
+    "contact": {
+        "phone": "506-643-2678x8712",
+        "servicePhone": "800524926"
+    },
+    "birthday": "1960-08-09",
+    "ip": "16.143.18.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Less oil nor dark. Act type moment story despite remember. Customer leave administration represent three worker special. Power weight parent outside even range.",
+        "bio": "Debate would difficult ground ability every.\nNetwork hotel job open wait surface friend. Head house doctor finish enter.\nDark have machine avoid blue."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
