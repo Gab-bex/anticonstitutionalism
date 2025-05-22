@@ -1,0 +1,25 @@
+{
+    "name": "Marc Sampson",
+    "age": 108,
+    "address": {
+        "street": "Wilson Manors",
+        "city": "Port Samantha",
+        "state": "Connecticut",
+        "zip": "06304"
+    },
+    "contact": {
+        "phone": "301-323-0867",
+        "servicePhone": "800458586"
+    },
+    "birthday": "1917-08-12",
+    "ip": "2.238.156.101",
+    "foo": "bar",
+    "profile": {
+        "about": "Painting air expect then become. Score commercial several. Herself night about agreement describe poor including always.\nSocial father special soon thank college.",
+        "bio": "Note either marriage wonder. Third carry national hit federal American. Behind more position defense. Born apply your author than their."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
