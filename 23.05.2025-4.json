@@ -1,0 +1,25 @@
+{
+    "name": "Lynn Logan",
+    "age": 34,
+    "address": {
+        "street": "Jeffrey Passage",
+        "city": "Micheletown",
+        "state": "Ohio",
+        "zip": "02124"
+    },
+    "contact": {
+        "phone": "(710)510-6124x290",
+        "servicePhone": "800087380"
+    },
+    "birthday": "1991-03-10",
+    "ip": "32.71.113.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Your picture analysis talk other. Just the any surface call reach mind.\nStock loss us majority act us. Inside data military identify everybody he need.",
+        "bio": "Stay great need key technology. Well often might commercial fill painting. These traditional establish nothing culture art.\nAll world through maybe. Mention fill born bad."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
