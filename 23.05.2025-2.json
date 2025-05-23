@@ -1,0 +1,25 @@
+{
+    "name": "Mark Martinez",
+    "age": 114,
+    "address": {
+        "street": "David Prairie",
+        "city": "North Nathanville",
+        "state": "New York",
+        "zip": "16554"
+    },
+    "contact": {
+        "phone": "(951)840-4550x8963",
+        "servicePhone": "800143186"
+    },
+    "birthday": "1911-18-03",
+    "ip": "78.123.102.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Leave itself early wait establish experience. Need room responsibility road each.\nGirl read money white listen. Attorney notice and set pull. Which speech left admit gun who.",
+        "bio": "But someone herself for travel. War onto operation image idea explain avoid. Worry sometimes ago class medical region.\nEconomic interest court decade. Do help grow contain hold help."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
