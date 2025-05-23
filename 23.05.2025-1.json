@@ -1,0 +1,25 @@
+{
+    "name": "Holly Hayden",
+    "age": 39,
+    "address": {
+        "street": "Lowe Ford",
+        "city": "Jeremyberg",
+        "state": "Montana",
+        "zip": "33330"
+    },
+    "contact": {
+        "phone": "(709)558-4712x778",
+        "servicePhone": "800816070"
+    },
+    "birthday": "1986-03-08",
+    "ip": "94.235.148.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Around share company kind onto.\nOil sea field drop. Card or better lose score. Be wife newspaper interest story.",
+        "bio": "Order spring science evening black rock soldier few. Lay education idea enjoy information practice.\nMagazine trouble voice. Word way spring unit soon ago. Field skill yourself before."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
