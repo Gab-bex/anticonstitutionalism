@@ -1,0 +1,25 @@
+{
+    "name": "Tonya Bauer",
+    "age": 82,
+    "address": {
+        "street": "Christensen Knolls",
+        "city": "Port Alexanderfurt",
+        "state": "South Dakota",
+        "zip": "28856"
+    },
+    "contact": {
+        "phone": "+1-641-908-0526",
+        "servicePhone": "800104845"
+    },
+    "birthday": "1943-31-08",
+    "ip": "34.35.218.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Indicate direction should officer continue positive environment. Town song wind stock. Weight sometimes offer.",
+        "bio": "Its debate at position great special various.\nReligious each some card face. Serious enough end either receive.\nWeek factor successful nice. With answer reason similar population instead."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
