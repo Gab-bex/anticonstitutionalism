@@ -1,0 +1,25 @@
+{
+    "name": "Laurie Meyer",
+    "age": 115,
+    "address": {
+        "street": "Estes Corner",
+        "city": "Millerland",
+        "state": "Montana",
+        "zip": "95772"
+    },
+    "contact": {
+        "phone": "+1-421-331-2869x1671",
+        "servicePhone": "800492911"
+    },
+    "birthday": "1910-22-10",
+    "ip": "97.149.113.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Wide daughter do really community manage wrong. Himself participant mention behind receive song.",
+        "bio": "Movement month dark car. Result approach finally rock product reason.\nAny second there own recently. Yourself north consider left.\nSend lawyer question keep concern clearly."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
