@@ -1,0 +1,25 @@
+{
+    "name": "George Davenport",
+    "age": 99,
+    "address": {
+        "street": "Warren Station",
+        "city": "Port Bethburgh",
+        "state": "Massachusetts",
+        "zip": "30623"
+    },
+    "contact": {
+        "phone": "+1-997-689-0841x2974",
+        "servicePhone": "800303295"
+    },
+    "birthday": "1926-10-11",
+    "ip": "58.182.152.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose cost everyone reason buy action. North carry detail go. Mind down expect performance could better number.",
+        "bio": "Hit put trial. Always detail add machine hundred.\nOperation true answer early sense city. Article music design two. Example water health change picture source card arrive."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
