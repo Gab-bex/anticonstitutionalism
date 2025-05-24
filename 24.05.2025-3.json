@@ -1,0 +1,25 @@
+{
+    "name": "Edgar Taylor",
+    "age": 13,
+    "address": {
+        "street": "Gilbert Brook",
+        "city": "West Rachelfort",
+        "state": "Massachusetts",
+        "zip": "10507"
+    },
+    "contact": {
+        "phone": "+1-285-997-9794x031",
+        "servicePhone": "800726586"
+    },
+    "birthday": "2012-16-03",
+    "ip": "97.126.118.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Minute audience lose Mrs it. Church management feel response finally five own. Lay across discussion write staff nation.",
+        "bio": "Add around actually. Cup body force visit question. Whose trip summer."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
