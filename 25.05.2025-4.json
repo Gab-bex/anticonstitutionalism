@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Smith",
+    "age": 4,
+    "address": {
+        "street": "Scott Islands",
+        "city": "Gregoryberg",
+        "state": "Massachusetts",
+        "zip": "29076"
+    },
+    "contact": {
+        "phone": "(295)255-5732x7807",
+        "servicePhone": "800854349"
+    },
+    "birthday": "2021-25-06",
+    "ip": "89.167.23.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Arrive left world. Together strong future stock successful hope. Over strategy type hope.\nWord hit indeed light claim cover off. Set deal four close administration require argue.",
+        "bio": "Sense since by almost somebody. Down car expect senior simply hope PM.\nTravel admit whose part. Eye civil receive true live enter that. Build very couple later real.\nIt remember smile huge."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
