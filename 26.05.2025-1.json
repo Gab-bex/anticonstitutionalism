@@ -1,0 +1,25 @@
+{
+    "name": "Erin Hernandez",
+    "age": 4,
+    "address": {
+        "street": "Aguilar Brook",
+        "city": "Hallton",
+        "state": "Virginia",
+        "zip": "29790"
+    },
+    "contact": {
+        "phone": "001-594-650-1903x7034",
+        "servicePhone": "800265025"
+    },
+    "birthday": "2021-11-03",
+    "ip": "99.227.209.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour put thing game successful name. Surface future green from west describe. Member pattern difference second. Large sense just become beyond war college.",
+        "bio": "Nature special right ball grow see. Skin federal among community recent respond when. Discussion tonight feeling sort. List training wait ball budget kind use."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
