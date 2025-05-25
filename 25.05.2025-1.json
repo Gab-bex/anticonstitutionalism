@@ -1,0 +1,25 @@
+{
+    "name": "Keith Black",
+    "age": 16,
+    "address": {
+        "street": "James Corners",
+        "city": "East Amanda",
+        "state": "Massachusetts",
+        "zip": "91221"
+    },
+    "contact": {
+        "phone": "976-684-7943",
+        "servicePhone": "800653083"
+    },
+    "birthday": "2009-29-10",
+    "ip": "199.176.80.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Business family ability cold list. To young education small indicate. Positive heart sea tend nation lay respond.",
+        "bio": "Four little medical property such figure hit collection. Program either work that let.\nFollow physical eye choose low forward gas. Argue she dinner this letter."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
