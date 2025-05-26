@@ -1,0 +1,25 @@
+{
+    "name": "Emily Lam MD",
+    "age": 7,
+    "address": {
+        "street": "Jones Run",
+        "city": "Matthewtown",
+        "state": "New York",
+        "zip": "20589"
+    },
+    "contact": {
+        "phone": "(602)328-2274x7210",
+        "servicePhone": "800317237"
+    },
+    "birthday": "2018-16-04",
+    "ip": "134.168.76.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Account set stage attorney herself oil. Past better choose should court he.\nBe seem financial employee. Suddenly father drop war road class.",
+        "bio": "Box candidate why too example. Test wide daughter. Those event this population kid present run."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
