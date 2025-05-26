@@ -1,0 +1,25 @@
+{
+    "name": "Richard Huang",
+    "age": 57,
+    "address": {
+        "street": "Smith Skyway",
+        "city": "New Douglas",
+        "state": "New Jersey",
+        "zip": "05000"
+    },
+    "contact": {
+        "phone": "001-389-626-4941",
+        "servicePhone": "800037516"
+    },
+    "birthday": "1968-04-04",
+    "ip": "154.208.156.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Building lot special. Local collection candidate lay truth easy discover.",
+        "bio": "Unit share continue worry church. Fly whole both up discussion notice media.\nCamera up son audience industry. Professional clearly follow billion. Affect sometimes point care they record."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
