@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Mills",
+    "age": 107,
+    "address": {
+        "street": "William Viaduct",
+        "city": "Halltown",
+        "state": "Kansas",
+        "zip": "50553"
+    },
+    "contact": {
+        "phone": "248.784.2249x84773",
+        "servicePhone": "800564370"
+    },
+    "birthday": "1918-22-09",
+    "ip": "174.192.225.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Just way just. Stage prove Mr happy though feeling.\nOnto vote country research bank arrive deal might.\nFinally country every baby business. Federal oil low house behavior town check.",
+        "bio": "Everyone pass issue recently art newspaper case our. Drug ago case need nice industry public.\nLet nice mother first maybe official attack. Few sit add light several many daughter pretty."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
