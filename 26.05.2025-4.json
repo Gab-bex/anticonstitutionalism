@@ -1,0 +1,25 @@
+{
+    "name": "Robin Rodriguez",
+    "age": 65,
+    "address": {
+        "street": "Walker Crest",
+        "city": "Christopherfurt",
+        "state": "North Dakota",
+        "zip": "54194"
+    },
+    "contact": {
+        "phone": "6589263832",
+        "servicePhone": "800757780"
+    },
+    "birthday": "1960-08-04",
+    "ip": "120.76.118.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Many improve up any.\nStrong public music. Go drive watch no nature first.\nDecide speech beat while.\nTogether clearly high. Modern camera school how high.",
+        "bio": "Never dinner ago hair week machine method agency.\nHope whose third admit drop. Moment kid herself table article group manager."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
