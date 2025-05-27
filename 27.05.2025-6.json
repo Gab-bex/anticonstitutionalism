@@ -1,0 +1,25 @@
+{
+    "name": "Michael Carter",
+    "age": 87,
+    "address": {
+        "street": "Tanner Land",
+        "city": "East David",
+        "state": "Wyoming",
+        "zip": "25159"
+    },
+    "contact": {
+        "phone": "+1-598-711-1007x083",
+        "servicePhone": "800912308"
+    },
+    "birthday": "1938-10-06",
+    "ip": "95.8.56.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Husband about chance network ground full activity. Seven large gun election.\nMean role law institution factor. Girl argue manager Congress lose.",
+        "bio": "Early third true measure. True my realize decide pretty. Food share strong he here.\nWould same behind. Staff parent politics bad evening.\nBig these turn one. From think five five."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
