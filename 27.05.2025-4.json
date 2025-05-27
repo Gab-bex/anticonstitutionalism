@@ -1,0 +1,25 @@
+{
+    "name": "William Chandler",
+    "age": 70,
+    "address": {
+        "street": "Donald Glen",
+        "city": "Boydshire",
+        "state": "Ohio",
+        "zip": "38547"
+    },
+    "contact": {
+        "phone": "5867305354",
+        "servicePhone": "800286701"
+    },
+    "birthday": "1955-23-02",
+    "ip": "121.4.132.186",
+    "foo": "bar",
+    "profile": {
+        "about": "Word laugh order whom. Impact wife Mrs control environment notice training visit. Relate American benefit feeling price important. Today wall dream financial.",
+        "bio": "Simple compare always watch after. Single quickly if full development. Care successful loss knowledge mouth investment certainly."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
