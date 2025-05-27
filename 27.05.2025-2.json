@@ -1,0 +1,25 @@
+{
+    "name": "Shaun Fuller",
+    "age": 33,
+    "address": {
+        "street": "Joseph Wall",
+        "city": "Lake Jefferymouth",
+        "state": "Georgia",
+        "zip": "91448"
+    },
+    "contact": {
+        "phone": "+1-683-743-9148x01154",
+        "servicePhone": "800256869"
+    },
+    "birthday": "1992-17-12",
+    "ip": "179.155.191.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Young key run whether claim skill. Water address crime drop huge top.\nUse study beat reality cold open writer. Figure concern cost alone across pressure. Bed source road.",
+        "bio": "Much debate leader although woman sit course. Share bank per despite so skin leave.\nLeader position prove whose. Just analysis heart all ready even century."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
