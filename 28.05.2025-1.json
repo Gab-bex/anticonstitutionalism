@@ -1,0 +1,25 @@
+{
+    "name": "Michael Ramos",
+    "age": 15,
+    "address": {
+        "street": "Taylor Spurs",
+        "city": "North Robert",
+        "state": "Virginia",
+        "zip": "48187"
+    },
+    "contact": {
+        "phone": "(695)220-4205x298",
+        "servicePhone": "800772933"
+    },
+    "birthday": "2010-12-11",
+    "ip": "155.231.15.97",
+    "foo": "bar",
+    "profile": {
+        "about": "Law impact media data apply rise quite. Half old late election now. Interest loss about deal social task consider.",
+        "bio": "Price choose particularly why blood. Important civil event each resource forward would. Until rest treatment next pay."
+    },
+    "currency": [
+        "FKP",
+        "Falkland Islands pound"
+    ]
+}
