@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Davila",
+    "age": 66,
+    "address": {
+        "street": "Carla Roads",
+        "city": "Waltonhaven",
+        "state": "Alaska",
+        "zip": "99312"
+    },
+    "contact": {
+        "phone": "710.898.8337x7686",
+        "servicePhone": "800730723"
+    },
+    "birthday": "1959-14-02",
+    "ip": "91.113.7.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Often go down according.\nOrder finish listen plan help relate fire. Turn game well. Office building book medical admit.",
+        "bio": "Quite event mouth much process. Price perform able take end west admit. First pattern sea idea.\nMinute he value. Note always from attention true see professional building. Pretty sort according."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
