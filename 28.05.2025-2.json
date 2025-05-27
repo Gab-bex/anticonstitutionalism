@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Craig",
+    "age": 7,
+    "address": {
+        "street": "Hines Circle",
+        "city": "East Danaview",
+        "state": "New Mexico",
+        "zip": "27322"
+    },
+    "contact": {
+        "phone": "913-560-4832",
+        "servicePhone": "800740141"
+    },
+    "birthday": "2018-18-10",
+    "ip": "64.140.66.64",
+    "foo": "bar",
+    "profile": {
+        "about": "Small common read most hotel. Customer phone need. Hold suffer decade as his rock.\nUntil involve site throughout field too. Write minute cultural trial consider ever. Thing gun though rather other.",
+        "bio": "Accept Mrs south blood. Probably worker sense while gun technology. Run food operation American see show.\nSome scientist write rise total read. Me account much seven."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
