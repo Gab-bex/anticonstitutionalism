@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Harris",
+    "age": 74,
+    "address": {
+        "street": "Clark Key",
+        "city": "East Danielstad",
+        "state": "Oregon",
+        "zip": "11811"
+    },
+    "contact": {
+        "phone": "237.604.4882",
+        "servicePhone": "800736570"
+    },
+    "birthday": "1951-16-01",
+    "ip": "167.162.39.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Story probably grow service at. Election agreement case that mother every few arm.\nThink same make treat school. Throughout early relationship plant forget middle. That adult sign should investment.",
+        "bio": "Song last best also type get discuss. Not high also cold especially suffer night. Three TV threat important.\nWant team effect least training return live develop. Future year oil."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
