@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Avery",
+    "age": 100,
+    "address": {
+        "street": "Thomas Keys",
+        "city": "Martinside",
+        "state": "South Dakota",
+        "zip": "82067"
+    },
+    "contact": {
+        "phone": "001-517-228-0193x1982",
+        "servicePhone": "800453264"
+    },
+    "birthday": "1925-06-06",
+    "ip": "145.151.222.211",
+    "foo": "bar",
+    "profile": {
+        "about": "Play late threat public financial rest example. Affect report bill affect end drop avoid bank.\nFocus will sit raise would instead type. Among positive similar across.",
+        "bio": "Want heart top of take. Could citizen environmental federal left.\nBig indicate should. Former student recently system senior analysis stand."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
