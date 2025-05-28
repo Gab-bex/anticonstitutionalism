@@ -1,0 +1,25 @@
+{
+    "name": "John Martin",
+    "age": 27,
+    "address": {
+        "street": "Turner Mill",
+        "city": "Jonathanport",
+        "state": "Utah",
+        "zip": "97766"
+    },
+    "contact": {
+        "phone": "(277)268-3285x4117",
+        "servicePhone": "800330625"
+    },
+    "birthday": "1998-23-01",
+    "ip": "50.23.39.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Member so health business hit. Power bank data no certainly claim.\nCold nature stand kid. Along though heavy various. Effort should present direction culture.",
+        "bio": "Rock same than past hard. Less enter store start theory network.\nWoman effect law traditional. During especially again front share. Address network bad garden head put purpose move."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
