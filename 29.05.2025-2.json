@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Good",
+    "age": 81,
+    "address": {
+        "street": "Mckee Plain",
+        "city": "Derrickberg",
+        "state": "Washington",
+        "zip": "18007"
+    },
+    "contact": {
+        "phone": "9777838939",
+        "servicePhone": "800717124"
+    },
+    "birthday": "1944-18-10",
+    "ip": "168.3.89.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Same friend both. One also hair send out save.\nNearly challenge apply thought never career meeting. Until though blue argue so because way.",
+        "bio": "Scientist region among popular small. Care southern president kid with.\nProfessional second professional blue fill. Affect above official realize."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
