@@ -1,0 +1,25 @@
+{
+    "name": "Stacy Walsh",
+    "age": 114,
+    "address": {
+        "street": "Johnson Lights",
+        "city": "West David",
+        "state": "Kentucky",
+        "zip": "61429"
+    },
+    "contact": {
+        "phone": "5617303074",
+        "servicePhone": "800519939"
+    },
+    "birthday": "1911-18-01",
+    "ip": "55.53.177.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Word mouth sure group. Experience miss be dinner always leader dream. Speak value sing education instead. Worry commercial audience create partner.",
+        "bio": "Rather cold seat bed know. Mean fine wear agreement than green. Need especially writer like could.\nToday reality hundred state model. Make total eye occur. Despite during goal sort get."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
