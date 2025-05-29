@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Bruce",
+    "age": 62,
+    "address": {
+        "street": "Schneider Islands",
+        "city": "South John",
+        "state": "Florida",
+        "zip": "24623"
+    },
+    "contact": {
+        "phone": "001-225-538-4623x723",
+        "servicePhone": "800836584"
+    },
+    "birthday": "1963-02-06",
+    "ip": "128.110.181.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon election the language a face show. Look man book once staff field product.\nTheir bad local seat store. Agree structure international look fish senior. Ago seek war message take yourself defense.",
+        "bio": "Pm particularly report take share though house medical. Score energy win newspaper both. Trial entire grow five arm life necessary."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
