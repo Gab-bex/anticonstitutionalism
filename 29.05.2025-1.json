@@ -1,0 +1,25 @@
+{
+    "name": "Manuel Estrada",
+    "age": 47,
+    "address": {
+        "street": "Martinez Loaf",
+        "city": "East Andrew",
+        "state": "Florida",
+        "zip": "78242"
+    },
+    "contact": {
+        "phone": "(535)788-5620x5460",
+        "servicePhone": "800855949"
+    },
+    "birthday": "1978-10-06",
+    "ip": "211.44.101.21",
+    "foo": "bar",
+    "profile": {
+        "about": "I project machine environmental fast. Parent state write mean loss rich positive. Style employee age imagine because.\nAround tonight theory clearly. Month give remain without service agreement.",
+        "bio": "Reflect hot conference model conference when wear soldier. Test both out help."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
