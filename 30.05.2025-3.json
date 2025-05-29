@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Johnston",
+    "age": 44,
+    "address": {
+        "street": "Walker Turnpike",
+        "city": "Mendezland",
+        "state": "Virginia",
+        "zip": "33999"
+    },
+    "contact": {
+        "phone": "+1-473-429-6807x21791",
+        "servicePhone": "800306939"
+    },
+    "birthday": "1981-26-07",
+    "ip": "129.20.190.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Really decide street true this will cultural.\nRange kind defense church late reach. Rich medical fill also set offer investment.\nIndicate really your bed away southern benefit.",
+        "bio": "Serious from interest. Establish leave artist sometimes. Population everyone step sea.\nBuy dark trial pretty measure car wife. Expert fire expect final fish away."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
