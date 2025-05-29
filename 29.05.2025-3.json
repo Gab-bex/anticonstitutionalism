@@ -1,0 +1,25 @@
+{
+    "name": "James Perry",
+    "age": 105,
+    "address": {
+        "street": "Shane Mountains",
+        "city": "New Michael",
+        "state": "Kentucky",
+        "zip": "41955"
+    },
+    "contact": {
+        "phone": "001-423-382-6001",
+        "servicePhone": "800500597"
+    },
+    "birthday": "1920-06-03",
+    "ip": "212.51.194.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Sign sea late control audience health.\nKitchen huge hold baby market see. Third art great fight. Great need subject place idea financial wish.",
+        "bio": "Hope which few call traditional window. Catch away clear.\nAccording coach play keep respond. Begin garden store as including take.\nAttorney season garden a over sense. Resource land head pay."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
