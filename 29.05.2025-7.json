@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Watson",
+    "age": 68,
+    "address": {
+        "street": "Schultz Place",
+        "city": "East Zoemouth",
+        "state": "Nebraska",
+        "zip": "85886"
+    },
+    "contact": {
+        "phone": "001-256-724-3005x15769",
+        "servicePhone": "800338185"
+    },
+    "birthday": "1957-09-08",
+    "ip": "30.248.177.103",
+    "foo": "bar",
+    "profile": {
+        "about": "Course know animal put. Woman person may close. Time southern message difficult purpose fire toward.\nNatural option smile knowledge. Resource indeed strategy interest.",
+        "bio": "Beyond little economy note audience sit project much. Act hair believe law some. Image task avoid continue.\nWithout choice dog quality job skill want couple. Drop power least really seek let real."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
