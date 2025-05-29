@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Graham",
+    "age": 81,
+    "address": {
+        "street": "Sean Turnpike",
+        "city": "Johnfurt",
+        "state": "Pennsylvania",
+        "zip": "08936"
+    },
+    "contact": {
+        "phone": "+1-795-526-6689x67320",
+        "servicePhone": "800376464"
+    },
+    "birthday": "1944-17-12",
+    "ip": "122.153.20.224",
+    "foo": "bar",
+    "profile": {
+        "about": "Give friend man because discussion message economy. Nation you agreement nice feel also yeah. Laugh each skin south authority material follow approach.",
+        "bio": "Visit rate place subject game deep open husband. Sit say beautiful like site."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
