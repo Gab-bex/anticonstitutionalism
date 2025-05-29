@@ -1,0 +1,25 @@
+{
+    "name": "Jody Reyes",
+    "age": 10,
+    "address": {
+        "street": "Rose Park",
+        "city": "Erikhaven",
+        "state": "West Virginia",
+        "zip": "19407"
+    },
+    "contact": {
+        "phone": "(239)213-3373",
+        "servicePhone": "800931515"
+    },
+    "birthday": "2015-24-01",
+    "ip": "197.136.62.95",
+    "foo": "bar",
+    "profile": {
+        "about": "Investment why lead early relationship could catch. Which heart indicate.",
+        "bio": "Employee two mention laugh whom. Billion low coach article so good she look.\nWhy son last particularly see tell. Especially leave need."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
