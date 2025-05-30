@@ -1,0 +1,25 @@
+{
+    "name": "Katie Hampton",
+    "age": 39,
+    "address": {
+        "street": "Sandra Circle",
+        "city": "New Josephton",
+        "state": "Louisiana",
+        "zip": "89646"
+    },
+    "contact": {
+        "phone": "001-856-975-1029",
+        "servicePhone": "800016447"
+    },
+    "birthday": "1986-18-06",
+    "ip": "71.88.98.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Get onto kid consumer money nice. Later sort through number close. Without without cold listen scientist.",
+        "bio": "Analysis chair carry matter. Mean card administration grow. Decade look ball thank.\nDo fact chair trip. Measure book something director conference include."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
