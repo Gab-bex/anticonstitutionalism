@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Khan",
+    "age": 60,
+    "address": {
+        "street": "Sullivan Key",
+        "city": "East David",
+        "state": "Minnesota",
+        "zip": "49232"
+    },
+    "contact": {
+        "phone": "001-626-891-8835x63331",
+        "servicePhone": "800447366"
+    },
+    "birthday": "1965-16-09",
+    "ip": "10.77.72.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Cause today service foreign. Reason who money one.\nSell far fear wear dinner religious art. Notice behavior be.\nCamera letter story argue other six. Stay worker none her beautiful relate.",
+        "bio": "Book land ability reduce difficult. Remember also side successful chair east.\nPut hope customer shoulder stuff. Now drive more pattern prepare care market."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
