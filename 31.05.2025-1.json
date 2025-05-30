@@ -1,0 +1,25 @@
+{
+    "name": "Eric Powell",
+    "age": 97,
+    "address": {
+        "street": "Wilson Crescent",
+        "city": "Doughertyborough",
+        "state": "Florida",
+        "zip": "17925"
+    },
+    "contact": {
+        "phone": "230.434.3368x7965",
+        "servicePhone": "800632538"
+    },
+    "birthday": "1928-04-08",
+    "ip": "10.78.120.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Line leg somebody tough trip newspaper. Hit art smile plant.\nNear start dark. Region Mr community article our understand. Say hand note paper join idea.",
+        "bio": "Floor light a recent keep when popular. Speech nor pull alone with must.\nHis gun friend start. Force control seat serve data anyone. World call this health these."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
