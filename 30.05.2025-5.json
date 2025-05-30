@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Robinson",
+    "age": 83,
+    "address": {
+        "street": "Dylan Station",
+        "city": "Danielview",
+        "state": "Vermont",
+        "zip": "39399"
+    },
+    "contact": {
+        "phone": "(800)738-9756",
+        "servicePhone": "800580350"
+    },
+    "birthday": "1942-25-06",
+    "ip": "91.176.242.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Leader partner product home tree expect. Across training discover analysis.\nSuggest enjoy various authority section tough. Put church open street town. Public nation box movement.",
+        "bio": "Edge past century blue appear. Second add street something. Civil hard prevent top trip vote.\nHowever clearly decide politics. Particular sister down near."
+    },
+    "currency": [
+        "UAH",
+        "Ukrainian hryvnia"
+    ]
+}
