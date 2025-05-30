@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Boone",
+    "age": 37,
+    "address": {
+        "street": "Erica Divide",
+        "city": "Samanthaside",
+        "state": "Maine",
+        "zip": "73717"
+    },
+    "contact": {
+        "phone": "350.280.2017x754",
+        "servicePhone": "800617119"
+    },
+    "birthday": "1988-14-11",
+    "ip": "86.32.51.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Instead require interview.\nCommon his hard service. Music over law series.",
+        "bio": "Resource common these begin focus.\nArticle small save share wait. Street truth send above although civil we.\nAble computer audience account. Girl red the among."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
