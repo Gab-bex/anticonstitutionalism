@@ -1,0 +1,25 @@
+{
+    "name": "Ronald Miller",
+    "age": 78,
+    "address": {
+        "street": "Gary Locks",
+        "city": "South Charlesland",
+        "state": "West Virginia",
+        "zip": "89024"
+    },
+    "contact": {
+        "phone": "458.662.4728x558",
+        "servicePhone": "800585067"
+    },
+    "birthday": "1947-28-06",
+    "ip": "112.131.248.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Something evidence only should full knowledge. Face image despite including fund be. From yeah anyone professional send service. Color approach customer.",
+        "bio": "Deal wall cell itself determine read. Thing it available line.\nDefense structure floor approach turn number. Clear safe force save person marriage three simple."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
