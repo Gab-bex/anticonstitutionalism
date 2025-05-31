@@ -1,0 +1,25 @@
+{
+    "name": "Patrick Saunders",
+    "age": 112,
+    "address": {
+        "street": "Lewis Landing",
+        "city": "Timothytown",
+        "state": "Louisiana",
+        "zip": "43524"
+    },
+    "contact": {
+        "phone": "476-427-0957x4968",
+        "servicePhone": "800732836"
+    },
+    "birthday": "1913-29-04",
+    "ip": "20.76.176.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Imagine best Mrs interest soon idea piece. Fill television behavior whether. Though degree analysis create significant laugh up.\nThese would another task. Check green break affect season.",
+        "bio": "College total someone grow. Speech nice today north away though her action. More check word whether suddenly maintain."
+    },
+    "currency": [
+        "XAF",
+        "Central African CFA franc"
+    ]
+}
