@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Morris",
+    "age": 78,
+    "address": {
+        "street": "Thomas Views",
+        "city": "Lake Bryanchester",
+        "state": "Wyoming",
+        "zip": "88409"
+    },
+    "contact": {
+        "phone": "001-633-691-2454",
+        "servicePhone": "800024199"
+    },
+    "birthday": "1947-10-01",
+    "ip": "216.60.138.241",
+    "foo": "bar",
+    "profile": {
+        "about": "Set degree early direction them night wrong reach. Act very not deal improve check fund.\nAgency dream manage increase perhaps game seven. Art rise kind pay. Offer area recently nation daughter on.",
+        "bio": "Pretty page strategy dark condition. Stock down painting discover. Per impact trip performance technology. Rock military help bar environmental movement."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
