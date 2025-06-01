@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Mercado",
+    "age": 20,
+    "address": {
+        "street": "Morales Square",
+        "city": "Thomasfurt",
+        "state": "Maine",
+        "zip": "44237"
+    },
+    "contact": {
+        "phone": "542-453-2095x0577",
+        "servicePhone": "800272042"
+    },
+    "birthday": "2005-06-07",
+    "ip": "107.32.120.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Less pull possible maybe not. Thing eight office.\nImage establish box main bar. Land force bring young look fear mother. Over believe full her respond open. Wrong end voice.",
+        "bio": "Which radio exactly old artist. Rise production budget nearly grow say."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
