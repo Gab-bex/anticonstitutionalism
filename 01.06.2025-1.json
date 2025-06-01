@@ -1,0 +1,25 @@
+{
+    "name": "Jose Williams",
+    "age": 46,
+    "address": {
+        "street": "Larsen Coves",
+        "city": "Mendezchester",
+        "state": "Iowa",
+        "zip": "74529"
+    },
+    "contact": {
+        "phone": "851-445-8887",
+        "servicePhone": "800573924"
+    },
+    "birthday": "1979-28-04",
+    "ip": "51.63.32.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Community stay city. Ball everyone couple.\nAccept against you tell director. After news cut often program picture.",
+        "bio": "Develop technology hour today spend well moment. Song window natural reality.\nVisit staff offer action security son. Edge notice compare gun this suggest lay. Learn sea anyone argue write leave."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
