@@ -1,0 +1,25 @@
+{
+    "name": "David Gomez",
+    "age": 91,
+    "address": {
+        "street": "Jill Grove",
+        "city": "Charlesberg",
+        "state": "Alabama",
+        "zip": "95609"
+    },
+    "contact": {
+        "phone": "+1-567-272-0806x6392",
+        "servicePhone": "800228293"
+    },
+    "birthday": "1934-09-02",
+    "ip": "133.231.111.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Anything fear put program customer former. Stop worry majority lot. Heavy know sort.\nToo similar person which. Everybody soon partner Mrs.",
+        "bio": "Camera sport morning draw wrong or. Artist model value voice answer involve."
+    },
+    "currency": [
+        "TOP",
+        "Tongan paʻanga"
+    ]
+}
