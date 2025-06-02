@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Ballard",
+    "age": 9,
+    "address": {
+        "street": "Thomas Stream",
+        "city": "South Andrew",
+        "state": "Arizona",
+        "zip": "81447"
+    },
+    "contact": {
+        "phone": "+1-557-730-7747x03607",
+        "servicePhone": "800166657"
+    },
+    "birthday": "2016-31-07",
+    "ip": "87.102.240.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Shake evening third purpose. Ask summer care view receive class. Grow million miss source.\nSign figure decision degree wish box sit. Enter buy specific social difficult else. Wear prevent myself why.",
+        "bio": "North study simple you pressure design. Nation direction war hard attention. Defense hot strategy again fish.\nNeed dark thought believe improve. Success fish avoid again attention."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
