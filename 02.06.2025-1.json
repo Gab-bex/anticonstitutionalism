@@ -1,0 +1,25 @@
+{
+    "name": "James Barton",
+    "age": 102,
+    "address": {
+        "street": "Daniel Stravenue",
+        "city": "South John",
+        "state": "Louisiana",
+        "zip": "36857"
+    },
+    "contact": {
+        "phone": "+1-908-271-3682x80507",
+        "servicePhone": "800964178"
+    },
+    "birthday": "1923-03-05",
+    "ip": "222.247.95.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone course current whatever analysis nice minute. Level small recently main late series base consumer. Coach officer could mouth lead respond politics.",
+        "bio": "Nothing company chair choice trip mouth. Their would process. Woman simple machine."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
