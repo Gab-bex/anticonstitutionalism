@@ -1,0 +1,25 @@
+{
+    "name": "Frank Dixon",
+    "age": 64,
+    "address": {
+        "street": "Jesus Rapids",
+        "city": "Torreschester",
+        "state": "Colorado",
+        "zip": "70464"
+    },
+    "contact": {
+        "phone": "+1-693-581-5940x194",
+        "servicePhone": "800479981"
+    },
+    "birthday": "1961-02-04",
+    "ip": "146.228.112.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment specific will buy meeting education doctor. Subject husband minute threat. Space wait long part.",
+        "bio": "However camera field plan daughter know. Radio past want smile base long should. Democratic work push source color increase experience."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
