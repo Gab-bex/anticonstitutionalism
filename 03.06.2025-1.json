@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Hubbard",
+    "age": 53,
+    "address": {
+        "street": "Kristie Estates",
+        "city": "South Alicia",
+        "state": "Louisiana",
+        "zip": "25186"
+    },
+    "contact": {
+        "phone": "811-830-5070x68061",
+        "servicePhone": "800043905"
+    },
+    "birthday": "1972-12-12",
+    "ip": "206.84.29.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Father strong very usually prepare bag environment wife. Only school more give great owner.\nRoom early administration. Sort short from compare west with crime.",
+        "bio": "Spring deep plant on green phone. Local theory evidence sound about like.\nEast bar section. White report result middle professional."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
