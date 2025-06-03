@@ -1,0 +1,25 @@
+{
+    "name": "Stanley Castro",
+    "age": 2,
+    "address": {
+        "street": "Weiss Pike",
+        "city": "East Brett",
+        "state": "West Virginia",
+        "zip": "34261"
+    },
+    "contact": {
+        "phone": "(341)589-6516x34581",
+        "servicePhone": "800976343"
+    },
+    "birthday": "2023-24-05",
+    "ip": "166.196.173.180",
+    "foo": "bar",
+    "profile": {
+        "about": "Person week large at something. Fall happen leave ball success out reason. Since thousand property cultural probably rock.",
+        "bio": "Born send discussion seek. Record us walk. Democratic sense professor make series above.\nEvery base figure total beyond four growth. Late late think see yeah."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
