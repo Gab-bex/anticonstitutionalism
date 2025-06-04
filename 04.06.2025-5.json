@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Allen",
+    "age": 73,
+    "address": {
+        "street": "Reed Run",
+        "city": "Edwardberg",
+        "state": "Nevada",
+        "zip": "61388"
+    },
+    "contact": {
+        "phone": "+1-479-370-0181x8902",
+        "servicePhone": "800411112"
+    },
+    "birthday": "1952-20-11",
+    "ip": "215.239.17.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth else top approach. Wrong rock who. Player rest school.\nRepublican she join example free southern. By on remain focus something after. Build sport western industry.",
+        "bio": "In area situation lawyer it. Themselves hot dark system matter most determine."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
