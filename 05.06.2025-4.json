@@ -1,0 +1,25 @@
+{
+    "name": "Beth Marsh PhD",
+    "age": 55,
+    "address": {
+        "street": "Kim Ford",
+        "city": "Port Kristenborough",
+        "state": "Missouri",
+        "zip": "63550"
+    },
+    "contact": {
+        "phone": "(764)994-8976",
+        "servicePhone": "800375297"
+    },
+    "birthday": "1970-14-02",
+    "ip": "112.20.1.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Thank discuss matter call team. Boy heart finally before no prove. Ahead artist surface.\nRaise assume mean size wait natural them. Senior level candidate.",
+        "bio": "Democratic successful bill country right.\nPrevent determine think president. Wonder the almost far subject agree their. Tend among for something more owner true newspaper."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
