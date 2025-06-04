@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Cobb",
+    "age": 66,
+    "address": {
+        "street": "Jackson Walk",
+        "city": "Higginsborough",
+        "state": "Kentucky",
+        "zip": "83639"
+    },
+    "contact": {
+        "phone": "+1-953-750-0057x3429",
+        "servicePhone": "800426144"
+    },
+    "birthday": "1959-02-06",
+    "ip": "185.224.203.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Politics thought defense world cover fund only mouth. I class last always both town.\nTrade put environmental summer. Big finally very debate war bring.\nPattern ball especially.",
+        "bio": "Turn country run according. All by none. Safe stock story health event direction example."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
