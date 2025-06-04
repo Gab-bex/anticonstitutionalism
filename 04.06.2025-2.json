@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Powers",
+    "age": 15,
+    "address": {
+        "street": "Mckee Plains",
+        "city": "Richardstad",
+        "state": "Kentucky",
+        "zip": "82391"
+    },
+    "contact": {
+        "phone": "(547)747-4996x9844",
+        "servicePhone": "800488812"
+    },
+    "birthday": "2010-06-05",
+    "ip": "21.67.55.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Make future writer last. Lot decide stuff health rise moment. Plant argue defense still camera though family.\nRecord walk process actually how. Write gun may.",
+        "bio": "Past bit food about. Second particularly black establish production old. Gas affect marriage every gas author responsibility site.\nEast speak time high. Whose house manage four work."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
