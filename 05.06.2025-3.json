@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Guerrero",
+    "age": 40,
+    "address": {
+        "street": "Samantha Plain",
+        "city": "Robertberg",
+        "state": "Vermont",
+        "zip": "62048"
+    },
+    "contact": {
+        "phone": "3338919007",
+        "servicePhone": "800391865"
+    },
+    "birthday": "1985-22-07",
+    "ip": "12.58.116.9",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider page over both business character design. Resource impact less me major capital. Those crime knowledge increase foot night.",
+        "bio": "Ask lawyer image sound like staff. Front cold either book ahead wind board.\nGo catch industry American improve right term. Western in suddenly loss wife event discussion especially."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
