@@ -1,0 +1,25 @@
+{
+    "name": "Maria Bishop",
+    "age": 45,
+    "address": {
+        "street": "Eric Drive",
+        "city": "New Rachel",
+        "state": "Rhode Island",
+        "zip": "87138"
+    },
+    "contact": {
+        "phone": "001-352-274-8354",
+        "servicePhone": "800474870"
+    },
+    "birthday": "1980-27-03",
+    "ip": "138.45.249.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Front although common morning eye care wall away. Finally large attack man find purpose should have.",
+        "bio": "Ago heavy understand response forget.\nUsually same suggest PM concern. Own party involve.\nPerhaps live figure. Measure almost figure without generation loss matter. Add sign television quickly dog."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
