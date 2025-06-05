@@ -1,0 +1,25 @@
+{
+    "name": "Evelyn Byrd",
+    "age": 9,
+    "address": {
+        "street": "Gentry Isle",
+        "city": "West Daniel",
+        "state": "North Dakota",
+        "zip": "65664"
+    },
+    "contact": {
+        "phone": "001-847-612-1586x036",
+        "servicePhone": "800172530"
+    },
+    "birthday": "2016-01-02",
+    "ip": "11.212.153.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Stock sign sense character their before edge. Activity role choose ready car address. Measure campaign which executive consider benefit.",
+        "bio": "Cause wind store TV season. Else between against serious last.\nServe memory voice rich professional attention. Establish old ahead air. Third inside article traditional study."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
