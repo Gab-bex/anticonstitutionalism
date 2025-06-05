@@ -1,0 +1,25 @@
+{
+    "name": "Louis Gonzalez",
+    "age": 85,
+    "address": {
+        "street": "Jasmine Lodge",
+        "city": "Jeffreyburgh",
+        "state": "Delaware",
+        "zip": "04925"
+    },
+    "contact": {
+        "phone": "(583)950-8098x766",
+        "servicePhone": "800500572"
+    },
+    "birthday": "1940-05-03",
+    "ip": "138.25.2.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Why quality religious city question during race. Use usually now kind yes.\nArticle determine will sister bar home. Wrong can model collection southern sometimes. Alone service simply common.",
+        "bio": "Mouth size response himself issue ahead. Current often against establish feel east.\nModern born free already."
+    },
+    "currency": [
+        "MMK",
+        "Burmese kyat"
+    ]
+}
