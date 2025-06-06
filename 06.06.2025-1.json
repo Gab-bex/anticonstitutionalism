@@ -1,0 +1,25 @@
+{
+    "name": "Olivia Hamilton",
+    "age": 100,
+    "address": {
+        "street": "Gaines Shoals",
+        "city": "Bishopstad",
+        "state": "Kentucky",
+        "zip": "13627"
+    },
+    "contact": {
+        "phone": "001-628-724-6147",
+        "servicePhone": "800032374"
+    },
+    "birthday": "1925-22-02",
+    "ip": "121.81.33.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Expect open education various audience each. Total partner effort accept. Deep reflect small senior paper service clearly.\nFocus back else.",
+        "bio": "Expect throughout from low answer. Occur down people according around history.\nRaise talk area them name democratic education theory. Crime fire fish tend those record."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
