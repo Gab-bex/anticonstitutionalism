@@ -1,0 +1,25 @@
+{
+    "name": "Paula Parker",
+    "age": 56,
+    "address": {
+        "street": "Santiago Villages",
+        "city": "Lake Wesleyland",
+        "state": "Vermont",
+        "zip": "67383"
+    },
+    "contact": {
+        "phone": "(798)946-7062",
+        "servicePhone": "800392094"
+    },
+    "birthday": "1969-18-08",
+    "ip": "159.220.253.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Build generation appear despite hear. Peace example its fight knowledge.\nLife wish base item. Bag he wait. Former reduce toward feel candidate cold produce.",
+        "bio": "Practice report why miss goal item just test. Art clear maybe likely industry day process. Wall ever young tend occur office interesting."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
