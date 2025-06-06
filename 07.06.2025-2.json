@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Mcguire",
+    "age": 86,
+    "address": {
+        "street": "John Rapids",
+        "city": "Gonzalesstad",
+        "state": "New York",
+        "zip": "43323"
+    },
+    "contact": {
+        "phone": "996-741-1182",
+        "servicePhone": "800084377"
+    },
+    "birthday": "1939-10-10",
+    "ip": "56.221.142.39",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer back meet health least effort organization goal. Owner our within evidence. Senior tell government suggest.",
+        "bio": "Picture cost political wear recent much. Close age key recently. Leave mission whether practice crime determine. Price general now list."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
