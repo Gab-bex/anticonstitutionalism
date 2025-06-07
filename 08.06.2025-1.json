@@ -1,0 +1,25 @@
+{
+    "name": "Denise Parsons",
+    "age": 115,
+    "address": {
+        "street": "Hayes Stravenue",
+        "city": "Port Regina",
+        "state": "Colorado",
+        "zip": "73722"
+    },
+    "contact": {
+        "phone": "9468361059",
+        "servicePhone": "800554800"
+    },
+    "birthday": "1910-16-12",
+    "ip": "84.195.130.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense reason parent low human write health. Compare class number cold. Leg relationship include maintain seat.",
+        "bio": "Meeting know authority key south something. Decade strategy agreement."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
