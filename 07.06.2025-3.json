@@ -1,0 +1,25 @@
+{
+    "name": "Derek Smith",
+    "age": 31,
+    "address": {
+        "street": "Casey Grove",
+        "city": "Aprilburgh",
+        "state": "Utah",
+        "zip": "54413"
+    },
+    "contact": {
+        "phone": "7214626021",
+        "servicePhone": "800380250"
+    },
+    "birthday": "1994-01-11",
+    "ip": "121.110.137.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon direction response throughout. Develop whose agent attack finish mouth choice. Behind current determine how.",
+        "bio": "Security throw husband treat. No most speech much project compare.\nFine friend beyond plant carry continue. Natural scientist exist performance. Series grow finish try Congress hear sound."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
