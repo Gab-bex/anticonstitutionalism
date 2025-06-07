@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Palmer",
+    "age": 62,
+    "address": {
+        "street": "Smith Ford",
+        "city": "East Paul",
+        "state": "Alabama",
+        "zip": "50145"
+    },
+    "contact": {
+        "phone": "+1-782-751-4736x441",
+        "servicePhone": "800640314"
+    },
+    "birthday": "1963-19-01",
+    "ip": "64.26.53.231",
+    "foo": "bar",
+    "profile": {
+        "about": "But final still near central hundred range. Simple seem step meet unit. Chair operation quickly threat ever both.\nPlace cause meet maintain why single. Set suddenly what above.",
+        "bio": "International window cup effort across. Threat from heart almost degree room north. Read address become six."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
