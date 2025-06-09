@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hernandez",
+    "age": 93,
+    "address": {
+        "street": "Deanna Corner",
+        "city": "Lake Sarahtown",
+        "state": "Oregon",
+        "zip": "94968"
+    },
+    "contact": {
+        "phone": "4118024634",
+        "servicePhone": "800596920"
+    },
+    "birthday": "1932-06-09",
+    "ip": "1.204.167.138",
+    "foo": "bar",
+    "profile": {
+        "about": "Thousand customer beyond film marriage newspaper. Sound sit kid rock economic TV focus result.",
+        "bio": "Example we general white simple character. Trip spend some form."
+    },
+    "currency": [
+        "MXN",
+        "Mexican peso"
+    ]
+}
