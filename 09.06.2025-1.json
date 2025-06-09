@@ -1,0 +1,25 @@
+{
+    "name": "Aaron Chan",
+    "age": 50,
+    "address": {
+        "street": "Lauren Avenue",
+        "city": "Lisaberg",
+        "state": "Georgia",
+        "zip": "02157"
+    },
+    "contact": {
+        "phone": "374-401-1821",
+        "servicePhone": "800192762"
+    },
+    "birthday": "1975-15-11",
+    "ip": "133.165.105.58",
+    "foo": "bar",
+    "profile": {
+        "about": "Training room safe which.\nTry debate sea operation history test understand. Spring leader resource big skin house individual. Mrs that involve third compare consider.",
+        "bio": "Bar claim trouble allow very. Art law explain blue per act kind.\nAge future game nothing get. History notice subject coach whom white. Star build sense while."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
