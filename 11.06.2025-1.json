@@ -1,0 +1,25 @@
+{
+    "name": "Paula Elliott",
+    "age": 57,
+    "address": {
+        "street": "White Port",
+        "city": "New Danielhaven",
+        "state": "Maine",
+        "zip": "41670"
+    },
+    "contact": {
+        "phone": "001-488-533-0559x604",
+        "servicePhone": "800666011"
+    },
+    "birthday": "1968-20-12",
+    "ip": "16.29.242.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Cut ten beautiful notice. Ahead with office interesting. Drop bit indicate week operation tax. Song door southern section conference budget father.",
+        "bio": "Write difficult section those. Two begin prove appear detail trial. Difficult bad quite likely."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
