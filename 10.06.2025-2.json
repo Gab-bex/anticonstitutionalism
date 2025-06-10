@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Huang",
+    "age": 95,
+    "address": {
+        "street": "Kyle Stravenue",
+        "city": "Lake Mark",
+        "state": "Nebraska",
+        "zip": "06076"
+    },
+    "contact": {
+        "phone": "001-676-794-3980x90007",
+        "servicePhone": "800604896"
+    },
+    "birthday": "1930-14-10",
+    "ip": "213.154.65.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon gas produce source. Civil forward wear firm. Its consider three after dream indeed nothing.\nNight recognize experience resource. Out another Mr edge. Difficult try answer present.",
+        "bio": "Experience mother a reflect will assume against partner. Treatment despite summer memory situation. Dark student alone mention eight avoid gas."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
