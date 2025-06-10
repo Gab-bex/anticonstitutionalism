@@ -1,0 +1,25 @@
+{
+    "name": "Douglas Reilly",
+    "age": 85,
+    "address": {
+        "street": "Meadows Port",
+        "city": "Christinechester",
+        "state": "New Hampshire",
+        "zip": "84716"
+    },
+    "contact": {
+        "phone": "(423)787-7457",
+        "servicePhone": "800064688"
+    },
+    "birthday": "1940-13-12",
+    "ip": "79.137.88.106",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience woman strategy. Street serious even she foreign remember.\nAcross social six station gas recognize. Sing whose per lose.",
+        "bio": "Bag effect control cover lead read hundred. Likely cell well mean provide risk.\nCapital stay attack various first green ball. Soon star chance you involve state."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
