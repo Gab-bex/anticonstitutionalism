@@ -1,0 +1,25 @@
+{
+    "name": "Lori Brown",
+    "age": 25,
+    "address": {
+        "street": "Johnny Spur",
+        "city": "Lake Christopherville",
+        "state": "Utah",
+        "zip": "56277"
+    },
+    "contact": {
+        "phone": "937.809.0837",
+        "servicePhone": "800758556"
+    },
+    "birthday": "2000-25-10",
+    "ip": "105.67.124.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill debate result news. Travel soldier few anyone government stay.\nServe thus agreement benefit similar popular. Girl general fall himself clear trip. Almost traditional market guess as.",
+        "bio": "Line sell better. Finish mother feeling despite likely character. Trip white with feel return rule difference. Common commercial model of keep."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
