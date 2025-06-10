@@ -1,0 +1,25 @@
+{
+    "name": "Sophia Norris",
+    "age": 101,
+    "address": {
+        "street": "Price Spurs",
+        "city": "Christianmouth",
+        "state": "Nebraska",
+        "zip": "95459"
+    },
+    "contact": {
+        "phone": "+1-558-802-1829x99221",
+        "servicePhone": "800877720"
+    },
+    "birthday": "1924-11-10",
+    "ip": "16.135.170.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Like security I business indeed face. Mean guess yeah. Look discuss bank gas daughter girl.\nRisk benefit series in point. Together debate must. Coach they food accept.",
+        "bio": "Measure military finish. Fish use daughter television pass wind.\nWalk student woman them. Once perform near TV. Weight amount majority anything right trip."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
