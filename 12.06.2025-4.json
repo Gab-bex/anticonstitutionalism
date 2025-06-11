@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Boyle",
+    "age": 67,
+    "address": {
+        "street": "John Rest",
+        "city": "East Coreyfurt",
+        "state": "California",
+        "zip": "87550"
+    },
+    "contact": {
+        "phone": "+1-900-575-9797x890",
+        "servicePhone": "800327241"
+    },
+    "birthday": "1958-04-11",
+    "ip": "181.209.20.15",
+    "foo": "bar",
+    "profile": {
+        "about": "Her side myself long national design. Mrs central point trade find central.\nChair cell senior career then board. Personal clearly fund ball.\nRule sport something easy.",
+        "bio": "Born race interesting ability most candidate beautiful. Song improve audience. Its radio eat political. All rate agree account same loss teach."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
