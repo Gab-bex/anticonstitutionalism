@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Turner",
+    "age": 50,
+    "address": {
+        "street": "Henry Trail",
+        "city": "Mitchellstad",
+        "state": "Nebraska",
+        "zip": "07866"
+    },
+    "contact": {
+        "phone": "001-592-977-2912x5096",
+        "servicePhone": "800607509"
+    },
+    "birthday": "1975-10-05",
+    "ip": "70.17.70.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Capital listen sing guess system. Sometimes research several late.",
+        "bio": "Outside case couple. Exist hear discover improve data item street. Anyone land bar book unit."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
