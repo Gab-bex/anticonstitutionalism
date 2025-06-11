@@ -1,0 +1,25 @@
+{
+    "name": "John Gray",
+    "age": 91,
+    "address": {
+        "street": "Hubbard Mill",
+        "city": "Port Nicholas",
+        "state": "New Jersey",
+        "zip": "08669"
+    },
+    "contact": {
+        "phone": "214-909-0551",
+        "servicePhone": "800816655"
+    },
+    "birthday": "1934-11-01",
+    "ip": "187.120.245.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Listen cup medical possible upon best across. Break long painting candidate into window. Fire start system heavy decade.",
+        "bio": "Account ready picture then and lead discuss.\nExample point time clear consider. Teacher history party east agency many time evening. Like wonder result sing."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
