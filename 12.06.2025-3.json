@@ -1,0 +1,25 @@
+{
+    "name": "Nathaniel Martin",
+    "age": 61,
+    "address": {
+        "street": "Patrick Forest",
+        "city": "Port Erinhaven",
+        "state": "Rhode Island",
+        "zip": "88416"
+    },
+    "contact": {
+        "phone": "001-421-346-2525",
+        "servicePhone": "800985294"
+    },
+    "birthday": "1964-25-07",
+    "ip": "151.153.215.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle figure check with. Himself everybody moment report.\nAnimal help continue size. Apply sound enjoy protect best.",
+        "bio": "Blue message pick manager tonight official performance. Say moment fill campaign."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
