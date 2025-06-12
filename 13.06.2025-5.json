@@ -1,0 +1,25 @@
+{
+    "name": "Nathan Pierce",
+    "age": 56,
+    "address": {
+        "street": "Bush Court",
+        "city": "East Williamside",
+        "state": "Massachusetts",
+        "zip": "01014"
+    },
+    "contact": {
+        "phone": "+1-327-535-3604x4673",
+        "servicePhone": "800662812"
+    },
+    "birthday": "1969-02-09",
+    "ip": "180.94.62.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Consider seat movement sport be parent air. End arm realize small water maintain.\nFull talk recent leader. Sport not leader loss continue.",
+        "bio": "Ahead price page blood accept country think share. Congress as challenge plant mind easy."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
