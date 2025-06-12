@@ -1,0 +1,25 @@
+{
+    "name": "David Johnston",
+    "age": 105,
+    "address": {
+        "street": "Khan Drives",
+        "city": "Harpermouth",
+        "state": "Arizona",
+        "zip": "01991"
+    },
+    "contact": {
+        "phone": "4226730454",
+        "servicePhone": "800602429"
+    },
+    "birthday": "1920-28-03",
+    "ip": "45.94.23.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Debate eight late marriage six everything. Then make wide certain.\nTechnology would half reduce. Effect quickly event probably billion to early. Cost culture central.",
+        "bio": "Development after mouth cultural father. Start million film loss view language. Mrs white why party later expert."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
