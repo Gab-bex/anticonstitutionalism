@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Jones",
+    "age": 68,
+    "address": {
+        "street": "Benson Forge",
+        "city": "South Dennisburgh",
+        "state": "Kansas",
+        "zip": "62774"
+    },
+    "contact": {
+        "phone": "(481)879-3122",
+        "servicePhone": "800995567"
+    },
+    "birthday": "1957-03-08",
+    "ip": "151.75.11.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Trip role bed official nor study old. Son key dog arm sort. Its provide respond left miss unit though.\nNetwork better scene.",
+        "bio": "Happy north learn movement than glass song.\nCost capital laugh half seat sport hundred. Standard single fast law no. Skill food statement wide meet baby model."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
