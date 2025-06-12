@@ -1,0 +1,25 @@
+{
+    "name": "James Calderon",
+    "age": 58,
+    "address": {
+        "street": "Alexander Haven",
+        "city": "New Christopherbury",
+        "state": "South Carolina",
+        "zip": "45353"
+    },
+    "contact": {
+        "phone": "001-752-952-4274",
+        "servicePhone": "800966344"
+    },
+    "birthday": "1967-11-01",
+    "ip": "87.74.207.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves again network necessary trip save class. Us significant prevent protect present. Though school reach pressure.",
+        "bio": "Would chance evening hope who question. Development choice open apply guess smile. Provide enjoy southern there child enjoy view."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
