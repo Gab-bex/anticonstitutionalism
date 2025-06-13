@@ -1,0 +1,25 @@
+{
+    "name": "James Brown",
+    "age": 7,
+    "address": {
+        "street": "Sellers Coves",
+        "city": "South Donaldland",
+        "state": "Arkansas",
+        "zip": "11684"
+    },
+    "contact": {
+        "phone": "605.867.8451x649",
+        "servicePhone": "800254093"
+    },
+    "birthday": "2018-08-01",
+    "ip": "129.10.56.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Successful order maybe too heart season. Soldier artist nothing bring dog police director modern.\nOff perform firm sport to job. Bed training scene so word any.",
+        "bio": "Because million stay science space prevent. About just simple after example lose. Surface hour performance evening clear term seek."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
