@@ -1,0 +1,25 @@
+{
+    "name": "Dana Adams",
+    "age": 1,
+    "address": {
+        "street": "Albert Loop",
+        "city": "West Michael",
+        "state": "Hawaii",
+        "zip": "06095"
+    },
+    "contact": {
+        "phone": "(214)568-1643",
+        "servicePhone": "800106290"
+    },
+    "birthday": "2024-16-07",
+    "ip": "124.32.197.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Trial company peace just series. Bring first voice explain.\nFeeling store subject wish draw. Let civil policy expect.",
+        "bio": "Suggest brother far on Mr necessary conference. Doctor officer expert. Author keep million outside.\nWill by white check instead. Goal computer establish ball item.\nUnder well give network."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
