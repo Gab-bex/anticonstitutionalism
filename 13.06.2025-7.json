@@ -1,0 +1,25 @@
+{
+    "name": "Austin Wilson",
+    "age": 105,
+    "address": {
+        "street": "Christensen Walks",
+        "city": "West Melissa",
+        "state": "Nebraska",
+        "zip": "54557"
+    },
+    "contact": {
+        "phone": "351.344.1803x713",
+        "servicePhone": "800539091"
+    },
+    "birthday": "1920-18-11",
+    "ip": "193.92.46.150",
+    "foo": "bar",
+    "profile": {
+        "about": "Score view water table. Factor direction pressure factor.\nStation shoulder often draw type form become long. Player maybe customer recently.",
+        "bio": "Free notice marriage before likely get. While condition run. Them inside technology."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
