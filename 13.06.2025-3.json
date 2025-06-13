@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Gregory",
+    "age": 22,
+    "address": {
+        "street": "Chris Points",
+        "city": "North Seanshire",
+        "state": "Florida",
+        "zip": "82690"
+    },
+    "contact": {
+        "phone": "493.592.3379x1316",
+        "servicePhone": "800650752"
+    },
+    "birthday": "2003-03-05",
+    "ip": "84.89.3.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Effort attorney full artist through win play. Product start budget share quality.\nTree ago manage arrive model nice. There political war bed executive program special. City where story task.",
+        "bio": "Only choose of stage.\nKitchen laugh seat economic fly participant agreement. Federal project near collection policy human. Baby whether suggest table rock me. Anyone item project response current."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
