@@ -1,0 +1,25 @@
+{
+    "name": "Tasha Sherman",
+    "age": 99,
+    "address": {
+        "street": "Keller Shoal",
+        "city": "East Jessica",
+        "state": "Arkansas",
+        "zip": "04320"
+    },
+    "contact": {
+        "phone": "001-290-629-2322x72995",
+        "servicePhone": "800429657"
+    },
+    "birthday": "1926-13-07",
+    "ip": "212.110.18.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Partner leave heavy who. Under must billion day throughout total. Discuss billion blue war.",
+        "bio": "Yard single sense clear election southern three. Type among time although free five present first. Really product simple stay what why very state. Skin evidence activity."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
