@@ -1,0 +1,25 @@
+{
+    "name": "Gregory Lopez",
+    "age": 71,
+    "address": {
+        "street": "Gonzales Pine",
+        "city": "North Shelly",
+        "state": "South Carolina",
+        "zip": "26643"
+    },
+    "contact": {
+        "phone": "001-823-987-8942x0129",
+        "servicePhone": "800780160"
+    },
+    "birthday": "1954-17-02",
+    "ip": "204.84.232.249",
+    "foo": "bar",
+    "profile": {
+        "about": "Themselves too you senior general speech. Once office learn available possible small. Upon land plant only support actually.",
+        "bio": "Fish fish vote hour. Trial sound generation think science.\nCentury price deal property manager best however. Everyone new paper establish."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
