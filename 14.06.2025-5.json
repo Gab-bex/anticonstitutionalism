@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Baker",
+    "age": 101,
+    "address": {
+        "street": "Dixon Lodge",
+        "city": "South Steven",
+        "state": "Maryland",
+        "zip": "51453"
+    },
+    "contact": {
+        "phone": "338.997.2042",
+        "servicePhone": "800856166"
+    },
+    "birthday": "1924-11-08",
+    "ip": "171.133.215.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Although analysis newspaper choice win American appear. Could operation glass hair likely share. Catch imagine position collection range financial great ten.",
+        "bio": "Science bar his fund age dream me positive. Firm arm catch society. Look summer bar particularly.\nLikely adult enter manager their officer. There six soldier since type."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
