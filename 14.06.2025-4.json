@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Bishop",
+    "age": 113,
+    "address": {
+        "street": "John Center",
+        "city": "East Charles",
+        "state": "Rhode Island",
+        "zip": "18687"
+    },
+    "contact": {
+        "phone": "732-275-0020x60705",
+        "servicePhone": "800975685"
+    },
+    "birthday": "1912-29-04",
+    "ip": "34.44.71.71",
+    "foo": "bar",
+    "profile": {
+        "about": "Hospital boy she baby. Miss think suddenly long gun late.\nAppear health marriage risk. Onto quickly over scientist charge word employee.",
+        "bio": "Hard clearly color activity. Outside sound couple how.\nService smile yes must. Produce hospital artist current task discussion impact. Upon center pay vote investment operation."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
