@@ -1,0 +1,25 @@
+{
+    "name": "Tina Jones",
+    "age": 96,
+    "address": {
+        "street": "Jacob Glens",
+        "city": "South Lesliestad",
+        "state": "Michigan",
+        "zip": "03612"
+    },
+    "contact": {
+        "phone": "4224285164",
+        "servicePhone": "800962650"
+    },
+    "birthday": "1929-05-05",
+    "ip": "209.28.219.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Together today offer food. Somebody understand civil four consider again record your.\nHour whole operation work as respond. Perform really find myself country. Between look field age speech.",
+        "bio": "Require against without idea. Here help either argue. Letter glass could rest rule rise.\nQuickly sign management join. Worry community vote explain."
+    },
+    "currency": [
+        "BWP",
+        "Botswana pula"
+    ]
+}
