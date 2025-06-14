@@ -1,0 +1,25 @@
+{
+    "name": "Nancy Johnson",
+    "age": 67,
+    "address": {
+        "street": "Smith Cliff",
+        "city": "Rogerstown",
+        "state": "Rhode Island",
+        "zip": "17486"
+    },
+    "contact": {
+        "phone": "(210)706-4282",
+        "servicePhone": "800712339"
+    },
+    "birthday": "1958-11-11",
+    "ip": "195.219.55.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Model conference event practice. Simply right between gas. Ago to will simply ball.\nStreet top test region beautiful. Enough conference answer suffer goal.",
+        "bio": "Story single piece hotel laugh really. Scene those present story discover who. From thought total.\nFirst return along less. Friend partner whatever society many."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
