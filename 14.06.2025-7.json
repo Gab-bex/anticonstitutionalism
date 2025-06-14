@@ -1,0 +1,25 @@
+{
+    "name": "Wanda Wheeler",
+    "age": 99,
+    "address": {
+        "street": "Smith Heights",
+        "city": "North Jennifer",
+        "state": "Oregon",
+        "zip": "50552"
+    },
+    "contact": {
+        "phone": "556.324.7725",
+        "servicePhone": "800723248"
+    },
+    "birthday": "1926-08-10",
+    "ip": "146.33.229.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Line mother painting miss region affect community. Recognize outside end manage. General sense mouth.\nTraining drive allow detail law fly. Everything go toward read exist.",
+        "bio": "Culture school term move. Order century you last picture few interesting. Determine company glass official yes here language."
+    },
+    "currency": [
+        "NZD",
+        "New Zealand dollar"
+    ]
+}
