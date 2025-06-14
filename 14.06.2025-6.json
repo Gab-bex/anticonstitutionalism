@@ -1,0 +1,25 @@
+{
+    "name": "David Reynolds",
+    "age": 89,
+    "address": {
+        "street": "Amber Motorway",
+        "city": "Matthewmouth",
+        "state": "Missouri",
+        "zip": "42773"
+    },
+    "contact": {
+        "phone": "984.839.5287x4724",
+        "servicePhone": "800619371"
+    },
+    "birthday": "1936-21-10",
+    "ip": "87.44.132.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch skin prevent example friend. Themselves short again let college by.\nWhen let recent white off likely thus. Push story sort who bed some.",
+        "bio": "Network approach cover oil thank. Save weight avoid international another.\nAnother chair care. Land everyone more race share gas."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
