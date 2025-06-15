@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Young",
+    "age": 0,
+    "address": {
+        "street": "Wilson Causeway",
+        "city": "Richardbury",
+        "state": "Oklahoma",
+        "zip": "69629"
+    },
+    "contact": {
+        "phone": "432-484-4731",
+        "servicePhone": "800025434"
+    },
+    "birthday": "2025-12-09",
+    "ip": "216.117.16.233",
+    "foo": "bar",
+    "profile": {
+        "about": "Under contain from agency. Local address two world everybody.\nThose position enter approach. While team look door identify office. Mother long agency thousand usually rate every organization.",
+        "bio": "Theory call citizen. Necessary image church end girl prepare pay. Task situation culture home week arrive."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
