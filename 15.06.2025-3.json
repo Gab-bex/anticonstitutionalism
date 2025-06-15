@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Curtis",
+    "age": 84,
+    "address": {
+        "street": "Michelle Cliffs",
+        "city": "New Jeremy",
+        "state": "North Dakota",
+        "zip": "68840"
+    },
+    "contact": {
+        "phone": "001-482-231-2785x332",
+        "servicePhone": "800921042"
+    },
+    "birthday": "1941-05-05",
+    "ip": "162.171.189.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper meet point they. Relate point chair step site increase organization media.\nCountry likely maintain. Girl bed minute her ask chair.",
+        "bio": "Role air new fall check in must knowledge. Add happy want we buy group himself. Thought old clear no.\nRadio walk place example size save class."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
