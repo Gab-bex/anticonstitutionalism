@@ -1,0 +1,25 @@
+{
+    "name": "Adrienne Shaffer",
+    "age": 15,
+    "address": {
+        "street": "Dean Motorway",
+        "city": "Port Williammouth",
+        "state": "Arkansas",
+        "zip": "08317"
+    },
+    "contact": {
+        "phone": "(839)693-7452",
+        "servicePhone": "800303302"
+    },
+    "birthday": "2010-16-04",
+    "ip": "25.27.91.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Difference cover spend plant go make material issue. Have no cut buy near authority go wall.\nImagine or action. Understand receive hundred poor brother kid beyond. Future model find concern no work.",
+        "bio": "Population process arrive Democrat very everyone. Painting loss face system place. Behavior green news security.\nTalk hand away. Long cut identify character great fact."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
