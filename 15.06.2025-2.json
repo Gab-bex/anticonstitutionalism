@@ -1,0 +1,25 @@
+{
+    "name": "Carol Woodward",
+    "age": 104,
+    "address": {
+        "street": "Charles Station",
+        "city": "South Shannonmouth",
+        "state": "New Jersey",
+        "zip": "92146"
+    },
+    "contact": {
+        "phone": "371-634-5261x0690",
+        "servicePhone": "800303992"
+    },
+    "birthday": "1921-18-05",
+    "ip": "183.232.194.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Not business on establish answer around indeed. War common share theory affect. Child environment large participant protect.",
+        "bio": "Stock hard recognize. Fast drop information perform foreign foreign charge.\nNow tax race church. Age full yard the approach quite behavior."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
