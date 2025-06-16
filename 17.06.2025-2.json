@@ -1,0 +1,25 @@
+{
+    "name": "Tina Tran",
+    "age": 105,
+    "address": {
+        "street": "Brooks Station",
+        "city": "Samanthaville",
+        "state": "Florida",
+        "zip": "12536"
+    },
+    "contact": {
+        "phone": "001-263-668-1361x330",
+        "servicePhone": "800366075"
+    },
+    "birthday": "1920-18-07",
+    "ip": "6.57.143.81",
+    "foo": "bar",
+    "profile": {
+        "about": "South help carry kitchen money walk. Speech five color argue.\nPeople society plan notice stay fill sit most. Time amount floor role bag quite forget. Writer I report fine get.",
+        "bio": "Medical us area degree concern conference.\nServe action find either face chance several. Walk argue feel animal father matter call that. Left rule what couple choice reality."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
