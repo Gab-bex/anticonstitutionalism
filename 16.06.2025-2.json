@@ -1,0 +1,25 @@
+{
+    "name": "Jason Ramsey",
+    "age": 18,
+    "address": {
+        "street": "Vincent Points",
+        "city": "Port Melissa",
+        "state": "Missouri",
+        "zip": "66326"
+    },
+    "contact": {
+        "phone": "(384)595-9722",
+        "servicePhone": "800905337"
+    },
+    "birthday": "2007-21-12",
+    "ip": "128.26.188.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Girl player carry sport them. Every sure lawyer yourself push.\nFirst sure rather two through box ago use. Seven notice benefit board. Build year true. Task she so whole.",
+        "bio": "Word prove community quality prevent. Player police weight standard take.\nInterest focus strategy institution address. Member cost card. Positive thousand bring allow."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
