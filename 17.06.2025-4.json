@@ -1,0 +1,25 @@
+{
+    "name": "Alfred Davis",
+    "age": 92,
+    "address": {
+        "street": "Palmer Pass",
+        "city": "North Andreamouth",
+        "state": "Mississippi",
+        "zip": "46074"
+    },
+    "contact": {
+        "phone": "+1-960-417-2039x26502",
+        "servicePhone": "800097073"
+    },
+    "birthday": "1933-18-07",
+    "ip": "155.193.243.85",
+    "foo": "bar",
+    "profile": {
+        "about": "Miss all order. Although everyone marriage exactly condition compare.\nFactor necessary treat hold glass. Hundred analysis development will.",
+        "bio": "View over billion control box. Population instead anyone claim here nothing friend. Discover should media several again budget."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
