@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Grant",
+    "age": 4,
+    "address": {
+        "street": "Marcus Circles",
+        "city": "Saunderston",
+        "state": "Washington",
+        "zip": "86895"
+    },
+    "contact": {
+        "phone": "260-559-8357",
+        "servicePhone": "800946159"
+    },
+    "birthday": "2021-14-05",
+    "ip": "187.221.25.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad wrong indeed bag. Very late effort choice watch pay. Lead you lot school.\nWide very say such door. Sound PM reach worker gun.",
+        "bio": "Agency scientist eye seem art add much. Window reach wife matter reason while century. Place and very your animal message before operation. Something always education agent."
+    },
+    "currency": [
+        "TND",
+        "Tunisian dinar"
+    ]
+}
