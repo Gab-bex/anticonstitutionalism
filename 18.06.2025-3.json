@@ -1,0 +1,25 @@
+{
+    "name": "Brian Brown",
+    "age": 81,
+    "address": {
+        "street": "Christina Row",
+        "city": "Kimberlyfort",
+        "state": "Ohio",
+        "zip": "14979"
+    },
+    "contact": {
+        "phone": "3138628817",
+        "servicePhone": "800819481"
+    },
+    "birthday": "1944-09-07",
+    "ip": "48.6.220.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier later call garden goal. Important particularly main buy. Fly field letter language view debate best.",
+        "bio": "Wind seat black another guy top Mrs. Body wind wind evidence.\nMedical time civil foot. Put spring democratic class.\nFamily watch scene mission. Material international together still."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
