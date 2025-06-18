@@ -1,0 +1,25 @@
+{
+    "name": "Maria Foley",
+    "age": 47,
+    "address": {
+        "street": "Hector Vista",
+        "city": "South Alyssafort",
+        "state": "West Virginia",
+        "zip": "84675"
+    },
+    "contact": {
+        "phone": "945.998.8333x43764",
+        "servicePhone": "800389167"
+    },
+    "birthday": "1978-09-09",
+    "ip": "104.220.16.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Improve hand hospital however billion sing.\nHuman paper with bill majority. Short four road light necessary door foot truth.\nYeah inside population this such.",
+        "bio": "Animal young this watch make. Wonder under blue guess. Both music huge hospital number born individual early."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
