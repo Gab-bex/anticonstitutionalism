@@ -1,0 +1,25 @@
+{
+    "name": "Drew Jordan",
+    "age": 102,
+    "address": {
+        "street": "Gonzalez Shoals",
+        "city": "Feliciachester",
+        "state": "Arizona",
+        "zip": "31162"
+    },
+    "contact": {
+        "phone": "748.460.0834x9015",
+        "servicePhone": "800116411"
+    },
+    "birthday": "1923-18-03",
+    "ip": "152.29.181.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Just arrive job sound find field. Simple mother off window sure player.\nTonight main action marriage. Trade mission sing bank. Many grow modern.",
+        "bio": "Establish rate eight affect sit. Keep dinner dream space product production difference. Describe activity nothing education."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
