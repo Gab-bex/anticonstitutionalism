@@ -1,0 +1,25 @@
+{
+    "name": "Marcia Sanders",
+    "age": 28,
+    "address": {
+        "street": "Santana Plaza",
+        "city": "North Victor",
+        "state": "Idaho",
+        "zip": "12296"
+    },
+    "contact": {
+        "phone": "456-384-3184x94439",
+        "servicePhone": "800088113"
+    },
+    "birthday": "1997-27-12",
+    "ip": "176.198.242.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Account run people attack whatever. Difficult hour prepare stay federal lawyer. Reveal dinner throw.",
+        "bio": "Full better large cultural common population middle. Move language develop but rate compare wonder job. Try enjoy without near."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
