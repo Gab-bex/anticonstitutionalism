@@ -1,0 +1,25 @@
+{
+    "name": "Emily Spence",
+    "age": 27,
+    "address": {
+        "street": "Stewart Brook",
+        "city": "West Charlesborough",
+        "state": "Georgia",
+        "zip": "01711"
+    },
+    "contact": {
+        "phone": "353.464.5074x53721",
+        "servicePhone": "800476582"
+    },
+    "birthday": "1998-17-05",
+    "ip": "42.179.33.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Bad yet meet eye. Purpose future score thing cut. Similar someone later realize.",
+        "bio": "Talk camera none big class sister future word. Senior style concern through blue.\nLeast long camera campaign myself. Important glass sign."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
