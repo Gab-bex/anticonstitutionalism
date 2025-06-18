@@ -1,0 +1,25 @@
+{
+    "name": "Meredith Alvarez",
+    "age": 59,
+    "address": {
+        "street": "Jennifer Via",
+        "city": "New Lisashire",
+        "state": "Georgia",
+        "zip": "92121"
+    },
+    "contact": {
+        "phone": "568.507.9439x740",
+        "servicePhone": "800640651"
+    },
+    "birthday": "1966-03-10",
+    "ip": "9.234.207.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Pm half assume attorney north old there. Road never pattern yourself list artist.\nAdd two I especially person test. Suffer girl they speech drive wonder.",
+        "bio": "Wind these add detail history suddenly. Production though option method store yourself. History player natural race civil development factor. Home next Mrs next."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
