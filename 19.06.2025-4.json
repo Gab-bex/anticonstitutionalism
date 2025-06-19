@@ -1,0 +1,25 @@
+{
+    "name": "Elijah Gomez",
+    "age": 23,
+    "address": {
+        "street": "Kenneth Road",
+        "city": "Lake Sherri",
+        "state": "New Jersey",
+        "zip": "57560"
+    },
+    "contact": {
+        "phone": "(865)968-8285x65088",
+        "servicePhone": "800781129"
+    },
+    "birthday": "2002-14-03",
+    "ip": "191.217.130.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Worker officer low democratic few daughter ago.\nNever ago carry he call professor. Face base sport yourself better until save.",
+        "bio": "Collection garden apply scientist role operation. Tell Mrs little require. Stock fight low be politics turn dog.\nPeople more employee. Size imagine seem theory hair. Carry begin whom soon family."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
