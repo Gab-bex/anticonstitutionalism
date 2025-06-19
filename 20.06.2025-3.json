@@ -1,0 +1,25 @@
+{
+    "name": "Christine Phillips",
+    "age": 87,
+    "address": {
+        "street": "White Isle",
+        "city": "Morganbury",
+        "state": "Arkansas",
+        "zip": "18155"
+    },
+    "contact": {
+        "phone": "+1-347-906-9157x933",
+        "servicePhone": "800313812"
+    },
+    "birthday": "1938-30-01",
+    "ip": "85.154.182.160",
+    "foo": "bar",
+    "profile": {
+        "about": "System others perform from new. Much full something bit young weight front.\nFire garden subject force. On capital fly.\nFind perhaps owner coach not.",
+        "bio": "Entire west its himself. Head body risk simply. Official answer top not.\nDirector senior probably debate three hand finally."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
