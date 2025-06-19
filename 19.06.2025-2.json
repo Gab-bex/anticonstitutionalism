@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Robin Cameron DVM",
+    "age": 88,
+    "address": {
+        "street": "Brown Valleys",
+        "city": "Joshuaton",
+        "state": "Oklahoma",
+        "zip": "36432"
+    },
+    "contact": {
+        "phone": "+1-777-727-7777",
+        "servicePhone": "800665481"
+    },
+    "birthday": "1937-16-10",
+    "ip": "64.184.44.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Sing care particular place line listen. Itself would night soldier collection put agreement.\nSkill type soldier positive hospital feel. Environment drop fine moment successful already nation.",
+        "bio": "Purpose course people my. International natural worker tree."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
