@@ -1,0 +1,25 @@
+{
+    "name": "Michael Sharp",
+    "age": 51,
+    "address": {
+        "street": "Dominguez Brooks",
+        "city": "Lewisville",
+        "state": "Delaware",
+        "zip": "77350"
+    },
+    "contact": {
+        "phone": "375.424.6871x05654",
+        "servicePhone": "800215219"
+    },
+    "birthday": "1974-20-01",
+    "ip": "71.178.73.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning it push relationship.\nPattern parent yes send develop. Care process hospital product movie among me feel. Serve star society this determine court investment.",
+        "bio": "Itself almost seven daughter occur billion happy. Tough glass candidate.\nLater cut all respond reduce example. Design his describe trouble since particular enjoy worker. Language do feeling happy."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
