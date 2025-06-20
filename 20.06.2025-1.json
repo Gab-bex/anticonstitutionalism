@@ -1,0 +1,25 @@
+{
+    "name": "Fernando Padilla",
+    "age": 79,
+    "address": {
+        "street": "Lori Light",
+        "city": "Lake Dianebury",
+        "state": "California",
+        "zip": "26304"
+    },
+    "contact": {
+        "phone": "5928396742",
+        "servicePhone": "800351761"
+    },
+    "birthday": "1946-10-06",
+    "ip": "142.49.199.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Face present begin within check. People half quickly mind practice.\nWhatever spend soon success avoid crime high. Someone floor feel one.",
+        "bio": "Majority simple training court throughout. Manager ready deep standard walk market. Company fire above land country watch."
+    },
+    "currency": [
+        "ALL",
+        "Albanian lek"
+    ]
+}
