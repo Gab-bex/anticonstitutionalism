@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Powell",
+    "age": 102,
+    "address": {
+        "street": "Ferguson Manor",
+        "city": "East Taylor",
+        "state": "Missouri",
+        "zip": "59249"
+    },
+    "contact": {
+        "phone": "(838)356-4975",
+        "servicePhone": "800453926"
+    },
+    "birthday": "1923-10-08",
+    "ip": "104.1.70.90",
+    "foo": "bar",
+    "profile": {
+        "about": "President history stand become past others entire. Security soon page relationship party week sort.\nTelevision keep peace worry without often.",
+        "bio": "Responsibility area call professor now drive. Stock activity down set material start none.\nRaise project kind charge. Travel kid place hand thing."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
