@@ -1,0 +1,25 @@
+{
+    "name": "Dustin Melendez",
+    "age": 90,
+    "address": {
+        "street": "Clifford Meadow",
+        "city": "Jonesmouth",
+        "state": "Connecticut",
+        "zip": "53000"
+    },
+    "contact": {
+        "phone": "843.349.0568x654",
+        "servicePhone": "800573419"
+    },
+    "birthday": "1935-13-05",
+    "ip": "189.19.14.115",
+    "foo": "bar",
+    "profile": {
+        "about": "Treatment step occur minute all join serious. Meeting figure discover wonder television they first. Member might stock talk hand understand. Wear finish fear by popular morning.",
+        "bio": "Order ahead state feel should administration election. Nor without those those analysis wind. Matter big series deal.\nThough shake since. Onto receive culture toward."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
