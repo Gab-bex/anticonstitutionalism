@@ -1,0 +1,25 @@
+{
+    "name": "Christine Lewis",
+    "age": 84,
+    "address": {
+        "street": "Jasmine Way",
+        "city": "Loristad",
+        "state": "Kentucky",
+        "zip": "66872"
+    },
+    "contact": {
+        "phone": "917.731.4802",
+        "servicePhone": "800666871"
+    },
+    "birthday": "1941-30-05",
+    "ip": "186.154.252.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Sure marriage outside finally. Collection national safe available say. Huge event often wish.\nLeast create professional thank. Reflect notice marriage film begin. Painting able dog example want.",
+        "bio": "Well question subject article million both four lot. Generation Congress work seat sometimes challenge."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
