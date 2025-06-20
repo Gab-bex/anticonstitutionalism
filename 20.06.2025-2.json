@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lee",
+    "age": 41,
+    "address": {
+        "street": "Brenda Views",
+        "city": "Wendyfurt",
+        "state": "Tennessee",
+        "zip": "59261"
+    },
+    "contact": {
+        "phone": "+1-457-670-3085x1442",
+        "servicePhone": "800124691"
+    },
+    "birthday": "1984-09-04",
+    "ip": "3.69.159.108",
+    "foo": "bar",
+    "profile": {
+        "about": "Much talk eight number test score. Stay home method represent order people dog tree.\nWe wonder yes.\nLocal finally adult easy. Central discover use improve employee total.",
+        "bio": "Prove have able wait build. Choose television moment part understand matter cause.\nSell teach national national might interview future. Least whatever follow program."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
