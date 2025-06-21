@@ -1,0 +1,25 @@
+{
+    "name": "Steven Perez",
+    "age": 74,
+    "address": {
+        "street": "Jones Gardens",
+        "city": "Bradleyfurt",
+        "state": "Virginia",
+        "zip": "07937"
+    },
+    "contact": {
+        "phone": "001-795-696-7979",
+        "servicePhone": "800768603"
+    },
+    "birthday": "1951-14-09",
+    "ip": "175.124.103.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Phone government blood ability. None his result know.\nThey system garden own trade peace current. American fact among impact such still.\nTeacher imagine friend money. Deal set until green red.",
+        "bio": "Change rest run.\nAnything work than performance. Hear produce dinner. Property that Congress whole ahead.\nStay power poor charge begin. Remember response answer else knowledge."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
