@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Clements",
+    "age": 99,
+    "address": {
+        "street": "Bell Causeway",
+        "city": "Jasonburgh",
+        "state": "Missouri",
+        "zip": "42748"
+    },
+    "contact": {
+        "phone": "413-240-9351x3426",
+        "servicePhone": "800509823"
+    },
+    "birthday": "1926-28-03",
+    "ip": "162.113.220.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Set go new.\nDespite although area sound best investment anyone. Fall government morning resource. Field drive ability kid.",
+        "bio": "Threat drive such buy cultural. Cold teacher safe last cell important.\nWall citizen sport doctor. Deep week argue happen another."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
