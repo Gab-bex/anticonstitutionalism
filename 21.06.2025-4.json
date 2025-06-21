@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Myers",
+    "age": 67,
+    "address": {
+        "street": "Jennifer Junction",
+        "city": "Sandovaltown",
+        "state": "Ohio",
+        "zip": "03665"
+    },
+    "contact": {
+        "phone": "775-840-8331x4188",
+        "servicePhone": "800511706"
+    },
+    "birthday": "1958-02-11",
+    "ip": "66.142.200.132",
+    "foo": "bar",
+    "profile": {
+        "about": "Party capital say bill guess. Leave article forget attention deep source education discussion.\nArtist believe try manager. Fly wife modern recently. Should good operation court.",
+        "bio": "Wrong fine one able beyond all care. Hot great later stay project week. Fill something yeah reality ok whom though own. Later should upon.\nLong deal realize item different especially past."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
