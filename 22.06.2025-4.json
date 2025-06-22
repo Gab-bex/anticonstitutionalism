@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Shaw",
+    "age": 54,
+    "address": {
+        "street": "Jennifer Pass",
+        "city": "Port Kelseyland",
+        "state": "Rhode Island",
+        "zip": "28454"
+    },
+    "contact": {
+        "phone": "+1-837-365-7288x9681",
+        "servicePhone": "800913278"
+    },
+    "birthday": "1971-08-01",
+    "ip": "133.11.51.92",
+    "foo": "bar",
+    "profile": {
+        "about": "Despite daughter treat knowledge itself begin. Authority window seven discover second.",
+        "bio": "Since control song similar yes. Describe standard few mouth animal put.\nYard ever recently food town. Hot in soon suffer. Physical production current thing eye."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
