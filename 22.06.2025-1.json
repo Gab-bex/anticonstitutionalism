@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Young",
+    "age": 91,
+    "address": {
+        "street": "Matthew Fork",
+        "city": "South Ryan",
+        "state": "Idaho",
+        "zip": "21751"
+    },
+    "contact": {
+        "phone": "(417)955-1858x550",
+        "servicePhone": "800189438"
+    },
+    "birthday": "1934-01-07",
+    "ip": "81.79.188.172",
+    "foo": "bar",
+    "profile": {
+        "about": "Able policy foreign hold. Without organization address senior worry job join. Movement reveal offer finally course board out recent.",
+        "bio": "Serious bit capital study many. Similar film discover young get believe.\nStore would at laugh table speech center into. Tell certainly everything so."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
