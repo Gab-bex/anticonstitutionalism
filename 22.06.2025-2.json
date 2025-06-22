@@ -1,0 +1,25 @@
+{
+    "name": "Michael Hill",
+    "age": 12,
+    "address": {
+        "street": "Jordan Drives",
+        "city": "East Jesusside",
+        "state": "Washington",
+        "zip": "61912"
+    },
+    "contact": {
+        "phone": "250.815.1557x31933",
+        "servicePhone": "800873047"
+    },
+    "birthday": "2013-30-11",
+    "ip": "30.207.182.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Thus available early. Anything push our card. Too human fill.\nFather reason table summer then. She series charge character list.",
+        "bio": "Cell their surface catch. Ball state kid mouth that professor.\nBook run strategy different expert him. Success account up inside toward plant various financial."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
