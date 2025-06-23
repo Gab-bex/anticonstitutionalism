@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Petersen",
+    "age": 39,
+    "address": {
+        "street": "Walker Radial",
+        "city": "Robertsonburgh",
+        "state": "New Mexico",
+        "zip": "85169"
+    },
+    "contact": {
+        "phone": "+1-532-891-9409x78882",
+        "servicePhone": "800378499"
+    },
+    "birthday": "1986-15-02",
+    "ip": "191.224.150.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Design then late and not. Discuss little cold bed serve above put. Drive work expect.\nEye purpose perhaps good ago yard figure.",
+        "bio": "Relate particular however industry issue sometimes right his. Could land hard past. Significant visit possible project road."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
