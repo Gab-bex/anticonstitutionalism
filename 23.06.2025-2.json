@@ -1,0 +1,25 @@
+{
+    "name": "Marc Kaufman",
+    "age": 84,
+    "address": {
+        "street": "Brown Forge",
+        "city": "Alisonview",
+        "state": "Iowa",
+        "zip": "83201"
+    },
+    "contact": {
+        "phone": "3816469445",
+        "servicePhone": "800418910"
+    },
+    "birthday": "1941-16-02",
+    "ip": "188.105.231.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Congress leg staff lawyer where team. Like choice series suddenly.\nMovie get despite reveal. Top hear never instead score.",
+        "bio": "Impact shoulder why benefit.\nSeat sister evidence effort nice. Network father for.\nWhose difficult dog can popular rule his. Edge tell weight relationship find entire allow note."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
