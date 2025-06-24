@@ -1,0 +1,25 @@
+{
+    "name": "Philip James",
+    "age": 34,
+    "address": {
+        "street": "Martinez Centers",
+        "city": "Burnstown",
+        "state": "Rhode Island",
+        "zip": "71534"
+    },
+    "contact": {
+        "phone": "+1-847-926-6728",
+        "servicePhone": "800769400"
+    },
+    "birthday": "1991-05-03",
+    "ip": "68.28.220.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Very himself officer could pretty break.\nKid wait act more through technology fly nice. Magazine city certain two.\nCulture baby brother lawyer. Despite staff Republican attack difficult far.",
+        "bio": "Contain wife again major discover. Before popular whose foot top PM always soon. Cultural more appear agent vote. Be building same positive rate west market whose."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
