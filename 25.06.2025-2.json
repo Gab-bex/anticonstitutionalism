@@ -1,0 +1,25 @@
+{
+    "name": "Chloe Frank",
+    "age": 76,
+    "address": {
+        "street": "Mcmillan Trafficway",
+        "city": "Debbieside",
+        "state": "North Dakota",
+        "zip": "30500"
+    },
+    "contact": {
+        "phone": "001-348-647-6288",
+        "servicePhone": "800855400"
+    },
+    "birthday": "1949-17-03",
+    "ip": "41.94.186.252",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready authority discover role. Data improve address.\nDevelop value over television they book may. Hundred real arrive type start stage American.",
+        "bio": "Government data its visit.\nCause action himself more. Resource after data young condition listen. Message recently raise voice whom knowledge pick town."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
