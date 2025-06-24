@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Hicks",
+    "age": 24,
+    "address": {
+        "street": "Steven Port",
+        "city": "Jeffreyborough",
+        "state": "Connecticut",
+        "zip": "67990"
+    },
+    "contact": {
+        "phone": "(823)297-9782",
+        "servicePhone": "800045906"
+    },
+    "birthday": "2001-14-11",
+    "ip": "82.181.72.243",
+    "foo": "bar",
+    "profile": {
+        "about": "Shoulder word song may military. Arrive data themselves later.\nAlways bad how.\nEnter cup pass but suggest lay. Crime pattern stay. Agent plan worker event admit baby factor while. Western news bed.",
+        "bio": "Difference cultural wall represent place. Soon decide century along heart particular. Now single watch."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
