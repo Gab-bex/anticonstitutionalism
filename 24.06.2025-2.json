@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Lopez",
+    "age": 39,
+    "address": {
+        "street": "Ward Trail",
+        "city": "West Michaelstad",
+        "state": "Missouri",
+        "zip": "15800"
+    },
+    "contact": {
+        "phone": "842.775.6239x5491",
+        "servicePhone": "800250289"
+    },
+    "birthday": "1986-04-10",
+    "ip": "85.149.100.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe red degree star. Site remain owner item.\nSure majority simply. Music key identify degree only anyone manager develop. Marriage gun none herself happy.",
+        "bio": "Likely mention central feel. Father in popular process discussion pull. Seem reveal blood minute. Continue kitchen party."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
