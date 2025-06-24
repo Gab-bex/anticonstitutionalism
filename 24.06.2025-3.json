@@ -1,0 +1,25 @@
+{
+    "name": "James Wood",
+    "age": 4,
+    "address": {
+        "street": "Martin Ferry",
+        "city": "Blackburnhaven",
+        "state": "Wyoming",
+        "zip": "84495"
+    },
+    "contact": {
+        "phone": "274-762-3649x531",
+        "servicePhone": "800930644"
+    },
+    "birthday": "2021-19-12",
+    "ip": "66.220.126.96",
+    "foo": "bar",
+    "profile": {
+        "about": "This but produce road. Fly together meeting security goal. Above major wonder center.",
+        "bio": "Debate operation represent free performance. Level sport best resource. Bill road with interest young so."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
