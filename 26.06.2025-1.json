@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Daniel",
+    "age": 38,
+    "address": {
+        "street": "Sarah Stream",
+        "city": "Lake Maria",
+        "state": "Nebraska",
+        "zip": "00996"
+    },
+    "contact": {
+        "phone": "992.862.0082x403",
+        "servicePhone": "800448571"
+    },
+    "birthday": "1987-26-09",
+    "ip": "51.130.41.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Start paper food ability service value these. State party must.\nCard eye quite land. Hotel how follow Congress benefit painting power. Television almost really knowledge he arrive often.",
+        "bio": "Carry choose improve recent letter stand. Ball daughter firm bank benefit real kitchen.\nAttorney change ahead. South open voice base do.\nWhere sometimes each decade."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
