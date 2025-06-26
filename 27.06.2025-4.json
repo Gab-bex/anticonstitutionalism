@@ -1,0 +1,25 @@
+{
+    "name": "Anthony White",
+    "age": 59,
+    "address": {
+        "street": "Kristi Camp",
+        "city": "Heatherland",
+        "state": "New Mexico",
+        "zip": "13632"
+    },
+    "contact": {
+        "phone": "+1-378-418-6952",
+        "servicePhone": "800315746"
+    },
+    "birthday": "1966-23-08",
+    "ip": "22.85.176.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Form help myself wall. Season main tonight no. Field drive where.\nStrong mind girl debate big really. Beyond risk meeting condition because.",
+        "bio": "Significant heart get majority. Identify fast relate step unit idea story human.\nBlood investment work reveal. Clearly top site. Enter how southern western certain media blood."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
