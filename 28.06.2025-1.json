@@ -1,0 +1,25 @@
+{
+    "name": "Paul Thomas",
+    "age": 23,
+    "address": {
+        "street": "John Ridge",
+        "city": "Bradleymouth",
+        "state": "Minnesota",
+        "zip": "98222"
+    },
+    "contact": {
+        "phone": "310-941-6846",
+        "servicePhone": "800719249"
+    },
+    "birthday": "2002-18-09",
+    "ip": "142.154.127.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond important rate which.\nOfficer born fast especially plant. Fast each painting man seem growth page.\nBillion run population fall. Military claim teacher often success reveal nature.",
+        "bio": "Lose moment art represent fear center vote. Bill physical behavior this mother wall own add. On all simple none."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
