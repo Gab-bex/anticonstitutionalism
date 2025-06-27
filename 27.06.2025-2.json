@@ -1,0 +1,25 @@
+{
+    "name": "Andrew Smith",
+    "age": 61,
+    "address": {
+        "street": "Petersen Ways",
+        "city": "Justinborough",
+        "state": "Oklahoma",
+        "zip": "33261"
+    },
+    "contact": {
+        "phone": "476-340-5414",
+        "servicePhone": "800068329"
+    },
+    "birthday": "1964-06-06",
+    "ip": "19.254.53.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Response participant oil film manage. Them address majority become per summer. Hold material onto director we available a. Choice still star issue.",
+        "bio": "Have hot environmental need recognize information project. Such tax clearly everyone consider finish. Claim realize thing affect rather democratic skill."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
