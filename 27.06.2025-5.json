@@ -1,0 +1,25 @@
+{
+    "name": "Larry Blackwell",
+    "age": 68,
+    "address": {
+        "street": "Mccullough Springs",
+        "city": "Lake Robert",
+        "state": "Alabama",
+        "zip": "12892"
+    },
+    "contact": {
+        "phone": "(537)327-9022x401",
+        "servicePhone": "800618627"
+    },
+    "birthday": "1957-24-05",
+    "ip": "70.148.179.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal seek way set garden sing. Order civil clear try perhaps heavy let heart.\nHimself stop almost specific. Leg source have above.",
+        "bio": "Move nothing not away. Focus finally tend official wall daughter enjoy early.\nOver their record avoid just field whether. Everyone usually offer service."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
