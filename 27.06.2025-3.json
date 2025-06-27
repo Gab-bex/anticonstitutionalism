@@ -1,0 +1,25 @@
+{
+    "name": "Charles Browning",
+    "age": 17,
+    "address": {
+        "street": "Stephens Unions",
+        "city": "Petersonbury",
+        "state": "Kansas",
+        "zip": "39901"
+    },
+    "contact": {
+        "phone": "+1-600-699-2430x147",
+        "servicePhone": "800323655"
+    },
+    "birthday": "2008-08-02",
+    "ip": "2.220.20.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Center real culture. Nation should within us ever drug them. Us treat hard close.\nPage a country certainly make. Member keep receive join us. Heart financial state them.",
+        "bio": "Clearly house country someone quickly woman top. Carry hard them soldier. Number good recently rest standard itself.\nThese physical TV break bar. Stuff western dog front."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
