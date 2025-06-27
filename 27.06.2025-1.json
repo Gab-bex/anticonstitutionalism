@@ -1,0 +1,25 @@
+{
+    "name": "Xavier Sexton",
+    "age": 57,
+    "address": {
+        "street": "Benjamin Squares",
+        "city": "Lake Thomas",
+        "state": "Tennessee",
+        "zip": "81018"
+    },
+    "contact": {
+        "phone": "+1-493-923-9826x15010",
+        "servicePhone": "800491906"
+    },
+    "birthday": "1968-07-06",
+    "ip": "140.125.255.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Current it drive pay. Assume work raise then watch. Test require American ahead present travel.",
+        "bio": "Term wonder bag rate usually whether. Yourself role walk nor walk. Entire church budget story chance modern."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
