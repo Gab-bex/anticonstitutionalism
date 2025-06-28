@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Morgan",
+    "age": 67,
+    "address": {
+        "street": "Ann Course",
+        "city": "Johnsonmouth",
+        "state": "Montana",
+        "zip": "06074"
+    },
+    "contact": {
+        "phone": "625.967.6553",
+        "servicePhone": "800538234"
+    },
+    "birthday": "1958-04-05",
+    "ip": "66.64.74.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Task close drive peace cell consumer of. Point model choose apply daughter least. Far pay agreement.\nAgo standard art develop.",
+        "bio": "Continue take gun interesting. Realize important stay social call determine art. Yard tree artist method.\nSeek heavy could man spend nothing. Ok expert relationship bank deal start."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
