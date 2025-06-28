@@ -1,0 +1,25 @@
+{
+    "name": "Jamie Ford",
+    "age": 85,
+    "address": {
+        "street": "Carol Plain",
+        "city": "Trujilloshire",
+        "state": "Iowa",
+        "zip": "11777"
+    },
+    "contact": {
+        "phone": "001-614-942-9864x822",
+        "servicePhone": "800035926"
+    },
+    "birthday": "1940-13-03",
+    "ip": "83.71.105.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Produce happy simple Republican unit last. Eight protect week.\nWhen food manage former bill. See suggest behavior law perform data. May fine affect possible. Growth very lay region.",
+        "bio": "More though listen use reason rise allow. Special push carry election.\nBut almost her describe book. Worker argue according look. Itself popular win role tend future."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
