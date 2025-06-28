@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Kim",
+    "age": 25,
+    "address": {
+        "street": "Robertson Stravenue",
+        "city": "Justinhaven",
+        "state": "Oregon",
+        "zip": "33922"
+    },
+    "contact": {
+        "phone": "6708367556",
+        "servicePhone": "800882689"
+    },
+    "birthday": "2000-24-01",
+    "ip": "70.196.170.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Top yourself news art campaign. Behavior song save realize along. Coach customer idea dream record least meet news. Partner see citizen fish cut.",
+        "bio": "Start threat model between. Because church serve threat military. Party professional item.\nHigh represent probably hundred."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
