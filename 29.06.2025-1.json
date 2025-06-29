@@ -1,0 +1,25 @@
+{
+    "name": "Cheryl Washington",
+    "age": 107,
+    "address": {
+        "street": "Collins Club",
+        "city": "Williamfurt",
+        "state": "Alaska",
+        "zip": "12509"
+    },
+    "contact": {
+        "phone": "(944)578-3604x2893",
+        "servicePhone": "800670415"
+    },
+    "birthday": "1918-14-11",
+    "ip": "171.213.179.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry history front time. Against seven determine.",
+        "bio": "Rock cultural such value song case. Effect fine since glass wear support instead as. Tax wind more those meeting firm."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
