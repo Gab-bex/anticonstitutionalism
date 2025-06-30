@@ -1,0 +1,25 @@
+{
+    "name": "Carly Ward",
+    "age": 68,
+    "address": {
+        "street": "Beltran Lane",
+        "city": "Letown",
+        "state": "Alaska",
+        "zip": "25609"
+    },
+    "contact": {
+        "phone": "621.742.8783",
+        "servicePhone": "800343052"
+    },
+    "birthday": "1957-10-12",
+    "ip": "180.151.106.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Long color oil traditional. Bar understand test will culture establish car. Huge their say save.\nFirm television clearly. Their above data more.",
+        "bio": "Left teach that about compare. Usually different staff industry receive.\nNews can effort owner seven fact daughter. Model door manager key full likely young. Wish analysis group speak."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
