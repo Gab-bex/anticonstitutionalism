@@ -1,0 +1,25 @@
+{
+    "name": "Lori Turner",
+    "age": 87,
+    "address": {
+        "street": "Sara Valley",
+        "city": "Sherrifort",
+        "state": "New York",
+        "zip": "81466"
+    },
+    "contact": {
+        "phone": "363.742.1147x159",
+        "servicePhone": "800747884"
+    },
+    "birthday": "1938-23-03",
+    "ip": "149.64.27.157",
+    "foo": "bar",
+    "profile": {
+        "about": "Several field day itself main drop stay weight. Administration soon and example never. Analysis design work small people scientist.",
+        "bio": "Respond choose lay month order cause. Image tough last line condition behavior television.\nAccording stay citizen tax end daughter. Should trip quickly population ago above company."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
