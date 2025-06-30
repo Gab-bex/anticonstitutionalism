@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Martinez",
+    "age": 23,
+    "address": {
+        "street": "Susan Brooks",
+        "city": "East Stevenville",
+        "state": "Texas",
+        "zip": "17971"
+    },
+    "contact": {
+        "phone": "+1-880-683-3940x6522",
+        "servicePhone": "800041406"
+    },
+    "birthday": "2002-11-05",
+    "ip": "62.212.15.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Reveal affect product focus eight trial.\nFeeling art tonight position raise short feel during. Often include charge than.",
+        "bio": "Quality experience either physical. The free shake some within player. About you claim evening rich body significant."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
