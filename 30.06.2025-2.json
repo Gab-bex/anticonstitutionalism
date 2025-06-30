@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Walker",
+    "age": 33,
+    "address": {
+        "street": "David Passage",
+        "city": "East Cynthiatown",
+        "state": "New Mexico",
+        "zip": "96100"
+    },
+    "contact": {
+        "phone": "899-305-3109",
+        "servicePhone": "800583772"
+    },
+    "birthday": "1992-19-02",
+    "ip": "5.179.203.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Artist parent thank away movie. Full child window agree marriage. Data history movie hospital clear wife friend.",
+        "bio": "Why take modern significant back structure. Community remember tough image society finally.\nPower follow marriage small school like. Statement standard likely another word former place."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
