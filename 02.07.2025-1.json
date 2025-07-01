@@ -1,0 +1,25 @@
+{
+    "name": "Angela Romero",
+    "age": 0,
+    "address": {
+        "street": "Ramirez Dam",
+        "city": "Lake Gail",
+        "state": "South Carolina",
+        "zip": "75208"
+    },
+    "contact": {
+        "phone": "(791)787-2410x6986",
+        "servicePhone": "800113163"
+    },
+    "birthday": "2025-26-02",
+    "ip": "51.191.121.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Whether push beat gas production. Meeting ground authority seven loss goal. Door argue attorney. Health will protect loss free other speak.",
+        "bio": "Later discuss character there. Bar spend itself cut many responsibility.\nNetwork throw foot every. Today place single owner analysis position put."
+    },
+    "currency": [
+        "AUD",
+        "Australian dollar"
+    ]
+}
