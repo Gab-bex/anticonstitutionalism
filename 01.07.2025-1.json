@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Thornton",
+    "age": 47,
+    "address": {
+        "street": "Colon Club",
+        "city": "North Zacharyton",
+        "state": "Vermont",
+        "zip": "85434"
+    },
+    "contact": {
+        "phone": "(364)313-2574",
+        "servicePhone": "800688629"
+    },
+    "birthday": "1978-06-11",
+    "ip": "134.45.22.93",
+    "foo": "bar",
+    "profile": {
+        "about": "So but put edge. Big sit store hear tonight social nearly.\nSell floor wall fill house usually approach. Know in what of take. Pressure send capital land.",
+        "bio": "Subject each just newspaper growth may. Job here edge institution. Health good police deep hotel.\nColor our listen. Fill catch Democrat they everyone."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
