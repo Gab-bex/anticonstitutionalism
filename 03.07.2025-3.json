@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Simpson",
+    "age": 113,
+    "address": {
+        "street": "Cain Parkway",
+        "city": "Lake Ryan",
+        "state": "Washington",
+        "zip": "40671"
+    },
+    "contact": {
+        "phone": "001-320-942-5292x5422",
+        "servicePhone": "800911485"
+    },
+    "birthday": "1912-21-07",
+    "ip": "197.39.53.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Bar total continue.\nFederal determine summer. Realize whom firm why pattern though season visit.\nEdge out begin development. Wait not area seek add ahead.",
+        "bio": "Statement dinner else free full. Often management compare although everything. Note push increase network them."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
