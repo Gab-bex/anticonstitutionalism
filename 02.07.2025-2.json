@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Hutchinson",
+    "age": 24,
+    "address": {
+        "street": "Todd Avenue",
+        "city": "South Jeffrey",
+        "state": "Hawaii",
+        "zip": "57715"
+    },
+    "contact": {
+        "phone": "(916)495-5525x0245",
+        "servicePhone": "800542531"
+    },
+    "birthday": "2001-23-04",
+    "ip": "149.192.36.137",
+    "foo": "bar",
+    "profile": {
+        "about": "Explain left join whose TV executive rock. Her add per travel.\nRest answer provide sort success.\nCentral hotel boy specific public collection. Act discuss yet edge spring executive whom.",
+        "bio": "Scientist issue south small myself range. Want drop lead I policy school. Lawyer for debate."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
