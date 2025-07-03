@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Hunt",
+    "age": 84,
+    "address": {
+        "street": "Crystal Tunnel",
+        "city": "New Michael",
+        "state": "Iowa",
+        "zip": "53036"
+    },
+    "contact": {
+        "phone": "758.603.4957",
+        "servicePhone": "800593222"
+    },
+    "birthday": "1941-16-05",
+    "ip": "147.250.232.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Professional look suggest choose bit. Cup single cell relationship.\nThrough station enjoy final raise nor property.\nMatter marriage staff why tell. Movement cover explain. Majority or trip.",
+        "bio": "Authority indicate strategy control fast third hope. Describe happen different. Wide control time seem himself economy."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
