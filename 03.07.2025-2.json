@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Ruiz",
+    "age": 4,
+    "address": {
+        "street": "Garcia Pass",
+        "city": "Drakeborough",
+        "state": "Delaware",
+        "zip": "54781"
+    },
+    "contact": {
+        "phone": "954.314.2600x440",
+        "servicePhone": "800535413"
+    },
+    "birthday": "2021-10-08",
+    "ip": "30.13.35.191",
+    "foo": "bar",
+    "profile": {
+        "about": "Range away their road. Away set hope also space bag really.",
+        "bio": "Way site north study he. Significant general poor.\nMyself machine option single though garden enjoy. Hold method establish. May national point direction prepare."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
