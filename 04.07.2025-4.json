@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Gonzales",
+    "age": 71,
+    "address": {
+        "street": "Garcia Gateway",
+        "city": "West Cindystad",
+        "state": "Kansas",
+        "zip": "17210"
+    },
+    "contact": {
+        "phone": "+1-751-377-4426x24396",
+        "servicePhone": "800115333"
+    },
+    "birthday": "1954-18-11",
+    "ip": "111.253.6.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Program employee woman subject. Himself religious many family space since television.\nHowever north other set section sell. Class worker toward assume.",
+        "bio": "Clearly also fish sport arm hold year.\nDevelopment stop lose glass support yourself social. Step only say activity yet street."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
