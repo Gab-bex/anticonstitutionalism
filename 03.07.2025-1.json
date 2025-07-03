@@ -1,0 +1,25 @@
+{
+    "name": "Mary Fisher",
+    "age": 46,
+    "address": {
+        "street": "Jonathan Forges",
+        "city": "Josephside",
+        "state": "Idaho",
+        "zip": "97427"
+    },
+    "contact": {
+        "phone": "265-396-0872x8665",
+        "servicePhone": "800965587"
+    },
+    "birthday": "1979-05-08",
+    "ip": "35.10.142.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Half practice able near heart win reduce. Very leader rich since surface stock size. Include find character federal car card.",
+        "bio": "History top staff PM action ten. Within agreement national whole success able theory. Physical many decision.\nModel radio wish child allow. Deep drive consumer lawyer project."
+    },
+    "currency": [
+        "ILS",
+        "Israeli new shekel"
+    ]
+}
