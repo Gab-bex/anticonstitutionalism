@@ -1,0 +1,25 @@
+{
+    "name": "Brenda King",
+    "age": 7,
+    "address": {
+        "street": "Perry Branch",
+        "city": "Jamesmouth",
+        "state": "Arizona",
+        "zip": "40857"
+    },
+    "contact": {
+        "phone": "445-332-8245",
+        "servicePhone": "800366608"
+    },
+    "birthday": "2018-23-06",
+    "ip": "193.162.49.213",
+    "foo": "bar",
+    "profile": {
+        "about": "Air their however civil skill three history. At land to another from us among.\nCommon her teacher democratic certain anything. Card memory not identify enjoy.",
+        "bio": "Debate occur industry morning than. Almost bring simple ever office. Player high be talk what."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
