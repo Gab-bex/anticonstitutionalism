@@ -1,0 +1,25 @@
+{
+    "name": "Micheal Baker",
+    "age": 81,
+    "address": {
+        "street": "Pamela Harbors",
+        "city": "Lake Felicia",
+        "state": "Kentucky",
+        "zip": "51333"
+    },
+    "contact": {
+        "phone": "(473)992-7545x70362",
+        "servicePhone": "800665220"
+    },
+    "birthday": "1944-02-02",
+    "ip": "170.83.196.153",
+    "foo": "bar",
+    "profile": {
+        "about": "Mean list field these least foreign. Another cause town account head deal keep.\nDrop themselves really half. Suddenly record bring attorney cell.",
+        "bio": "Deep get discussion. Choice message water home.\nTake media drop quickly develop mention that. History some thought raise order main. Dark hundred want operation team beat. Moment wait support in."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
