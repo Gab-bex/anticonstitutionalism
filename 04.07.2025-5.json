@@ -1,0 +1,25 @@
+{
+    "name": "Megan Williamson",
+    "age": 99,
+    "address": {
+        "street": "John Ramp",
+        "city": "Johnsonbury",
+        "state": "Florida",
+        "zip": "50948"
+    },
+    "contact": {
+        "phone": "+1-909-449-1618x15729",
+        "servicePhone": "800150853"
+    },
+    "birthday": "1926-06-10",
+    "ip": "132.30.252.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Around success benefit well. Middle agree tend like audience mean follow. Technology enter whole everyone others a.",
+        "bio": "Poor item property even evidence behind.\nPast maintain television whether live. Spend huge real cut time discussion. Quite audience type."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
