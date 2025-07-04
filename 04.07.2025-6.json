@@ -1,0 +1,25 @@
+{
+    "name": "Tiffany Hansen",
+    "age": 52,
+    "address": {
+        "street": "Farley Fords",
+        "city": "East Roberto",
+        "state": "Alaska",
+        "zip": "50321"
+    },
+    "contact": {
+        "phone": "+1-583-654-3629x584",
+        "servicePhone": "800480181"
+    },
+    "birthday": "1973-27-03",
+    "ip": "63.246.76.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution his heart hospital. Question thought financial police far almost. Will cell board woman significant trip which.",
+        "bio": "Build doctor your happy message. Under quality direction fact middle."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
