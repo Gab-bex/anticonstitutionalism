@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Alvarado",
+    "age": 17,
+    "address": {
+        "street": "Brian Parkways",
+        "city": "Anthonyside",
+        "state": "Kentucky",
+        "zip": "22559"
+    },
+    "contact": {
+        "phone": "865-257-6447x64409",
+        "servicePhone": "800314891"
+    },
+    "birthday": "2008-15-03",
+    "ip": "76.62.152.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Food religious happen science. Probably career general town. Election city beautiful right body scientist. Whole think society wait front team add career.",
+        "bio": "Church American at public focus. Role ask range suffer economy. Senior low human join food.\nBeat majority break camera tax party. Room agree nor line establish thousand."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
