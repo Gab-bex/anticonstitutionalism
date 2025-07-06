@@ -1,0 +1,25 @@
+{
+    "name": "Steve Anderson",
+    "age": 84,
+    "address": {
+        "street": "Travis Cove",
+        "city": "Edwardsbury",
+        "state": "Louisiana",
+        "zip": "87214"
+    },
+    "contact": {
+        "phone": "+1-247-945-6621x4618",
+        "servicePhone": "800148639"
+    },
+    "birthday": "1941-14-05",
+    "ip": "128.232.2.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Her low knowledge to response far.\nLay center federal safe despite. Ask white sport firm. Support knowledge out enough kind.",
+        "bio": "Single quite voice live. Reveal course must across tax than few."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
