@@ -1,0 +1,25 @@
+{
+    "name": "Karla Cummings",
+    "age": 6,
+    "address": {
+        "street": "James Union",
+        "city": "Michelleton",
+        "state": "North Dakota",
+        "zip": "64104"
+    },
+    "contact": {
+        "phone": "716-658-7830x5986",
+        "servicePhone": "800048352"
+    },
+    "birthday": "2019-28-05",
+    "ip": "41.75.241.237",
+    "foo": "bar",
+    "profile": {
+        "about": "Executive economy lose plan business meet. Analysis fast teach get area positive. Culture summer evening.",
+        "bio": "Measure view military create including job. Prepare guy significant other like PM tell year. Vote factor social project attack."
+    },
+    "currency": [
+        "IQD",
+        "Iraqi dinar"
+    ]
+}
