@@ -1,0 +1,25 @@
+{
+    "name": "Mark Meyer",
+    "age": 47,
+    "address": {
+        "street": "Parsons Cliffs",
+        "city": "South Stevenville",
+        "state": "Maine",
+        "zip": "30290"
+    },
+    "contact": {
+        "phone": "381.245.0210x9892",
+        "servicePhone": "800731392"
+    },
+    "birthday": "1978-26-07",
+    "ip": "173.48.11.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Contain star act tax. Them certain seat financial station president. Soon follow beyond respond leave single board.",
+        "bio": "Result rest front music sort. Money receive network mission international parent. Follow every man player always option.\nGeneral instead or seven so exactly. Arrive read oil."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
