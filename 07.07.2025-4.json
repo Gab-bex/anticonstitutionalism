@@ -1,0 +1,25 @@
+{
+    "name": "Sharon Smith",
+    "age": 24,
+    "address": {
+        "street": "Amanda Field",
+        "city": "Lake Barryburgh",
+        "state": "Arkansas",
+        "zip": "13708"
+    },
+    "contact": {
+        "phone": "001-300-858-2549x2096",
+        "servicePhone": "800330150"
+    },
+    "birthday": "2001-22-07",
+    "ip": "146.243.63.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole face ago size among. Simply necessary step able look. Garden bar big generation high.\nSuddenly deal your history.",
+        "bio": "Personal season finally.\nAs manager write beat ability kind end none. Anything half condition soldier close door. Health wear member wall behavior Republican movement."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
