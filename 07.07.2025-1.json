@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Williams",
+    "age": 66,
+    "address": {
+        "street": "Best Lakes",
+        "city": "Fritzport",
+        "state": "Montana",
+        "zip": "67601"
+    },
+    "contact": {
+        "phone": "(439)679-1966x5323",
+        "servicePhone": "800373391"
+    },
+    "birthday": "1959-03-10",
+    "ip": "128.152.139.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Sit economic become feel tell decision finally. Expect society recognize would avoid.\nBorn card figure enough single. Leave still employee family do environment individual nothing.",
+        "bio": "Year only myself happen drop keep. Artist heavy describe. Fire fund public occur.\nEnd memory history important. Goal account card language. Factor attorney boy state lot space writer."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
