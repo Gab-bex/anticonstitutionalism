@@ -1,0 +1,25 @@
+{
+    "name": "Charles Case Jr.",
+    "age": 64,
+    "address": {
+        "street": "Buckley Cliff",
+        "city": "Lake Lauren",
+        "state": "Michigan",
+        "zip": "74453"
+    },
+    "contact": {
+        "phone": "573-760-0656x411",
+        "servicePhone": "800639782"
+    },
+    "birthday": "1961-19-05",
+    "ip": "221.17.43.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Act again official Democrat wait seat material. Poor teacher herself father floor tax true.\nHere your way class behind pass. Stand house reduce together.",
+        "bio": "Old upon concern mission agency executive Democrat. Against two visit computer. Thus movement both black."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
