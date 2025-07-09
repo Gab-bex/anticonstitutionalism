@@ -1,0 +1,25 @@
+{
+    "name": "Joel Lang",
+    "age": 15,
+    "address": {
+        "street": "Daniel Haven",
+        "city": "South Geraldland",
+        "state": "Montana",
+        "zip": "28233"
+    },
+    "contact": {
+        "phone": "(446)723-6795",
+        "servicePhone": "800003313"
+    },
+    "birthday": "2010-20-08",
+    "ip": "25.205.177.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Child also rich later start eye kid drive. Mouth character Congress step suffer. Because respond account generation cover company.",
+        "bio": "Onto system size wall place. Seven station money.\nSay him mouth individual eight boy it yes. Newspaper happy condition mind apply."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
