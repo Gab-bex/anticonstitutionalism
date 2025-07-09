@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Clements",
+    "age": 53,
+    "address": {
+        "street": "Wilson Stream",
+        "city": "North William",
+        "state": "Utah",
+        "zip": "61287"
+    },
+    "contact": {
+        "phone": "346.327.3984",
+        "servicePhone": "800677163"
+    },
+    "birthday": "1972-30-10",
+    "ip": "72.121.242.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Worry control level. Business father middle stop pull exactly serious. Kind build war owner red data life quite.",
+        "bio": "War can really wall behind cover. Sure example physical travel party.\nSocial why support measure. Order hot attorney yes cut. Late enjoy evidence.\nThrow court position center cell."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
