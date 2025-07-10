@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Smith",
+    "age": 56,
+    "address": {
+        "street": "Dakota Lakes",
+        "city": "Stephanieview",
+        "state": "Nevada",
+        "zip": "00954"
+    },
+    "contact": {
+        "phone": "776.697.7564x1078",
+        "servicePhone": "800598514"
+    },
+    "birthday": "1969-19-03",
+    "ip": "223.27.254.178",
+    "foo": "bar",
+    "profile": {
+        "about": "To as ball explain home skin remain. Wait me miss radio ahead heart.",
+        "bio": "Approach so land.\nMarriage type success allow. Say believe certain modern manage. Value threat read ahead realize mission necessary.\nStep wonder seven player. Expert girl door try consumer."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
