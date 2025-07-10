@@ -1,0 +1,25 @@
+{
+    "name": "Steven Williams",
+    "age": 114,
+    "address": {
+        "street": "Johnny Dam",
+        "city": "East Stephanie",
+        "state": "New Mexico",
+        "zip": "96491"
+    },
+    "contact": {
+        "phone": "001-620-516-2781x889",
+        "servicePhone": "800079533"
+    },
+    "birthday": "1911-22-10",
+    "ip": "134.220.200.25",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer deal able Congress eat rather. Million financial policy mention similar year end. Doctor what necessary fall hand score place.",
+        "bio": "Discover main TV run ok sound.\nFollow range practice might market play. Vote current however PM may lead reflect you.\nMaterial concern unit mother make say seat."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
