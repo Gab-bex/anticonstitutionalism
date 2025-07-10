@@ -1,0 +1,25 @@
+{
+    "name": "Emily Griffin",
+    "age": 87,
+    "address": {
+        "street": "Madden Burgs",
+        "city": "Bowenhaven",
+        "state": "Alaska",
+        "zip": "88018"
+    },
+    "contact": {
+        "phone": "955-215-4912x703",
+        "servicePhone": "800013053"
+    },
+    "birthday": "1938-03-10",
+    "ip": "145.8.68.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Forward work leg capital. Certain property represent oil feel. Glass they letter cost source.\nMight senior fund heavy war speak determine. Body try ten whom lead. Special build because win finally.",
+        "bio": "Society window yes size deal phone yeah. Effort along across near get put. Garden region market himself southern.\nSize national response much. There store everybody why back."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
