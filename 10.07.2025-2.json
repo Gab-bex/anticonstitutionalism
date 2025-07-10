@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Green",
+    "age": 105,
+    "address": {
+        "street": "Garcia Squares",
+        "city": "Port Nicoleville",
+        "state": "Connecticut",
+        "zip": "04746"
+    },
+    "contact": {
+        "phone": "3413153001",
+        "servicePhone": "800459995"
+    },
+    "birthday": "1920-16-01",
+    "ip": "99.52.210.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Learn my condition raise. Off know will husband consumer look. None parent people short. Different term reduce defense then add hospital.",
+        "bio": "Month group best pressure knowledge. Share sister forget throughout for politics on full.\nCall skin though according. Agent bag media. Per work compare top generation everybody."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
