@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Torres",
+    "age": 46,
+    "address": {
+        "street": "Wilson Mountains",
+        "city": "Chadberg",
+        "state": "North Dakota",
+        "zip": "99414"
+    },
+    "contact": {
+        "phone": "001-505-544-8840x638",
+        "servicePhone": "800640970"
+    },
+    "birthday": "1979-18-03",
+    "ip": "52.235.114.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Impact seat enjoy mean natural home notice. Both question if cell health day marriage.",
+        "bio": "Person discover give simply lawyer foreign. After pretty special home little as.\nLarge worker wonder ability four."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
