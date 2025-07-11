@@ -1,0 +1,25 @@
+{
+    "name": "Michael Decker",
+    "age": 66,
+    "address": {
+        "street": "Melissa Road",
+        "city": "Walshville",
+        "state": "Minnesota",
+        "zip": "66949"
+    },
+    "contact": {
+        "phone": "360.201.9817x8268",
+        "servicePhone": "800821783"
+    },
+    "birthday": "1959-28-12",
+    "ip": "23.209.164.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Figure find suggest open skill sense. Among seven tonight capital project red hour happen.\nNext result to power eat respond. Consider beat week. Century central option Democrat.",
+        "bio": "Station both environment yourself perhaps business no upon. Store phone economic prepare field market. Woman every draw identify allow.\nNice choose kitchen rather exist. Give list your manage."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
