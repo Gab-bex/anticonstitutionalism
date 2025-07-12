@@ -1,0 +1,25 @@
+{
+    "name": "Michael Anderson",
+    "age": 56,
+    "address": {
+        "street": "Devin Mission",
+        "city": "North Sandra",
+        "state": "Wisconsin",
+        "zip": "27138"
+    },
+    "contact": {
+        "phone": "001-904-237-4577x59373",
+        "servicePhone": "800192559"
+    },
+    "birthday": "1969-03-04",
+    "ip": "150.164.2.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Military catch from adult serve make class. Agent charge happen spring business religious.\nAny check sense. Up style out lead accept heavy leg.",
+        "bio": "Kitchen day middle good major ground perform statement. Effort magazine town nation conference.\nExperience then ability report. Defense serve direction girl southern."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
