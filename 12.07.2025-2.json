@@ -1,0 +1,25 @@
+{
+    "name": "Michelle Vargas",
+    "age": 79,
+    "address": {
+        "street": "Freeman Crossroad",
+        "city": "Vegaside",
+        "state": "Iowa",
+        "zip": "56518"
+    },
+    "contact": {
+        "phone": "430.919.1910x55379",
+        "servicePhone": "800182148"
+    },
+    "birthday": "1946-23-09",
+    "ip": "178.119.251.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Way nearly side article boy player. Art raise risk training. Though official fear floor produce.",
+        "bio": "Instead surface administration time. Send central deal particular anything floor step. Project door again kind."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
