@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mathis",
+    "age": 99,
+    "address": {
+        "street": "Green Rapid",
+        "city": "New Christopherton",
+        "state": "Michigan",
+        "zip": "59821"
+    },
+    "contact": {
+        "phone": "001-948-734-7141x159",
+        "servicePhone": "800961487"
+    },
+    "birthday": "1926-02-03",
+    "ip": "136.210.49.87",
+    "foo": "bar",
+    "profile": {
+        "about": "Collection explain hospital like federal key eight. Beyond someone image result. Mention between sort computer across.",
+        "bio": "Dream wrong free should hospital attack mean. Eight catch old part.\nPolitical movement service cultural as course name."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
