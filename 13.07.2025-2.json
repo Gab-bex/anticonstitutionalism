@@ -1,0 +1,25 @@
+{
+    "name": "Derrick Dawson",
+    "age": 6,
+    "address": {
+        "street": "Samuel Springs",
+        "city": "Smithshire",
+        "state": "Montana",
+        "zip": "00631"
+    },
+    "contact": {
+        "phone": "521-249-7845",
+        "servicePhone": "800481620"
+    },
+    "birthday": "2019-20-09",
+    "ip": "186.59.238.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Across both read better bill. Condition question energy usually.\nBook chair beyond interest consumer. Whom wind develop even push. Likely rather current well.",
+        "bio": "Office decision market agency enough strong relate remember. Civil adult probably news right. Point son across arrive picture human. Itself attention customer key food article ok."
+    },
+    "currency": [
+        "MDL",
+        "Moldovan leu"
+    ]
+}
