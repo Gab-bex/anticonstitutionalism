@@ -1,0 +1,25 @@
+{
+    "name": "Benjamin Walker",
+    "age": 53,
+    "address": {
+        "street": "Miller Meadow",
+        "city": "Coryton",
+        "state": "Alaska",
+        "zip": "41871"
+    },
+    "contact": {
+        "phone": "566-735-0529",
+        "servicePhone": "800058354"
+    },
+    "birthday": "1972-26-11",
+    "ip": "183.181.169.229",
+    "foo": "bar",
+    "profile": {
+        "about": "Mr east quickly know really. Still art lead PM town beat.\nFederal mission degree enjoy stuff more. Direction before debate bank.",
+        "bio": "Daughter enjoy try near serve. Leg piece finish. Either name star grow necessary.\nOk wonder table someone. Realize issue point like weight official. Decision long challenge charge image."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
