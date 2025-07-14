@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Watson",
+    "age": 19,
+    "address": {
+        "street": "Baker Groves",
+        "city": "Lake Leonard",
+        "state": "Idaho",
+        "zip": "45677"
+    },
+    "contact": {
+        "phone": "+1-648-829-3478x18643",
+        "servicePhone": "800253495"
+    },
+    "birthday": "2006-12-09",
+    "ip": "144.69.231.171",
+    "foo": "bar",
+    "profile": {
+        "about": "Show statement responsibility crime. Cultural instead box truth. Wish word give check arm every team. Suggest religious provide as seek instead top finally.",
+        "bio": "Art law instead hour word. Which born kind account important research more.\nRole serious without foreign town at. Other moment statement sit court similar."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
