@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Thomas",
+    "age": 99,
+    "address": {
+        "street": "Robinson Ramp",
+        "city": "Elizabethfurt",
+        "state": "Massachusetts",
+        "zip": "49700"
+    },
+    "contact": {
+        "phone": "(334)520-1910",
+        "servicePhone": "800688673"
+    },
+    "birthday": "1926-10-10",
+    "ip": "83.73.205.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Team collection blood. Official machine land use after whole series city. Economy discussion government lawyer pick score.\nReflect popular already cut. Trip federal just region.",
+        "bio": "Forget tough however arm child. Only turn piece site pressure. Democrat word conference.\nSuccessful everyone person network. Fire chair Mrs modern nature fine."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
