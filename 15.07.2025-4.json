@@ -1,0 +1,25 @@
+{
+    "name": "Andre Manning",
+    "age": 97,
+    "address": {
+        "street": "Theresa Village",
+        "city": "Mirandahaven",
+        "state": "Connecticut",
+        "zip": "28183"
+    },
+    "contact": {
+        "phone": "001-418-920-1021x19613",
+        "servicePhone": "800953898"
+    },
+    "birthday": "1928-26-02",
+    "ip": "215.227.121.199",
+    "foo": "bar",
+    "profile": {
+        "about": "Actually us interest economic. Year age experience way.\nKey huge each item. Part none better.\nCell six goal save. Use so them identify see choose fact cell.",
+        "bio": "Throughout pretty there action news. Worker eye describe young.\nStep guy yet impact theory my deal. Company standard conference watch or prevent much. Think sit entire peace seven sell although race."
+    },
+    "currency": [
+        "ANG",
+        "Netherlands Antillean guilder"
+    ]
+}
