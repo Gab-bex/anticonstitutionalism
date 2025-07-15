@@ -1,0 +1,25 @@
+{
+    "name": "Michael Smith",
+    "age": 4,
+    "address": {
+        "street": "Olson Freeway",
+        "city": "Markton",
+        "state": "Washington",
+        "zip": "79780"
+    },
+    "contact": {
+        "phone": "661-630-5434x80114",
+        "servicePhone": "800354522"
+    },
+    "birthday": "2021-07-09",
+    "ip": "134.213.113.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Against prevent ahead community common. Find wonder station trip president would happen.\nHeavy give customer friend class. Only western return professional voice share media.",
+        "bio": "Administration table cup heart window notice cup. Air leader sing claim everything half. Mother local serious mean deal rather until."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
