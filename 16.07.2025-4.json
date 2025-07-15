@@ -1,0 +1,25 @@
+{
+    "name": "Katie Yates",
+    "age": 78,
+    "address": {
+        "street": "Harris Loop",
+        "city": "Lake Adam",
+        "state": "Tennessee",
+        "zip": "21251"
+    },
+    "contact": {
+        "phone": "001-685-771-7072x800",
+        "servicePhone": "800493393"
+    },
+    "birthday": "1947-21-11",
+    "ip": "11.7.118.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent message decade source true build cold without. Single well plan ok identify. Cover stage movie.",
+        "bio": "Director while stock pay either call position pressure. Response there inside something.\nOnto soon training behind. Teacher list impact lose."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
