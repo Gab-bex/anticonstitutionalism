@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Watson",
+    "age": 46,
+    "address": {
+        "street": "Kevin Pike",
+        "city": "New Katie",
+        "state": "Connecticut",
+        "zip": "33659"
+    },
+    "contact": {
+        "phone": "001-741-866-5559",
+        "servicePhone": "800378509"
+    },
+    "birthday": "1979-18-12",
+    "ip": "119.189.114.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Water develop visit seven year husband social piece. Why carry themselves response sing. School woman shake note Democrat.",
+        "bio": "Its chance guy year apply capital international. Major pass young yes."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
