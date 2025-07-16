@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Frazier",
+    "age": 89,
+    "address": {
+        "street": "Randy Avenue",
+        "city": "Bullockton",
+        "state": "Hawaii",
+        "zip": "82780"
+    },
+    "contact": {
+        "phone": "001-422-631-7768x166",
+        "servicePhone": "800570810"
+    },
+    "birthday": "1936-02-10",
+    "ip": "120.207.21.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Floor money image worker safe pretty section. Democrat class realize our. Here involve radio reach.",
+        "bio": "Local who individual where involve growth level course.\nForm study phone real carry. Region anyone prepare building plant marriage once. Go rock protect admit."
+    },
+    "currency": [
+        "LBP",
+        "Lebanese pound"
+    ]
+}
