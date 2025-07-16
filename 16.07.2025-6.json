@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Rose",
+    "age": 80,
+    "address": {
+        "street": "Curry Mount",
+        "city": "Davisbury",
+        "state": "Delaware",
+        "zip": "87888"
+    },
+    "contact": {
+        "phone": "(387)652-7108x617",
+        "servicePhone": "800112484"
+    },
+    "birthday": "1945-15-11",
+    "ip": "144.142.35.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Company lawyer scene pretty rate his about.\nCatch rule west space enter guy amount toward. Hand half between spring explain entire argue to.",
+        "bio": "Standard large never health thousand point. There keep air mother. Similar time involve many future memory."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
