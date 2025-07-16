@@ -1,0 +1,25 @@
+{
+    "name": "Clayton Carter",
+    "age": 48,
+    "address": {
+        "street": "Bennett Wall",
+        "city": "Lake Danielmouth",
+        "state": "Oklahoma",
+        "zip": "08846"
+    },
+    "contact": {
+        "phone": "503.306.6537",
+        "servicePhone": "800468321"
+    },
+    "birthday": "1977-16-04",
+    "ip": "60.160.61.225",
+    "foo": "bar",
+    "profile": {
+        "about": "Nothing size leader. Star start practice quickly church single sense.\nTax task everybody significant school. Consumer put music become PM place. Might eat large close strong. Hit then poor might.",
+        "bio": "Receive fine method while positive project bar office. Compare eat appear base war force. Report politics both back.\nAbility in surface international matter effect rise I. While market go try."
+    },
+    "currency": [
+        "SZL",
+        "Swazi lilangeni"
+    ]
+}
