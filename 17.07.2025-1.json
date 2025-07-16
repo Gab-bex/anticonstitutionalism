@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Campbell",
+    "age": 115,
+    "address": {
+        "street": "Joseph Cliffs",
+        "city": "South Lisa",
+        "state": "Massachusetts",
+        "zip": "48025"
+    },
+    "contact": {
+        "phone": "(361)413-4991x861",
+        "servicePhone": "800374593"
+    },
+    "birthday": "1910-25-05",
+    "ip": "220.133.229.51",
+    "foo": "bar",
+    "profile": {
+        "about": "Lawyer hand forget recently. Knowledge simple new apply. Until mother large best school reduce country.\nEver state church wall traditional fact. Mrs parent analysis adult technology.",
+        "bio": "Reach audience often small hard early dinner. Hot wife name lot apply. Likely large key expert ahead."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
