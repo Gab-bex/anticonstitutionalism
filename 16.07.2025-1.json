@@ -1,0 +1,25 @@
+{
+    "name": "Laura Pineda",
+    "age": 41,
+    "address": {
+        "street": "Nguyen Brooks",
+        "city": "North Ryantown",
+        "state": "Washington",
+        "zip": "39269"
+    },
+    "contact": {
+        "phone": "766.275.9642",
+        "servicePhone": "800023165"
+    },
+    "birthday": "1984-26-03",
+    "ip": "11.142.54.121",
+    "foo": "bar",
+    "profile": {
+        "about": "Energy series forward cut expert. Plant thought ask.\nWrite house better try radio production. Skill pressure education company thank.\nNational not soldier. Happy a itself value possible.",
+        "bio": "Finally parent yourself ready. Young hit about say population. Team price walk lead career.\nThe study along trade. Color poor half. Main meet deal."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
