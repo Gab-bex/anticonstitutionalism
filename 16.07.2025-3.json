@@ -1,0 +1,25 @@
+{
+    "name": "William Acosta",
+    "age": 14,
+    "address": {
+        "street": "Fitzgerald Gardens",
+        "city": "New Marc",
+        "state": "Rhode Island",
+        "zip": "04813"
+    },
+    "contact": {
+        "phone": "+1-839-496-4753x5529",
+        "servicePhone": "800430704"
+    },
+    "birthday": "2011-09-11",
+    "ip": "5.14.47.34",
+    "foo": "bar",
+    "profile": {
+        "about": "Reason minute another tax rate whose imagine. System production matter forward. Care if itself show.\nFeeling similar manage often start media. Threat blood institution what state much those radio.",
+        "bio": "Thank number support memory. Matter increase box worry kitchen. National when management."
+    },
+    "currency": [
+        "AFN",
+        "Afghan afghani"
+    ]
+}
