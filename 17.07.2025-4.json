@@ -1,0 +1,25 @@
+{
+    "name": "Tyler Harris MD",
+    "age": 112,
+    "address": {
+        "street": "Kayla Corner",
+        "city": "Lake Kimberlyport",
+        "state": "Arizona",
+        "zip": "86963"
+    },
+    "contact": {
+        "phone": "001-759-206-7136x075",
+        "servicePhone": "800857149"
+    },
+    "birthday": "1913-28-02",
+    "ip": "193.28.121.1",
+    "foo": "bar",
+    "profile": {
+        "about": "Else street car oil.\nLand performance book head station floor. Education challenge spring. Reduce score face interesting receive claim affect.",
+        "bio": "North range well tend. Table likely thing me suffer increase.\nWoman little senior single in see interesting. Exist medical society order budget. Compare positive generation."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
