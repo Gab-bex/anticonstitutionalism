@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Hernandez",
+    "age": 98,
+    "address": {
+        "street": "Kenneth Knolls",
+        "city": "Pittmanshire",
+        "state": "California",
+        "zip": "47979"
+    },
+    "contact": {
+        "phone": "+1-645-351-8984x928",
+        "servicePhone": "800895526"
+    },
+    "birthday": "1927-20-05",
+    "ip": "219.98.21.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Throw environmental letter they scientist specific. Garden provide other identify often.",
+        "bio": "Conference guy happen turn candidate first role pattern. Affect authority development voice. Wind build argue white budget."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
