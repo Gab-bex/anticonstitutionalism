@@ -1,0 +1,25 @@
+{
+    "name": "Richard Phelps",
+    "age": 86,
+    "address": {
+        "street": "Pham Forks",
+        "city": "New Kristine",
+        "state": "New Mexico",
+        "zip": "03982"
+    },
+    "contact": {
+        "phone": "475-563-3656",
+        "servicePhone": "800559606"
+    },
+    "birthday": "1939-03-08",
+    "ip": "110.149.8.242",
+    "foo": "bar",
+    "profile": {
+        "about": "Assume wall event good dark from. Moment nor consider.\nChance scientist either situation moment result baby. Clearly true investment tend. Far strategy meet hospital administration.",
+        "bio": "Movie majority control talk finally account. You wall property stop candidate choose. Spend camera under outside rock."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
