@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Atkins",
+    "age": 18,
+    "address": {
+        "street": "Blake Center",
+        "city": "Anthonytown",
+        "state": "Washington",
+        "zip": "21239"
+    },
+    "contact": {
+        "phone": "001-221-282-5141x341",
+        "servicePhone": "800478387"
+    },
+    "birthday": "2007-10-02",
+    "ip": "126.187.70.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy result boy movement pick. At investment show energy station indicate.\nKnow meet rate just quality. Stuff general garden former card fast pretty. Bag teach family rise.",
+        "bio": "Nation position create or heart race join. Else social city pick kind magazine.\nTraining government phone let. Its ask summer plan born. Despite by school cold member whatever."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
