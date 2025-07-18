@@ -1,0 +1,25 @@
+{
+    "name": "Sean Johnson",
+    "age": 85,
+    "address": {
+        "street": "Robinson Flats",
+        "city": "Hamptonfort",
+        "state": "North Dakota",
+        "zip": "00581"
+    },
+    "contact": {
+        "phone": "7772227030",
+        "servicePhone": "800942803"
+    },
+    "birthday": "1940-25-04",
+    "ip": "201.38.192.201",
+    "foo": "bar",
+    "profile": {
+        "about": "Owner many ago article compare. Herself campaign anyone floor then west.\nBe conference upon become brother person. Region serve to future themselves. Her subject avoid high rich shake.",
+        "bio": "Call tax mean hour plant. Just report see attorney final body possible. Catch able quite value for.\nDefense throughout son position administration main save."
+    },
+    "currency": [
+        "AOA",
+        "Angolan kwanza"
+    ]
+}
