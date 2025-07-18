@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Harris DDS",
+    "age": 9,
+    "address": {
+        "street": "Clay Roads",
+        "city": "Hudsonview",
+        "state": "Louisiana",
+        "zip": "49029"
+    },
+    "contact": {
+        "phone": "313.589.5223x036",
+        "servicePhone": "800631942"
+    },
+    "birthday": "2016-08-04",
+    "ip": "28.133.29.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental modern ahead. Turn office arm value view. Arm clearly service also day here not north.",
+        "bio": "Me exactly offer better ago. Tell argue evidence.\nJob future line. Claim woman with fill. Part area wind clearly.\nThan able society share design office. Available particular bar."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
