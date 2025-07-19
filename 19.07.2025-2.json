@@ -1,0 +1,25 @@
+{
+    "name": "Nicole Thomas",
+    "age": 91,
+    "address": {
+        "street": "Velasquez Station",
+        "city": "Lake Angelamouth",
+        "state": "Rhode Island",
+        "zip": "69692"
+    },
+    "contact": {
+        "phone": "508.581.4917",
+        "servicePhone": "800931314"
+    },
+    "birthday": "1934-20-02",
+    "ip": "98.212.235.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Let director fund investment my threat. Position single TV push crime.\nVisit decide task visit education radio. Them economic find baby she over before.",
+        "bio": "Sit policy stage teacher once win. Top mouth their stock spend baby ready.\nHuge language able stay three. Apply music system star film picture."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
