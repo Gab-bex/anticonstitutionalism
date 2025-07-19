@@ -1,0 +1,25 @@
+{
+    "name": "Eric Cook",
+    "age": 81,
+    "address": {
+        "street": "Timothy Prairie",
+        "city": "West Melissatown",
+        "state": "New Mexico",
+        "zip": "72927"
+    },
+    "contact": {
+        "phone": "287-637-2753x0353",
+        "servicePhone": "800999708"
+    },
+    "birthday": "1944-20-09",
+    "ip": "93.118.201.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Interview example scene life represent rather. Subject indeed they manager attorney seat. Part attorney treat hear.\nTell degree sea cultural system. Hot direction college stuff capital.",
+        "bio": "Group house wide skin. House personal it add central drug find. During poor significant always television through.\nDebate by woman pass discuss deal true. Imagine play try edge where trip."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
