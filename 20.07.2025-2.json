@@ -1,0 +1,25 @@
+{
+    "name": "Kara Good",
+    "age": 15,
+    "address": {
+        "street": "Harris Circle",
+        "city": "Petersonfort",
+        "state": "Nevada",
+        "zip": "23004"
+    },
+    "contact": {
+        "phone": "(670)905-9672x833",
+        "servicePhone": "800371160"
+    },
+    "birthday": "2010-22-01",
+    "ip": "73.82.2.236",
+    "foo": "bar",
+    "profile": {
+        "about": "Build process range. Study represent product center they. Boy a may century among computer. Seat second must nothing identify second.",
+        "bio": "Student this goal suggest soldier. Development doctor pick into brother prove. Store tonight citizen whole.\nCompany eight scene time reality appear. Model nor poor pull write book."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
