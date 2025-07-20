@@ -1,0 +1,25 @@
+{
+    "name": "Brianna Pierce",
+    "age": 81,
+    "address": {
+        "street": "Andre Ville",
+        "city": "Port Katherine",
+        "state": "Idaho",
+        "zip": "65723"
+    },
+    "contact": {
+        "phone": "762-447-3177x8478",
+        "servicePhone": "800378326"
+    },
+    "birthday": "1944-27-08",
+    "ip": "92.1.57.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Black four near page hope seat. Political watch hot manager.\nScene region hard none.",
+        "bio": "Current yes until care maybe. Article pattern program couple always daughter finally break. Break physical structure area agree.\nReduce piece young although. Argue protect though effect receive lead."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
