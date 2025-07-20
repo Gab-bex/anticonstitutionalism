@@ -1,0 +1,25 @@
+{
+    "name": "David Bentley",
+    "age": 89,
+    "address": {
+        "street": "Cynthia Centers",
+        "city": "Lake Jasonland",
+        "state": "Massachusetts",
+        "zip": "14951"
+    },
+    "contact": {
+        "phone": "9086867730",
+        "servicePhone": "800321715"
+    },
+    "birthday": "1936-05-04",
+    "ip": "164.68.159.183",
+    "foo": "bar",
+    "profile": {
+        "about": "Manage mouth daughter government. Oil pattern program enter clear answer. Poor front many defense along similar. Back street position.",
+        "bio": "Shake finally inside magazine. Avoid development research street large including two."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
