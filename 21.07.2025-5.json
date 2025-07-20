@@ -1,0 +1,25 @@
+{
+    "name": "Anthony May",
+    "age": 102,
+    "address": {
+        "street": "Kristopher Mission",
+        "city": "West Jimberg",
+        "state": "South Carolina",
+        "zip": "28934"
+    },
+    "contact": {
+        "phone": "(863)612-6887x78519",
+        "servicePhone": "800127315"
+    },
+    "birthday": "1923-24-10",
+    "ip": "42.125.210.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime usually sing job yeah even rather difficult. Popular beat blood.\nNotice strategy scene chance dark tax. Meeting investment effort relate citizen end fill music. And hair appear.",
+        "bio": "World huge garden method treat. Camera firm best boy treat ten however. List edge main stuff skin."
+    },
+    "currency": [
+        "NGN",
+        "Nigerian naira"
+    ]
+}
