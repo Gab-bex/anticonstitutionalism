@@ -1,0 +1,25 @@
+{
+    "name": "Marie Reeves",
+    "age": 87,
+    "address": {
+        "street": "Taylor Crest",
+        "city": "Port Sarah",
+        "state": "Connecticut",
+        "zip": "15110"
+    },
+    "contact": {
+        "phone": "(917)639-8001x038",
+        "servicePhone": "800507071"
+    },
+    "birthday": "1938-27-08",
+    "ip": "208.177.125.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard employee central thousand job service together. My appear stop so hope between.",
+        "bio": "Church ever late explain loss.\nToo data but. White paper free record difficult. Less near summer few form space ok.\nMorning sign take probably want specific. Bag western before a."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
