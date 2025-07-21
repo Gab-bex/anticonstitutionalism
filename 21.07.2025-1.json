@@ -1,0 +1,25 @@
+{
+    "name": "Katie King",
+    "age": 34,
+    "address": {
+        "street": "Hayden Circle",
+        "city": "New Joshua",
+        "state": "Nebraska",
+        "zip": "72389"
+    },
+    "contact": {
+        "phone": "001-458-693-1937",
+        "servicePhone": "800054372"
+    },
+    "birthday": "1991-01-09",
+    "ip": "186.134.61.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Behind knowledge letter something wife on around. Close present sister audience news skill. Account care area tax movement research course.",
+        "bio": "Do wide describe town successful industry set building. Street season free woman conference believe.\nYear teach decision Congress. Goal wide way very mention go movie."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}
