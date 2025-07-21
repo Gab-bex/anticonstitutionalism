@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Hebert",
+    "age": 93,
+    "address": {
+        "street": "Moss Gardens",
+        "city": "Davidview",
+        "state": "Oregon",
+        "zip": "20971"
+    },
+    "contact": {
+        "phone": "+1-385-467-4043",
+        "servicePhone": "800194319"
+    },
+    "birthday": "1932-01-06",
+    "ip": "67.77.214.235",
+    "foo": "bar",
+    "profile": {
+        "about": "Maybe increase impact value wonder. Learn two agency beat owner board apply. Walk pay expect manager situation.",
+        "bio": "Take yeah partner today power send man. Manage clear some yeah ready candidate. They herself on type purpose sure control.\nToward apply thought."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
