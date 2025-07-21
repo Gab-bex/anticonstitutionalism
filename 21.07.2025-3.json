@@ -1,0 +1,25 @@
+{
+    "name": "Thomas Moore",
+    "age": 63,
+    "address": {
+        "street": "Cameron Gateway",
+        "city": "Lake Kevinfort",
+        "state": "Texas",
+        "zip": "41692"
+    },
+    "contact": {
+        "phone": "449.374.3772",
+        "servicePhone": "800257819"
+    },
+    "birthday": "1962-02-04",
+    "ip": "137.230.20.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Agreement plan week film chair power big husband. Well seat hit majority. Responsibility child focus keep occur yourself serious certain.",
+        "bio": "Cause laugh side will create simple issue.\nInteresting join goal. Case may might arrive leg about.\nLet professor grow cultural. Dream common truth call public. Alone use country general stock act."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
