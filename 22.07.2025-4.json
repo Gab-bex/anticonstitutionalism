@@ -1,0 +1,25 @@
+{
+    "name": "Guy Walker",
+    "age": 15,
+    "address": {
+        "street": "Monica Forks",
+        "city": "Lake Timothyland",
+        "state": "New York",
+        "zip": "43413"
+    },
+    "contact": {
+        "phone": "+1-386-788-3057x68267",
+        "servicePhone": "800223743"
+    },
+    "birthday": "2010-11-02",
+    "ip": "154.91.128.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Walk here subject someone guy various others other. Feeling meet science administration easy work.\nWeek prevent compare change include point. Try professional agreement meet.",
+        "bio": "Have experience new fly American outside. There whether happen open house. Structure even me two worry try former control."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
