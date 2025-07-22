@@ -1,0 +1,25 @@
+{
+    "name": "Paul Durham",
+    "age": 60,
+    "address": {
+        "street": "Scott Extension",
+        "city": "Jacquelineland",
+        "state": "Missouri",
+        "zip": "35055"
+    },
+    "contact": {
+        "phone": "946.993.8170x933",
+        "servicePhone": "800153822"
+    },
+    "birthday": "1965-30-05",
+    "ip": "148.49.205.127",
+    "foo": "bar",
+    "profile": {
+        "about": "Safe process exactly bring law miss wonder. Create important for main do appear hard along. Long modern despite more degree product.",
+        "bio": "Grow worker own collection less large. Allow face rather he. Such operation somebody again who."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
