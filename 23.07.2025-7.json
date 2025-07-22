@@ -1,0 +1,25 @@
+{
+    "name": "Kelly Jones",
+    "age": 25,
+    "address": {
+        "street": "James Row",
+        "city": "South Victoriatown",
+        "state": "Utah",
+        "zip": "13914"
+    },
+    "contact": {
+        "phone": "(342)865-8940x08815",
+        "servicePhone": "800366980"
+    },
+    "birthday": "2000-21-10",
+    "ip": "116.245.253.202",
+    "foo": "bar",
+    "profile": {
+        "about": "Happy at know travel. Our offer politics bag.\nMoney discover eat ball keep late southern among. Camera certainly theory major book.",
+        "bio": "Meeting produce board choice. Cover staff morning large painting.\nMember child remember nor. Sing production personal remember hour beat."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
