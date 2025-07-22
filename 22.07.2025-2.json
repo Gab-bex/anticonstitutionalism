@@ -1,0 +1,25 @@
+{
+    "name": "Michael Pennington",
+    "age": 87,
+    "address": {
+        "street": "Sanford Point",
+        "city": "Port Eric",
+        "state": "Alaska",
+        "zip": "06914"
+    },
+    "contact": {
+        "phone": "(323)983-1863",
+        "servicePhone": "800290088"
+    },
+    "birthday": "1938-24-09",
+    "ip": "43.84.70.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Operation recent laugh forward. Stuff environmental discover international pay. Catch tonight own happy let run experience hard.\nCertain fill scientist upon want.",
+        "bio": "Big especially small team those team. Current mean they economic. Baby require sport late argue audience."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
