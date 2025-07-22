@@ -1,0 +1,25 @@
+{
+    "name": "Robert Castro",
+    "age": 90,
+    "address": {
+        "street": "Raymond Ford",
+        "city": "Dukeport",
+        "state": "New York",
+        "zip": "23339"
+    },
+    "contact": {
+        "phone": "(354)403-8197x9422",
+        "servicePhone": "800793576"
+    },
+    "birthday": "1935-25-08",
+    "ip": "111.49.38.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Truth tell really personal. Detail else enter add anyone minute. Large voice say stock summer.\nOrganization language new mention imagine debate green.",
+        "bio": "Approach process information seek improve. Small call lay gun maybe head. Author age they or deep least."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
