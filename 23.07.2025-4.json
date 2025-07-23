@@ -1,0 +1,25 @@
+{
+    "name": "Anna Wood",
+    "age": 105,
+    "address": {
+        "street": "Cannon Crossroad",
+        "city": "Port Josephberg",
+        "state": "California",
+        "zip": "57152"
+    },
+    "contact": {
+        "phone": "557.782.6589",
+        "servicePhone": "800176649"
+    },
+    "birthday": "1920-05-07",
+    "ip": "135.255.234.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Traditional television certainly least stuff space. Someone organization TV range.\nBeat set base. Fact hand quickly product provide.\nProduce quickly case others again save. Along national mean voice.",
+        "bio": "Stock impact worry realize act program that. Big hand job really the those defense.\nImpact onto speech card hard she. Everybody power bag test. Lawyer image less staff board seat eye."
+    },
+    "currency": [
+        "KPW",
+        "North Korean won"
+    ]
+}
