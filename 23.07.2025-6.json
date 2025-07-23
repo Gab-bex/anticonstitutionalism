@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Ballard",
+    "age": 82,
+    "address": {
+        "street": "Darren Road",
+        "city": "North Michael",
+        "state": "Arkansas",
+        "zip": "42110"
+    },
+    "contact": {
+        "phone": "294.510.9569x5433",
+        "servicePhone": "800521535"
+    },
+    "birthday": "1943-08-03",
+    "ip": "32.223.183.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Must minute job drug. Run though boy particularly. Account him difference nothing movement why bank.",
+        "bio": "Public theory ability Mrs high. Nor single check suggest however care. Hold picture ball beyond operation anyone."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
