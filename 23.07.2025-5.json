@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Navarro",
+    "age": 76,
+    "address": {
+        "street": "Bates Corners",
+        "city": "East Jason",
+        "state": "Mississippi",
+        "zip": "21898"
+    },
+    "contact": {
+        "phone": "3339132210",
+        "servicePhone": "800072800"
+    },
+    "birthday": "1949-31-03",
+    "ip": "14.51.105.232",
+    "foo": "bar",
+    "profile": {
+        "about": "Them mention should natural. Almost natural fund student writer use team.\nLeft outside paper specific tend. Against hard another walk thought that up wife. Candidate notice able little find.",
+        "bio": "Clear discuss about look mouth. Reveal staff particularly smile maybe.\nAmount first force someone easy. Five picture analysis receive."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
