@@ -1,0 +1,25 @@
+{
+    "name": "William Gates",
+    "age": 14,
+    "address": {
+        "street": "Reyes Forges",
+        "city": "New Aprilfort",
+        "state": "Virginia",
+        "zip": "59822"
+    },
+    "contact": {
+        "phone": "7416319905",
+        "servicePhone": "800605056"
+    },
+    "birthday": "2011-04-12",
+    "ip": "21.143.83.93",
+    "foo": "bar",
+    "profile": {
+        "about": "Hear tonight miss specific do.\nHuman environmental use stock million thank. Past off food field than.\nMove wish understand although institution market. Whose scene hand. Worker coach hard.",
+        "bio": "Capital energy suffer southern. Lead spring product season woman. Ago down begin paper head.\nExactly center tell especially star simple."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
