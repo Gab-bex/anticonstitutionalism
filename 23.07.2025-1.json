@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Pratt",
+    "age": 99,
+    "address": {
+        "street": "Cassidy Estate",
+        "city": "East Williamberg",
+        "state": "Wisconsin",
+        "zip": "89088"
+    },
+    "contact": {
+        "phone": "(580)348-2972x301",
+        "servicePhone": "800363789"
+    },
+    "birthday": "1926-10-12",
+    "ip": "201.188.127.72",
+    "foo": "bar",
+    "profile": {
+        "about": "Second church support actually write fall. Learn wonder raise top nation ok.\nInstitution too road far red expert suddenly bed. Home year operation single sister day.",
+        "bio": "Security mean arrive want foreign voice. Road white rise person land."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
