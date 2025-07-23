@@ -1,0 +1,25 @@
+{
+    "name": "Lydia Snyder",
+    "age": 92,
+    "address": {
+        "street": "Jenkins Station",
+        "city": "Stoneport",
+        "state": "Missouri",
+        "zip": "09279"
+    },
+    "contact": {
+        "phone": "+1-740-459-4580",
+        "servicePhone": "800433701"
+    },
+    "birthday": "1933-22-08",
+    "ip": "85.246.222.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass true ground civil apply group parent. Forward hour why. Control rise civil assume rate. Man those catch discover.",
+        "bio": "Operation after meeting maybe model. Kitchen find property computer teacher. Idea dinner will enter civil. Name draw soon because."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
