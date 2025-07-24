@@ -1,0 +1,25 @@
+{
+    "name": "Casey Bruce",
+    "age": 73,
+    "address": {
+        "street": "Larry Corners",
+        "city": "Lake Alyssa",
+        "state": "Maine",
+        "zip": "13808"
+    },
+    "contact": {
+        "phone": "900-634-4197x4676",
+        "servicePhone": "800427955"
+    },
+    "birthday": "1952-04-02",
+    "ip": "89.172.209.51",
+    "foo": "bar",
+    "profile": {
+        "about": "South spend guy thought various chance. Lot person time policy be Republican wide.\nReduce its compare information present.\nInternational throw themselves word yes.",
+        "bio": "Allow attack vote bank Democrat among. Night today indeed. Gas around represent.\nEast easy husband these return never. Man business project reality bill modern."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
