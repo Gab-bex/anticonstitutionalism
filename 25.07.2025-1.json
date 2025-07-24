@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Griffin",
+    "age": 26,
+    "address": {
+        "street": "Foster Unions",
+        "city": "Amberbury",
+        "state": "Florida",
+        "zip": "96699"
+    },
+    "contact": {
+        "phone": "566-750-4884",
+        "servicePhone": "800039191"
+    },
+    "birthday": "1999-21-08",
+    "ip": "96.217.191.230",
+    "foo": "bar",
+    "profile": {
+        "about": "Edge economic food three site officer by. Live again life measure drive provide here. Head our out speech gun heart about.",
+        "bio": "Kid rule of. To different why worker increase smile. Sign almost program.\nAudience result positive those according walk."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
