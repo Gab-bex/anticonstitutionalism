@@ -1,0 +1,25 @@
+{
+    "name": "Jerome Woods",
+    "age": 104,
+    "address": {
+        "street": "Johnson Rapids",
+        "city": "Lake Katrina",
+        "state": "New York",
+        "zip": "75754"
+    },
+    "contact": {
+        "phone": "+1-958-960-4892x552",
+        "servicePhone": "800759825"
+    },
+    "birthday": "1921-10-08",
+    "ip": "87.140.226.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Mind social coach call television where.\nCampaign region material perform source set eye. Change take play however through capital. Significant city sometimes audience impact.",
+        "bio": "Water say time method. Whom between necessary authority pick cause occur. Cut have control there spring job small."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
