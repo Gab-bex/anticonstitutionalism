@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Lindsey",
+    "age": 1,
+    "address": {
+        "street": "Nicole Common",
+        "city": "Anthonystad",
+        "state": "Arizona",
+        "zip": "05344"
+    },
+    "contact": {
+        "phone": "738.783.1176x3970",
+        "servicePhone": "800102274"
+    },
+    "birthday": "2024-03-01",
+    "ip": "171.248.174.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Everything their room design report. Send maybe attack include religious finish lot. Camera customer firm.",
+        "bio": "Send research ball. Operation conference road company. Draw method human hotel.\nThing field structure. Away speak open difficult firm turn."
+    },
+    "currency": [
+        "DJF",
+        "Djiboutian franc"
+    ]
+}
