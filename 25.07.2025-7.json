@@ -1,0 +1,25 @@
+{
+    "name": "Brian Day",
+    "age": 40,
+    "address": {
+        "street": "Baker Stravenue",
+        "city": "Port Timothy",
+        "state": "Hawaii",
+        "zip": "62184"
+    },
+    "contact": {
+        "phone": "+1-593-250-6418x98013",
+        "servicePhone": "800158531"
+    },
+    "birthday": "1985-29-09",
+    "ip": "184.0.206.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Example year apply old. Across again program strong compare value stop ability. Now time computer.\nThose explain energy lot. Commercial whether seek anything issue.",
+        "bio": "Simply note leg nation same himself plant. Movie while worker enter. Prevent stop director loss.\nStock child factor their. Claim send government."
+    },
+    "currency": [
+        "BHD",
+        "Bahraini dinar"
+    ]
+}
