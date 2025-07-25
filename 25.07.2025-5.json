@@ -1,0 +1,25 @@
+{
+    "name": "Michael Salas",
+    "age": 76,
+    "address": {
+        "street": "Dickson Villages",
+        "city": "Middletonchester",
+        "state": "Pennsylvania",
+        "zip": "41841"
+    },
+    "contact": {
+        "phone": "(289)289-1125x42286",
+        "servicePhone": "800180842"
+    },
+    "birthday": "1949-14-09",
+    "ip": "11.119.197.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Risk choice management low per stuff. Live skin though. Painting so both state growth right.\nParent rule I central last bed. This now million thank important poor health.",
+        "bio": "Skill according establish research success hundred with. Fire letter book measure. Democrat key how effort defense."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
