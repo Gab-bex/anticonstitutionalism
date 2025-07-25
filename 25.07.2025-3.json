@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Graves",
+    "age": 108,
+    "address": {
+        "street": "Isaac Tunnel",
+        "city": "Angelashire",
+        "state": "West Virginia",
+        "zip": "12368"
+    },
+    "contact": {
+        "phone": "001-440-456-8386x46455",
+        "servicePhone": "800139757"
+    },
+    "birthday": "1917-06-10",
+    "ip": "32.163.183.194",
+    "foo": "bar",
+    "profile": {
+        "about": "Short edge me anyone Mrs our. What key sea onto society. Thus sport as three toward stand less after.\nCourt chair agent cut. Energy market task.",
+        "bio": "Mention message indeed. Specific affect consider whatever child occur. Possible likely local those.\nLarge pressure he order. Hour enough me loss model relate."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
