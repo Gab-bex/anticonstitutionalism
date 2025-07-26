@@ -1,0 +1,25 @@
+{
+    "name": "Omar Baker",
+    "age": 6,
+    "address": {
+        "street": "Johnson Junction",
+        "city": "Kirbyville",
+        "state": "Virginia",
+        "zip": "34322"
+    },
+    "contact": {
+        "phone": "+1-967-358-8081x2563",
+        "servicePhone": "800061419"
+    },
+    "birthday": "2019-12-10",
+    "ip": "220.196.178.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Computer avoid live practice hold fact turn. Plant eye rule market pressure when.",
+        "bio": "Response hour conference article follow computer create. Everybody feel fund magazine voice capital term. Strong bit TV our fly."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
