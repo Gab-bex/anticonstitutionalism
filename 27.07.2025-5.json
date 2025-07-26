@@ -1,0 +1,25 @@
+{
+    "name": "Richard Stokes",
+    "age": 28,
+    "address": {
+        "street": "Rocha Turnpike",
+        "city": "Smithview",
+        "state": "Louisiana",
+        "zip": "31827"
+    },
+    "contact": {
+        "phone": "(971)946-8218x7310",
+        "servicePhone": "800633109"
+    },
+    "birthday": "1997-26-03",
+    "ip": "12.255.214.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning court subject could.\nPositive reality once also college short. Senior executive history reflect who war admit whole. Fight agreement country night clearly.",
+        "bio": "Avoid box may let hit meeting. Plant body trip learn any particular their. None education can step.\nKitchen role near its million. Hair why public. Spring attack whether garden national."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
