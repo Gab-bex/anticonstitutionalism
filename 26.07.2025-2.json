@@ -1,0 +1,25 @@
+{
+    "name": "Samuel Brown",
+    "age": 2,
+    "address": {
+        "street": "Christine Viaduct",
+        "city": "North Alexander",
+        "state": "West Virginia",
+        "zip": "43553"
+    },
+    "contact": {
+        "phone": "560-530-8173",
+        "servicePhone": "800858586"
+    },
+    "birthday": "2023-27-01",
+    "ip": "154.231.253.165",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent a coach only line. Wonder lay share a you hand happen modern. Well firm task despite.",
+        "bio": "Big her manager participant work. Have glass newspaper condition. Race similar require from drug maintain data. Later tax growth arm early fact action."
+    },
+    "currency": [
+        "USD",
+        "United States dollar"
+    ]
+}
