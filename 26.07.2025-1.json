@@ -1,0 +1,25 @@
+{
+    "name": "Emma Kaiser",
+    "age": 40,
+    "address": {
+        "street": "Ray Villages",
+        "city": "Travisshire",
+        "state": "Wisconsin",
+        "zip": "04102"
+    },
+    "contact": {
+        "phone": "(431)959-7132x1324",
+        "servicePhone": "800601131"
+    },
+    "birthday": "1985-04-06",
+    "ip": "165.35.121.31",
+    "foo": "bar",
+    "profile": {
+        "about": "Environment sit prepare these ever. Mouth attorney better investment popular hit television receive.",
+        "bio": "Nearly wife pretty time one shoulder early. Sport coach case data. Goal office memory size top thought southern."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
