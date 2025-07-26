@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Ball",
+    "age": 115,
+    "address": {
+        "street": "Turner Unions",
+        "city": "Karenton",
+        "state": "Connecticut",
+        "zip": "61644"
+    },
+    "contact": {
+        "phone": "318.755.6482",
+        "servicePhone": "800258252"
+    },
+    "birthday": "1910-28-10",
+    "ip": "14.228.27.16",
+    "foo": "bar",
+    "profile": {
+        "about": "Whose everyone catch age evening. But already including thought pretty. Fear talk forward answer of research our. Goal campaign would you.\nBed issue put director. Challenge risk me unit tough.",
+        "bio": "Maintain term resource life. Good foreign task hear place onto whether sister.\nCongress remember consumer next serious end. Remain detail must sometimes environment morning return."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
