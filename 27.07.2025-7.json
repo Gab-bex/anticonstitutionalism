@@ -1,0 +1,25 @@
+{
+    "name": "Kari Williams",
+    "age": 36,
+    "address": {
+        "street": "Tammie Valley",
+        "city": "Murraymouth",
+        "state": "Minnesota",
+        "zip": "90001"
+    },
+    "contact": {
+        "phone": "8482522177",
+        "servicePhone": "800532516"
+    },
+    "birthday": "1989-28-10",
+    "ip": "93.157.253.203",
+    "foo": "bar",
+    "profile": {
+        "about": "War style language gas away. Standard fill half research perform. Decade far measure senior might point outside.",
+        "bio": "Point approach democratic describe water. Better entire point technology type. Seem describe citizen yeah. Seven guess wife more first money."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
