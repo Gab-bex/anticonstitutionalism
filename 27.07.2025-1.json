@@ -1,0 +1,25 @@
+{
+    "name": "James Ho",
+    "age": 63,
+    "address": {
+        "street": "White Plains",
+        "city": "Port Sheilaside",
+        "state": "Montana",
+        "zip": "01666"
+    },
+    "contact": {
+        "phone": "895-774-3640",
+        "servicePhone": "800780684"
+    },
+    "birthday": "1962-04-01",
+    "ip": "165.97.238.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Thought major light television. Religious star character watch report feel. Town whose international life toward. Degree leg important receive from.",
+        "bio": "Head point Democrat strategy produce total. Visit message need community wish.\nQuestion hear forget current. Have issue score property.\nRead surface key hour agreement."
+    },
+    "currency": [
+        "CUC",
+        "Cuban convertible peso"
+    ]
+}
