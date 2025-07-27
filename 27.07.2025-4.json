@@ -1,0 +1,25 @@
+{
+    "name": "Clayton Martinez",
+    "age": 80,
+    "address": {
+        "street": "Chavez Summit",
+        "city": "Mathiston",
+        "state": "Michigan",
+        "zip": "71198"
+    },
+    "contact": {
+        "phone": "001-787-200-9900x166",
+        "servicePhone": "800219492"
+    },
+    "birthday": "1945-19-08",
+    "ip": "153.66.28.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh out factor job off skin all reduce. Identify affect social success.\nWhether meet red. Visit lead wrong.\nSuddenly heart suffer watch follow country. Yard message season wish both probably them.",
+        "bio": "Study help media Mrs later. Rock stay case least police example occur.\nUpon structure rock standard popular. Push unit beautiful church even accept. Son difficult produce ready while offer."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
