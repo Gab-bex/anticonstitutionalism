@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Jones",
+    "age": 51,
+    "address": {
+        "street": "Rachel Grove",
+        "city": "Brookemouth",
+        "state": "Maryland",
+        "zip": "45665"
+    },
+    "contact": {
+        "phone": "516-913-5649x971",
+        "servicePhone": "800661118"
+    },
+    "birthday": "1974-28-12",
+    "ip": "160.245.202.49",
+    "foo": "bar",
+    "profile": {
+        "about": "Gun Congress table approach catch home.\nMemory glass south raise. Western pay may and.\nAmerican officer year reduce. Room thank order detail foot level.",
+        "bio": "Especially season personal morning pay southern.\nBill resource use.\nKeep able break wife career decide lose. Seat full turn actually behind himself federal. Then understand wide care."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
