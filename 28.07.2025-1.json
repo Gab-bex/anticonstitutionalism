@@ -1,0 +1,25 @@
+{
+    "name": "Robin Fox",
+    "age": 98,
+    "address": {
+        "street": "Joseph Divide",
+        "city": "West Angelica",
+        "state": "Alabama",
+        "zip": "85975"
+    },
+    "contact": {
+        "phone": "636.457.2837x8132",
+        "servicePhone": "800748845"
+    },
+    "birthday": "1927-29-08",
+    "ip": "82.159.52.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass save mouth really something receive. With easy him.",
+        "bio": "What current raise girl wall walk painting. Born friend happy represent chair star law."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
