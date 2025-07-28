@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Delgado MD",
+    "age": 50,
+    "address": {
+        "street": "Alexander Lakes",
+        "city": "Millerside",
+        "state": "Nebraska",
+        "zip": "80375"
+    },
+    "contact": {
+        "phone": "+1-486-805-8344x8901",
+        "servicePhone": "800302427"
+    },
+    "birthday": "1975-16-10",
+    "ip": "181.217.40.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Pretty too collection environmental onto behavior. Cause up that including also together high market. Consumer thank policy few off. Become bed civil soldier win.",
+        "bio": "Age none talk laugh lay ten miss.\nSouthern per mean whatever make.\nOrganization instead plan. Him them end organization. Six particularly close thought win able human."
+    },
+    "currency": [
+        "FJD",
+        "Fijian dollar"
+    ]
+}
