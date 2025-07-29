@@ -1,0 +1,25 @@
+{
+    "name": "Kerri Hickman",
+    "age": 96,
+    "address": {
+        "street": "Warner Villages",
+        "city": "South Patricia",
+        "state": "Montana",
+        "zip": "16076"
+    },
+    "contact": {
+        "phone": "(316)353-4481",
+        "servicePhone": "800590272"
+    },
+    "birthday": "1929-22-07",
+    "ip": "43.200.177.228",
+    "foo": "bar",
+    "profile": {
+        "about": "Number four dark theory. Month poor feeling sometimes worry general support. Capital think continue production loss believe. Mouth choose give speech.",
+        "bio": "As pretty forget oil. More sort prove send away unit.\nThing grow budget level with. Voice help pressure recently amount his.\nEnjoy put natural. Drop pass want specific. Move project main city person."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
