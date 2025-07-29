@@ -1,0 +1,25 @@
+{
+    "name": "Jesse Ellis",
+    "age": 63,
+    "address": {
+        "street": "John Corner",
+        "city": "New Trevorland",
+        "state": "Minnesota",
+        "zip": "52476"
+    },
+    "contact": {
+        "phone": "503.537.9518",
+        "servicePhone": "800111116"
+    },
+    "birthday": "1962-14-09",
+    "ip": "92.102.7.117",
+    "foo": "bar",
+    "profile": {
+        "about": "According long business despite. Throughout hotel future friend realize.\nAlso truth enter a chair officer. Nature north spring security style scientist relationship.",
+        "bio": "Act upon deal push fly whole. Final rich rule decade.\nRemain suffer receive certain peace. Here born risk only gas hospital. While house another operation."
+    },
+    "currency": [
+        "TWD",
+        "New Taiwan dollar"
+    ]
+}
