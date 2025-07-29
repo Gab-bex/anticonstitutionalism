@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Norman",
+    "age": 67,
+    "address": {
+        "street": "Natalie Circle",
+        "city": "Shaneside",
+        "state": "Wisconsin",
+        "zip": "02455"
+    },
+    "contact": {
+        "phone": "(389)990-8130x466",
+        "servicePhone": "800580662"
+    },
+    "birthday": "1958-24-03",
+    "ip": "164.117.247.110",
+    "foo": "bar",
+    "profile": {
+        "about": "Long bad career technology lay.\nAll far process. Economy where produce hospital another task imagine.",
+        "bio": "Right teacher drive suggest choose. Him than cause look above church.\nPush some social fast although. Anyone big determine radio."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
