@@ -1,0 +1,25 @@
+{
+    "name": "Brenda Parsons",
+    "age": 29,
+    "address": {
+        "street": "David Junctions",
+        "city": "Elizabethstad",
+        "state": "Minnesota",
+        "zip": "97732"
+    },
+    "contact": {
+        "phone": "001-620-321-7838x870",
+        "servicePhone": "800467593"
+    },
+    "birthday": "1996-19-09",
+    "ip": "125.223.87.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Near federal example happy mind upon. Much believe yes smile onto.\nPressure happy fall miss follow. Those each point wait television. Ask matter executive language thus.",
+        "bio": "Anyone front miss through budget. Change most alone. Follow move seven likely black office door.\nRaise single social next especially future town bed."
+    },
+    "currency": [
+        "IMP",
+        "Manx pound"
+    ]
+}
