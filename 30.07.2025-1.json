@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Adams",
+    "age": 95,
+    "address": {
+        "street": "Clark Keys",
+        "city": "Lake Ericville",
+        "state": "Rhode Island",
+        "zip": "46637"
+    },
+    "contact": {
+        "phone": "+1-901-424-3633",
+        "servicePhone": "800277441"
+    },
+    "birthday": "1930-06-07",
+    "ip": "55.68.231.62",
+    "foo": "bar",
+    "profile": {
+        "about": "Movement media item true eight far unit. Mean those author collection garden picture magazine only. Send career reason explain.",
+        "bio": "Issue heart dinner participant. Media Democrat cell even.\nWrite enjoy pretty key born later avoid sister. Else tough interesting left education."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
