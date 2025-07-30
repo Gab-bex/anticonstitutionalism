@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Moore",
+    "age": 27,
+    "address": {
+        "street": "Tara Turnpike",
+        "city": "Brownland",
+        "state": "Alaska",
+        "zip": "57442"
+    },
+    "contact": {
+        "phone": "+1-824-773-0799x686",
+        "servicePhone": "800205459"
+    },
+    "birthday": "1998-28-09",
+    "ip": "43.188.183.5",
+    "foo": "bar",
+    "profile": {
+        "about": "He agree guy summer why first tend long. Evidence laugh mission. Three turn reveal decade. Consumer school well woman wrong both goal.",
+        "bio": "So allow play increase. Particular mission across it drug page and service. Prepare floor father wind second employee office scene."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
