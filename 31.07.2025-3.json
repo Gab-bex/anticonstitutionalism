@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Chandler",
+    "age": 28,
+    "address": {
+        "street": "Bonnie Trail",
+        "city": "North Paul",
+        "state": "Virginia",
+        "zip": "05576"
+    },
+    "contact": {
+        "phone": "9948704633",
+        "servicePhone": "800275909"
+    },
+    "birthday": "1997-11-07",
+    "ip": "176.5.199.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Scientist former car dark next argue. Keep start new college how step.\nEvening happen above remain every the avoid. Above describe realize assume.",
+        "bio": "Week light threat sometimes. Garden high second figure house provide behavior.\nPerson family drop low eye skill. Interest first attention authority billion. Group camera matter book blue success."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
