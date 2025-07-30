@@ -1,0 +1,25 @@
+{
+    "name": "Rachel Elliott",
+    "age": 94,
+    "address": {
+        "street": "Long Loop",
+        "city": "Chentown",
+        "state": "New York",
+        "zip": "84258"
+    },
+    "contact": {
+        "phone": "992.539.9048x6364",
+        "servicePhone": "800467320"
+    },
+    "birthday": "1931-22-05",
+    "ip": "71.223.231.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Former research beyond direction.\nNext international time age. Security hair program bar deal realize.",
+        "bio": "Scientist step yet guess ever close sport. Think box child hundred place hit.\nNation campaign never discussion. Ok ask act voice grow production agree professor. Back forward challenge whom."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
