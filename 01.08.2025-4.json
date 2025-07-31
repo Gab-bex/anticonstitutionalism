@@ -1,0 +1,25 @@
+{
+    "name": "Henry Wilson",
+    "age": 83,
+    "address": {
+        "street": "Walter Trace",
+        "city": "West Kyle",
+        "state": "Wyoming",
+        "zip": "76376"
+    },
+    "contact": {
+        "phone": "883-802-9820x680",
+        "servicePhone": "800787725"
+    },
+    "birthday": "1942-25-04",
+    "ip": "104.206.205.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Time hand when blue. Attack kitchen live.\nGrow decade white lose seat certainly them. Nearly owner together during from.",
+        "bio": "Final game me race behavior. Be nor media long herself at old. Garden same television green wind."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
