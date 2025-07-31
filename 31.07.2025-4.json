@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Morris",
+    "age": 44,
+    "address": {
+        "street": "Brian Loaf",
+        "city": "Abigailbury",
+        "state": "Maine",
+        "zip": "58331"
+    },
+    "contact": {
+        "phone": "001-267-829-2460",
+        "servicePhone": "800802716"
+    },
+    "birthday": "1981-06-08",
+    "ip": "122.137.146.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Laugh agency better group nature hand two. Too campaign national kind.\nDecision believe guy program example former evidence. Discuss key magazine small enough.",
+        "bio": "Candidate serious summer find bill. Nation at water medical role seem that. Spring family fire reflect throughout."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
