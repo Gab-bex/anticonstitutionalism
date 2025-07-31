@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Kelly",
+    "age": 36,
+    "address": {
+        "street": "Laura Highway",
+        "city": "Lake Lisa",
+        "state": "Oklahoma",
+        "zip": "31780"
+    },
+    "contact": {
+        "phone": "662-734-3491x55671",
+        "servicePhone": "800790224"
+    },
+    "birthday": "1989-08-05",
+    "ip": "19.110.110.125",
+    "foo": "bar",
+    "profile": {
+        "about": "Single investment agreement her great. Five until spring agency. Certain why protect stay something great yard.",
+        "bio": "Beat government protect. War word at enough save. Make weight this may.\nNow base writer ever even. Bag more discussion sound there compare no."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
