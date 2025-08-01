@@ -1,0 +1,25 @@
+{
+    "name": "Susan Ward",
+    "age": 19,
+    "address": {
+        "street": "Jackson Glen",
+        "city": "New Christopher",
+        "state": "Tennessee",
+        "zip": "25607"
+    },
+    "contact": {
+        "phone": "+1-759-819-0466x463",
+        "servicePhone": "800568745"
+    },
+    "birthday": "2006-27-06",
+    "ip": "86.146.234.216",
+    "foo": "bar",
+    "profile": {
+        "about": "Class force local area fight.\nComputer back song break create. System foot art look old director its.",
+        "bio": "One computer actually break thought floor. Actually number Mr fund mind. Hundred mind soon keep research.\nStar and opportunity recent policy strategy need. Though glass structure wait change."
+    },
+    "currency": [
+        "KGS",
+        "Kyrgyzstani som"
+    ]
+}
