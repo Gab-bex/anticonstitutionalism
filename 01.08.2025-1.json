@@ -1,0 +1,25 @@
+{
+    "name": "Edward Waters",
+    "age": 30,
+    "address": {
+        "street": "Ashley Greens",
+        "city": "South Denise",
+        "state": "Mississippi",
+        "zip": "77098"
+    },
+    "contact": {
+        "phone": "001-464-847-4737x0303",
+        "servicePhone": "800375734"
+    },
+    "birthday": "1995-12-04",
+    "ip": "23.51.149.234",
+    "foo": "bar",
+    "profile": {
+        "about": "Article table research drop number care price. Campaign seem pressure alone. Budget our successful main instead.\nMorning expect garden door different.",
+        "bio": "Catch design main common account mention.\nDaughter fall one next others cover. Six run sing prove nor. Price process realize point. Few east body onto mouth reach compare according."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
