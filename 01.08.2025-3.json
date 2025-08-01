@@ -1,0 +1,25 @@
+{
+    "name": "Shane Kane PhD",
+    "age": 79,
+    "address": {
+        "street": "Kidd Fields",
+        "city": "Elliottville",
+        "state": "Michigan",
+        "zip": "17726"
+    },
+    "contact": {
+        "phone": "+1-452-257-9405x5497",
+        "servicePhone": "800100162"
+    },
+    "birthday": "1946-16-11",
+    "ip": "78.243.92.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Party young after but case. Newspaper future own as early first. Power would despite free can building.\nUse defense support. Top too run social explain owner. Eat avoid drug computer wear glass.",
+        "bio": "Trouble lay upon parent interest small plan. Art however usually Congress exactly. Spend he television guess happen throughout enough."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
