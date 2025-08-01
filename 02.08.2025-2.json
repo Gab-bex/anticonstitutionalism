@@ -1,0 +1,25 @@
+{
+    "name": "Dean Bowen",
+    "age": 49,
+    "address": {
+        "street": "Edwards Extension",
+        "city": "Careyfurt",
+        "state": "South Carolina",
+        "zip": "86355"
+    },
+    "contact": {
+        "phone": "642-544-4987",
+        "servicePhone": "800630430"
+    },
+    "birthday": "1976-29-04",
+    "ip": "157.133.235.187",
+    "foo": "bar",
+    "profile": {
+        "about": "Occur teacher reality onto. Poor court mother respond. Along commercial through family capital.",
+        "bio": "Drug own level moment air now other. Which business discussion assume laugh show. Full Mrs finish she painting."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
