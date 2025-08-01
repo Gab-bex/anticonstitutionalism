@@ -1,0 +1,25 @@
+{
+    "name": "Traci Moreno",
+    "age": 69,
+    "address": {
+        "street": "Tiffany Plaza",
+        "city": "East Jenniferberg",
+        "state": "Nebraska",
+        "zip": "08663"
+    },
+    "contact": {
+        "phone": "(692)983-1876x20451",
+        "servicePhone": "800257655"
+    },
+    "birthday": "1956-10-03",
+    "ip": "58.27.234.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure short sense ok perhaps house while test. Concern form front involve respond total. Perform community character teacher.",
+        "bio": "Each camera evening different season so season. Learn blue six box feeling good. Beyond sing able movie."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
