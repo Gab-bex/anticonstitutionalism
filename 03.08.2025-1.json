@@ -1,0 +1,25 @@
+{
+    "name": "Larry Harrell",
+    "age": 102,
+    "address": {
+        "street": "Williamson Ridge",
+        "city": "East Heidi",
+        "state": "North Carolina",
+        "zip": "74072"
+    },
+    "contact": {
+        "phone": "767.397.2898",
+        "servicePhone": "800595178"
+    },
+    "birthday": "1923-07-06",
+    "ip": "49.42.89.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Style expect the reflect win. During wish people green student yeah step. Within science gas.\nJoin war building place everyone skill party point. List significant she us. Look Mrs senior Republican.",
+        "bio": "Card garden great traditional television. Ball probably win present Democrat. Movie themselves first evidence instead development general."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
