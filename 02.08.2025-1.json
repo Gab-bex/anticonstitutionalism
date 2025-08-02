@@ -1,0 +1,25 @@
+{
+    "name": "Alyssa Williams",
+    "age": 3,
+    "address": {
+        "street": "Johnson Ways",
+        "city": "Harmonhaven",
+        "state": "Idaho",
+        "zip": "45849"
+    },
+    "contact": {
+        "phone": "490.551.7228x92499",
+        "servicePhone": "800639710"
+    },
+    "birthday": "2022-22-02",
+    "ip": "92.29.62.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Nature despite yourself prove. Yard song drop president yourself night.\nIts project back line mean two eat. Discuss east less prove. Close bit sound team where together star speak.",
+        "bio": "Partner sing office floor level Mr so. Student movement project want. Give now economic."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
