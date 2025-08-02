@@ -1,0 +1,25 @@
+{
+    "name": "Molly Hawkins",
+    "age": 41,
+    "address": {
+        "street": "Alexander Crossroad",
+        "city": "Garciaborough",
+        "state": "Delaware",
+        "zip": "80671"
+    },
+    "contact": {
+        "phone": "001-447-402-8787x429",
+        "servicePhone": "800687505"
+    },
+    "birthday": "1984-19-04",
+    "ip": "103.255.43.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch moment beat vote. Generation wife commercial.\nSerious represent individual democratic throw. Special simply sometimes think level land surface.",
+        "bio": "Human employee Republican job. Too write benefit bad strategy citizen. Through individual even shoulder little all.\nHeavy speak show might popular. With owner too newspaper light born."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
