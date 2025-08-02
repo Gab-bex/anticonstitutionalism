@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Gallegos",
+    "age": 6,
+    "address": {
+        "street": "West Isle",
+        "city": "Barkerton",
+        "state": "Utah",
+        "zip": "73959"
+    },
+    "contact": {
+        "phone": "+1-606-228-9406x223",
+        "servicePhone": "800733095"
+    },
+    "birthday": "2019-16-12",
+    "ip": "143.206.41.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Real language process animal. Model town talk movement purpose hot return try.\nIdea since quite book especially fire mother. Just believe base kitchen ok budget.",
+        "bio": "Space ok must economic stand could voice left. Possible keep both among physical girl shake.\nYes lawyer cover."
+    },
+    "currency": [
+        "MAD",
+        "Moroccan dirham"
+    ]
+}
