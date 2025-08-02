@@ -1,0 +1,25 @@
+{
+    "name": "Morgan Mason",
+    "age": 68,
+    "address": {
+        "street": "Walker Passage",
+        "city": "Fordstad",
+        "state": "Nevada",
+        "zip": "04613"
+    },
+    "contact": {
+        "phone": "937-652-8111",
+        "servicePhone": "800167692"
+    },
+    "birthday": "1957-29-12",
+    "ip": "92.173.211.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Probably other every human significant each teach. Voice gas piece. Wish figure whose add.\nReduce door commercial sister benefit join.\nPoint group put first. What give civil build need morning power.",
+        "bio": "Then explain policy along measure some woman. Beyond according say.\nTruth school summer talk we art. Stuff none section process. Employee most worry."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
