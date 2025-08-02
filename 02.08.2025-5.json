@@ -1,0 +1,25 @@
+{
+    "name": "Wesley Padilla",
+    "age": 6,
+    "address": {
+        "street": "Kayla Summit",
+        "city": "East Alexis",
+        "state": "West Virginia",
+        "zip": "27991"
+    },
+    "contact": {
+        "phone": "(430)277-6225",
+        "servicePhone": "800417846"
+    },
+    "birthday": "2019-04-11",
+    "ip": "8.205.234.193",
+    "foo": "bar",
+    "profile": {
+        "about": "Face measure next ten must crime. Much answer father present.\nBetween travel network his minute focus network. Current road senior four. From human peace person.",
+        "bio": "Try war education maintain. General back professor decision range threat clearly effect. Whatever part cup nature red late week."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
