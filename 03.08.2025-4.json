@@ -1,0 +1,25 @@
+{
+    "name": "Laura Phelps",
+    "age": 22,
+    "address": {
+        "street": "Brown Landing",
+        "city": "Brownstad",
+        "state": "Tennessee",
+        "zip": "80430"
+    },
+    "contact": {
+        "phone": "+1-477-957-0929",
+        "servicePhone": "800284015"
+    },
+    "birthday": "2003-07-01",
+    "ip": "134.176.167.130",
+    "foo": "bar",
+    "profile": {
+        "about": "American staff physical any figure. Head expect property small health collection protect. Computer create agree look another star maybe some.",
+        "bio": "Or agree happy rich. Where decide add sort hit administration professional shoulder."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
