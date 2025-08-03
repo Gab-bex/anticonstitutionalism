@@ -1,0 +1,25 @@
+{
+    "name": "Jordan Williams",
+    "age": 54,
+    "address": {
+        "street": "Laura Oval",
+        "city": "West Pamela",
+        "state": "Nebraska",
+        "zip": "92398"
+    },
+    "contact": {
+        "phone": "444.950.0707x4827",
+        "servicePhone": "800993394"
+    },
+    "birthday": "1971-09-05",
+    "ip": "174.172.183.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution require how better site us world.\nLaugh white investment national former rest first. Stock them movement age by just professional. Over threat many degree church tax.",
+        "bio": "Determine guess garden different drop challenge goal. Concern citizen knowledge even turn. Study ok discover give bad."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
