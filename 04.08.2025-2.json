@@ -1,0 +1,25 @@
+{
+    "name": "Rita Myers",
+    "age": 27,
+    "address": {
+        "street": "Howard Trail",
+        "city": "Vincentchester",
+        "state": "California",
+        "zip": "47898"
+    },
+    "contact": {
+        "phone": "6826042471",
+        "servicePhone": "800570546"
+    },
+    "birthday": "1998-20-02",
+    "ip": "13.27.214.246",
+    "foo": "bar",
+    "profile": {
+        "about": "Simply impact provide feel. Thing every happy such discover.\nPartner this life reduce ability design.\nWindow yourself network sure along worry. Election dog would stuff.",
+        "bio": "Market outside second cause allow itself season describe. Attorney hospital almost scene. Difference law choose wait east focus firm."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
