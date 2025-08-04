@@ -1,0 +1,25 @@
+{
+    "name": "Amy Browning",
+    "age": 21,
+    "address": {
+        "street": "Ryan Spurs",
+        "city": "New Robertville",
+        "state": "Massachusetts",
+        "zip": "80130"
+    },
+    "contact": {
+        "phone": "956-425-7051x58773",
+        "servicePhone": "800258627"
+    },
+    "birthday": "2004-17-04",
+    "ip": "31.192.219.22",
+    "foo": "bar",
+    "profile": {
+        "about": "Important name her imagine recent. Outside baby whom rest base seven half.\nDebate happen many beyond several chance discover. Civil scientist possible college away room.",
+        "bio": "Long ten southern force. Current arm relate call. Body allow low also federal hand responsibility."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
