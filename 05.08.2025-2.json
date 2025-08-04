@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Smith",
+    "age": 73,
+    "address": {
+        "street": "Amy Stream",
+        "city": "Greentown",
+        "state": "Alaska",
+        "zip": "33633"
+    },
+    "contact": {
+        "phone": "001-434-937-0776",
+        "servicePhone": "800154096"
+    },
+    "birthday": "1952-25-01",
+    "ip": "102.193.106.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Play ahead already base control education. Soon opportunity consumer message. Word product small represent example participant.",
+        "bio": "Writer hour listen manage personal toward rise. Production close south less. Court believe entire increase south.\nArm learn law indicate kitchen. American brother include attack."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
