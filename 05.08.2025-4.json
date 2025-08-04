@@ -1,0 +1,25 @@
+{
+    "name": "Diana Hutchinson",
+    "age": 32,
+    "address": {
+        "street": "Barbara Overpass",
+        "city": "Angelafurt",
+        "state": "Oklahoma",
+        "zip": "73695"
+    },
+    "contact": {
+        "phone": "001-995-620-1485",
+        "servicePhone": "800816486"
+    },
+    "birthday": "1993-27-03",
+    "ip": "77.132.171.151",
+    "foo": "bar",
+    "profile": {
+        "about": "House try me single everyone police particularly major. Society budget world woman care point.",
+        "bio": "Argue prove drive. Seem organization sea. Up of true.\nInside whom note relate reach how place. Upon her office energy soldier program idea reality."
+    },
+    "currency": [
+        "CVE",
+        "Cape Verdean escudo"
+    ]
+}
