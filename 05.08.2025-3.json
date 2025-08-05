@@ -1,0 +1,25 @@
+{
+    "name": "Amy Webb",
+    "age": 102,
+    "address": {
+        "street": "Blackwell Mountain",
+        "city": "East Angelabury",
+        "state": "Wisconsin",
+        "zip": "77417"
+    },
+    "contact": {
+        "phone": "340.417.4994x79917",
+        "servicePhone": "800657479"
+    },
+    "birthday": "1923-09-11",
+    "ip": "51.222.47.69",
+    "foo": "bar",
+    "profile": {
+        "about": "Skill season use certainly modern really. Method guess realize rather throughout toward every. Side kind president economy question step. Response half whether century collection effort staff.",
+        "bio": "Individual determine human side do.\nNight evidence man. Choice act economy.\nBody door recently until movie yard. Trouble know same.\nWorker expert this third. Quickly really agent newspaper theory."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
