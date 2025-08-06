@@ -1,0 +1,25 @@
+{
+    "name": "Mark Serrano",
+    "age": 28,
+    "address": {
+        "street": "Castillo Vista",
+        "city": "Mooreborough",
+        "state": "Iowa",
+        "zip": "67992"
+    },
+    "contact": {
+        "phone": "+1-218-716-1540x896",
+        "servicePhone": "800509369"
+    },
+    "birthday": "1997-01-07",
+    "ip": "159.216.114.38",
+    "foo": "bar",
+    "profile": {
+        "about": "True travel management culture each name yet. Election something health others. Start take ok identify help thousand option.",
+        "bio": "Dog team wear fast. Receive blood game money store wear above.\nDeal design friend major. Because safe friend week represent over.\nSomeone himself game I but need tell trial."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
