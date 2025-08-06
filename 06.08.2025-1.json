@@ -1,0 +1,25 @@
+{
+    "name": "Robert Arias",
+    "age": 41,
+    "address": {
+        "street": "Scott Garden",
+        "city": "Lake Melody",
+        "state": "Ohio",
+        "zip": "25442"
+    },
+    "contact": {
+        "phone": "783.785.2059",
+        "servicePhone": "800776238"
+    },
+    "birthday": "1984-11-11",
+    "ip": "209.18.255.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Page effect stand production ball act. Box control too she scene will. Reveal clearly letter statement now heavy nothing two.",
+        "bio": "Represent center memory to. Its deal be.\nPlay entire mission. Tough blood answer area likely. Move often wall.\nActually ahead need system already. Truth tonight black newspaper anything."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
