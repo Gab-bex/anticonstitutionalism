@@ -1,0 +1,25 @@
+{
+    "name": "Kenneth Lawrence",
+    "age": 114,
+    "address": {
+        "street": "Potter Knoll",
+        "city": "East Anthony",
+        "state": "North Carolina",
+        "zip": "76488"
+    },
+    "contact": {
+        "phone": "+1-809-689-0823x047",
+        "servicePhone": "800834109"
+    },
+    "birthday": "1911-14-11",
+    "ip": "8.169.198.19",
+    "foo": "bar",
+    "profile": {
+        "about": "Son activity say long. Process if avoid garden. A control save remember feeling color.\nOption talk east forward conference brother.",
+        "bio": "Country whose reach full international. Somebody low book head whole democratic. Under positive budget fear image large."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
