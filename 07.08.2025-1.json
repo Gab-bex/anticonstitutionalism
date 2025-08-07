@@ -1,0 +1,25 @@
+{
+    "name": "Gina Clayton",
+    "age": 2,
+    "address": {
+        "street": "Richards Isle",
+        "city": "Jacquelineburgh",
+        "state": "South Carolina",
+        "zip": "87706"
+    },
+    "contact": {
+        "phone": "579.807.5191",
+        "servicePhone": "800700270"
+    },
+    "birthday": "2023-26-05",
+    "ip": "182.96.124.139",
+    "foo": "bar",
+    "profile": {
+        "about": "Same store wife. Health walk election result turn benefit.\nRather seem Republican ever want staff light one. Rock some few name case since affect soldier.",
+        "bio": "National cold above read develop dog. Listen step Democrat offer difference effect realize. President everyone more family good science out. Impact into pattern him spring exist population skin."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
