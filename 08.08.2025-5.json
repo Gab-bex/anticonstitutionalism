@@ -1,0 +1,25 @@
+{
+    "name": "George Banks",
+    "age": 35,
+    "address": {
+        "street": "Kristina Parkway",
+        "city": "Clayshire",
+        "state": "South Carolina",
+        "zip": "64845"
+    },
+    "contact": {
+        "phone": "905.228.9242x324",
+        "servicePhone": "800010951"
+    },
+    "birthday": "1990-16-05",
+    "ip": "53.212.103.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Better trial whether institution none. Your to nor fly report interest popular. Ask rock rate six.\nThousand throughout impact language. Establish religious word we recognize unit discover.",
+        "bio": "American body campaign. Miss majority care senior kitchen southern writer.\nExpert he season item."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
