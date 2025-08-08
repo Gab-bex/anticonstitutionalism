@@ -1,0 +1,25 @@
+{
+    "name": "Mark Adams",
+    "age": 74,
+    "address": {
+        "street": "Steven Course",
+        "city": "North Wendyside",
+        "state": "Oregon",
+        "zip": "08878"
+    },
+    "contact": {
+        "phone": "+1-991-895-7278x4144",
+        "servicePhone": "800803103"
+    },
+    "birthday": "1951-18-04",
+    "ip": "146.17.241.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Chair during provide cup. Number water way house specific soon. Nice protect agency art. Yeah job sort soon by according six.",
+        "bio": "Attention walk action finally. Involve finally serve teacher another late simply.\nYear his measure old not inside door which. Wall send consumer three speak edge fund."
+    },
+    "currency": [
+        "NOK",
+        "Norwegian krone"
+    ]
+}
