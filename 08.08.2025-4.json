@@ -1,0 +1,25 @@
+{
+    "name": "Mrs. Amy Smith MD",
+    "age": 66,
+    "address": {
+        "street": "Wagner Trafficway",
+        "city": "Smithbury",
+        "state": "Massachusetts",
+        "zip": "93481"
+    },
+    "contact": {
+        "phone": "495-533-3075",
+        "servicePhone": "800105160"
+    },
+    "birthday": "1959-22-04",
+    "ip": "159.68.55.126",
+    "foo": "bar",
+    "profile": {
+        "about": "At last drive important prepare shoulder weight. Smile chance matter then actually per admit.\nLittle so sign reflect pressure always. Fund now exist first board company car.",
+        "bio": "Speak happy how certain. Point goal station consider. Discuss fact another under recent price say."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
