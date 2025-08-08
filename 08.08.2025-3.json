@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Jimenez",
+    "age": 101,
+    "address": {
+        "street": "Ashley Crossing",
+        "city": "South Adrianmouth",
+        "state": "Utah",
+        "zip": "83699"
+    },
+    "contact": {
+        "phone": "(246)733-7348x99461",
+        "servicePhone": "800336873"
+    },
+    "birthday": "1924-10-07",
+    "ip": "202.1.176.65",
+    "foo": "bar",
+    "profile": {
+        "about": "Paper even car class cultural. Note need worker recently bed capital.",
+        "bio": "Many service gun suddenly measure. Treat town action finish rich recently near. Church road benefit unit window himself eye. Able determine modern author."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
