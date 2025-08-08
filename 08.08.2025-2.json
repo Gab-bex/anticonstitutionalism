@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Nelson",
+    "age": 65,
+    "address": {
+        "street": "Amber Brooks",
+        "city": "Ericfort",
+        "state": "Ohio",
+        "zip": "05455"
+    },
+    "contact": {
+        "phone": "+1-965-422-9311x2032",
+        "servicePhone": "800489844"
+    },
+    "birthday": "1960-28-08",
+    "ip": "176.88.129.111",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman whole nice must property too body person. Wind beautiful image full prevent second. Shoulder evening model my cut.",
+        "bio": "Threat information cause. Relationship race piece claim step.\nDrive until place board economy fish. Seek eye region available against some.\nFast know rate recent general."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
