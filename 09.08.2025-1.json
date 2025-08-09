@@ -1,0 +1,25 @@
+{
+    "name": "Danny Parker",
+    "age": 16,
+    "address": {
+        "street": "Greer Court",
+        "city": "Lake Taylorberg",
+        "state": "Connecticut",
+        "zip": "27627"
+    },
+    "contact": {
+        "phone": "001-905-360-9626x3048",
+        "servicePhone": "800119739"
+    },
+    "birthday": "2009-21-10",
+    "ip": "171.0.193.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Customer job young example charge less expert. Never radio group kitchen later career material take. Management after white knowledge. Modern site structure candidate wrong enjoy nation.",
+        "bio": "Write meeting administration stand shoulder. Team report bank.\nAction heart order room far phone. She political at this one hope since."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
