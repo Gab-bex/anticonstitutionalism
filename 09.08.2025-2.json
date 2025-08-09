@@ -1,0 +1,25 @@
+{
+    "name": "Christine Stone",
+    "age": 86,
+    "address": {
+        "street": "Abigail Rest",
+        "city": "Jaredburgh",
+        "state": "Michigan",
+        "zip": "89932"
+    },
+    "contact": {
+        "phone": "(539)700-0056x73532",
+        "servicePhone": "800751423"
+    },
+    "birthday": "1939-02-02",
+    "ip": "92.35.228.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel ask after they fund. Project environmental process guess second.\nInterview include yourself see production. Trouble involve away since.",
+        "bio": "Door able artist conference doctor. Try describe data doctor simply. Enter name far seek test off."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
