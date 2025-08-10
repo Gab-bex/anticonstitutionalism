@@ -1,0 +1,25 @@
+{
+    "name": "Rita Ryan",
+    "age": 99,
+    "address": {
+        "street": "Gregory Station",
+        "city": "Martineztown",
+        "state": "Alabama",
+        "zip": "30394"
+    },
+    "contact": {
+        "phone": "2119835172",
+        "servicePhone": "800525380"
+    },
+    "birthday": "1926-22-02",
+    "ip": "88.102.192.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Mrs book health boy movement few long. People old then wife stuff suggest according.\nFrom machine cell pattern trip. Begin somebody try catch. Accept camera out also poor particularly should.",
+        "bio": "Call game heavy war of our personal.\nMajority more wide teacher traditional until. None shoulder cost what put sea write. Teach commercial rather under building project."
+    },
+    "currency": [
+        "HUF",
+        "Hungarian forint"
+    ]
+}
