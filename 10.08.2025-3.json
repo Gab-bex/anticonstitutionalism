@@ -1,0 +1,25 @@
+{
+    "name": "Brandon Gonzalez",
+    "age": 69,
+    "address": {
+        "street": "Rodriguez Falls",
+        "city": "Port Brianstad",
+        "state": "Iowa",
+        "zip": "78439"
+    },
+    "contact": {
+        "phone": "+1-919-449-1749x21420",
+        "servicePhone": "800760986"
+    },
+    "birthday": "1956-05-08",
+    "ip": "70.213.254.123",
+    "foo": "bar",
+    "profile": {
+        "about": "Trade face way seek and imagine. Than lead too hot water main. Option offer cup meeting teach suddenly cultural. By statement production major line development television road.",
+        "bio": "Story inside measure today life expert civil. Also summer yet blood organization.\nDeep financial movement step. Amount agreement thought group price week mission. When relate close off hit see."
+    },
+    "currency": [
+        "SBD",
+        "Solomon Islands dollar"
+    ]
+}
