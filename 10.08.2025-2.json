@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Morris",
+    "age": 22,
+    "address": {
+        "street": "Christina Spur",
+        "city": "Billyport",
+        "state": "South Carolina",
+        "zip": "60262"
+    },
+    "contact": {
+        "phone": "786.789.7649x170",
+        "servicePhone": "800360669"
+    },
+    "birthday": "2003-15-12",
+    "ip": "192.140.197.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn show teach seven news sure follow. Involve information radio each. Through model rate population if participant green billion.",
+        "bio": "Performance read situation half discover hour hope. Billion my one everybody. Surface ready someone.\nIdea camera see discover. Whose maybe mention reveal begin color."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
