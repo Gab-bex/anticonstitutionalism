@@ -1,0 +1,25 @@
+{
+    "name": "John Reeves",
+    "age": 78,
+    "address": {
+        "street": "Norris Wall",
+        "city": "Lake Taylor",
+        "state": "Hawaii",
+        "zip": "69717"
+    },
+    "contact": {
+        "phone": "466.626.6180x1573",
+        "servicePhone": "800140490"
+    },
+    "birthday": "1947-22-06",
+    "ip": "36.83.97.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Country character leg benefit later. High listen over four very leg nature. Traditional interest room trade economic clear word.",
+        "bio": "Speech gun quality yes class wish maintain. Church represent social former recognize particular.\nOne say building computer. Mean street interest trouble."
+    },
+    "currency": [
+        "ISK",
+        "Icelandic króna"
+    ]
+}
