@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Banks",
+    "age": 4,
+    "address": {
+        "street": "Tim Estates",
+        "city": "South Gary",
+        "state": "Minnesota",
+        "zip": "08140"
+    },
+    "contact": {
+        "phone": "001-227-749-9365x952",
+        "servicePhone": "800511275"
+    },
+    "birthday": "2021-17-03",
+    "ip": "46.147.215.210",
+    "foo": "bar",
+    "profile": {
+        "about": "Year new first. Miss while role ago federal.\nDifferent outside purpose eight six. Nice billion service action question. Argue quite fund difference.",
+        "bio": "Ten support agree body. Stock try effort around discuss he order. Nation another enjoy no sense thus expert.\nFind local election a. Begin matter herself.\nLong late which condition front."
+    },
+    "currency": [
+        "UGX",
+        "Ugandan shilling"
+    ]
+}
