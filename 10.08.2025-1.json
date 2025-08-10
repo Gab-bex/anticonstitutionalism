@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Glover",
+    "age": 7,
+    "address": {
+        "street": "Park Points",
+        "city": "Millerhaven",
+        "state": "Kentucky",
+        "zip": "64548"
+    },
+    "contact": {
+        "phone": "+1-283-438-4649x958",
+        "servicePhone": "800706043"
+    },
+    "birthday": "2018-24-04",
+    "ip": "53.34.210.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Good director think from may lot environmental. Against similar decade.\nOccur next at check the instead friend. Under population no ago. Exist worry type instead thing.",
+        "bio": "All anyone about small consider. Allow program onto either set magazine. Single course popular phone I school gun.\nOfficer bring fact last social true. Ok teacher great cultural."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
