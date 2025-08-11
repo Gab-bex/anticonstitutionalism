@@ -1,0 +1,25 @@
+{
+    "name": "Michael Rowland",
+    "age": 109,
+    "address": {
+        "street": "Neal Stream",
+        "city": "East Cassandra",
+        "state": "Alabama",
+        "zip": "42169"
+    },
+    "contact": {
+        "phone": "791-472-9440x2586",
+        "servicePhone": "800764849"
+    },
+    "birthday": "1916-16-09",
+    "ip": "40.112.231.207",
+    "foo": "bar",
+    "profile": {
+        "about": "Discussion staff hour remain. Trial evidence soldier pay see. Include life finish truth despite drive message.\nExpect free worker not standard they not.",
+        "bio": "Give focus unit next laugh.\nParty option us Congress. Air near table speak seat half act. Front sit both collection end.\nEnough forget old window short."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
