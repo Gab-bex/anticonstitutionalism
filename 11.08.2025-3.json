@@ -1,0 +1,25 @@
+{
+    "name": "Edward Evans",
+    "age": 12,
+    "address": {
+        "street": "Howell Bypass",
+        "city": "New Rhondamouth",
+        "state": "Arkansas",
+        "zip": "76212"
+    },
+    "contact": {
+        "phone": "2605715006",
+        "servicePhone": "800530430"
+    },
+    "birthday": "2013-16-07",
+    "ip": "120.174.120.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Interest yourself care attack word. Because community finally class senior. Rather institution question court.",
+        "bio": "Project weight brother provide. Edge executive along believe hold father onto.\nRule instead center issue. Meeting thousand physical identify movie level card."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}
