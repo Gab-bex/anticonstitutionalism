@@ -1,0 +1,25 @@
+{
+    "name": "Pamela Hardy",
+    "age": 100,
+    "address": {
+        "street": "Stephens Greens",
+        "city": "Matthewside",
+        "state": "Indiana",
+        "zip": "61999"
+    },
+    "contact": {
+        "phone": "9506222521",
+        "servicePhone": "800566912"
+    },
+    "birthday": "1925-07-02",
+    "ip": "57.4.26.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Woman wait may imagine. Agency its street. Blood during memory.\nForget benefit design our service claim. Itself ahead sure save stage. Start almost family American church.",
+        "bio": "East allow poor bar six smile until. Voice college would pass conference. East address risk."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
