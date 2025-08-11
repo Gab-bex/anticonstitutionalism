@@ -1,0 +1,25 @@
+{
+    "name": "Sonya Jones",
+    "age": 45,
+    "address": {
+        "street": "Lopez Canyon",
+        "city": "West Christopherside",
+        "state": "Arizona",
+        "zip": "74569"
+    },
+    "contact": {
+        "phone": "920-674-9868",
+        "servicePhone": "800319517"
+    },
+    "birthday": "1980-03-04",
+    "ip": "209.0.73.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Board summer sea standard. Describe learn until stop history eat. Listen thousand half beautiful. Offer voice population last religious.\nPosition cup interest end these lot. Use agent yet vote huge.",
+        "bio": "Sell very source note. Fish current office history market. Use behavior course to yard prevent."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
