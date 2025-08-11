@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Whitney",
+    "age": 18,
+    "address": {
+        "street": "Patricia Light",
+        "city": "North Shannon",
+        "state": "Connecticut",
+        "zip": "16101"
+    },
+    "contact": {
+        "phone": "711.644.2376x4594",
+        "servicePhone": "800849992"
+    },
+    "birthday": "2007-21-11",
+    "ip": "116.173.98.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Role democratic teach majority five. Financial six could idea onto teach.\nNotice industry nothing want strategy someone. Fire street pretty training wish trouble picture.",
+        "bio": "Single environment sure exactly size.\nPlay put help control go. Sound century boy could class become."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
