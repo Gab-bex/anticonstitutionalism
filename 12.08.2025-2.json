@@ -1,0 +1,25 @@
+{
+    "name": "Kristin Gibson",
+    "age": 40,
+    "address": {
+        "street": "Edward Lodge",
+        "city": "South Jose",
+        "state": "Georgia",
+        "zip": "88560"
+    },
+    "contact": {
+        "phone": "499-837-0791x764",
+        "servicePhone": "800810810"
+    },
+    "birthday": "1985-17-10",
+    "ip": "45.229.28.33",
+    "foo": "bar",
+    "profile": {
+        "about": "Through establish doctor green pick. Finish lay mother send. Expect mean movement case. Stay trade figure may center speech test.\nGreen region for woman pretty ask. Trade growth natural.",
+        "bio": "Morning watch sell position nation meet.\nPretty develop executive suddenly. Front third wish beat. Act certainly look name.\nStrategy focus sit born. Compare modern during voice particular white they."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
