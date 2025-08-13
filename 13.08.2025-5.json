@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Hopkins",
+    "age": 71,
+    "address": {
+        "street": "Webb Village",
+        "city": "Scottville",
+        "state": "Arkansas",
+        "zip": "16439"
+    },
+    "contact": {
+        "phone": "(558)631-8704x854",
+        "servicePhone": "800497556"
+    },
+    "birthday": "1954-28-09",
+    "ip": "123.94.17.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole manager outside store laugh. Once first board matter.\nBy head card now food. Entire model situation little add eight. Still contain man kid meeting.",
+        "bio": "International his little attorney miss. Conference study natural. Put to similar change."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
