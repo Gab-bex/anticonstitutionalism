@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Nelson",
+    "age": 29,
+    "address": {
+        "street": "Justin Branch",
+        "city": "Williamsland",
+        "state": "Florida",
+        "zip": "70954"
+    },
+    "contact": {
+        "phone": "(698)329-8773",
+        "servicePhone": "800298362"
+    },
+    "birthday": "1996-13-05",
+    "ip": "3.59.29.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Major partner than actually their property. Create cost hear ok foot oil. Beautiful however instead service certain design. Ask half challenge.",
+        "bio": "View year hope miss try successful half. Either level child. Some cost involve message you investment available world."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
