@@ -1,0 +1,25 @@
+{
+    "name": "Jimmy Buchanan",
+    "age": 17,
+    "address": {
+        "street": "Teresa Stream",
+        "city": "West Zacharyhaven",
+        "state": "New Jersey",
+        "zip": "33479"
+    },
+    "contact": {
+        "phone": "679-375-7155x578",
+        "servicePhone": "800524614"
+    },
+    "birthday": "2008-20-11",
+    "ip": "121.118.249.222",
+    "foo": "bar",
+    "profile": {
+        "about": "Vote education operation. Big edge some leave me yeah. Whether any painting marriage. Father effort else raise.\nBelieve enough nothing once management thing few. Until eight door environment paper.",
+        "bio": "Term itself happy draw speech. Word spring manager first while expect. For others campaign hair include.\nProfessional night maybe thing when organization across.\nBit size yes much local."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
