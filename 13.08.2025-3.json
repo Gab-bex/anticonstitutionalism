@@ -1,0 +1,25 @@
+{
+    "name": "Jeffrey Deleon",
+    "age": 71,
+    "address": {
+        "street": "Sarah Divide",
+        "city": "Hollandchester",
+        "state": "Nevada",
+        "zip": "57826"
+    },
+    "contact": {
+        "phone": "329-742-4701",
+        "servicePhone": "800564594"
+    },
+    "birthday": "1954-27-09",
+    "ip": "190.228.14.160",
+    "foo": "bar",
+    "profile": {
+        "about": "Exist third administration edge direction. Stock first energy bring.",
+        "bio": "Production at turn beat. Be case wait central toward rate force article.\nReport thought report when important stand personal charge."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
