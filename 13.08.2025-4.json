@@ -1,0 +1,25 @@
+{
+    "name": "Michael Mitchell",
+    "age": 55,
+    "address": {
+        "street": "Taylor Locks",
+        "city": "East Michael",
+        "state": "Kansas",
+        "zip": "79797"
+    },
+    "contact": {
+        "phone": "473-504-9599x076",
+        "servicePhone": "800755338"
+    },
+    "birthday": "1970-19-05",
+    "ip": "142.195.252.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Catch street stage population sit science. Military edge cell ground customer way news agent.",
+        "bio": "Science national record throughout hundred time herself. Write spring fly.\nAfter red have pick. Consumer able girl art country appear."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
