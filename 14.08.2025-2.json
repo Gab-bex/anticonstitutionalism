@@ -1,0 +1,25 @@
+{
+    "name": "Joan Houston",
+    "age": 97,
+    "address": {
+        "street": "Rodriguez Rapid",
+        "city": "Lake Stevenside",
+        "state": "Maine",
+        "zip": "43665"
+    },
+    "contact": {
+        "phone": "001-200-807-2435x60067",
+        "servicePhone": "800533571"
+    },
+    "birthday": "1928-25-07",
+    "ip": "206.209.253.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Strategy media mouth. Century religious mind participant small.\nEvery total than such environment thousand spend building. Kind bar teacher claim customer through.",
+        "bio": "Institution remember raise two. Team trouble position improve professor president produce. Truth positive world necessary individual. Plant democratic she fly."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
