@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Mendoza",
+    "age": 46,
+    "address": {
+        "street": "Berry Lock",
+        "city": "North Jim",
+        "state": "Pennsylvania",
+        "zip": "03997"
+    },
+    "contact": {
+        "phone": "271-643-6403",
+        "servicePhone": "800702005"
+    },
+    "birthday": "1979-27-03",
+    "ip": "5.91.196.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior area each discover that guess. Than line single face risk live large.\nFind world rate different.",
+        "bio": "Five imagine cold large drop. Provide yard office rock sometimes. Call bar treat arm order standard dinner."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
