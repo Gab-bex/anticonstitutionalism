@@ -1,0 +1,25 @@
+{
+    "name": "David Kelly",
+    "age": 12,
+    "address": {
+        "street": "Joseph Port",
+        "city": "Stephenhaven",
+        "state": "Alaska",
+        "zip": "52304"
+    },
+    "contact": {
+        "phone": "001-972-245-8021x037",
+        "servicePhone": "800825196"
+    },
+    "birthday": "2013-05-12",
+    "ip": "204.137.222.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon light firm. Despite speak common us moment water hospital. To blood than management course upon too.",
+        "bio": "Hair management gas. Wall represent spend class a.\nRace executive region who effort his might. Us of see end treat. Rock return explain direction model market summer beat."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
