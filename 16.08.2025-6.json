@@ -1,0 +1,25 @@
+{
+    "name": "Colin Floyd",
+    "age": 49,
+    "address": {
+        "street": "Allen Heights",
+        "city": "Goodwinview",
+        "state": "Maine",
+        "zip": "74564"
+    },
+    "contact": {
+        "phone": "630.941.0895",
+        "servicePhone": "800850016"
+    },
+    "birthday": "1976-16-11",
+    "ip": "88.252.115.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Region green wonder spring few government recent. Remain walk stock campaign everyone so officer as. Assume financial ever agree best land adult.",
+        "bio": "Letter gas generation region choice. Fill sea near director.\nNeed carry financial focus across. Four beautiful into question lawyer."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
