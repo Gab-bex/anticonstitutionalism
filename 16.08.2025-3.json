@@ -1,0 +1,25 @@
+{
+    "name": "Riley White",
+    "age": 114,
+    "address": {
+        "street": "Lane Rapid",
+        "city": "Lake Timothy",
+        "state": "South Carolina",
+        "zip": "35198"
+    },
+    "contact": {
+        "phone": "(365)566-4815x15317",
+        "servicePhone": "800375658"
+    },
+    "birthday": "1911-10-02",
+    "ip": "107.35.210.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Another enter would walk certainly phone detail economy. Tree central computer camera sometimes network. Huge poor happy attack.",
+        "bio": "Interest month social morning though hospital only despite. Building wide experience message area bar. Charge understand street something safe the medical.\nKind by notice table society."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
