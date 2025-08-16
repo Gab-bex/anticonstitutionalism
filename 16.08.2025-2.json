@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Thomas",
+    "age": 22,
+    "address": {
+        "street": "Patel Radial",
+        "city": "Graymouth",
+        "state": "Wyoming",
+        "zip": "75501"
+    },
+    "contact": {
+        "phone": "757.266.9536",
+        "servicePhone": "800613289"
+    },
+    "birthday": "2003-02-07",
+    "ip": "125.252.80.26",
+    "foo": "bar",
+    "profile": {
+        "about": "School international situation lead. Maybe food house easy. President production we new executive service.\nIts away least question their board success. Democrat best whether until around.",
+        "bio": "Office almost alone civil. Office town perhaps during.\nMake itself enter some. Price force edge both occur visit. Few happy new film now him rest. Claim sit national glass."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}
