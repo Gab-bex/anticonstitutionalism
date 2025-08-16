@@ -1,0 +1,25 @@
+{
+    "name": "Paul Ramirez",
+    "age": 49,
+    "address": {
+        "street": "Olson Ranch",
+        "city": "New Keith",
+        "state": "Wyoming",
+        "zip": "41255"
+    },
+    "contact": {
+        "phone": "+1-610-929-7783x7729",
+        "servicePhone": "800950451"
+    },
+    "birthday": "1976-17-08",
+    "ip": "115.22.110.107",
+    "foo": "bar",
+    "profile": {
+        "about": "Experience article college occur.\nFirst occur toward describe tax would. Top stay artist anything reason high discussion feel.",
+        "bio": "Share human blood clearly ok under audience safe. Provide hair just wrong everything.\nShort certainly fine score grow especially. Research allow security past."
+    },
+    "currency": [
+        "VEF",
+        "Venezuelan bolívar"
+    ]
+}
