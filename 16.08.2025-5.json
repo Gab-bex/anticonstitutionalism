@@ -1,0 +1,25 @@
+{
+    "name": "Chelsea Hamilton",
+    "age": 106,
+    "address": {
+        "street": "Williams Burgs",
+        "city": "New Frances",
+        "state": "Montana",
+        "zip": "32197"
+    },
+    "contact": {
+        "phone": "(857)605-1376x923",
+        "servicePhone": "800027350"
+    },
+    "birthday": "1919-23-01",
+    "ip": "181.210.85.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Mention type method international including. Yet edge project. Kid market customer.",
+        "bio": "Challenge him house memory if onto. Peace tax seem put.\nEnvironment two model officer. Anyone this season foot."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
