@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Williams",
+    "age": 48,
+    "address": {
+        "street": "Edward Oval",
+        "city": "Vanessamouth",
+        "state": "Washington",
+        "zip": "53821"
+    },
+    "contact": {
+        "phone": "4138845926",
+        "servicePhone": "800915827"
+    },
+    "birthday": "1977-29-09",
+    "ip": "92.54.244.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Turn look modern than stop worker. Message return nation almost often leave.\nCover drive morning food myself off light often. Yourself water bit rate become safe share.",
+        "bio": "Cultural past power born usually key around. Game positive production across. Grow account brother.\nLittle lot style field. Us down senior either argue court."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
