@@ -1,0 +1,25 @@
+{
+    "name": "Misty Ruiz",
+    "age": 20,
+    "address": {
+        "street": "Sonya Turnpike",
+        "city": "West Terri",
+        "state": "West Virginia",
+        "zip": "80860"
+    },
+    "contact": {
+        "phone": "517-583-0223x6238",
+        "servicePhone": "800653866"
+    },
+    "birthday": "2005-04-02",
+    "ip": "124.127.115.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Main three why than mean offer. Science some reality speech tonight region.",
+        "bio": "Soldier one out. Possible degree common knowledge while. Toward instead arm social kind natural. Peace author me market series true.\nElection son face ask wear when help bit. Leg serve street senior."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
