@@ -1,0 +1,25 @@
+{
+    "name": "Joyce Daniel",
+    "age": 28,
+    "address": {
+        "street": "Williams Crescent",
+        "city": "Tammyport",
+        "state": "Oklahoma",
+        "zip": "02106"
+    },
+    "contact": {
+        "phone": "515-897-5301",
+        "servicePhone": "800192458"
+    },
+    "birthday": "1997-30-08",
+    "ip": "180.214.190.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Seek fill film key make discuss. Option memory campaign agent partner outside.\nAs career open check power. Draw program small matter power.",
+        "bio": "Evening political without statement foreign officer. Make set security allow.\nHe home common charge treatment tough. Whether citizen again national relate be."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
