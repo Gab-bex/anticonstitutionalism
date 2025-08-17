@@ -1,0 +1,25 @@
+{
+    "name": "Maria Butler",
+    "age": 38,
+    "address": {
+        "street": "Jessica Shoal",
+        "city": "Angelastad",
+        "state": "Rhode Island",
+        "zip": "70197"
+    },
+    "contact": {
+        "phone": "(639)431-5751",
+        "servicePhone": "800736988"
+    },
+    "birthday": "1987-01-05",
+    "ip": "7.92.107.164",
+    "foo": "bar",
+    "profile": {
+        "about": "Important task still two. Official win where. Gun opportunity their investment history debate government. Continue rather scientist window speech find.",
+        "bio": "Image including turn animal everything report job. Board those meet cut price. Resource buy whom article Democrat."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
