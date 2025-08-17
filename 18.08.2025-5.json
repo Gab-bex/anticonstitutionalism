@@ -1,0 +1,25 @@
+{
+    "name": "Anthony Garcia",
+    "age": 104,
+    "address": {
+        "street": "Richard Plain",
+        "city": "Haysland",
+        "state": "Washington",
+        "zip": "82673"
+    },
+    "contact": {
+        "phone": "918.461.5597x4685",
+        "servicePhone": "800423789"
+    },
+    "birthday": "1921-26-09",
+    "ip": "129.30.141.196",
+    "foo": "bar",
+    "profile": {
+        "about": "They third not number member both wind.\nPaper hard direction century design move. Eight arm prepare friend pass better entire along.\nWell blood idea crime.",
+        "bio": "Hotel should here year as everything ask along. Something standard follow its point. End base office game reveal water agency."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
