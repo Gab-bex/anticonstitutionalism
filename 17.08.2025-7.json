@@ -1,0 +1,25 @@
+{
+    "name": "Jacob Clark",
+    "age": 37,
+    "address": {
+        "street": "Smith Avenue",
+        "city": "Grossmouth",
+        "state": "Wyoming",
+        "zip": "75483"
+    },
+    "contact": {
+        "phone": "499.254.9501x778",
+        "servicePhone": "800250479"
+    },
+    "birthday": "1988-25-11",
+    "ip": "165.121.13.223",
+    "foo": "bar",
+    "profile": {
+        "about": "Activity science event then. Green job outside wear them fast thus. Condition read close garden despite hotel.\nWeek mention bad decision list gas night.",
+        "bio": "Building professor police mother thank. Parent no fly fish beautiful food let. Man plant accept friend police over."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
