@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Roberts",
+    "age": 50,
+    "address": {
+        "street": "Shannon Pine",
+        "city": "Jonesmouth",
+        "state": "South Carolina",
+        "zip": "34399"
+    },
+    "contact": {
+        "phone": "001-844-217-5043",
+        "servicePhone": "800887830"
+    },
+    "birthday": "1975-21-11",
+    "ip": "26.120.73.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Ago pull talk job financial. Possible situation which glass listen gun. Bill hotel raise bring ever fall.\nControl foot might feel. Wall race dinner last. Subject kind number answer.",
+        "bio": "Four though exactly around interest. Such country country that cause magazine senior. Seven social money increase newspaper public result."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}
