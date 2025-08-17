@@ -1,0 +1,25 @@
+{
+    "name": "Edward Levy DDS",
+    "age": 32,
+    "address": {
+        "street": "Smith Lodge",
+        "city": "Huntstad",
+        "state": "Alaska",
+        "zip": "79308"
+    },
+    "contact": {
+        "phone": "4068737262",
+        "servicePhone": "800028607"
+    },
+    "birthday": "1993-24-03",
+    "ip": "148.159.207.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Style ability save most indicate. Strong why sense city several somebody. Phone western ok seek. Loss sea poor budget.",
+        "bio": "Table meet feeling color game new drive option. Interest I low hear."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
