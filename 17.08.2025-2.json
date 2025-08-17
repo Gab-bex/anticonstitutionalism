@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Brady",
+    "age": 96,
+    "address": {
+        "street": "Smith Green",
+        "city": "Lake Jennifer",
+        "state": "Montana",
+        "zip": "30796"
+    },
+    "contact": {
+        "phone": "928.600.6290x14628",
+        "servicePhone": "800121737"
+    },
+    "birthday": "1929-06-10",
+    "ip": "204.233.22.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Middle home ask cause politics simply. Scene poor fly finish beat help hour. Development we me.",
+        "bio": "Force worry agent memory check. Fact accept begin else team.\nProgram director heavy my at. Season view exactly as event two or. Treat run conference action bed treat large."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
