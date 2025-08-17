@@ -1,0 +1,25 @@
+{
+    "name": "Angela Mccall",
+    "age": 60,
+    "address": {
+        "street": "Tammy Roads",
+        "city": "New Peterville",
+        "state": "West Virginia",
+        "zip": "78277"
+    },
+    "contact": {
+        "phone": "+1-794-621-8362x0879",
+        "servicePhone": "800498121"
+    },
+    "birthday": "1965-25-06",
+    "ip": "139.115.40.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Article defense lead part enough them. President teacher including.\nBillion tough just test throughout. Always pass fact offer work attorney national.",
+        "bio": "Race and kid. Interest child perform grow sound senior more. Time population most understand federal try likely."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
