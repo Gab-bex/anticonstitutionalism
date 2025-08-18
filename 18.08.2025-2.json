@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Cherry",
+    "age": 98,
+    "address": {
+        "street": "Roberson Junction",
+        "city": "Port Amber",
+        "state": "Montana",
+        "zip": "51575"
+    },
+    "contact": {
+        "phone": "(897)349-6616x1574",
+        "servicePhone": "800520281"
+    },
+    "birthday": "1927-28-01",
+    "ip": "130.48.148.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Game trial firm every employee very boy. Pick will and heavy ok election. Whether memory campaign. Baby beyond hour.\nOffice win since stand. Yourself off economy near thus however financial.",
+        "bio": "Run situation nation four outside tend believe. Generation service prevent group reveal usually.\nHead than adult material civil. Actually ground girl beat institution."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
