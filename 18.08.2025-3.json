@@ -1,0 +1,25 @@
+{
+    "name": "Kim Spencer",
+    "age": 24,
+    "address": {
+        "street": "Darius Union",
+        "city": "Collinsfort",
+        "state": "Ohio",
+        "zip": "46205"
+    },
+    "contact": {
+        "phone": "951-631-7682",
+        "servicePhone": "800408016"
+    },
+    "birthday": "2001-12-04",
+    "ip": "220.126.251.178",
+    "foo": "bar",
+    "profile": {
+        "about": "Hard meeting water half compare build. Identify relationship hundred send claim human. Ago scene glass west.",
+        "bio": "Analysis stop power animal dream two.\nParticipant risk top. Southern heavy perform.\nChoice argue agency point on. Couple around nothing go."
+    },
+    "currency": [
+        "BDT",
+        "Bangladeshi taka"
+    ]
+}
