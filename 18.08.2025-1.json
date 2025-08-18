@@ -1,0 +1,25 @@
+{
+    "name": "Trevor Diaz",
+    "age": 81,
+    "address": {
+        "street": "Vasquez Court",
+        "city": "Smithton",
+        "state": "Maryland",
+        "zip": "04245"
+    },
+    "contact": {
+        "phone": "392.770.1026x665",
+        "servicePhone": "800344177"
+    },
+    "birthday": "1944-07-11",
+    "ip": "151.207.123.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Management anything no good guess plant.\nIdea summer soldier reflect.",
+        "bio": "Myself foreign goal after cover. Red once price interesting game hear quality. Republican Mr different shoulder they cultural."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
