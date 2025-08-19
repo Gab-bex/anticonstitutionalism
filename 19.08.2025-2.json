@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Dennis",
+    "age": 108,
+    "address": {
+        "street": "Cindy Keys",
+        "city": "Port Jonathan",
+        "state": "Kentucky",
+        "zip": "82073"
+    },
+    "contact": {
+        "phone": "8236323922",
+        "servicePhone": "800019604"
+    },
+    "birthday": "1917-24-01",
+    "ip": "156.163.2.167",
+    "foo": "bar",
+    "profile": {
+        "about": "Example poor president understand letter open national. Better cost many political million face fast.\nCommunity deal point table. Teach hard believe education partner nation behavior.",
+        "bio": "Reality number scene leader true country. Staff stock help. Street view point significant one nothing husband I.\nDrive reason she partner position beautiful still whole."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
