@@ -1,0 +1,25 @@
+{
+    "name": "Amber Gonzalez",
+    "age": 80,
+    "address": {
+        "street": "Lori Throughway",
+        "city": "Port Michelle",
+        "state": "Virginia",
+        "zip": "60582"
+    },
+    "contact": {
+        "phone": "316-978-3979",
+        "servicePhone": "800357685"
+    },
+    "birthday": "1945-12-12",
+    "ip": "151.196.3.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat ten laugh. Land short person term despite somebody. Sister news on.",
+        "bio": "Wonder stage find to north floor far. Expert feeling actually quite modern push wonder."
+    },
+    "currency": [
+        "SYP",
+        "Syrian pound"
+    ]
+}
