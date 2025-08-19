@@ -1,0 +1,25 @@
+{
+    "name": "Traci Hall",
+    "age": 109,
+    "address": {
+        "street": "Shaw Course",
+        "city": "Tranview",
+        "state": "Colorado",
+        "zip": "84781"
+    },
+    "contact": {
+        "phone": "819-404-7050x713",
+        "servicePhone": "800813930"
+    },
+    "birthday": "1916-06-09",
+    "ip": "213.133.107.70",
+    "foo": "bar",
+    "profile": {
+        "about": "Social job they break serve away.\nEnvironment goal pressure white firm allow. Exist above start appear trade interesting drive. Owner trade pay standard.",
+        "bio": "Sing interview mother people.\nSingle also side high effect another. Explain research charge south nation picture."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
