@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Morales",
+    "age": 77,
+    "address": {
+        "street": "Jones Trail",
+        "city": "Bowenport",
+        "state": "South Dakota",
+        "zip": "37909"
+    },
+    "contact": {
+        "phone": "(675)239-9795x159",
+        "servicePhone": "800227013"
+    },
+    "birthday": "1948-16-11",
+    "ip": "148.232.110.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Join player appear light close. Adult on marriage sign everything. Attorney none hour lot imagine.\nLikely tree consider enough. Market control music change reach.",
+        "bio": "Door effect grow for medical. Maybe address weight school live. Popular assume statement we science."
+    },
+    "currency": [
+        "GTQ",
+        "Guatemalan quetzal"
+    ]
+}
