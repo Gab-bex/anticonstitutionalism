@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Wilkins",
+    "age": 10,
+    "address": {
+        "street": "Owens Meadow",
+        "city": "West Aliciaton",
+        "state": "Kentucky",
+        "zip": "53948"
+    },
+    "contact": {
+        "phone": "603-807-7810x305",
+        "servicePhone": "800959265"
+    },
+    "birthday": "2015-06-04",
+    "ip": "39.208.114.239",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready or resource result. Wrong skin meeting society much memory view. Difference few go either really long often pick.",
+        "bio": "Treat mind company television. Work own husband kind however teacher. Able west police.\nWriter pattern strategy me impact game. Leave generation begin shake."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
