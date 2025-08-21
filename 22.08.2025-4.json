@@ -1,0 +1,25 @@
+{
+    "name": "Shari Koch",
+    "age": 34,
+    "address": {
+        "street": "John Mount",
+        "city": "Jackiefurt",
+        "state": "Wyoming",
+        "zip": "57418"
+    },
+    "contact": {
+        "phone": "413.819.9388x356",
+        "servicePhone": "800749795"
+    },
+    "birthday": "1991-30-04",
+    "ip": "14.10.138.0",
+    "foo": "bar",
+    "profile": {
+        "about": "Something although above many stuff. Trouble simple arrive item appear itself. Debate son value our investment.\nMachine probably voice carry guy series. Account year whose ago black.",
+        "bio": "Course for prove. Bank break increase.\nMarket director century growth somebody they. Industry draw nice chance start better number course. Treat else place other loss little."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
