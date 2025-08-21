@@ -1,0 +1,25 @@
+{
+    "name": "Maria Davis",
+    "age": 87,
+    "address": {
+        "street": "Kirby Pines",
+        "city": "Heatherside",
+        "state": "Delaware",
+        "zip": "22656"
+    },
+    "contact": {
+        "phone": "+1-572-678-4900x9803",
+        "servicePhone": "800025512"
+    },
+    "birthday": "1938-03-03",
+    "ip": "207.0.47.120",
+    "foo": "bar",
+    "profile": {
+        "about": "Person foreign administration public. Possible thing much property same.\nCitizen material program together year happy. Fear feeling end detail.",
+        "bio": "Necessary great card develop couple piece television nothing. Religious wonder popular still whether.\nIts film employee remember second among determine weight. Own executive military suffer."
+    },
+    "currency": [
+        "DKK",
+        "Danish krone"
+    ]
+}
