@@ -1,0 +1,25 @@
+{
+    "name": "Shelly White",
+    "age": 12,
+    "address": {
+        "street": "Timothy Pine",
+        "city": "Port Pamela",
+        "state": "Iowa",
+        "zip": "69663"
+    },
+    "contact": {
+        "phone": "839.705.8230",
+        "servicePhone": "800854997"
+    },
+    "birthday": "2013-22-09",
+    "ip": "75.71.27.177",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear history rule bed fear less. Owner good budget explain.\nThese read media clear scientist. Program manage trade. Technology election different name bed require.",
+        "bio": "Attention seven wall continue charge now. Different morning word week picture Democrat computer only. Night process difference face never young per.\nGarden age billion finally."
+    },
+    "currency": [
+        "CNY",
+        "Renminbi"
+    ]
+}
