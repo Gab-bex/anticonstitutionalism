@@ -1,0 +1,25 @@
+{
+    "name": "Maria Warren",
+    "age": 100,
+    "address": {
+        "street": "Heidi Loaf",
+        "city": "North Robert",
+        "state": "Nebraska",
+        "zip": "92656"
+    },
+    "contact": {
+        "phone": "(721)603-0824",
+        "servicePhone": "800216492"
+    },
+    "birthday": "1925-05-11",
+    "ip": "211.141.43.226",
+    "foo": "bar",
+    "profile": {
+        "about": "Think discuss woman. Take shoulder determine important lawyer. Picture vote provide whom image.",
+        "bio": "Range community why part put. Democratic my recently nor sign north subject.\nArticle claim bank threat. Your add compare model feel box. Business lose road. Know sea language but its senior suggest."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
