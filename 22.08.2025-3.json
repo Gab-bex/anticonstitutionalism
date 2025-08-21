@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Smith",
+    "age": 90,
+    "address": {
+        "street": "Vaughan Drive",
+        "city": "Aaronside",
+        "state": "Missouri",
+        "zip": "25323"
+    },
+    "contact": {
+        "phone": "(632)713-1627x55244",
+        "servicePhone": "800222905"
+    },
+    "birthday": "1935-15-11",
+    "ip": "218.139.58.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Respond success center. Decision tonight board continue go ready so until.\nShould green economic lot. Cause long data change.",
+        "bio": "Offer skin develop employee someone simply. If almost near special forget affect more. Hair dog society these."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
