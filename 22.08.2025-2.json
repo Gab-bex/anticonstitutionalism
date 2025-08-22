@@ -1,0 +1,25 @@
+{
+    "name": "Catherine Chen",
+    "age": 79,
+    "address": {
+        "street": "Gina Village",
+        "city": "East James",
+        "state": "Michigan",
+        "zip": "65431"
+    },
+    "contact": {
+        "phone": "9298275590",
+        "servicePhone": "800060830"
+    },
+    "birthday": "1946-13-11",
+    "ip": "215.16.157.103",
+    "foo": "bar",
+    "profile": {
+        "about": "To language measure edge perhaps pretty. Bill act new modern. Effort gun all near of property.",
+        "bio": "Lawyer hair may population nothing budget myself. Common include writer fight upon light office want. Line laugh today.\nFace issue on threat respond past budget. Option structure little catch."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
