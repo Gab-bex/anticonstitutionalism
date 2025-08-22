@@ -1,0 +1,25 @@
+{
+    "name": "Justin Watson",
+    "age": 105,
+    "address": {
+        "street": "Torres Knolls",
+        "city": "Davidstad",
+        "state": "Kansas",
+        "zip": "17627"
+    },
+    "contact": {
+        "phone": "5348448126",
+        "servicePhone": "800836208"
+    },
+    "birthday": "1920-29-06",
+    "ip": "102.218.60.78",
+    "foo": "bar",
+    "profile": {
+        "about": "Police senior citizen ever ground listen. News final story cut.",
+        "bio": "Bank data along team land purpose prevent.\nStructure position home family interview security thousand. Six long meet. Bring common beyond prevent class."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
