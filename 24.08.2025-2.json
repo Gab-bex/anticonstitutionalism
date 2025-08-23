@@ -1,0 +1,25 @@
+{
+    "name": "Brandy Mitchell",
+    "age": 65,
+    "address": {
+        "street": "Katie Locks",
+        "city": "Gomezmouth",
+        "state": "Oregon",
+        "zip": "39848"
+    },
+    "contact": {
+        "phone": "398-608-5034x294",
+        "servicePhone": "800936409"
+    },
+    "birthday": "1960-11-03",
+    "ip": "40.122.63.7",
+    "foo": "bar",
+    "profile": {
+        "about": "Build save behavior fast first. End your report fish central action. Enough west check someone can.\nNever especially thing century book quite. Cause share forward trade store.",
+        "bio": "Prove bar page manager true source agency. Drive thousand American perhaps admit assume she. Pattern something office month building."
+    },
+    "currency": [
+        "GHS",
+        "Ghanaian cedi"
+    ]
+}
