@@ -1,0 +1,25 @@
+{
+    "name": "Hector Vasquez",
+    "age": 36,
+    "address": {
+        "street": "Alison Mountain",
+        "city": "Lake Matthew",
+        "state": "Alaska",
+        "zip": "38016"
+    },
+    "contact": {
+        "phone": "369.867.2711x903",
+        "servicePhone": "800993910"
+    },
+    "birthday": "1989-16-03",
+    "ip": "126.55.74.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Environmental social know. Away authority mother suffer material.\nCold until occur reality. Chance financial when account but.",
+        "bio": "Amount production country decision else. Today recognize color discuss. Everything nation around wonder. Sister office how huge agency."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
