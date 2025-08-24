@@ -1,0 +1,25 @@
+{
+    "name": "Stephanie Baldwin",
+    "age": 15,
+    "address": {
+        "street": "Kristin Mountains",
+        "city": "South Shirleymouth",
+        "state": "Georgia",
+        "zip": "37084"
+    },
+    "contact": {
+        "phone": "(636)243-9570x223",
+        "servicePhone": "800983870"
+    },
+    "birthday": "2010-15-05",
+    "ip": "124.31.254.105",
+    "foo": "bar",
+    "profile": {
+        "about": "Policy usually rate actually party edge work.\nBit page project. Better same reflect.\nStay white big. Campaign discover hope family wrong edge second.",
+        "bio": "Likely show factor name party authority well crime.\nHe specific thought significant. What candidate southern player. Drug discover standard condition simple."
+    },
+    "currency": [
+        "CAD",
+        "Canadian dollar"
+    ]
+}
