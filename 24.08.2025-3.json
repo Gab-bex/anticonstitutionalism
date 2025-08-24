@@ -1,0 +1,25 @@
+{
+    "name": "Michaela Stephens",
+    "age": 66,
+    "address": {
+        "street": "Joseph Land",
+        "city": "Jamesfort",
+        "state": "Nebraska",
+        "zip": "99287"
+    },
+    "contact": {
+        "phone": "824-204-1574x4424",
+        "servicePhone": "800434716"
+    },
+    "birthday": "1959-10-12",
+    "ip": "176.91.110.144",
+    "foo": "bar",
+    "profile": {
+        "about": "Night draw difficult night employee third lose. Range former visit page bag soon star friend.",
+        "bio": "Authority price over commercial decide. Any can save bad low.\nBlack various southern mouth woman development. Yeah with growth public."
+    },
+    "currency": [
+        "PEN",
+        "Peruvian sol"
+    ]
+}
