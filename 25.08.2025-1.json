@@ -1,0 +1,25 @@
+{
+    "name": "Amber Andrade",
+    "age": 35,
+    "address": {
+        "street": "Angela Crescent",
+        "city": "Jamesfort",
+        "state": "Louisiana",
+        "zip": "36570"
+    },
+    "contact": {
+        "phone": "2948988277",
+        "servicePhone": "800894161"
+    },
+    "birthday": "1990-04-03",
+    "ip": "70.186.32.84",
+    "foo": "bar",
+    "profile": {
+        "about": "Large shake among most first for price. Ground trip window name art research build. Among office difficult democratic once eight expert. Natural her serve because change.",
+        "bio": "Though machine artist develop. Arm a heavy now not three claim. Congress put according along."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
