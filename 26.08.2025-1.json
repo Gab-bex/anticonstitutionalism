@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Price",
+    "age": 45,
+    "address": {
+        "street": "Robert Forks",
+        "city": "Wilsonbury",
+        "state": "New Jersey",
+        "zip": "26104"
+    },
+    "contact": {
+        "phone": "001-438-345-3797x299",
+        "servicePhone": "800024738"
+    },
+    "birthday": "1980-20-06",
+    "ip": "158.228.38.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Well goal mention sure card rate around. Would there score poor. Ok cell character provide sister. Report spring fight each event major throughout religious.",
+        "bio": "Interest physical will near check by recently daughter. End conference party late red.\nSenior authority Congress four police wife coach thousand. Painting improve guess trip fast assume."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
