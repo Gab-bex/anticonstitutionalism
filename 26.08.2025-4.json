@@ -1,0 +1,25 @@
+{
+    "name": "Tammy Martin",
+    "age": 43,
+    "address": {
+        "street": "Burch Courts",
+        "city": "West Nataliefort",
+        "state": "Alaska",
+        "zip": "88825"
+    },
+    "contact": {
+        "phone": "(603)784-4472",
+        "servicePhone": "800096975"
+    },
+    "birthday": "1982-20-09",
+    "ip": "132.195.215.192",
+    "foo": "bar",
+    "profile": {
+        "about": "According join network crime everything behavior summer.\nRelate food forget sit stage.\nStill grow design term own produce. Sound finish name fly answer. Really town medical spring sort minute.",
+        "bio": "Parent film century goal care whatever crime tough. Loss value turn can add language.\nUse nearly adult. Economic college while way remain glass nice. Floor leader effect."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
