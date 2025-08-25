@@ -1,0 +1,25 @@
+{
+    "name": "Crystal Ramirez",
+    "age": 84,
+    "address": {
+        "street": "Williamson Turnpike",
+        "city": "Leeburgh",
+        "state": "Mississippi",
+        "zip": "57021"
+    },
+    "contact": {
+        "phone": "001-764-449-4333",
+        "servicePhone": "800660614"
+    },
+    "birthday": "1941-28-07",
+    "ip": "41.170.101.143",
+    "foo": "bar",
+    "profile": {
+        "about": "Big guess already study until rather base. Despite trial individual be scientist. Daughter blood chance east turn television.",
+        "bio": "Building certainly deal order sign prevent. Lead size idea million trip. Arm unit successful tree note beat. Professional common official."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
