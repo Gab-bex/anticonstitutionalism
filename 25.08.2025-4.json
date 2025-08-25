@@ -1,0 +1,25 @@
+{
+    "name": "Robert Tucker",
+    "age": 112,
+    "address": {
+        "street": "Sloan Route",
+        "city": "Terriberg",
+        "state": "Utah",
+        "zip": "21204"
+    },
+    "contact": {
+        "phone": "902-319-9507",
+        "servicePhone": "800329881"
+    },
+    "birthday": "1913-05-07",
+    "ip": "11.96.76.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Data nation tell very. Choice establish home range.\nTechnology upon around want those security home. Clearly ready station talk cut. Moment also hope five director understand because.",
+        "bio": "Start reduce special relationship half should. Many lay sort finally common carry see.\nCulture marriage forget season skin civil every. Pass church find second south power."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
