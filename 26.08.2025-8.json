@@ -1,0 +1,25 @@
+{
+    "name": "Felicia Green",
+    "age": 61,
+    "address": {
+        "street": "Zachary Terrace",
+        "city": "Port Dwaynetown",
+        "state": "Georgia",
+        "zip": "38457"
+    },
+    "contact": {
+        "phone": "628.915.4120",
+        "servicePhone": "800243814"
+    },
+    "birthday": "1964-05-03",
+    "ip": "49.225.181.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Growth front fire air beyond husband husband. Former weight guy chance sister school attention. Special sing attack brother performance.\nCatch seek physical seek. Live him message friend.",
+        "bio": "On writer think direction ball why. Break bring rise develop either.\nAnimal American agreement town. Impact choose cell fast medical prevent arrive language."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
