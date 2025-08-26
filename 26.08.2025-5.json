@@ -1,0 +1,25 @@
+{
+    "name": "Karen Fischer",
+    "age": 6,
+    "address": {
+        "street": "Xavier Manor",
+        "city": "Jenkinsburgh",
+        "state": "New York",
+        "zip": "49563"
+    },
+    "contact": {
+        "phone": "385-934-7479",
+        "servicePhone": "800693561"
+    },
+    "birthday": "2019-24-06",
+    "ip": "182.102.70.104",
+    "foo": "bar",
+    "profile": {
+        "about": "Send deep whatever tough particular where after. Less do deal alone else check.\nMusic business performance job develop. Believe much born recognize. Method continue center.",
+        "bio": "Investment capital they want she only. Major move night.\nStyle throughout local wait political such. Career order wind fish compare."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
