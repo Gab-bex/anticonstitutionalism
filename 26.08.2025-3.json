@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Vang",
+    "age": 40,
+    "address": {
+        "street": "Justin Keys",
+        "city": "South Melanieton",
+        "state": "Delaware",
+        "zip": "80582"
+    },
+    "contact": {
+        "phone": "371-526-7220",
+        "servicePhone": "800686699"
+    },
+    "birthday": "1985-31-10",
+    "ip": "81.102.162.154",
+    "foo": "bar",
+    "profile": {
+        "about": "Early meet continue board field. Wait season husband help way trouble. Human majority Republican country part.\nDemocratic push own child class head interview. Student central go.",
+        "bio": "Show expect owner herself name deep why financial. Doctor adult animal tell front top wait. Lead phone dinner civil."
+    },
+    "currency": [
+        "BAM",
+        "Bosnia and Herzegovina convertible mark"
+    ]
+}
