@@ -1,0 +1,25 @@
+{
+    "name": "Heather House",
+    "age": 90,
+    "address": {
+        "street": "Donald Square",
+        "city": "Dwayneside",
+        "state": "Hawaii",
+        "zip": "10915"
+    },
+    "contact": {
+        "phone": "754.991.2345x6606",
+        "servicePhone": "800424972"
+    },
+    "birthday": "1935-31-03",
+    "ip": "50.71.23.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Upon crime mind both receive who run position. Unit impact cost condition. Respond realize consider find.",
+        "bio": "Story sing then upon training place for. Lay clear southern sort.\nReality response wide.\nSenior different wait power crime. See ground environment rise evening. Never heart government."
+    },
+    "currency": [
+        "GNF",
+        "Guinean franc"
+    ]
+}
