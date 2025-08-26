@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Lawson",
+    "age": 10,
+    "address": {
+        "street": "Jason Track",
+        "city": "Lake Melanieland",
+        "state": "Michigan",
+        "zip": "62138"
+    },
+    "contact": {
+        "phone": "(247)484-9676x5229",
+        "servicePhone": "800533781"
+    },
+    "birthday": "2015-02-09",
+    "ip": "175.78.176.99",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening owner believe why possible their. Evening who choose better. Interesting probably such mention type.\nWhite when over forward rather capital. Though board can. Miss everyone piece.",
+        "bio": "Modern police employee there become three ever energy. Game least move cold ever song team notice. Make light job pay."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
