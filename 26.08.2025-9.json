@@ -1,0 +1,25 @@
+{
+    "name": "Jose Thomas",
+    "age": 23,
+    "address": {
+        "street": "Patricia Prairie",
+        "city": "East Gina",
+        "state": "Florida",
+        "zip": "40361"
+    },
+    "contact": {
+        "phone": "201-684-7609",
+        "servicePhone": "800758266"
+    },
+    "birthday": "2002-11-02",
+    "ip": "219.107.120.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Call able investment director avoid. Difficult special soon decade. Same board direction should fire investment whatever.",
+        "bio": "Interview finish tough dream mean worry player. Debate everyone money say thus.\nStep race establish together local.\nUntil some member night these half. Camera able its soldier."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
