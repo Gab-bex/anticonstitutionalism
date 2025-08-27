@@ -1,0 +1,25 @@
+{
+    "name": "Sherri Roman",
+    "age": 5,
+    "address": {
+        "street": "Donald Glen",
+        "city": "Juliemouth",
+        "state": "New Hampshire",
+        "zip": "34910"
+    },
+    "contact": {
+        "phone": "997.647.5026x63620",
+        "servicePhone": "800828593"
+    },
+    "birthday": "2020-24-10",
+    "ip": "156.242.103.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Financial expert prepare generation. Effect politics hair consumer different it. Head stock dog memory billion country.\nSupport pull put best. Run level institution as night.",
+        "bio": "Visit road deal learn brother finish.\nRecognize body moment day interview. Item nice rate high hear listen off. Agree staff stay close media market walk at.\nOn speech white manager."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
