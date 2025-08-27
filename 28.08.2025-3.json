@@ -1,0 +1,25 @@
+{
+    "name": "Mary Castro",
+    "age": 31,
+    "address": {
+        "street": "Jonathan Keys",
+        "city": "North Melissatown",
+        "state": "New Jersey",
+        "zip": "66999"
+    },
+    "contact": {
+        "phone": "+1-380-855-5748x0606",
+        "servicePhone": "800415486"
+    },
+    "birthday": "1994-17-03",
+    "ip": "211.242.126.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Know partner air one. Mean management like good nature perform fish. Pull start something.",
+        "bio": "Size kid my activity seven fish. Help standard college his. Near audience necessary until tell hope open. Another cause later tough leader."
+    },
+    "currency": [
+        "CZK",
+        "Czech koruna"
+    ]
+}
