@@ -1,0 +1,25 @@
+{
+    "name": "Luis Henry",
+    "age": 101,
+    "address": {
+        "street": "Hartman Underpass",
+        "city": "Noahmouth",
+        "state": "Kansas",
+        "zip": "62107"
+    },
+    "contact": {
+        "phone": "298-939-5530",
+        "servicePhone": "800213709"
+    },
+    "birthday": "1924-17-04",
+    "ip": "64.166.87.112",
+    "foo": "bar",
+    "profile": {
+        "about": "At term something model many capital. Action federal off early although.\nAway rise phone full. Color provide room draw me arrive.",
+        "bio": "Letter board end around hospital argue response before. Smile office become analysis power. Million left hear. Child wife agent over citizen.\nCulture bank economy what."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
