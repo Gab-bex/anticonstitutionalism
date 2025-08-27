@@ -1,0 +1,25 @@
+{
+    "name": "Angela Lewis",
+    "age": 115,
+    "address": {
+        "street": "Hall Brooks",
+        "city": "Joneston",
+        "state": "South Dakota",
+        "zip": "45617"
+    },
+    "contact": {
+        "phone": "398-537-1766",
+        "servicePhone": "800280481"
+    },
+    "birthday": "1910-31-10",
+    "ip": "105.177.109.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Number defense a happy authority agreement surface kid. Sign power rock name sing somebody. Dream reveal role often.\nWind claim down edge degree realize. Because nice save industry small.",
+        "bio": "Yeah family song item rest push. Break later loss power gas town. Animal force top agency."
+    },
+    "currency": [
+        "SEK",
+        "Swedish krona"
+    ]
+}
