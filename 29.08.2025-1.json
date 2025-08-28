@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Clarke",
+    "age": 107,
+    "address": {
+        "street": "Kelsey Mews",
+        "city": "West Dianahaven",
+        "state": "Alabama",
+        "zip": "73902"
+    },
+    "contact": {
+        "phone": "202.747.7909",
+        "servicePhone": "800747244"
+    },
+    "birthday": "1918-20-01",
+    "ip": "47.151.200.46",
+    "foo": "bar",
+    "profile": {
+        "about": "Question body box develop democratic reach begin first. Say why she name rather condition subject at.\nThough Mrs daughter. Entire culture right half. Before person society sport five.",
+        "bio": "Occur husband character mention. Big over would hundred space address.\nLeft film part region. Support trip writer arm seven door."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
