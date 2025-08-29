@@ -1,0 +1,25 @@
+{
+    "name": "Adam Webb",
+    "age": 107,
+    "address": {
+        "street": "James Route",
+        "city": "Frazierton",
+        "state": "Massachusetts",
+        "zip": "00517"
+    },
+    "contact": {
+        "phone": "357.693.3662",
+        "servicePhone": "800692947"
+    },
+    "birthday": "1918-24-09",
+    "ip": "221.141.141.30",
+    "foo": "bar",
+    "profile": {
+        "about": "Management prevent order research brother purpose coach campaign. Within after even religious their on. Become she allow pull plan travel.\nOpen money dream.",
+        "bio": "Significant reason something lead. Art interesting foot receive crime.\nOwner writer sure agreement hear memory off. Stage election care boy matter do live."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
