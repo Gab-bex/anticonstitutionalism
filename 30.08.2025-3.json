@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Seth Gutierrez MD",
+    "age": 70,
+    "address": {
+        "street": "Randy Union",
+        "city": "Jefferystad",
+        "state": "Virginia",
+        "zip": "80088"
+    },
+    "contact": {
+        "phone": "299-754-7773x725",
+        "servicePhone": "800175177"
+    },
+    "birthday": "1955-17-01",
+    "ip": "203.188.103.107",
+    "foo": "bar",
+    "profile": {
+        "about": "While training work provide rest performance. Number night boy.\nMe thank dinner use site effect manager. Now different provide age. Large admit suffer thousand.",
+        "bio": "Take protect successful attack media. Brother situation point always.\nGreen public again them similar. Whose whatever amount alone."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
