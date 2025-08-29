@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Woods DDS",
+    "age": 63,
+    "address": {
+        "street": "Jonathan Flats",
+        "city": "Anthonystad",
+        "state": "California",
+        "zip": "30762"
+    },
+    "contact": {
+        "phone": "308.758.6875x4410",
+        "servicePhone": "800091542"
+    },
+    "birthday": "1962-05-04",
+    "ip": "173.195.227.140",
+    "foo": "bar",
+    "profile": {
+        "about": "Fine describe far foreign identify after. Important relate bad resource.",
+        "bio": "Dinner radio even pay their behind. Life red might ten else point still. Candidate require design may business suggest read. Tend run according discover more knowledge."
+    },
+    "currency": [
+        "EUR",
+        "Euro"
+    ]
+}
