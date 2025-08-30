@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Walker",
+    "age": 2,
+    "address": {
+        "street": "Angie Harbor",
+        "city": "Woodardshire",
+        "state": "Michigan",
+        "zip": "61689"
+    },
+    "contact": {
+        "phone": "001-943-274-6891x6678",
+        "servicePhone": "800386711"
+    },
+    "birthday": "2023-22-11",
+    "ip": "134.84.211.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Since short perform actually college politics. Remain against painting news free customer office. Rather position machine weight improve least economy.",
+        "bio": "Assume whom pay week health. Long between sort.\nPositive surface if. Spring pick today campaign ask.\nKid question she loss thousand fall expert poor. Item suffer event move. She choice feel word."
+    },
+    "currency": [
+        "HTG",
+        "Haitian gourde"
+    ]
+}
