@@ -1,0 +1,25 @@
+{
+    "name": "John Johnson",
+    "age": 97,
+    "address": {
+        "street": "Matthew Springs",
+        "city": "Petersenport",
+        "state": "New York",
+        "zip": "25589"
+    },
+    "contact": {
+        "phone": "+1-386-562-7565x941",
+        "servicePhone": "800090129"
+    },
+    "birthday": "1928-04-03",
+    "ip": "199.8.65.212",
+    "foo": "bar",
+    "profile": {
+        "about": "Later wait different fly down make here. Last strategy simple upon.\nFilm hard position process material old range chance. Tough mean customer way station.",
+        "bio": "Star this deal scene long share risk. One sit weight born good win forward.\nTop bag officer. Know year take himself future. Watch a forget actually."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
