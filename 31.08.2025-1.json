@@ -1,0 +1,25 @@
+{
+    "name": "Paul Sanders",
+    "age": 26,
+    "address": {
+        "street": "Cooke Rue",
+        "city": "South Robinland",
+        "state": "Missouri",
+        "zip": "90393"
+    },
+    "contact": {
+        "phone": "369-779-5281x997",
+        "servicePhone": "800593388"
+    },
+    "birthday": "1999-10-03",
+    "ip": "204.68.34.81",
+    "foo": "bar",
+    "profile": {
+        "about": "Article relate the less cold during or walk. Draw best hotel toward white. Rock see style rock meeting by.\nMiss parent house. Product drop involve organization.",
+        "bio": "Drop reduce peace onto. Us beat full game available owner again.\nForward hear send about.\nLot nature voice throw. What maybe boy to my. Figure gas road no."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
