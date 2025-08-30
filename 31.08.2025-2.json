@@ -1,0 +1,25 @@
+{
+    "name": "Nicholas Calderon",
+    "age": 71,
+    "address": {
+        "street": "Robertson Fords",
+        "city": "East Markburgh",
+        "state": "Louisiana",
+        "zip": "53087"
+    },
+    "contact": {
+        "phone": "+1-318-334-8039x4957",
+        "servicePhone": "800947700"
+    },
+    "birthday": "1954-15-11",
+    "ip": "200.209.254.12",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure meet account. Back describe cause over foot.\nFund family give certain choice expect contain side. Size common factor ask art. Special difference its news.",
+        "bio": "Clearly religious talk six sign certain. Dinner technology though special health in administration Mr. Receive my us event quickly stock into."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
