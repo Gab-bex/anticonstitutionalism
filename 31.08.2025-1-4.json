@@ -1,0 +1,25 @@
+{
+    "name": "Lori Hanson",
+    "age": 65,
+    "address": {
+        "street": "Elizabeth Village",
+        "city": "Lake Rhondaton",
+        "state": "Florida",
+        "zip": "94584"
+    },
+    "contact": {
+        "phone": "(667)996-2744x051",
+        "servicePhone": "800566858"
+    },
+    "birthday": "1960-21-10",
+    "ip": "9.111.67.176",
+    "foo": "bar",
+    "profile": {
+        "about": "Personal appear discussion dinner technology mention media. Make exactly increase heavy. Themselves within get table trip.",
+        "bio": "Paper western movement green. White apply skill senior exist dinner."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
