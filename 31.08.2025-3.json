@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Jones",
+    "age": 23,
+    "address": {
+        "street": "Price Bypass",
+        "city": "Curryland",
+        "state": "Arkansas",
+        "zip": "51251"
+    },
+    "contact": {
+        "phone": "001-220-370-1745x0109",
+        "servicePhone": "800825700"
+    },
+    "birthday": "2002-27-04",
+    "ip": "150.77.62.163",
+    "foo": "bar",
+    "profile": {
+        "about": "Either interest space accept.\nSpring white player rather body century. Carry tough deal common position. Next visit too leader worker history brother must.",
+        "bio": "Special should foot face. Tax every hair rule. Peace out anything represent must.\nCity purpose to else once look age."
+    },
+    "currency": [
+        "TMT",
+        "Turkmenistan manat"
+    ]
+}
