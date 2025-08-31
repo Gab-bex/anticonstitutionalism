@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Carter",
+    "age": 54,
+    "address": {
+        "street": "Amy Oval",
+        "city": "West Laceybury",
+        "state": "Kentucky",
+        "zip": "08920"
+    },
+    "contact": {
+        "phone": "(676)250-3659",
+        "servicePhone": "800821461"
+    },
+    "birthday": "1971-03-09",
+    "ip": "56.192.205.250",
+    "foo": "bar",
+    "profile": {
+        "about": "Yet into hit establish economic well. Rock successful marriage only. Sea traditional discussion television.\nGeneration employee this put game put center prepare. Bed large happy drive.",
+        "bio": "Scene could what beautiful write those big. Air truth piece raise ask computer pick. During hard interesting north write then.\nItem card set claim property carry."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
