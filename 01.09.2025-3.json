@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Harrison",
+    "age": 37,
+    "address": {
+        "street": "Banks Isle",
+        "city": "Mcconnellville",
+        "state": "North Dakota",
+        "zip": "38150"
+    },
+    "contact": {
+        "phone": "817.401.7365",
+        "servicePhone": "800984926"
+    },
+    "birthday": "1988-01-10",
+    "ip": "132.134.181.74",
+    "foo": "bar",
+    "profile": {
+        "about": "Against several woman sit figure everything. Eight hit official remain eat still network. Style behind citizen appear against.",
+        "bio": "Someone pattern thought land. Activity animal politics should fear threat important more. Five time in focus. Little prepare concern both.\nBy among ago head large data agree. Know myself concern."
+    },
+    "currency": [
+        "MZN",
+        "Mozambican metical"
+    ]
+}
