@@ -1,0 +1,25 @@
+{
+    "name": "Zachary Zhang",
+    "age": 33,
+    "address": {
+        "street": "Nicole Lake",
+        "city": "Port Ellen",
+        "state": "Wyoming",
+        "zip": "77809"
+    },
+    "contact": {
+        "phone": "001-307-612-7290",
+        "servicePhone": "800356265"
+    },
+    "birthday": "1992-29-08",
+    "ip": "115.175.235.205",
+    "foo": "bar",
+    "profile": {
+        "about": "Firm with Congress ok support lay never loss. Play already building out successful hand model. May also store task.\nItself administration manage dream from should store.",
+        "bio": "Effort suffer own girl. City indicate by night throw however throughout. Though financial style authority voice offer. Study customer hair effort."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
