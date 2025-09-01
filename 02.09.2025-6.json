@@ -1,0 +1,25 @@
+{
+    "name": "Deborah Beard",
+    "age": 60,
+    "address": {
+        "street": "Sarah Mountain",
+        "city": "Port Joel",
+        "state": "Idaho",
+        "zip": "93616"
+    },
+    "contact": {
+        "phone": "+1-680-889-9347",
+        "servicePhone": "800911928"
+    },
+    "birthday": "1965-30-07",
+    "ip": "199.22.75.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Offer spend purpose point less candidate news. Something safe feel statement of point knowledge alone.\nRoad play three mouth reason town. Energy often candidate theory animal war own.",
+        "bio": "Join a knowledge see design Mr picture. Three local visit performance nor degree authority.\nQuality always test race. Congress third away sense return."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
