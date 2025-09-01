@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Henderson",
+    "age": 104,
+    "address": {
+        "street": "Lee Meadows",
+        "city": "South Michaelville",
+        "state": "Kentucky",
+        "zip": "05863"
+    },
+    "contact": {
+        "phone": "+1-810-672-0146x5972",
+        "servicePhone": "800948417"
+    },
+    "birthday": "1921-29-08",
+    "ip": "67.178.11.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Water city short. Go technology book party girl buy activity.\nImage finally fast per reality contain. Despite off suffer. Record for new whole day.",
+        "bio": "Recent to manage second develop body. Here visit require six section may base central. Prepare agency reduce land win season."
+    },
+    "currency": [
+        "BSD",
+        "Bahamian dollar"
+    ]
+}
