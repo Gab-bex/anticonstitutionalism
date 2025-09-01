@@ -1,0 +1,25 @@
+{
+    "name": "John Hunter",
+    "age": 107,
+    "address": {
+        "street": "Gray Parks",
+        "city": "Wagnerburgh",
+        "state": "Montana",
+        "zip": "08626"
+    },
+    "contact": {
+        "phone": "+1-501-715-8765x15407",
+        "servicePhone": "800671457"
+    },
+    "birthday": "1918-28-01",
+    "ip": "165.131.59.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Big put staff nor. Southern ever person culture writer either heart.\nHowever never have exactly sit bar last. Oil almost talk wrong firm top. Alone drop number military.",
+        "bio": "Ground development build hour strategy million commercial. Enough stop wife. Suggest pressure set west movement. Thus determine seven maintain indicate best."
+    },
+    "currency": [
+        "IRR",
+        "Iranian rial"
+    ]
+}
