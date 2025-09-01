@@ -1,0 +1,25 @@
+{
+    "name": "Veronica Krause",
+    "age": 111,
+    "address": {
+        "street": "Antonio Terrace",
+        "city": "Jasonborough",
+        "state": "Iowa",
+        "zip": "54710"
+    },
+    "contact": {
+        "phone": "292.573.8125x301",
+        "servicePhone": "800189929"
+    },
+    "birthday": "1914-15-09",
+    "ip": "35.46.204.94",
+    "foo": "bar",
+    "profile": {
+        "about": "Color red reveal rule. Easy figure free remain ever. Manager increase smile usually boy. Other east standard current budget.",
+        "bio": "Early face question pay ground his ground. Sense sound deal become community.\nSign street some will chair. Test station join throw half. Second trip mean quickly drive because better."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
