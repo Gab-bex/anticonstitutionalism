@@ -1,0 +1,25 @@
+{
+    "name": "Craig Sanchez",
+    "age": 104,
+    "address": {
+        "street": "Wagner Passage",
+        "city": "Ramirezshire",
+        "state": "Tennessee",
+        "zip": "51176"
+    },
+    "contact": {
+        "phone": "405-957-7111x5762",
+        "servicePhone": "800260991"
+    },
+    "birthday": "1921-04-01",
+    "ip": "216.7.175.231",
+    "foo": "bar",
+    "profile": {
+        "about": "Better investment home remember.\nFire answer store region key. Create rest heavy identify compare.\nTop night blue heavy though. Water water whose alone response.",
+        "bio": "Lose expect red value offer peace build. Any offer floor study place. Site that require be."
+    },
+    "currency": [
+        "MGA",
+        "Malagasy ariar"
+    ]
+}
