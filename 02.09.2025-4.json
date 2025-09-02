@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Ewing",
+    "age": 28,
+    "address": {
+        "street": "Kathy Walks",
+        "city": "North Kara",
+        "state": "Maryland",
+        "zip": "04735"
+    },
+    "contact": {
+        "phone": "689-961-3102",
+        "servicePhone": "800089905"
+    },
+    "birthday": "1997-11-07",
+    "ip": "222.171.105.188",
+    "foo": "bar",
+    "profile": {
+        "about": "Total front around who after fire. Best blue determine fight. Bar game where both never kind put to. Imagine air seven listen yet.",
+        "bio": "Leader thus piece field talk. Morning debate left cost owner pressure certainly.\nHis writer magazine hair seat."
+    },
+    "currency": [
+        "VND",
+        "Vietnamese đồng"
+    ]
+}
