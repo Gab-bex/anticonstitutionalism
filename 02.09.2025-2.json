@@ -1,0 +1,25 @@
+{
+    "name": "Angela Smith",
+    "age": 108,
+    "address": {
+        "street": "Jennifer Parkways",
+        "city": "Youngside",
+        "state": "Ohio",
+        "zip": "13006"
+    },
+    "contact": {
+        "phone": "876.266.0393x2584",
+        "servicePhone": "800725987"
+    },
+    "birthday": "1917-20-10",
+    "ip": "91.137.219.192",
+    "foo": "bar",
+    "profile": {
+        "about": "Trade tough entire girl. Institution Democrat and take Republican set this.\nPositive including ready tax away. Effect paper foreign college never people.",
+        "bio": "Positive community type color. Place woman single prove teacher nothing assume. From opportunity beyond party."
+    },
+    "currency": [
+        "XPF",
+        "CFP franc"
+    ]
+}
