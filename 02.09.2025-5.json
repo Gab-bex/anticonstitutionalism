@@ -1,0 +1,25 @@
+{
+    "name": "Kimberly Morales",
+    "age": 103,
+    "address": {
+        "street": "Spencer Isle",
+        "city": "Smithfurt",
+        "state": "Kansas",
+        "zip": "92284"
+    },
+    "contact": {
+        "phone": "5374582830",
+        "servicePhone": "800642637"
+    },
+    "birthday": "1922-08-11",
+    "ip": "133.168.48.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Sense color realize fill risk image anyone.\nBoy that whatever way leg include team. Out much group total not.\nPeace fight interesting assume type. Others song station lead measure kitchen hour.",
+        "bio": "Number boy affect worker history able yeah. Relate someone run range increase body. Executive cause hundred city month write story. Institution daughter above physical gas authority talk all."
+    },
+    "currency": [
+        "LYD",
+        "Libyan dinar"
+    ]
+}
