@@ -1,0 +1,25 @@
+{
+    "name": "Robert Everett MD",
+    "age": 37,
+    "address": {
+        "street": "Tony Land",
+        "city": "East Mikaylaville",
+        "state": "Vermont",
+        "zip": "54454"
+    },
+    "contact": {
+        "phone": "297.571.5350x8139",
+        "servicePhone": "800477571"
+    },
+    "birthday": "1988-05-11",
+    "ip": "32.0.233.98",
+    "foo": "bar",
+    "profile": {
+        "about": "Different level board fall. Add think yes cell process partner enter once. Pull service view fund.\nLet paper hope. Number system federal baby hit interview Congress. Woman method job.",
+        "bio": "Together bring customer fact speech yeah cost. Fact ok adult daughter leader.\nLoss key series upon. Body light management he herself real. Enjoy beat argue smile garden through."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
