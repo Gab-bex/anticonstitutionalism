@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Norris",
+    "age": 65,
+    "address": {
+        "street": "Torres Springs",
+        "city": "Robertsonhaven",
+        "state": "Pennsylvania",
+        "zip": "01248"
+    },
+    "contact": {
+        "phone": "4545375407",
+        "servicePhone": "800880790"
+    },
+    "birthday": "1960-14-01",
+    "ip": "88.5.224.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Green yes call individual relationship prove large. Forward pass between apply about police.\nLate article be. Much give cover forget other write.",
+        "bio": "Score know sign gas example town student. Vote room tree or like laugh brother. Far case expert real approach politics where.\nProfessional effect method."
+    },
+    "currency": [
+        "BRL",
+        "Brazilian real"
+    ]
+}
