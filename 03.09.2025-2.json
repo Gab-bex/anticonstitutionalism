@@ -1,0 +1,25 @@
+{
+    "name": "Amanda Cameron",
+    "age": 83,
+    "address": {
+        "street": "Vasquez Meadows",
+        "city": "Jamesfort",
+        "state": "Wisconsin",
+        "zip": "83071"
+    },
+    "contact": {
+        "phone": "001-809-655-6449x090",
+        "servicePhone": "800018269"
+    },
+    "birthday": "1942-27-01",
+    "ip": "11.34.233.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Into still order friend computer vote. Morning contain close less although forward only.\nRequire north along back side pull front. Do consumer education share.",
+        "bio": "Generation guy usually ago. Base everyone coach represent owner despite. Coach least simply decision watch seek strategy financial.\nAny add story serious question now real. Another yet edge."
+    },
+    "currency": [
+        "BGN",
+        "Bulgarian lev"
+    ]
+}
