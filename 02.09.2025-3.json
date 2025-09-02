@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Robinson DVM",
+    "age": 99,
+    "address": {
+        "street": "Davis Union",
+        "city": "Davidsonhaven",
+        "state": "Texas",
+        "zip": "89172"
+    },
+    "contact": {
+        "phone": "4146182640",
+        "servicePhone": "800583467"
+    },
+    "birthday": "1926-18-11",
+    "ip": "11.215.131.179",
+    "foo": "bar",
+    "profile": {
+        "about": "Garden both pressure machine already. Activity attorney still quite effort government wonder.\nTravel produce up continue. Buy against run off grow form.",
+        "bio": "Off somebody their. Campaign dog across imagine production. Tax black ever material.\nThreat prepare several over project fast program. Account group feeling enjoy together community long."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
