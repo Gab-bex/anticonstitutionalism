@@ -1,0 +1,25 @@
+{
+    "name": "Lauren Taylor",
+    "age": 66,
+    "address": {
+        "street": "Padilla Place",
+        "city": "East Michaelchester",
+        "state": "Delaware",
+        "zip": "59751"
+    },
+    "contact": {
+        "phone": "746-604-4897x0618",
+        "servicePhone": "800210513"
+    },
+    "birthday": "1959-21-01",
+    "ip": "157.217.26.149",
+    "foo": "bar",
+    "profile": {
+        "about": "Cell town information. Than sea establish so degree military leg. Example soon doctor machine animal near.\nRequire cultural success himself science. Kind set cause listen.",
+        "bio": "Set always measure feeling health part. Leave total head our involve. Operation parent season economic student research relate."
+    },
+    "currency": [
+        "JEP",
+        "Jersey pound"
+    ]
+}
