@@ -1,0 +1,25 @@
+{
+    "name": "David Ruiz",
+    "age": 47,
+    "address": {
+        "street": "Thompson Lake",
+        "city": "Sarahland",
+        "state": "New Mexico",
+        "zip": "68607"
+    },
+    "contact": {
+        "phone": "276.778.0025x694",
+        "servicePhone": "800001144"
+    },
+    "birthday": "1978-16-04",
+    "ip": "158.77.198.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Perhaps successful hold. Despite role ground mouth.\nOnly help population music. Mrs arrive central.",
+        "bio": "Store vote thus forward me people interest spring. Country report too condition power significant loss. Tv country leader."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
