@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Ho",
+    "age": 82,
+    "address": {
+        "street": "Carla Islands",
+        "city": "South Teresabury",
+        "state": "Alaska",
+        "zip": "26145"
+    },
+    "contact": {
+        "phone": "+1-559-961-0503x1807",
+        "servicePhone": "800702522"
+    },
+    "birthday": "1943-11-02",
+    "ip": "76.108.23.16",
+    "foo": "bar",
+    "profile": {
+        "about": "World fight message second other.\nDrug large kitchen act exactly happy bank west.\nWhole leader visit. Apply agent summer. Whom trip cost apply up. Simple nearly mean interesting carry health.",
+        "bio": "Case second agent story. Not include method expect yeah member poor. Approach rest these decade.\nSo meeting when pressure how little."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
