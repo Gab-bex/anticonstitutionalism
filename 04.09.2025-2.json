@@ -1,0 +1,25 @@
+{
+    "name": "Madison Griffin",
+    "age": 42,
+    "address": {
+        "street": "Moore Locks",
+        "city": "New Jessetown",
+        "state": "South Carolina",
+        "zip": "06400"
+    },
+    "contact": {
+        "phone": "679-200-2722",
+        "servicePhone": "800216358"
+    },
+    "birthday": "1983-21-12",
+    "ip": "24.151.14.185",
+    "foo": "bar",
+    "profile": {
+        "about": "Pressure high set peace meet around. Official bar arrive kind. Only stuff there old.\nDebate society position whatever. None market college base from woman assume memory. Raise above leader agent.",
+        "bio": "Fight meet week share important according north case. Bank rate region truth myself best see. Where growth too position trouble."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
