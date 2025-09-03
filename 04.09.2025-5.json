@@ -1,0 +1,25 @@
+{
+    "name": "Hannah Jordan",
+    "age": 63,
+    "address": {
+        "street": "Daniel Row",
+        "city": "Lake Wesleyfort",
+        "state": "Utah",
+        "zip": "54164"
+    },
+    "contact": {
+        "phone": "001-984-264-3941x225",
+        "servicePhone": "800614049"
+    },
+    "birthday": "1962-26-09",
+    "ip": "28.241.71.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready answer morning south control technology arrive white. Design activity boy right which force those. Form cover article feeling far.",
+        "bio": "Easy if Mr activity feeling fight rather media. Edge myself specific think alone. But under fill end billion agree."
+    },
+    "currency": [
+        "LSL",
+        "Lesotho loti"
+    ]
+}
