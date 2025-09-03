@@ -1,0 +1,25 @@
+{
+    "name": "Levi Johnson",
+    "age": 46,
+    "address": {
+        "street": "Sherry Mill",
+        "city": "West Kristie",
+        "state": "New Jersey",
+        "zip": "07152"
+    },
+    "contact": {
+        "phone": "9425638451",
+        "servicePhone": "800012968"
+    },
+    "birthday": "1979-06-03",
+    "ip": "130.86.215.174",
+    "foo": "bar",
+    "profile": {
+        "about": "Series environment report voice Republican. Agree charge woman structure. Her many join treatment treatment.\nMorning after main candidate energy. Woman opportunity similar should.",
+        "bio": "Task action move really whose must guess. Wear itself song majority book visit policy. Season truth agent adult rather."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
