@@ -1,0 +1,25 @@
+{
+    "name": "Michael Stephens",
+    "age": 16,
+    "address": {
+        "street": "Wu Plaza",
+        "city": "Olsonfurt",
+        "state": "Oklahoma",
+        "zip": "05200"
+    },
+    "contact": {
+        "phone": "(421)978-3453x6638",
+        "servicePhone": "800736471"
+    },
+    "birthday": "2009-02-06",
+    "ip": "71.24.173.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Range loss move democratic five. Reach discover left hear husband worry. Herself dinner discuss all certainly take time support.",
+        "bio": "Far hope create environment church fill.\nBillion two tonight trip happy image. Improve range adult statement project wrong worker. Human finally newspaper."
+    },
+    "currency": [
+        "AED",
+        "United Arab Emirates dirham"
+    ]
+}
