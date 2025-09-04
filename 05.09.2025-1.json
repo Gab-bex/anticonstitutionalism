@@ -1,0 +1,25 @@
+{
+    "name": "Natasha Howard",
+    "age": 49,
+    "address": {
+        "street": "Jessica Gateway",
+        "city": "South Stanleymouth",
+        "state": "Tennessee",
+        "zip": "46817"
+    },
+    "contact": {
+        "phone": "2296165414",
+        "servicePhone": "800288728"
+    },
+    "birthday": "1976-27-11",
+    "ip": "86.134.144.178",
+    "foo": "bar",
+    "profile": {
+        "about": "City story traditional value set less throw five. On same sit cell enter. Door cover certainly perform.\nRise sell do remain citizen.\nProcess save method. Remain perform face both center.",
+        "bio": "Anyone claim interest decision image next.\nWin whatever its spend business through. American idea Republican social."
+    },
+    "currency": [
+        "RWF",
+        "Rwandan franc"
+    ]
+}
