@@ -1,0 +1,25 @@
+{
+    "name": "Amber Novak",
+    "age": 2,
+    "address": {
+        "street": "Williams Union",
+        "city": "Reneeshire",
+        "state": "Massachusetts",
+        "zip": "18027"
+    },
+    "contact": {
+        "phone": "492.581.3134x94804",
+        "servicePhone": "800257774"
+    },
+    "birthday": "2023-17-07",
+    "ip": "4.164.178.35",
+    "foo": "bar",
+    "profile": {
+        "about": "For nature American finish. Region three add rule Republican everybody. Story half cold show.",
+        "bio": "Enough citizen them see. Rise once professional party describe student fund stop.\nWhat talk offer speak language seat study society. After interview whose realize first third sometimes front."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
