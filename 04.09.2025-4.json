@@ -1,0 +1,25 @@
+{
+    "name": "Alexander Espinoza",
+    "age": 80,
+    "address": {
+        "street": "Monique Stream",
+        "city": "East Valerie",
+        "state": "Alabama",
+        "zip": "86488"
+    },
+    "contact": {
+        "phone": "5925905228",
+        "servicePhone": "800772822"
+    },
+    "birthday": "1945-20-03",
+    "ip": "165.113.53.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Both rather field parent beat. Challenge mind way TV instead. Tax small mention itself education contain all your.",
+        "bio": "Talk person claim world. Animal like nature record nice until upon. Must race question wall role image.\nIf great control break. Speech experience middle pick."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
