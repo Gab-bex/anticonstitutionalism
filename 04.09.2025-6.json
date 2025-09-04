@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Waller",
+    "age": 105,
+    "address": {
+        "street": "Cooper Ranch",
+        "city": "North Tannershire",
+        "state": "Idaho",
+        "zip": "58201"
+    },
+    "contact": {
+        "phone": "(488)704-2312",
+        "servicePhone": "800053388"
+    },
+    "birthday": "1920-24-04",
+    "ip": "196.1.135.13",
+    "foo": "bar",
+    "profile": {
+        "about": "Prevent order grow strong. Front strategy must soon hundred actually.\nBreak should true edge reflect window art.",
+        "bio": "Social use from commercial food send police. Leader happen should friend indicate many partner."
+    },
+    "currency": [
+        "TRY",
+        "Turkish lira"
+    ]
+}
