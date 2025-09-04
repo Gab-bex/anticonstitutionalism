@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Esparza",
+    "age": 57,
+    "address": {
+        "street": "Nicole Forks",
+        "city": "Port Charlesville",
+        "state": "Utah",
+        "zip": "70800"
+    },
+    "contact": {
+        "phone": "+1-514-251-9541x476",
+        "servicePhone": "800842719"
+    },
+    "birthday": "1968-13-03",
+    "ip": "91.71.175.248",
+    "foo": "bar",
+    "profile": {
+        "about": "Practice last page candidate service experience effort. Anything gun consider by hold. Me Congress six morning fall.",
+        "bio": "Personal value well nothing pay. Customer job third none list tend none. Religious race most prepare similar run see."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
