@@ -1,0 +1,25 @@
+{
+    "name": "Randall Williams",
+    "age": 40,
+    "address": {
+        "street": "Amy Plains",
+        "city": "Sandersside",
+        "state": "Virginia",
+        "zip": "45868"
+    },
+    "contact": {
+        "phone": "001-549-942-6709x8628",
+        "servicePhone": "800592568"
+    },
+    "birthday": "1985-18-04",
+    "ip": "18.88.82.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Affect produce wife present. Plant realize out act me.\nAlso bed scene glass. Against minute draw hand thousand process.",
+        "bio": "Bank top best coach consumer no international. Person door marriage tonight.\nDevelop head perform significant everybody exist she woman. Attorney star close tell door free. Drive our speak seem."
+    },
+    "currency": [
+        "STD",
+        "São Tomé and Príncipe dobra"
+    ]
+}
