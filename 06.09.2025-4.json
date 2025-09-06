@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Glenn DVM",
+    "age": 61,
+    "address": {
+        "street": "Alvarez Course",
+        "city": "South Jonathan",
+        "state": "Georgia",
+        "zip": "70624"
+    },
+    "contact": {
+        "phone": "(921)726-0682x0729",
+        "servicePhone": "800161960"
+    },
+    "birthday": "1964-04-01",
+    "ip": "110.61.133.134",
+    "foo": "bar",
+    "profile": {
+        "about": "Describe cover behavior myself cultural design. Organization writer parent anything condition can top. Music author certain but future budget.",
+        "bio": "Listen prove word third political hair place. Everyone suddenly couple strategy necessary employee care. Risk write likely month."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
