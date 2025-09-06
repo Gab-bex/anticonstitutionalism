@@ -1,0 +1,25 @@
+{
+    "name": "David Baldwin",
+    "age": 42,
+    "address": {
+        "street": "Lang Light",
+        "city": "Lake Claudia",
+        "state": "Wisconsin",
+        "zip": "01204"
+    },
+    "contact": {
+        "phone": "841.800.5064x03277",
+        "servicePhone": "800313047"
+    },
+    "birthday": "1983-09-08",
+    "ip": "125.232.73.17",
+    "foo": "bar",
+    "profile": {
+        "about": "Natural admit receive account build. Fact property including seek spring right city. One tend mother sing.\nPull modern town value board. Even bad society rather education. Never grow car security.",
+        "bio": "Process agreement response. Certain serious boy great.\nPolitics chair action step. Model case if family decade. Boy our arrive cut mean action consumer."
+    },
+    "currency": [
+        "BOB",
+        "Bolivian boliviano"
+    ]
+}
