@@ -1,0 +1,25 @@
+{
+    "name": "Bruce Martin",
+    "age": 86,
+    "address": {
+        "street": "Megan Islands",
+        "city": "Jenniferchester",
+        "state": "West Virginia",
+        "zip": "95442"
+    },
+    "contact": {
+        "phone": "616.336.8318",
+        "servicePhone": "800771140"
+    },
+    "birthday": "1939-15-12",
+    "ip": "77.255.43.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Couple page doctor. Us behind fall word career and. Without remain however detail before speak including through.",
+        "bio": "Happen several recently. Issue reason road catch pay according miss."
+    },
+    "currency": [
+        "AZN",
+        "Azerbaijani manat"
+    ]
+}
