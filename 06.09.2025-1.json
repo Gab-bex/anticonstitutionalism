@@ -1,0 +1,25 @@
+{
+    "name": "Lisa Williams",
+    "age": 62,
+    "address": {
+        "street": "Heath Gardens",
+        "city": "North Marvinstad",
+        "state": "Georgia",
+        "zip": "57885"
+    },
+    "contact": {
+        "phone": "908-771-9835",
+        "servicePhone": "800332746"
+    },
+    "birthday": "1963-29-07",
+    "ip": "3.237.153.253",
+    "foo": "bar",
+    "profile": {
+        "about": "Mouth base low raise. Call stuff eat recognize score religious. South third never relationship than newspaper free campaign.",
+        "bio": "Hundred former reveal thank Republican project. Rate current send nothing support. Never dark party avoid beat weight loss to."
+    },
+    "currency": [
+        "NIO",
+        "Nicaraguan córdoba"
+    ]
+}
