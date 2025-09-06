@@ -1,0 +1,25 @@
+{
+    "name": "Danielle Floyd",
+    "age": 24,
+    "address": {
+        "street": "Sara Spurs",
+        "city": "Justinport",
+        "state": "Alabama",
+        "zip": "38127"
+    },
+    "contact": {
+        "phone": "(479)988-1681x98592",
+        "servicePhone": "800336215"
+    },
+    "birthday": "2001-18-05",
+    "ip": "54.153.44.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Hit rise movement this leave owner.\nMusic environment high soon listen. Ever begin modern scientist back Mr. Daughter hundred off build hope instead analysis.",
+        "bio": "Address trip successful PM. Own story happen soon world boy.\nAnimal million author room staff focus discuss worker. Crime pressure rate.\nFall fall expect perform offer. Force down pay apply."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
