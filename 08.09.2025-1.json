@@ -1,0 +1,25 @@
+{
+    "name": "Danny Decker",
+    "age": 45,
+    "address": {
+        "street": "Chen Locks",
+        "city": "Port Kimberlyside",
+        "state": "Rhode Island",
+        "zip": "08208"
+    },
+    "contact": {
+        "phone": "640-203-7182x13508",
+        "servicePhone": "800083416"
+    },
+    "birthday": "1980-21-11",
+    "ip": "187.162.219.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Size international hard kind hand listen. Figure for television put finish else.\nHe could poor since face nor story.\nSeem nature region rate paper administration. Class cup him keep return.",
+        "bio": "Her very use stuff. Health first high include method watch. Machine forward risk ability help fish realize."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
