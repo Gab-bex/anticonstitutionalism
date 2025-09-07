@@ -1,0 +1,25 @@
+{
+    "name": "Martha Ruiz",
+    "age": 27,
+    "address": {
+        "street": "Linda Orchard",
+        "city": "East Evanfurt",
+        "state": "Alaska",
+        "zip": "15692"
+    },
+    "contact": {
+        "phone": "975-743-7698",
+        "servicePhone": "800518083"
+    },
+    "birthday": "1998-02-02",
+    "ip": "87.76.83.136",
+    "foo": "bar",
+    "profile": {
+        "about": "Election phone price out on show. Phone find wife account friend discussion. Start side authority office.\nPainting treatment claim just. Put firm make system head here.\nPerson thus agency end then.",
+        "bio": "Nothing note understand raise claim well movie. Mean hope fill part material probably owner model.\nFoot heavy sense. Site outside half rather whether say."
+    },
+    "currency": [
+        "CRC",
+        "Costa Rican colón"
+    ]
+}
