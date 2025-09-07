@@ -1,0 +1,25 @@
+{
+    "name": "Karen Velasquez",
+    "age": 89,
+    "address": {
+        "street": "April Knoll",
+        "city": "South Amy",
+        "state": "Delaware",
+        "zip": "36794"
+    },
+    "contact": {
+        "phone": "001-733-432-3059",
+        "servicePhone": "800567664"
+    },
+    "birthday": "1936-05-12",
+    "ip": "84.42.10.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Recognize grow throughout national choose field film. Professor study child want term.\nThree human it nation push perform. Him true loss fish raise.",
+        "bio": "Loss push political weight within improve.\nMore then draw ready sign. Hear feeling young boy tell. Computer have best process. Expect many staff election kid forward."
+    },
+    "currency": [
+        "BZD",
+        "Belize dollar"
+    ]
+}
