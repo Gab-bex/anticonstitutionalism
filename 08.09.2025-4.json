@@ -1,0 +1,25 @@
+{
+    "name": "Shannon Johnson",
+    "age": 83,
+    "address": {
+        "street": "Palmer Branch",
+        "city": "Rossview",
+        "state": "Colorado",
+        "zip": "30506"
+    },
+    "contact": {
+        "phone": "(963)499-9773",
+        "servicePhone": "800433193"
+    },
+    "birthday": "1942-21-07",
+    "ip": "193.30.42.4",
+    "foo": "bar",
+    "profile": {
+        "about": "Morning next collection exist could for. Really treatment make sit sound move. Order kid interest onto often rich.",
+        "bio": "Hair find news. Become size amount moment one so. Class church beat. Until allow miss edge.\nRaise share pretty box protect."
+    },
+    "currency": [
+        "NAD",
+        "Namibian dollar"
+    ]
+}
