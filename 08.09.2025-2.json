@@ -1,0 +1,25 @@
+{
+    "name": "Audrey Diaz",
+    "age": 34,
+    "address": {
+        "street": "Ryan Spurs",
+        "city": "Jeremyside",
+        "state": "Montana",
+        "zip": "71148"
+    },
+    "contact": {
+        "phone": "+1-508-232-9831x1321",
+        "servicePhone": "800192555"
+    },
+    "birthday": "1991-08-05",
+    "ip": "26.48.222.144",
+    "foo": "bar",
+    "profile": {
+        "about": "New push hand offer hot help than. Compare case large strategy use off.\nWhere north against computer plan visit million. Create red produce note hand great.",
+        "bio": "Possible PM nature account over. Risk tree western citizen who style court. End there other yet west idea practice must.\nRemember organization well sport claim article. Government watch guess coach."
+    },
+    "currency": [
+        "SVC",
+        "Salvadoran colón"
+    ]
+}
