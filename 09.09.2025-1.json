@@ -1,0 +1,25 @@
+{
+    "name": "Michael Roach",
+    "age": 30,
+    "address": {
+        "street": "Graham Oval",
+        "city": "Adamsburgh",
+        "state": "Minnesota",
+        "zip": "73677"
+    },
+    "contact": {
+        "phone": "001-733-548-8022x64624",
+        "servicePhone": "800882349"
+    },
+    "birthday": "1995-19-10",
+    "ip": "66.54.37.141",
+    "foo": "bar",
+    "profile": {
+        "about": "Take class close fight pass quickly soon. Power military little quite business. Court forward free back tell end.\nFree series know. Return body site campaign station. Push about wall protect.",
+        "bio": "Claim pay we. Hard push paper least green away state. Drug candidate vote enter ago.\nDecide indeed her. Hotel detail hair society may tonight tend happen."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
