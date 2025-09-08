@@ -1,0 +1,25 @@
+{
+    "name": "Michael Harris",
+    "age": 1,
+    "address": {
+        "street": "Howell Views",
+        "city": "Port Patrick",
+        "state": "Tennessee",
+        "zip": "62836"
+    },
+    "contact": {
+        "phone": "001-214-745-0331x311",
+        "servicePhone": "800147217"
+    },
+    "birthday": "2024-06-01",
+    "ip": "215.80.35.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Feel ahead region actually thus leg take line. Suffer issue crime on note become.\nMake popular pressure red. Out happen mother early.",
+        "bio": "Suggest up during report. Fine person employee attorney happen radio. Any natural sell many. There decide medical."
+    },
+    "currency": [
+        "SRD",
+        "Surinamese dollar"
+    ]
+}
