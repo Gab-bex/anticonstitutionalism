@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Larson",
+    "age": 63,
+    "address": {
+        "street": "Neal Squares",
+        "city": "Wileyside",
+        "state": "Idaho",
+        "zip": "53398"
+    },
+    "contact": {
+        "phone": "+1-512-597-4099",
+        "servicePhone": "800700671"
+    },
+    "birthday": "1962-17-02",
+    "ip": "125.198.201.29",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue how music laugh. His hospital itself.\nFigure she hard late cell measure. Structure enough also offer policy. Choose government discuss whatever thank popular.",
+        "bio": "Again determine box current you sign. Employee maybe subject activity force. Surface rock country list sing rise bank."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
