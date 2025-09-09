@@ -1,0 +1,25 @@
+{
+    "name": "Dominique Gillespie",
+    "age": 12,
+    "address": {
+        "street": "Frank Island",
+        "city": "East Bill",
+        "state": "Tennessee",
+        "zip": "32968"
+    },
+    "contact": {
+        "phone": "(341)406-4162x549",
+        "servicePhone": "800022159"
+    },
+    "birthday": "2013-26-01",
+    "ip": "41.226.223.14",
+    "foo": "bar",
+    "profile": {
+        "about": "Speak table will wait change score question. Shake eight race cut care guess. Child article resource note since.\nPerson seven part team. Sign you lead run. Seem doctor federal season.",
+        "bio": "General represent six language cell civil recently. Center information onto see push.\nReport their carry off memory sometimes arrive."
+    },
+    "currency": [
+        "KMF",
+        "Comorian franc"
+    ]
+}
