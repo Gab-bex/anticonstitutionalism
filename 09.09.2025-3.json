@@ -1,0 +1,25 @@
+{
+    "name": "Jasmine Williams MD",
+    "age": 6,
+    "address": {
+        "street": "Williams Skyway",
+        "city": "Jamesmouth",
+        "state": "Oklahoma",
+        "zip": "77243"
+    },
+    "contact": {
+        "phone": "810-957-8167x23302",
+        "servicePhone": "800070656"
+    },
+    "birthday": "2019-20-12",
+    "ip": "112.202.9.37",
+    "foo": "bar",
+    "profile": {
+        "about": "Sometimes begin environment open walk. Quite seem arm history buy at color.\nCampaign both popular relationship. Suffer from stage yes build spring traditional.",
+        "bio": "Different manager even prove star purpose nation. Hard heavy result full home along.\nMight American mission outside give yeah ability. Late about admit whole. Member central like model color."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
