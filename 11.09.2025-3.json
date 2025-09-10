@@ -1,0 +1,25 @@
+{
+    "name": "Whitney Adams",
+    "age": 101,
+    "address": {
+        "street": "Rodney Crescent",
+        "city": "North Andrea",
+        "state": "Florida",
+        "zip": "77402"
+    },
+    "contact": {
+        "phone": "2573427089",
+        "servicePhone": "800293926"
+    },
+    "birthday": "1924-21-12",
+    "ip": "59.183.165.208",
+    "foo": "bar",
+    "profile": {
+        "about": "Company son tree he unit more. Hotel set research.\nFirst order gas environment wait executive. Make action college his head deal. Anyone friend least tough.",
+        "bio": "Reach now population rule. Artist once always. Window beat PM section leg necessary like.\nDuring true live nothing city involve surface. Relate once style million agent likely lay service."
+    },
+    "currency": [
+        "ARS",
+        "Argentine peso"
+    ]
+}
