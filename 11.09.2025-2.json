@@ -1,0 +1,25 @@
+{
+    "name": "John Herring",
+    "age": 114,
+    "address": {
+        "street": "Alicia Streets",
+        "city": "Beasleymouth",
+        "state": "South Carolina",
+        "zip": "59814"
+    },
+    "contact": {
+        "phone": "860-348-2627x778",
+        "servicePhone": "800938999"
+    },
+    "birthday": "1911-29-01",
+    "ip": "31.164.228.21",
+    "foo": "bar",
+    "profile": {
+        "about": "Present issue research herself game develop.\nWeek trade Congress exist election run. Hear leave car receive owner offer. Half far top data everything.\nKnow miss positive agreement itself half.",
+        "bio": "Quite dark fine while research spend. Statement rest term it beat participant project. Fear start player rest."
+    },
+    "currency": [
+        "AWG",
+        "Aruban florin"
+    ]
+}
