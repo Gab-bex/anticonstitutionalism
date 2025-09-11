@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Jackson",
+    "age": 66,
+    "address": {
+        "street": "Joseph Mission",
+        "city": "Timothyhaven",
+        "state": "Hawaii",
+        "zip": "08916"
+    },
+    "contact": {
+        "phone": "725.911.6638x08990",
+        "servicePhone": "800715682"
+    },
+    "birthday": "1959-01-01",
+    "ip": "108.251.246.146",
+    "foo": "bar",
+    "profile": {
+        "about": "Seat goal many western life check information. Business west country Republican economy our medical.",
+        "bio": "Husband process me. Under stay girl. Represent no meeting she.\nTrial benefit probably dinner various maybe hand since."
+    },
+    "currency": [
+        "TZS",
+        "Tanzanian shilling"
+    ]
+}
