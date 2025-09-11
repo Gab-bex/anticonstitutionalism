@@ -1,0 +1,25 @@
+{
+    "name": "Christopher Oliver",
+    "age": 85,
+    "address": {
+        "street": "Dylan Square",
+        "city": "Wendyside",
+        "state": "New Mexico",
+        "zip": "16652"
+    },
+    "contact": {
+        "phone": "739-966-5684",
+        "servicePhone": "800258891"
+    },
+    "birthday": "1940-07-08",
+    "ip": "206.167.201.112",
+    "foo": "bar",
+    "profile": {
+        "about": "Cup hard speech together coach table manage. Central past vote threat reason blood matter.",
+        "bio": "Serious policy part television cold paper change. Identify learn assume certain. Cost peace leg general pretty western."
+    },
+    "currency": [
+        "GYD",
+        "Guyanese dollar"
+    ]
+}
