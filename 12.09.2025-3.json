@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Shepherd DVM",
+    "age": 41,
+    "address": {
+        "street": "Matthew Junction",
+        "city": "Barrontown",
+        "state": "Washington",
+        "zip": "95092"
+    },
+    "contact": {
+        "phone": "587-814-2113",
+        "servicePhone": "800862806"
+    },
+    "birthday": "1984-23-01",
+    "ip": "2.49.215.73",
+    "foo": "bar",
+    "profile": {
+        "about": "Represent adult day southern nation value. Board shoulder affect.\nDog blue for pattern nature shake.\nLeave time land president human reveal. Onto card name card he might. List system carry.",
+        "bio": "Rather center summer report. First how century hotel term for.\nSoldier wait will treat fact. Evening arm development whatever ago soon. Until while old remember radio still."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
