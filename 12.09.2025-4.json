@@ -1,0 +1,25 @@
+{
+    "name": "Steven Leblanc",
+    "age": 36,
+    "address": {
+        "street": "Terri Ridge",
+        "city": "Cervantesfort",
+        "state": "Virginia",
+        "zip": "36845"
+    },
+    "contact": {
+        "phone": "+1-210-586-9958",
+        "servicePhone": "800277504"
+    },
+    "birthday": "1989-14-07",
+    "ip": "112.90.146.254",
+    "foo": "bar",
+    "profile": {
+        "about": "Product hit rest community reveal. School whether site and that write know.\nCity black knowledge hold popular. Affect week blue seat maybe.",
+        "bio": "Since lot state morning perhaps including. Fast mention on money staff five maintain.\nConcern believe note. Possible theory example think early feel instead."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
