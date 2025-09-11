@@ -1,0 +1,25 @@
+{
+    "name": "Jill Vaughn",
+    "age": 20,
+    "address": {
+        "street": "Daniel Terrace",
+        "city": "East Julieport",
+        "state": "New Hampshire",
+        "zip": "59288"
+    },
+    "contact": {
+        "phone": "(355)211-5998",
+        "servicePhone": "800281367"
+    },
+    "birthday": "2005-09-05",
+    "ip": "72.207.58.131",
+    "foo": "bar",
+    "profile": {
+        "about": "Glass least anything live perform contain then media. Against whose model whom spring drop.",
+        "bio": "Listen coach record behavior natural. Life nor job service image.\nStay ability most. Raise throughout plant than. Knowledge establish me air forget finally treat. Couple sing own everybody option."
+    },
+    "currency": [
+        "MKD",
+        "Macedonian denar"
+    ]
+}
