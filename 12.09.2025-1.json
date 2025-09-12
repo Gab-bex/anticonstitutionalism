@@ -1,0 +1,25 @@
+{
+    "name": "Tracey Washington",
+    "age": 2,
+    "address": {
+        "street": "Kenneth Ridges",
+        "city": "Duncanfurt",
+        "state": "North Carolina",
+        "zip": "27953"
+    },
+    "contact": {
+        "phone": "(983)422-3554x6544",
+        "servicePhone": "800526645"
+    },
+    "birthday": "2023-07-04",
+    "ip": "48.117.142.156",
+    "foo": "bar",
+    "profile": {
+        "about": "Suffer purpose dream determine partner example. Institution central chair blue. Yet affect especially.\nDown language age establish.",
+        "bio": "Key fall lot while remember heart. Detail book forget gun call.\nShake name to easy. Three behind help when. Nation environment often feeling consumer whatever."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
