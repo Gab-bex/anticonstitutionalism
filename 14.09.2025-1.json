@@ -1,0 +1,25 @@
+{
+    "name": "Tammie Larson",
+    "age": 48,
+    "address": {
+        "street": "Young Mountains",
+        "city": "West Penny",
+        "state": "New Jersey",
+        "zip": "32355"
+    },
+    "contact": {
+        "phone": "(377)522-0015",
+        "servicePhone": "800706424"
+    },
+    "birthday": "1977-05-01",
+    "ip": "126.170.254.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Than else focus. Individual win marriage how new experience by.\nIt investment author purpose represent seem nor. Face continue radio staff sea total.",
+        "bio": "Hot school much ball travel hot suffer part. Air realize floor against per statement. Ready main religious she them sign throughout. Moment age finally.\nBit condition doctor region rich."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
