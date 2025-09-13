@@ -1,0 +1,25 @@
+{
+    "name": "Annette Farmer",
+    "age": 99,
+    "address": {
+        "street": "Allison Fort",
+        "city": "Johnsonland",
+        "state": "New York",
+        "zip": "57361"
+    },
+    "contact": {
+        "phone": "503.599.5156x311",
+        "servicePhone": "800600690"
+    },
+    "birthday": "1926-13-04",
+    "ip": "76.103.54.184",
+    "foo": "bar",
+    "profile": {
+        "about": "Whole much station relationship into. Whether day cultural enter according. Education my see prevent positive worker.\nCondition view action in behavior represent something.",
+        "bio": "Certainly information fall memory activity site read. Accept pass heavy research popular still."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
