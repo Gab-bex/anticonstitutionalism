@@ -1,0 +1,25 @@
+{
+    "name": "Robert Cline",
+    "age": 10,
+    "address": {
+        "street": "Flores Highway",
+        "city": "Ericborough",
+        "state": "Massachusetts",
+        "zip": "55209"
+    },
+    "contact": {
+        "phone": "787-688-6569x2991",
+        "servicePhone": "800179323"
+    },
+    "birthday": "2015-19-01",
+    "ip": "104.98.220.218",
+    "foo": "bar",
+    "profile": {
+        "about": "Hotel people cup own finally money long. Federal campaign enjoy stop least quickly. Draw ready player final bad life sometimes buy.\nRepublican impact fill keep certainly.",
+        "bio": "This individual room election begin senior. Become for government talk nature after. Simple evening somebody name couple high interest. Page investment or knowledge."
+    },
+    "currency": [
+        "GIP",
+        "Gibraltar pound"
+    ]
+}
