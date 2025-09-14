@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Paul Arellano",
+    "age": 16,
+    "address": {
+        "street": "Catherine Hill",
+        "city": "New Kevinborough",
+        "state": "Delaware",
+        "zip": "07144"
+    },
+    "contact": {
+        "phone": "001-370-971-8508x8468",
+        "servicePhone": "800319381"
+    },
+    "birthday": "2009-06-09",
+    "ip": "38.70.164.172",
+    "foo": "bar",
+    "profile": {
+        "about": "While impact career trade call. Lot process hand scene professor pass. Appear school front exist enjoy itself.",
+        "bio": "Control here wall suddenly radio fund listen figure. Defense bad maybe heavy gas to price purpose. According build executive traditional month TV that."
+    },
+    "currency": [
+        "AMD",
+        "Armenian dram"
+    ]
+}
