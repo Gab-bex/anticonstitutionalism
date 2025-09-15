@@ -1,0 +1,25 @@
+{
+    "name": "Lori Wilson",
+    "age": 79,
+    "address": {
+        "street": "Rhonda Valley",
+        "city": "Lake Katherine",
+        "state": "Maryland",
+        "zip": "45995"
+    },
+    "contact": {
+        "phone": "(940)821-9653x1971",
+        "servicePhone": "800711920"
+    },
+    "birthday": "1946-24-02",
+    "ip": "191.46.16.40",
+    "foo": "bar",
+    "profile": {
+        "about": "Factor personal development teach animal.\nExample focus really stay recent. Back continue else sometimes produce. Machine manager American white message reason explain author.",
+        "bio": "Practice become TV. Organization glass recently value hard science. Smile discuss American either project product effect performance."
+    },
+    "currency": [
+        "SOS",
+        "Somali shilling"
+    ]
+}
