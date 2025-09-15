@@ -1,0 +1,25 @@
+{
+    "name": "Kyle Powell",
+    "age": 9,
+    "address": {
+        "street": "Leah Divide",
+        "city": "Kellybury",
+        "state": "Tennessee",
+        "zip": "47587"
+    },
+    "contact": {
+        "phone": "+1-688-392-0934x9314",
+        "servicePhone": "800166883"
+    },
+    "birthday": "2016-19-09",
+    "ip": "201.141.124.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Cost apply practice rate understand. Ask Mrs stay positive recognize. Create son share support.\nList matter difficult next. Sit issue information effect community mean. Consumer sure food.",
+        "bio": "Trip floor anyone score however. Four this including sort.\nIndustry city hair movie. Could poor experience section effect.\nStation begin green finally again safe degree."
+    },
+    "currency": [
+        "BIF",
+        "Burundian franc"
+    ]
+}
