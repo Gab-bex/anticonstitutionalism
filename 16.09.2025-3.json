@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Moreno",
+    "age": 110,
+    "address": {
+        "street": "Janice Inlet",
+        "city": "West Elizabeth",
+        "state": "Wisconsin",
+        "zip": "29799"
+    },
+    "contact": {
+        "phone": "2924399146",
+        "servicePhone": "800685999"
+    },
+    "birthday": "1915-25-12",
+    "ip": "178.49.53.35",
+    "foo": "bar",
+    "profile": {
+        "about": "Anyone wide box evening party nothing worker. General share agency outside. Plan hope realize hair degree leg others.",
+        "bio": "Factor door billion civil chair voice fire. Town spring region short.\nWall history politics. Individual piece national capital article return. Him as mother sing usually generation left."
+    },
+    "currency": [
+        "BTN",
+        "Bhutanese ngultrum"
+    ]
+}
