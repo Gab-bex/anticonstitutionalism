@@ -1,0 +1,25 @@
+{
+    "name": "Laura Macdonald",
+    "age": 18,
+    "address": {
+        "street": "Pace Isle",
+        "city": "New Samuel",
+        "state": "South Dakota",
+        "zip": "76459"
+    },
+    "contact": {
+        "phone": "+1-940-421-5931x157",
+        "servicePhone": "800767296"
+    },
+    "birthday": "2007-05-05",
+    "ip": "133.172.184.41",
+    "foo": "bar",
+    "profile": {
+        "about": "Card coach senior water enjoy voice. Office direction skin tonight avoid town.",
+        "bio": "Economic cultural now everything Mr thus poor.\nGoal show certain see statement whole religious. Those where white reveal benefit degree admit."
+    },
+    "currency": [
+        "PGK",
+        "Papua New Guinean kina"
+    ]
+}
