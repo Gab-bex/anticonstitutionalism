@@ -1,0 +1,25 @@
+{
+    "name": "Randy Smith",
+    "age": 74,
+    "address": {
+        "street": "Brian Ford",
+        "city": "Grayfurt",
+        "state": "Oregon",
+        "zip": "91094"
+    },
+    "contact": {
+        "phone": "001-701-924-3144x6186",
+        "servicePhone": "800856201"
+    },
+    "birthday": "1951-15-04",
+    "ip": "60.93.161.147",
+    "foo": "bar",
+    "profile": {
+        "about": "Too happen firm role many month. Require of sense just church. Special sell late son.",
+        "bio": "Wind budget reflect local conference term. Animal certainly idea the.\nThis human quality because bill professional whom. Actually about air ok clearly. Us form field fear full."
+    },
+    "currency": [
+        "MOP",
+        "Macanese pataca"
+    ]
+}
