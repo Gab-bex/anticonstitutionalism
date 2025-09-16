@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Rivera",
+    "age": 31,
+    "address": {
+        "street": "Kyle Skyway",
+        "city": "South Andrea",
+        "state": "Pennsylvania",
+        "zip": "81127"
+    },
+    "contact": {
+        "phone": "(988)321-2705x8194",
+        "servicePhone": "800866468"
+    },
+    "birthday": "1994-26-11",
+    "ip": "118.188.106.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Per after chair eye see ball enter. Every trial certainly sea again article east.\nRoad face speak law with. Box Congress wait difference politics teach clear.",
+        "bio": "Common memory ready box break someone huge. Executive from performance anything drug note.\nBenefit thought game strategy growth. Somebody try tend. Leg as about film ok travel."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
