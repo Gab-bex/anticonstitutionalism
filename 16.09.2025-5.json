@@ -1,0 +1,25 @@
+{
+    "name": "James Nelson",
+    "age": 10,
+    "address": {
+        "street": "Rocha Locks",
+        "city": "East William",
+        "state": "Maine",
+        "zip": "98259"
+    },
+    "contact": {
+        "phone": "(437)621-6269x65434",
+        "servicePhone": "800318366"
+    },
+    "birthday": "2015-21-10",
+    "ip": "170.46.229.161",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution guess option newspaper player still without. Fight light quickly. Mrs challenge race worker have daughter.",
+        "bio": "By door herself style. Various usually world have.\nInterest cultural agent life hundred. Age purpose space. Pattern new song source car. Space human late line maybe your station fly."
+    },
+    "currency": [
+        "KZT",
+        "Kazakhstani tenge"
+    ]
+}
