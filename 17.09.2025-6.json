@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Mccall",
+    "age": 31,
+    "address": {
+        "street": "Baker Haven",
+        "city": "Williammouth",
+        "state": "Louisiana",
+        "zip": "61722"
+    },
+    "contact": {
+        "phone": "(912)609-8855x3006",
+        "servicePhone": "800745678"
+    },
+    "birthday": "1994-01-09",
+    "ip": "18.209.23.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea pattern card Mr my top arm. Oil important skill prevent wide.\nSuddenly create prove rather within. Quickly effort degree against avoid hope.",
+        "bio": "Hair rock represent environmental brother. Election guess television suddenly detail have. Apply present just difficult add my police right.\nHeart yard simply right."
+    },
+    "currency": [
+        "HRK",
+        "Croatian kuna"
+    ]
+}
