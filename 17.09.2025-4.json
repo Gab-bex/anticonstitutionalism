@@ -1,0 +1,25 @@
+{
+    "name": "Carla Odom",
+    "age": 37,
+    "address": {
+        "street": "Schneider Pass",
+        "city": "West Jeremyfurt",
+        "state": "New Hampshire",
+        "zip": "51971"
+    },
+    "contact": {
+        "phone": "5149982165",
+        "servicePhone": "800866461"
+    },
+    "birthday": "1988-03-08",
+    "ip": "208.89.220.195",
+    "foo": "bar",
+    "profile": {
+        "about": "Citizen success show fall benefit change factor. Build pass term. And fine nature.\nAudience have reflect popular surface step. Develop wrong agree tax wall. Wish eat often will.",
+        "bio": "Anyone six cold red. Mouth mean professor option law him thing. Especially attack industry brother still skin almost."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
