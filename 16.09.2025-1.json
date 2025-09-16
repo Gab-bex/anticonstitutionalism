@@ -1,0 +1,25 @@
+{
+    "name": "Jodi Garcia",
+    "age": 84,
+    "address": {
+        "street": "Brandon Centers",
+        "city": "West Brian",
+        "state": "Wyoming",
+        "zip": "65381"
+    },
+    "contact": {
+        "phone": "983-441-7946",
+        "servicePhone": "800941770"
+    },
+    "birthday": "1941-14-04",
+    "ip": "87.58.98.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Yes enough stay skill never data wind word. Couple voice sign safe conference article.",
+        "bio": "Once fine check top want once. Few every small wait land.\nAppear take senior bit land move. Cause billion own state because phone buy."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
