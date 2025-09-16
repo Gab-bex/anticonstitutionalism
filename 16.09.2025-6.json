@@ -1,0 +1,25 @@
+{
+    "name": "Brandi Burch",
+    "age": 53,
+    "address": {
+        "street": "Melissa Mission",
+        "city": "West Brianstad",
+        "state": "Oklahoma",
+        "zip": "68299"
+    },
+    "contact": {
+        "phone": "+1-926-302-7045x3349",
+        "servicePhone": "800593831"
+    },
+    "birthday": "1972-28-08",
+    "ip": "71.116.203.162",
+    "foo": "bar",
+    "profile": {
+        "about": "Hour finally your memory.\nFor push sport. Bed information fill million expect ability tell.\nOfficer night Mrs. Field important word book suggest federal alone. Cup area tough rule over yourself.",
+        "bio": "Away political better artist walk visit across nor. These husband lawyer bit write. Relate former approach third drive care debate perform."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
