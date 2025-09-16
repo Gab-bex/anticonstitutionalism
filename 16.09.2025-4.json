@@ -1,0 +1,25 @@
+{
+    "name": "Elizabeth Olson",
+    "age": 51,
+    "address": {
+        "street": "Megan Well",
+        "city": "New Stevenview",
+        "state": "Michigan",
+        "zip": "54485"
+    },
+    "contact": {
+        "phone": "762.465.2367x6512",
+        "servicePhone": "800005587"
+    },
+    "birthday": "1974-31-08",
+    "ip": "6.252.29.165",
+    "foo": "bar",
+    "profile": {
+        "about": "New seem church model. Quickly real force yet.\nFollow investment company wall small. My effort act member of building close. If toward interview start foot sure.",
+        "bio": "Nature range fear reach. Hold few forget. In avoid century national. Half read trade new something education short lose."
+    },
+    "currency": [
+        "ETB",
+        "Ethiopian birr"
+    ]
+}
