@@ -1,0 +1,25 @@
+{
+    "name": "Dylan Mendoza",
+    "age": 19,
+    "address": {
+        "street": "Hoffman View",
+        "city": "Port Katelyn",
+        "state": "Minnesota",
+        "zip": "79665"
+    },
+    "contact": {
+        "phone": "834.288.5806x43390",
+        "servicePhone": "800984616"
+    },
+    "birthday": "2006-21-01",
+    "ip": "107.151.64.27",
+    "foo": "bar",
+    "profile": {
+        "about": "Guy station start indicate consumer blue. Back student doctor response during picture style. Discuss according which down lose. Home tell listen under may teacher feeling.",
+        "bio": "No during person move to produce rock.\nEarly history turn early rise miss drive go. Occur expert economic about wrong home plant."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
