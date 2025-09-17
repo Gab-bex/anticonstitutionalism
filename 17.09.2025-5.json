@@ -1,0 +1,25 @@
+{
+    "name": "Heidi Holland",
+    "age": 13,
+    "address": {
+        "street": "Sean Fields",
+        "city": "West Alison",
+        "state": "Minnesota",
+        "zip": "82252"
+    },
+    "contact": {
+        "phone": "+1-965-742-7755x8509",
+        "servicePhone": "800893778"
+    },
+    "birthday": "2012-17-01",
+    "ip": "43.227.112.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Establish husband enter nation seven Congress. American carry parent state through can. Will as service I.\nDemocratic town artist what sell hit travel.",
+        "bio": "Rate would hotel decade option conference have. Or scene chair.\nFish over skill continue artist method buy check. Guy suffer clearly. No during specific free."
+    },
+    "currency": [
+        "GEL",
+        "Georgian lari"
+    ]
+}
