@@ -1,0 +1,25 @@
+{
+    "name": "Tony Wiggins",
+    "age": 4,
+    "address": {
+        "street": "Michael Falls",
+        "city": "Bishophaven",
+        "state": "Wyoming",
+        "zip": "21652"
+    },
+    "contact": {
+        "phone": "(909)709-0986",
+        "servicePhone": "800223211"
+    },
+    "birthday": "2021-22-01",
+    "ip": "219.143.50.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel tell me we step red. Tax worker public will. Fine establish past.\nTown claim star social send like. Pm conference however game. Total answer before cost chair.",
+        "bio": "Man option drug size community. Doctor car prepare throw team.\nSpeak computer appear impact. Wrong economy attack value ability director sea. Republican strategy worker project teacher."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
