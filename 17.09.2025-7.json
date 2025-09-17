@@ -1,0 +1,25 @@
+{
+    "name": "Joseph Olson",
+    "age": 45,
+    "address": {
+        "street": "James Freeway",
+        "city": "South Chase",
+        "state": "Michigan",
+        "zip": "46149"
+    },
+    "contact": {
+        "phone": "001-511-245-7363x76958",
+        "servicePhone": "800446245"
+    },
+    "birthday": "1980-31-01",
+    "ip": "109.200.184.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Institution skill include past something population. Enjoy itself actually sound manager. Away agent others build occur culture.\nBaby class guy picture issue outside team face. Race cost field.",
+        "bio": "Despite debate employee you design draw financial.\nComputer morning community. Control business discover second. Feeling southern point movement sign mission very."
+    },
+    "currency": [
+        "LTL",
+        "Lithuanian litas"
+    ]
+}
