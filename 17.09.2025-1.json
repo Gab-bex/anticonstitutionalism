@@ -1,0 +1,25 @@
+{
+    "name": "Paul Williams",
+    "age": 101,
+    "address": {
+        "street": "Soto Spring",
+        "city": "Port Nicholas",
+        "state": "Massachusetts",
+        "zip": "22308"
+    },
+    "contact": {
+        "phone": "(797)988-7043",
+        "servicePhone": "800631165"
+    },
+    "birthday": "1924-09-09",
+    "ip": "85.33.119.28",
+    "foo": "bar",
+    "profile": {
+        "about": "Bag explain head information around. Mention skin beat finish television include. Impact any couple remain although likely surface.",
+        "bio": "Agreement letter from road. How sit growth create.\nMay care miss road suddenly budget may. Game industry short site."
+    },
+    "currency": [
+        "BND",
+        "Brunei dollar"
+    ]
+}
