@@ -1,0 +1,25 @@
+{
+    "name": "Robin Vega",
+    "age": 83,
+    "address": {
+        "street": "Scott Dam",
+        "city": "Thomaston",
+        "state": "Maine",
+        "zip": "33845"
+    },
+    "contact": {
+        "phone": "(600)300-3945",
+        "servicePhone": "800806007"
+    },
+    "birthday": "1942-31-07",
+    "ip": "39.212.238.31",
+    "foo": "bar",
+    "profile": {
+        "about": "College cut firm certainly matter. Amount green most among season hotel. People rather add human perhaps question.\nRun tree assume entire. Manager call perhaps war story.",
+        "bio": "Improve research season ball today season. Including measure full really clear.\nPressure may southern its nature. Task itself member must your. Long culture social. Car recent leader summer smile."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
