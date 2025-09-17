@@ -1,0 +1,25 @@
+{
+    "name": "Heather Chen",
+    "age": 43,
+    "address": {
+        "street": "Good Port",
+        "city": "Deniseshire",
+        "state": "Oregon",
+        "zip": "15612"
+    },
+    "contact": {
+        "phone": "+1-320-954-8953x34808",
+        "servicePhone": "800085826"
+    },
+    "birthday": "1982-29-10",
+    "ip": "175.96.221.83",
+    "foo": "bar",
+    "profile": {
+        "about": "Travel tree doctor dark deal pressure various character. Catch eight cost away to enter. Least officer worry office store force total where.",
+        "bio": "For newspaper record rich specific. Claim either first decision quite how. Together bar production future continue environment.\nSize partner clear agent. None provide industry figure example."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
