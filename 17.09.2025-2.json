@@ -1,0 +1,25 @@
+{
+    "name": "Jerry Simmons",
+    "age": 78,
+    "address": {
+        "street": "Caroline Station",
+        "city": "North Shellystad",
+        "state": "Wyoming",
+        "zip": "27163"
+    },
+    "contact": {
+        "phone": "+1-779-551-7284x2493",
+        "servicePhone": "800343084"
+    },
+    "birthday": "1947-28-05",
+    "ip": "124.146.247.56",
+    "foo": "bar",
+    "profile": {
+        "about": "Become exactly water deal other serve player. Difficult girl notice leader treat. Able research too relationship bag.",
+        "bio": "Deal each peace late draw you. House money floor company must research assume.\nStrong we sometimes blood. Charge particularly Congress realize back require full."
+    },
+    "currency": [
+        "NIS",
+        "Israeli new shekel"
+    ]
+}
