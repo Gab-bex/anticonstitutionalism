@@ -1,0 +1,25 @@
+{
+    "name": "Rebecca Stewart",
+    "age": 82,
+    "address": {
+        "street": "Christopher Hill",
+        "city": "Garzamouth",
+        "state": "Oregon",
+        "zip": "69969"
+    },
+    "contact": {
+        "phone": "971.292.5111",
+        "servicePhone": "800049279"
+    },
+    "birthday": "1943-28-08",
+    "ip": "168.48.172.24",
+    "foo": "bar",
+    "profile": {
+        "about": "Fire final talk carry cover fear almost. Civil everything call. Owner size maintain force.",
+        "bio": "Control couple present ten above likely out. Reach report none.\nEconomy when line. Book language chair them."
+    },
+    "currency": [
+        "RUB",
+        "Russian ruble"
+    ]
+}
