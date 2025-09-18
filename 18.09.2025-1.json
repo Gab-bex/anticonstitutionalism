@@ -1,0 +1,25 @@
+{
+    "name": "Angel Sanchez",
+    "age": 85,
+    "address": {
+        "street": "Rodriguez Station",
+        "city": "Taraview",
+        "state": "Washington",
+        "zip": "81519"
+    },
+    "contact": {
+        "phone": "888-816-1637",
+        "servicePhone": "800987028"
+    },
+    "birthday": "1940-12-02",
+    "ip": "133.111.157.100",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening loss experience.\nTv watch purpose allow easy significant create. Tend she air. Parent school institution others peace cell everything. Fear gun matter film thing hotel far.",
+        "bio": "Heavy improve mind that. Current gun inside Democrat security. Gun star throw never half. Physical look memory project success arm.\nNation tough whom fear against admit skill. Prepare lawyer try."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
