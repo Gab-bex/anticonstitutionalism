@@ -1,0 +1,25 @@
+{
+    "name": "Greg Herrera",
+    "age": 31,
+    "address": {
+        "street": "Susan View",
+        "city": "Theresabury",
+        "state": "Maryland",
+        "zip": "90375"
+    },
+    "contact": {
+        "phone": "453-452-5767x543",
+        "servicePhone": "800257425"
+    },
+    "birthday": "1994-18-07",
+    "ip": "170.131.183.47",
+    "foo": "bar",
+    "profile": {
+        "about": "About center their involve number guy. Message financial article three education.\nPublic leg last speech throughout financial lot. Project lose person south. Herself never cell point.",
+        "bio": "Exist race less form blood reason. Win short south. Company conference along. Similar assume religious seek prove anything all huge."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
