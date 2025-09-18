@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Williamson",
+    "age": 31,
+    "address": {
+        "street": "Kristopher Park",
+        "city": "New Jimmouth",
+        "state": "Washington",
+        "zip": "53332"
+    },
+    "contact": {
+        "phone": "2687345245",
+        "servicePhone": "800946744"
+    },
+    "birthday": "1994-20-04",
+    "ip": "114.126.98.75",
+    "foo": "bar",
+    "profile": {
+        "about": "Claim loss style develop. Meeting strong both political three soldier about. Method same lot blood also tree drive.",
+        "bio": "Discuss growth campaign throughout sense account. Bed forward pass hundred attack loss agree. Series become well message upon real partner meet."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
