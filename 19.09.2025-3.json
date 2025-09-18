@@ -1,0 +1,25 @@
+{
+    "name": "Dale Rojas",
+    "age": 75,
+    "address": {
+        "street": "Scott Inlet",
+        "city": "Teresaport",
+        "state": "Ohio",
+        "zip": "71489"
+    },
+    "contact": {
+        "phone": "498.552.0694",
+        "servicePhone": "800843051"
+    },
+    "birthday": "1950-27-08",
+    "ip": "68.86.113.118",
+    "foo": "bar",
+    "profile": {
+        "about": "Career majority both reach. Serve practice whom might strong sometimes.\nWhole do ok soldier door before. Month away bar citizen.",
+        "bio": "Red according firm purpose next. Appear blood region forward cup bill.\nCommercial year southern top hundred whether effort. Level speak southern almost very fill carry."
+    },
+    "currency": [
+        "UZS",
+        "Uzbekistani soʻm"
+    ]
+}
