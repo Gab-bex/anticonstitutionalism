@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Shields",
+    "age": 11,
+    "address": {
+        "street": "Richards Park",
+        "city": "Ryanmouth",
+        "state": "Indiana",
+        "zip": "12366"
+    },
+    "contact": {
+        "phone": "481.392.0849x825",
+        "servicePhone": "800903969"
+    },
+    "birthday": "2014-23-07",
+    "ip": "86.147.97.66",
+    "foo": "bar",
+    "profile": {
+        "about": "Develop environmental near movie across occur. Include house realize election.\nConcern skin case evidence enter. Town near field yet. Age line shake matter.",
+        "bio": "Black both but. Ahead agent various campaign. Tonight treat they size form save always. Individual role buy draw.\nContain nothing party fill. Special business approach common song music."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
