@@ -1,0 +1,25 @@
+{
+    "name": "Patrick York",
+    "age": 1,
+    "address": {
+        "street": "Paul Glens",
+        "city": "North Thomas",
+        "state": "Idaho",
+        "zip": "08027"
+    },
+    "contact": {
+        "phone": "8659593626",
+        "servicePhone": "800850802"
+    },
+    "birthday": "2024-30-03",
+    "ip": "198.17.189.198",
+    "foo": "bar",
+    "profile": {
+        "about": "Can whom perform response. Field surface since from edge.\nNewspaper interview black. Her indeed save nature degree.\nBill family choice fish represent. Though live follow rest win defense sense.",
+        "bio": "Themselves hot generation ball ask world religious. Role action office car. Former itself goal Democrat follow rise data.\nResult ready table."
+    },
+    "currency": [
+        "MUR",
+        "Mauritian rupee"
+    ]
+}
