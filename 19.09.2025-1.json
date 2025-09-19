@@ -1,0 +1,25 @@
+{
+    "name": "Laura Walker",
+    "age": 88,
+    "address": {
+        "street": "Cody Station",
+        "city": "Darrylburgh",
+        "state": "New Hampshire",
+        "zip": "58602"
+    },
+    "contact": {
+        "phone": "9216846555",
+        "servicePhone": "800618117"
+    },
+    "birthday": "1937-01-02",
+    "ip": "139.73.45.240",
+    "foo": "bar",
+    "profile": {
+        "about": "Physical town interest move during hit. Because at such bag space.\nManager term view if. Nor strong reflect send. Tough seven police skill ok woman argue.",
+        "bio": "Middle head natural kitchen because program. Simple you which spend every American.\nCondition eat ten. Per since effort man run."
+    },
+    "currency": [
+        "RSD",
+        "Serbian dinar"
+    ]
+}
