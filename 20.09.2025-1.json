@@ -1,0 +1,25 @@
+{
+    "name": "Scott Gardner",
+    "age": 78,
+    "address": {
+        "street": "Brenda Valley",
+        "city": "Montgomeryport",
+        "state": "Tennessee",
+        "zip": "38776"
+    },
+    "contact": {
+        "phone": "827.943.2068x24685",
+        "servicePhone": "800976645"
+    },
+    "birthday": "1947-21-03",
+    "ip": "67.222.44.63",
+    "foo": "bar",
+    "profile": {
+        "about": "Evening popular talk several. List list tend culture discussion kind star identify. Network form relationship.\nBe whose despite method future treat next.\nLeg apply free. Why story future argue.",
+        "bio": "Door member show yard major officer say. Gun professional because. Improve people leave.\nEducation number various here artist scientist."
+    },
+    "currency": [
+        "JOD",
+        "Jordanian dinar"
+    ]
+}
