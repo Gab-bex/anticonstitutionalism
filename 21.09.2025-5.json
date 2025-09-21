@@ -1,0 +1,25 @@
+{
+    "name": "Taylor Cooper",
+    "age": 50,
+    "address": {
+        "street": "Jacqueline Overpass",
+        "city": "Lake Shannonshire",
+        "state": "Nevada",
+        "zip": "67349"
+    },
+    "contact": {
+        "phone": "877-794-1027",
+        "servicePhone": "800815271"
+    },
+    "birthday": "1975-15-05",
+    "ip": "9.79.223.6",
+    "foo": "bar",
+    "profile": {
+        "about": "Baby hospital professor trade about data dinner. Put stuff energy. Already not but surface system.\nEverything fight edge even clear.\nWish miss painting win job.",
+        "bio": "History clear recent exist what her. Allow class beat other. Memory want seem.\nProve economy station move.\nOwner this which employee sure. Activity range seek decade message."
+    },
+    "currency": [
+        "TTD",
+        "Trinidad and Tobago dollar"
+    ]
+}
