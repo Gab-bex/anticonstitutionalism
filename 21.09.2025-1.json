@@ -1,0 +1,25 @@
+{
+    "name": "Teresa Smith",
+    "age": 88,
+    "address": {
+        "street": "Paul Islands",
+        "city": "East Christinachester",
+        "state": "Michigan",
+        "zip": "53012"
+    },
+    "contact": {
+        "phone": "692-958-1536x3670",
+        "servicePhone": "800463460"
+    },
+    "birthday": "1937-18-04",
+    "ip": "65.75.126.247",
+    "foo": "bar",
+    "profile": {
+        "about": "Surface stock suggest myself happy these stand bring. Start else car husband. Reduce set head edge hold.\nCourt inside shake particular throughout. Side our learn fine system.",
+        "bio": "Development thousand share girl heart real. Fill much simple miss.\nLittle spring scientist as bring mention. Drop fish as involve can card structure."
+    },
+    "currency": [
+        "KHR",
+        "Cambodian riel"
+    ]
+}
