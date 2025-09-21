@@ -1,0 +1,25 @@
+{
+    "name": "Ryan Johnson",
+    "age": 2,
+    "address": {
+        "street": "Erin Shoal",
+        "city": "New Judithchester",
+        "state": "California",
+        "zip": "86826"
+    },
+    "contact": {
+        "phone": "910.208.1922x327",
+        "servicePhone": "800329135"
+    },
+    "birthday": "2023-20-07",
+    "ip": "190.184.41.5",
+    "foo": "bar",
+    "profile": {
+        "about": "Idea far Democrat newspaper financial. Body leader window couple discuss answer where.",
+        "bio": "Resource difference factor despite risk drop government body. Radio indeed stay. Catch ask body shake head answer hundred skin.\nAlso American sing. Act table year drive create shake loss."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
