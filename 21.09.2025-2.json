@@ -1,0 +1,25 @@
+{
+    "name": "Kendra Hughes",
+    "age": 13,
+    "address": {
+        "street": "Lopez River",
+        "city": "New Timothy",
+        "state": "Alabama",
+        "zip": "56142"
+    },
+    "contact": {
+        "phone": "475-961-5640x8394",
+        "servicePhone": "800295349"
+    },
+    "birthday": "2012-20-04",
+    "ip": "120.227.247.61",
+    "foo": "bar",
+    "profile": {
+        "about": "Range bad music stay study as son. Statement media happy training standard foot.\nFinal analysis too his.\nSpace production turn over interesting.",
+        "bio": "Charge result feeling science organization property. Kid model agency notice raise treat. Owner authority cover sense statement worry possible."
+    },
+    "currency": [
+        "RON",
+        "Romanian leu"
+    ]
+}
