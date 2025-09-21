@@ -1,0 +1,25 @@
+{
+    "name": "Jonathan Nguyen",
+    "age": 63,
+    "address": {
+        "street": "Stephanie Path",
+        "city": "Port Peter",
+        "state": "Michigan",
+        "zip": "65141"
+    },
+    "contact": {
+        "phone": "880-788-0583x030",
+        "servicePhone": "800371639"
+    },
+    "birthday": "1962-30-08",
+    "ip": "137.216.168.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Eye hear produce turn ask western suggest particular. Experience trip measure ahead successful thank. Feeling resource worker eat yes we.",
+        "bio": "Able detail there force. Watch artist time during. Senior security region painting base particular cut young. Letter performance stage brother."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
