@@ -1,0 +1,25 @@
+{
+    "name": "Mitchell Reeves",
+    "age": 98,
+    "address": {
+        "street": "Megan Well",
+        "city": "West Gregory",
+        "state": "Rhode Island",
+        "zip": "83077"
+    },
+    "contact": {
+        "phone": "575.813.8593x557",
+        "servicePhone": "800439656"
+    },
+    "birthday": "1927-25-12",
+    "ip": "141.97.30.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Dark eat attention short hotel. Throw final within practice her point. Close per improve who party area growth.",
+        "bio": "House same population grow policy. Area sell wide issue poor her.\nHusband he lead sister. Whose most establish. Good city run discover often or top."
+    },
+    "currency": [
+        "JMD",
+        "Jamaican dollar"
+    ]
+}
