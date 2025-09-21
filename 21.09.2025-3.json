@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Deleon",
+    "age": 61,
+    "address": {
+        "street": "Welch Pike",
+        "city": "Johnsonmouth",
+        "state": "North Carolina",
+        "zip": "13343"
+    },
+    "contact": {
+        "phone": "001-809-700-9129",
+        "servicePhone": "800068630"
+    },
+    "birthday": "1964-15-11",
+    "ip": "124.98.232.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Parent war life well. Cup company direction month order. Stay report respond staff pattern.\nSo situation act seek political goal treatment.",
+        "bio": "Turn but where play ability. Treatment upon keep some.\nDinner true reveal soldier you. Its child race edge condition class."
+    },
+    "currency": [
+        "PHP",
+        "Philippine peso"
+    ]
+}
