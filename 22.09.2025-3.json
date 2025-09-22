@@ -1,0 +1,25 @@
+{
+    "name": "Steve White",
+    "age": 40,
+    "address": {
+        "street": "Cynthia Vista",
+        "city": "Port Richardbury",
+        "state": "Iowa",
+        "zip": "79168"
+    },
+    "contact": {
+        "phone": "447-338-9417x457",
+        "servicePhone": "800521138"
+    },
+    "birthday": "1985-11-01",
+    "ip": "79.204.3.88",
+    "foo": "bar",
+    "profile": {
+        "about": "Them necessary office third east make majority although. Decade worry five simply indicate fact music these.",
+        "bio": "Pull report radio suddenly do. Six different first hear if face.\nCup down music movement machine force. Always possible full those. Community guess of."
+    },
+    "currency": [
+        "PLN",
+        "Polish zloty"
+    ]
+}
