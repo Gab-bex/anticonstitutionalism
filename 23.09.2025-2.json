@@ -1,0 +1,25 @@
+{
+    "name": "Casey Hurst",
+    "age": 77,
+    "address": {
+        "street": "Lopez Centers",
+        "city": "Jenniferbury",
+        "state": "Michigan",
+        "zip": "59611"
+    },
+    "contact": {
+        "phone": "001-378-500-1948x40796",
+        "servicePhone": "800953620"
+    },
+    "birthday": "1948-16-05",
+    "ip": "189.250.253.220",
+    "foo": "bar",
+    "profile": {
+        "about": "Benefit whatever great analysis involve. Right point unit model.\nTurn can north have then subject modern. Agency college step study car six.",
+        "bio": "Line make call nation one environmental direction recently. Industry trip include hair approach chair others. Face two glass alone.\nCarry tax seat your ground. Large professional note strong."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
