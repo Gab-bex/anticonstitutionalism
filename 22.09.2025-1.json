@@ -1,0 +1,25 @@
+{
+    "name": "Joshua Mayo",
+    "age": 59,
+    "address": {
+        "street": "Paul Fields",
+        "city": "Smithside",
+        "state": "North Dakota",
+        "zip": "96300"
+    },
+    "contact": {
+        "phone": "624.615.1935x603",
+        "servicePhone": "800459008"
+    },
+    "birthday": "1966-12-05",
+    "ip": "50.88.204.80",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue each able. Care treatment I likely artist they this.\nHard let able system professional focus people. Yard follow employee might late full.",
+        "bio": "Money side show party.\nIncrease artist defense Congress determine eye. Usually note however political.\nWord peace identify defense lose station easy century."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
