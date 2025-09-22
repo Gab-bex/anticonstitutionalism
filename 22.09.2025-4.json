@@ -1,0 +1,25 @@
+{
+    "name": "Jacqueline Hicks",
+    "age": 19,
+    "address": {
+        "street": "Teresa Prairie",
+        "city": "Watersstad",
+        "state": "California",
+        "zip": "26643"
+    },
+    "contact": {
+        "phone": "001-286-803-1037x58057",
+        "servicePhone": "800885799"
+    },
+    "birthday": "2006-07-10",
+    "ip": "187.241.113.255",
+    "foo": "bar",
+    "profile": {
+        "about": "Key environmental allow decision blue computer. Name dream mind day. Question however remember interesting agreement as phone several. Talk case agency especially smile.",
+        "bio": "Where ok great behind before peace interest. Service Democrat from vote.\nWell early here opportunity everybody oil. Mission development stuff fire open save really."
+    },
+    "currency": [
+        "IDR",
+        "Indonesian rupiah"
+    ]
+}
