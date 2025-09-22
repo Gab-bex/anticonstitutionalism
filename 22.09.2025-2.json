@@ -1,0 +1,25 @@
+{
+    "name": "George Brown",
+    "age": 42,
+    "address": {
+        "street": "Sherri Shoal",
+        "city": "Kellyshire",
+        "state": "Hawaii",
+        "zip": "13000"
+    },
+    "contact": {
+        "phone": "734-538-9027",
+        "servicePhone": "800768361"
+    },
+    "birthday": "1983-29-08",
+    "ip": "198.137.212.181",
+    "foo": "bar",
+    "profile": {
+        "about": "Face book nation we strategy. Peace remain customer.\nHot identify boy. Improve imagine main trial yourself.",
+        "bio": "Race research seem. With both life themselves ahead last. Plan reduce technology move talk use raise if.\nLook life price explain sure range. Wear meeting environment after however."
+    },
+    "currency": [
+        "QAR",
+        "Qatari riyal"
+    ]
+}
