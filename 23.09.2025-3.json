@@ -1,0 +1,25 @@
+{
+    "name": "Charles Hoffman",
+    "age": 108,
+    "address": {
+        "street": "John Street",
+        "city": "North Aimeeland",
+        "state": "Wisconsin",
+        "zip": "99508"
+    },
+    "contact": {
+        "phone": "552.745.8494x66281",
+        "servicePhone": "800852008"
+    },
+    "birthday": "1917-17-02",
+    "ip": "71.14.243.203",
+    "foo": "bar",
+    "profile": {
+        "about": "Soldier social even teach music. Stage record make entire hear little sense physical. Voice so news network purpose.",
+        "bio": "Agree share improve improve.\nMedical brother must according recognize politics nor sort. Still arm boy board."
+    },
+    "currency": [
+        "MVR",
+        "Maldivian rufiyaa"
+    ]
+}
