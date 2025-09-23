@@ -1,0 +1,25 @@
+{
+    "name": "Kevin Jackson",
+    "age": 75,
+    "address": {
+        "street": "Charles Course",
+        "city": "Lorifort",
+        "state": "Pennsylvania",
+        "zip": "76090"
+    },
+    "contact": {
+        "phone": "658-745-3354",
+        "servicePhone": "800675394"
+    },
+    "birthday": "1950-13-10",
+    "ip": "162.193.9.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Challenge feeling lead professor writer science several personal. Threat deep both from these job provide. Hotel party court realize.\nTrue maintain small. Stock determine Mrs glass.",
+        "bio": "Forward head agency top skin or rather. Big for the play reduce nice third work.\nWhich dog level kid seek now peace full. Vote serious behavior local."
+    },
+    "currency": [
+        "KRW",
+        "South Korean won"
+    ]
+}
