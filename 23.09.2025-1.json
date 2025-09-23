@@ -1,0 +1,25 @@
+{
+    "name": "Ruth Ochoa",
+    "age": 1,
+    "address": {
+        "street": "Maria Route",
+        "city": "Jenniferchester",
+        "state": "Minnesota",
+        "zip": "50212"
+    },
+    "contact": {
+        "phone": "001-767-723-9073x3152",
+        "servicePhone": "800697162"
+    },
+    "birthday": "2024-27-10",
+    "ip": "201.69.21.45",
+    "foo": "bar",
+    "profile": {
+        "about": "Goal air visit buy buy listen avoid. Change reveal central magazine everyone. World article unit.\nConsumer live themselves professor. Create morning concern level.\nWhy property hope forget you set.",
+        "bio": "Build inside this single lay either wide concern. Artist increase statement play.\nMeet strong provide under. Include nearly left."
+    },
+    "currency": [
+        "XCD",
+        "Eastern Caribbean dollar"
+    ]
+}
