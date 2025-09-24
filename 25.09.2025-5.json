@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Copeland",
+    "age": 78,
+    "address": {
+        "street": "Hayes Groves",
+        "city": "West Carmen",
+        "state": "Louisiana",
+        "zip": "09577"
+    },
+    "contact": {
+        "phone": "898-340-0542x307",
+        "servicePhone": "800173631"
+    },
+    "birthday": "1947-13-11",
+    "ip": "131.153.38.196",
+    "foo": "bar",
+    "profile": {
+        "about": "Deal discover thought but student box. Glass push challenge mouth decade spring about back.\nSpecial occur my individual drive former stand deep.",
+        "bio": "Provide attorney several senior scientist. Apply assume boy along.\nAble I finish from stuff draw second meet. Poor form American become."
+    },
+    "currency": [
+        "ZMW",
+        "Zambian kwacha"
+    ]
+}
