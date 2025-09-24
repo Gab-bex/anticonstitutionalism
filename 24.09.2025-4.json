@@ -1,0 +1,25 @@
+{
+    "name": "Juan Scott",
+    "age": 10,
+    "address": {
+        "street": "Miller Mountains",
+        "city": "Michellestad",
+        "state": "Louisiana",
+        "zip": "51531"
+    },
+    "contact": {
+        "phone": "535.724.2611",
+        "servicePhone": "800486764"
+    },
+    "birthday": "2015-25-05",
+    "ip": "82.107.190.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Short respond three whatever else why city build. Structure sell they either past upon stock.",
+        "bio": "Price or remain pass. People forget top near tell establish few.\nGarden theory above check account key animal. Republican mean image service office. Wish project arm large."
+    },
+    "currency": [
+        "EGP",
+        "Egyptian pound"
+    ]
+}
