@@ -1,0 +1,25 @@
+{
+    "name": "Bonnie Pope",
+    "age": 23,
+    "address": {
+        "street": "Smith Court",
+        "city": "Vanessaton",
+        "state": "Tennessee",
+        "zip": "49467"
+    },
+    "contact": {
+        "phone": "209.246.2571",
+        "servicePhone": "800933573"
+    },
+    "birthday": "2002-20-02",
+    "ip": "212.95.67.88",
+    "foo": "bar",
+    "profile": {
+        "about": "End usually word least wife law. Thought wind somebody result.\nClear understand everything I control. Today fly sometimes without section believe. Street same result treatment president success.",
+        "bio": "Paper price cause now cup among miss important. Also season lead can. Next bad step concern.\nOff spring beautiful somebody. Value one left education charge people."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
