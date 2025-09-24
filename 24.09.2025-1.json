@@ -1,0 +1,25 @@
+{
+    "name": "Ricardo Patrick",
+    "age": 14,
+    "address": {
+        "street": "Flores Radial",
+        "city": "East William",
+        "state": "Wyoming",
+        "zip": "59465"
+    },
+    "contact": {
+        "phone": "(366)975-5975",
+        "servicePhone": "800305724"
+    },
+    "birthday": "2011-09-09",
+    "ip": "66.87.178.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind figure quality store particularly around education like. Painting later matter one citizen. Expect he grow.\nBenefit including respond. Those particularly data early not share.",
+        "bio": "Onto hard leader after matter. Card mother factor record all. Do major mean.\nExist list forget return. Doctor use treat capital avoid energy. Team just information onto."
+    },
+    "currency": [
+        "LRD",
+        "Liberian dollar"
+    ]
+}
