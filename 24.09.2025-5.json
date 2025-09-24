@@ -1,0 +1,25 @@
+{
+    "name": "Colleen Medina",
+    "age": 48,
+    "address": {
+        "street": "Mcgee Islands",
+        "city": "Harrismouth",
+        "state": "Indiana",
+        "zip": "95511"
+    },
+    "contact": {
+        "phone": "378.447.3245x2113",
+        "servicePhone": "800843559"
+    },
+    "birthday": "1977-20-05",
+    "ip": "125.211.252.148",
+    "foo": "bar",
+    "profile": {
+        "about": "Marriage candidate trip. Without movement various. Us hope likely course.\nSide get industry know. Above Mrs tough democratic on about forget. Become federal country bad point.",
+        "bio": "Head want create simple. Hair word east check type. Once manager finish late reveal treatment rock question.\nGeneration share he goal. Early want create modern."
+    },
+    "currency": [
+        "KES",
+        "Kenyan shilling"
+    ]
+}
