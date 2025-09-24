@@ -1,0 +1,25 @@
+{
+    "name": "Jessica Martin",
+    "age": 14,
+    "address": {
+        "street": "Baker Points",
+        "city": "New Johnstad",
+        "state": "New Hampshire",
+        "zip": "59697"
+    },
+    "contact": {
+        "phone": "001-266-284-1905x26077",
+        "servicePhone": "800454420"
+    },
+    "birthday": "2011-26-01",
+    "ip": "30.252.241.251",
+    "foo": "bar",
+    "profile": {
+        "about": "Again all it stage customer force. Beat garden test imagine final.\nCharge goal miss hope. Born work lawyer expert so attention similar.",
+        "bio": "Beautiful significant police prepare answer safe.\nDecision growth prove listen. Claim share house.\nJoin total hour collection. Leave light pay practice half social magazine."
+    },
+    "currency": [
+        "VUV",
+        "Vanuatu vatu"
+    ]
+}
