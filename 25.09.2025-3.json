@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Smith",
+    "age": 61,
+    "address": {
+        "street": "Martinez Tunnel",
+        "city": "North James",
+        "state": "Tennessee",
+        "zip": "32934"
+    },
+    "contact": {
+        "phone": "984.600.8440",
+        "servicePhone": "800857469"
+    },
+    "birthday": "1964-26-09",
+    "ip": "90.215.104.133",
+    "foo": "bar",
+    "profile": {
+        "about": "Body score two industry us receive. Republican try Mrs seat nature force personal movement.",
+        "bio": "Treat news beyond. Owner stand protect. Same capital party director long program.\nOpportunity democratic today design garden age travel. Baby fund simply exist series you new tax."
+    },
+    "currency": [
+        "OMR",
+        "Omani rial"
+    ]
+}
