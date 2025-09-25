@@ -1,0 +1,25 @@
+{
+    "name": "Raymond Tucker",
+    "age": 100,
+    "address": {
+        "street": "Peterson Road",
+        "city": "Jenniferberg",
+        "state": "Minnesota",
+        "zip": "67349"
+    },
+    "contact": {
+        "phone": "+1-477-959-9615x522",
+        "servicePhone": "800933607"
+    },
+    "birthday": "1925-04-12",
+    "ip": "57.128.76.155",
+    "foo": "bar",
+    "profile": {
+        "about": "Out majority kitchen control century. Play various finally herself conference in board owner.\nConsider degree administration court minute civil reason. Half eat I situation.",
+        "bio": "Performance particular culture wait skin reduce ever. Generation believe air small success in. Admit side section have pattern concern cut. Everyone agree join clear population deep."
+    },
+    "currency": [
+        "NPR",
+        "Nepalese rupee"
+    ]
+}
