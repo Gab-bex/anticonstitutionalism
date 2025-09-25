@@ -1,0 +1,25 @@
+{
+    "name": "James Barrett",
+    "age": 40,
+    "address": {
+        "street": "Shawn Lodge",
+        "city": "Deanton",
+        "state": "Alabama",
+        "zip": "28486"
+    },
+    "contact": {
+        "phone": "001-940-212-6080",
+        "servicePhone": "800677714"
+    },
+    "birthday": "1985-09-12",
+    "ip": "156.53.18.214",
+    "foo": "bar",
+    "profile": {
+        "about": "Least ten building. Participant law strategy something employee. Prevent risk situation character.",
+        "bio": "Quickly billion professional hour rock say. Everybody century none attack.\nSurface one final exactly already benefit glass dream. New determine spend through arrive."
+    },
+    "currency": [
+        "CDF",
+        "Congolese franc"
+    ]
+}
