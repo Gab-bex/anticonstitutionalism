@@ -1,0 +1,25 @@
+{
+    "name": "Patricia Cole",
+    "age": 43,
+    "address": {
+        "street": "Mitchell Flat",
+        "city": "East Sandra",
+        "state": "North Carolina",
+        "zip": "94531"
+    },
+    "contact": {
+        "phone": "(704)745-2400x083",
+        "servicePhone": "800770727"
+    },
+    "birthday": "1982-02-09",
+    "ip": "87.161.35.26",
+    "foo": "bar",
+    "profile": {
+        "about": "Road sell part control structure week. Night hotel plant service call nation.\nDemocratic yeah piece piece. Son mean so small add attack. Partner situation spring standard easy more measure learn.",
+        "bio": "Decide lead until fast out. Firm white kind once local shoulder wife. Impact no air expert."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
