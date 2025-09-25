@@ -1,0 +1,25 @@
+{
+    "name": "Erika White",
+    "age": 20,
+    "address": {
+        "street": "Patricia Loop",
+        "city": "Bishopchester",
+        "state": "Montana",
+        "zip": "18726"
+    },
+    "contact": {
+        "phone": "759.868.5271x9872",
+        "servicePhone": "800122863"
+    },
+    "birthday": "2005-28-09",
+    "ip": "20.234.242.43",
+    "foo": "bar",
+    "profile": {
+        "about": "Easy weight dog statement. Social ball or glass. Record agency least few grow bed.\nOld range least house daughter. Hair talk range heart professional. While up activity its so travel recently.",
+        "bio": "Notice leg go food network kitchen. Rule dream vote herself treatment order crime."
+    },
+    "currency": [
+        "GMD",
+        "Gambian dalasi"
+    ]
+}
