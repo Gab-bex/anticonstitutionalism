@@ -1,0 +1,25 @@
+{
+    "name": "Matthew Olson",
+    "age": 73,
+    "address": {
+        "street": "Smith Haven",
+        "city": "New Eric",
+        "state": "New Mexico",
+        "zip": "75542"
+    },
+    "contact": {
+        "phone": "235.806.3730x7609",
+        "servicePhone": "800589901"
+    },
+    "birthday": "1952-19-01",
+    "ip": "7.24.121.38",
+    "foo": "bar",
+    "profile": {
+        "about": "Leg close political wonder building wide. Read four take.\nLevel determine body present woman. Example value eat happen feeling subject and. Run center each kitchen civil.",
+        "bio": "Visit six almost family Mr plan add rich. Set reality too according how enter. Until say step create home."
+    },
+    "currency": [
+        "SCR",
+        "Seychellois rupee"
+    ]
+}
