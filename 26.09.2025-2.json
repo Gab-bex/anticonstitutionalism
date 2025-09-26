@@ -1,0 +1,25 @@
+{
+    "name": "Paula Johnson",
+    "age": 107,
+    "address": {
+        "street": "Mcgee Port",
+        "city": "Port Jenniferport",
+        "state": "North Dakota",
+        "zip": "62169"
+    },
+    "contact": {
+        "phone": "+1-908-822-6889x2761",
+        "servicePhone": "800738954"
+    },
+    "birthday": "1918-08-11",
+    "ip": "129.30.44.119",
+    "foo": "bar",
+    "profile": {
+        "about": "Wonder for vote enough debate campaign become. Trip itself politics herself along despite fight save. Mission stay require threat conference.",
+        "bio": "Than woman arrive analysis challenge. Debate long charge form successful daughter. Option claim open itself tax."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
