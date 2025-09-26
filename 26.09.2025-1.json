@@ -1,0 +1,25 @@
+{
+    "name": "Brittany Brock",
+    "age": 1,
+    "address": {
+        "street": "Kelly Prairie",
+        "city": "Thompsonshire",
+        "state": "New Mexico",
+        "zip": "32663"
+    },
+    "contact": {
+        "phone": "2177913323",
+        "servicePhone": "800300772"
+    },
+    "birthday": "2024-02-05",
+    "ip": "90.92.197.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Bed a customer case. East public record from. Blue central yourself until many least boy.\nExecutive where store network pretty return wide. Employee hear edge hear participant.",
+        "bio": "Difficult six away beyond research. Reason capital detail market street us item attorney.\nProject those six hold want."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
