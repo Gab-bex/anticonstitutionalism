@@ -1,0 +1,25 @@
+{
+    "name": "Robert Lambert",
+    "age": 90,
+    "address": {
+        "street": "Lewis Fall",
+        "city": "North Sandra",
+        "state": "Wyoming",
+        "zip": "86886"
+    },
+    "contact": {
+        "phone": "+1-621-715-7665x8422",
+        "servicePhone": "800514675"
+    },
+    "birthday": "1935-09-12",
+    "ip": "111.130.113.68",
+    "foo": "bar",
+    "profile": {
+        "about": "Nation house it. Give leader stuff foot card heart put main.\nExactly share available contain season.\nModern owner together thus that society around. Sea many station resource.",
+        "bio": "Family goal agency short condition hear past room. Senior politics born possible pull such.\nImage necessary job. Three environmental clearly material activity peace have."
+    },
+    "currency": [
+        "GGP",
+        "Guernsey pound"
+    ]
+}
