@@ -1,0 +1,25 @@
+{
+    "name": "James Young",
+    "age": 89,
+    "address": {
+        "street": "Judith Greens",
+        "city": "East Jessica",
+        "state": "Wyoming",
+        "zip": "32026"
+    },
+    "contact": {
+        "phone": "867-372-4826x67581",
+        "servicePhone": "800266855"
+    },
+    "birthday": "1936-28-02",
+    "ip": "125.238.210.250",
+    "foo": "bar",
+    "profile": {
+        "about": "This turn three kid page now. Break keep admit population hot.\nParent increase speech during read money develop. Put for your model common worker.",
+        "bio": "Too there direction message surface action. Piece hospital series point lot small. Behind blue responsibility we central person price state."
+    },
+    "currency": [
+        "CLP",
+        "Chilean peso"
+    ]
+}
