@@ -1,0 +1,25 @@
+{
+    "name": "Richard Fox",
+    "age": 81,
+    "address": {
+        "street": "Stanley Circles",
+        "city": "Port Elizabethland",
+        "state": "Indiana",
+        "zip": "13579"
+    },
+    "contact": {
+        "phone": "318.931.8106",
+        "servicePhone": "800097821"
+    },
+    "birthday": "1944-16-04",
+    "ip": "84.179.14.168",
+    "foo": "bar",
+    "profile": {
+        "about": "Sell purpose amount state light policy write. Nearly million wife pressure down page pull indicate.",
+        "bio": "Cup term activity red lawyer life spend.\nPopulation laugh purpose case now. Weight perhaps carry general worker wear.\nFine difference team open. Trial series strong should able."
+    },
+    "currency": [
+        "KYD",
+        "Cayman Islands dollar"
+    ]
+}
