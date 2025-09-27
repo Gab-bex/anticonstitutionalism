@@ -1,0 +1,25 @@
+{
+    "name": "Margaret Mejia",
+    "age": 34,
+    "address": {
+        "street": "Ruiz Road",
+        "city": "North Amanda",
+        "state": "Alaska",
+        "zip": "44901"
+    },
+    "contact": {
+        "phone": "948.629.6931x6382",
+        "servicePhone": "800493708"
+    },
+    "birthday": "1991-14-06",
+    "ip": "117.154.226.197",
+    "foo": "bar",
+    "profile": {
+        "about": "Political explain contain claim kid two then. Amount pressure free so they deal although. Congress world their.",
+        "bio": "Return foreign already look assume improve. General fine and learn you.\nStand them clearly turn series character seat. Success cut something strategy environmental home. Similar seven teacher never."
+    },
+    "currency": [
+        "MNT",
+        "Mongolian tugrik"
+    ]
+}
