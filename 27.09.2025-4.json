@@ -1,0 +1,25 @@
+{
+    "name": "Cynthia Smith",
+    "age": 102,
+    "address": {
+        "street": "Davis Plaza",
+        "city": "Aaronview",
+        "state": "Idaho",
+        "zip": "93697"
+    },
+    "contact": {
+        "phone": "001-716-742-6441",
+        "servicePhone": "800580922"
+    },
+    "birthday": "1923-25-10",
+    "ip": "1.219.104.170",
+    "foo": "bar",
+    "profile": {
+        "about": "During really keep unit drug court. Shoulder finally education decision style let.\nRun class smile first. Fill expert necessary animal room yet. American century raise marriage.",
+        "bio": "Movement partner him agree ever. Answer worker nor accept audience yet strategy firm. American learn yet stay skin same news yeah."
+    },
+    "currency": [
+        "WST",
+        "Samoan tālā"
+    ]
+}
