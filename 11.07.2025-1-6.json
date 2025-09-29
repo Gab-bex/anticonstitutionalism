@@ -1,0 +1,25 @@
+{
+    "name": "Amber Wise",
+    "age": 61,
+    "address": {
+        "street": "Monica Skyway",
+        "city": "Banksborough",
+        "state": "North Dakota",
+        "zip": "12453"
+    },
+    "contact": {
+        "phone": "4832370560",
+        "servicePhone": "800301178"
+    },
+    "birthday": "1964-16-01",
+    "ip": "107.209.9.169",
+    "foo": "bar",
+    "profile": {
+        "about": "Science season series black hotel Mrs represent. Sea beautiful office vote. Become full start collection return share machine pretty.",
+        "bio": "Agent six yourself attention thousand rock edge. Remain what discover budget point nice single attention. Deep language market voice time."
+    },
+    "currency": [
+        "MRO",
+        "Mauritanian ouguiya"
+    ]
+}

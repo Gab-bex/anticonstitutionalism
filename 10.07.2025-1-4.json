@@ -1,0 +1,25 @@
+{
+    "name": "Dennis Clark",
+    "age": 95,
+    "address": {
+        "street": "Campbell Manors",
+        "city": "New Thomasborough",
+        "state": "Wyoming",
+        "zip": "22044"
+    },
+    "contact": {
+        "phone": "+1-265-241-6703",
+        "servicePhone": "800948828"
+    },
+    "birthday": "1930-17-10",
+    "ip": "37.20.151.109",
+    "foo": "bar",
+    "profile": {
+        "about": "Ahead left able view success war box. Start including make wonder. There she camera whatever share protect.",
+        "bio": "Issue market minute minute. Begin view attack seem.\nSimilar charge nor girl financial player receive two. What experience author. Throw eye surface."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}
