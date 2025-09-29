@@ -1,0 +1,25 @@
+{
+    "name": "Timothy Gallagher",
+    "age": 63,
+    "address": {
+        "street": "Courtney Cliffs",
+        "city": "West Matthew",
+        "state": "South Dakota",
+        "zip": "41931"
+    },
+    "contact": {
+        "phone": "377-598-9808",
+        "servicePhone": "800998817"
+    },
+    "birthday": "1962-06-06",
+    "ip": "200.67.239.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Course low specific property. Environment industry guess president case out. Traditional bill page dog second hard nature.",
+        "bio": "Already low time on art. Body point indicate boy ask allow career. Family bag student total industry.\nCause way usually lay rest. Social door seek program."
+    },
+    "currency": [
+        "ERN",
+        "Eritrean nakfa"
+    ]
+}

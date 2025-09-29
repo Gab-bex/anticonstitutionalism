@@ -1,0 +1,25 @@
+{
+    "name": "Brett Booth",
+    "age": 61,
+    "address": {
+        "street": "Patrick Squares",
+        "city": "Gonzalezville",
+        "state": "New Mexico",
+        "zip": "67847"
+    },
+    "contact": {
+        "phone": "236-980-9539x7396",
+        "servicePhone": "800933608"
+    },
+    "birthday": "1964-11-04",
+    "ip": "84.14.128.206",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil may particularly rate economy near. Agreement bed scene heavy news. Project western free own.",
+        "bio": "Central social way too. When accept clearly girl new try woman indicate. Peace entire happy level drug. Become measure necessary."
+    },
+    "currency": [
+        "HKD",
+        "Hong Kong dollar"
+    ]
+}
